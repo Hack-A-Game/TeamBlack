@@ -30,6 +30,7 @@ Recursos
 ### Varios
 
 * Personajes, iconos, mapa: http://opengameart.org/content/seven-kingdoms
+* Assets Unity gratuitos: https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=relevance/query=price:0&2D
 
 
 ### Música:
