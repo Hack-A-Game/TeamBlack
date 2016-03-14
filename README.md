@@ -10,3 +10,5 @@ Juego de estrategia para dos jugadores, al estilo tower defense. Un juego, o ron
 Acabados los turnos, las unidades se mueven hacía la base enemiga. Si llegan vivas, suman puntos al jugador atacante, con los que se obtiene la bandera del castillo enemigo.
 
 Si no gana nadie, se hace una nueva ronda pero cambiando los papeles de atacante y defensor.
+
+Alternativa: Al mejor de 3 rondas. Se intercambian los papeles, defensor/atacante, en cada ronda. El primero que gana 3 logra la victoria.  
