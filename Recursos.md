@@ -5,6 +5,8 @@ Recursos
 
 * Unidades varias (sin animación!): http://opengameart.org/content/lpc-medieval-fantasy-character-sprites
 
+* Unidades Arqueros: https://www.assetstore.unity3d.com/en/#!/content/18748 
+
 
 ### Efectos
 
@@ -30,6 +32,8 @@ Recursos
 ### Varios
 
 * Personajes, iconos, mapa: http://opengameart.org/content/seven-kingdoms
+
+* Assets Unity gratuitos: https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=relevance/query=price:0&2D
 
 
 ### Música:
@@ -69,10 +73,14 @@ Recursos
 
 (Swords)
 * http://freesound.org/people/LiamG_SFX/sounds/334238/ (CC-BY)
+
 * http://freesound.org/people/Black%20Snow/sounds/109429/ (CC-BY)
+
 * http://freesound.org/people/Taira%20Komori/sounds/213696/ (CC-BY)
+
 * http://freesound.org/people/Black%20Snow/sounds/109429/ (CC-BY)
 
 (Voices)
 * http://freesound.org/people/snaginneb/sounds/129346/ (CC-BY)
+
 * http://freesound.org/people/vmgraw/sounds/257709/ (CC-BY)
