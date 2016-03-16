@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 using UnityEngine.SceneManagement;
 
@@ -16,10 +17,10 @@ public class Controller : MonoBehaviour {
     private bool endTime;
     private Phases currentPhase;
 
-    public UnityEngine.UI.Button myButtonStart;
-    public UnityEngine.UI.Button myButtonPlayer1;
-    public UnityEngine.UI.Button myButtonPlayer2;
-    public UnityEngine.UI.Button myButtonRandom;
+    public Button myButtonStart;
+    public Button myButtonPlayer1;
+    public Button myButtonPlayer2;
+    public Button myButtonRandom;
     public static Controller controller;
     public static Map map;
 

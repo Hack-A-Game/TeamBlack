@@ -59,7 +59,7 @@ public class Movement : MonoBehaviour
             //return;
         }
 
-        if (!_unit.getIsAttacking())
+        if (!_unit.getIsAttacking() && movementType == MovementType.UNBOUNDED)
         {
             _position = Controller.map.ToGridPos(transform.position);
 
@@ -78,13 +78,14 @@ public class Movement : MonoBehaviour
             
             _rigidBody.velocity = _velocity * _unit.getSpeed() * Time.deltaTime;
         }
-        else
+        else if (_unit.getIsAttacking())
         {
             if (_unit.isInRange(_unit.range))
             {
-                _rigidBody.velocity = Vector3.zero;
+                Debug.Log(gameObject + " STOP");
+                _rigidBody.velocity = Vector2.zero;
             }
-            else
+            else if (_unit.getTarget())
             {
                 Vector2 direction = (_unit.getTarget().transform.position - transform.position).normalized;
                 _rigidBody.velocity = direction * _unit.getSpeed() * Time.deltaTime;
@@ -96,7 +97,7 @@ public class Movement : MonoBehaviour
     {
         if (!checkBounds())
         {
-            _unit.targetOutOfRange();            
+            //_unit.targetOutOfRange();            
         }
     }
 }
