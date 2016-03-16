@@ -30,6 +30,7 @@ GameObject:
   - 61: {fileID: 6191582}
   - 114: {fileID: 11493288}
   - 114: {fileID: 11487262}
+  - 114: {fileID: 11442640}
   m_Layer: 0
   m_Name: Orc
   m_TagString: Monster
@@ -181,6 +182,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Empty: {fileID: 163210}
   Full: {fileID: 174356}
+--- !u!114 &11442640
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 129266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d762658609251234883544b82e00cfcd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  unitName: 
 --- !u!114 &11487262
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -217,6 +230,7 @@ MonoBehaviour:
   encounterList: []
   range: 0
   bar: {fileID: 11434476}
+  canCapture: 0
   Dir: 0
 --- !u!212 &21211742
 SpriteRenderer:

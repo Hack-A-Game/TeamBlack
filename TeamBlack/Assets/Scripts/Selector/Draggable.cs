@@ -4,12 +4,14 @@ using System.Collections;
 public class Draggable : MonoBehaviour
 {
     private Vector3 _startPosition;
-
+    public string unitName;
+    private bool isSet;
 	// Use this for initialization
 	void Start()
     {
-	
-	}
+        isSet = false;
+
+    }
 	
 	// Update is called once per frame
 	void Update()
@@ -28,7 +30,14 @@ public class Draggable : MonoBehaviour
         if (pos.outOfBounds())
         {
             // TODO: UI WARNING!
-            transform.position = _startPosition;
+            if (!isSet)
+            {
+                Destroy(gameObject);
+            }
+            else
+            {
+                transform.position = _startPosition;
+            }
             return;
         }
 
@@ -36,13 +45,20 @@ public class Draggable : MonoBehaviour
         if (!Controller.map.hasFlag(pos, TileAtt.Passable))
         {
             // TODO: UI WARNING!
-            transform.position = _startPosition;
+            if (!isSet)
+            {
+                Destroy(gameObject);
+            }
+            else
+            {
+                transform.position = _startPosition;
+            }
             return;
         }
 
-        GameObject unit = GameObject.Instantiate(gameObject);
+        GameObject unit = gameObject;
         bool result;
-
+        isSet = true;
         if (Controller.controller.getCurrentPhase() == Controller.Phases.Attack)
         {
             result = Controller.controller.getPlayerAttack().addAttackUnit(unit.GetComponent<AttackUnits>());
@@ -50,15 +66,6 @@ public class Draggable : MonoBehaviour
         else
         {
             result = Controller.controller.getPlayerAttack().addDefendUnitUnit(unit.GetComponent<DefenseUnits>());
-        }
-
-        if (result)
-        {
-            Destroy(unit.GetComponent<Draggable>());
-        }
-        else
-        {
-            Destroy(unit);
         }
     }
 }
