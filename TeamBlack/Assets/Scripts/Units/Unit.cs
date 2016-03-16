@@ -171,4 +171,11 @@ public class Unit : MonoBehaviour {
             }
         }
     }
+
+    public void resetAttacking()
+    {
+        isAttacking = false;
+        target = null;
+        encounterList.RemoveAt(0);
+    }
 }
