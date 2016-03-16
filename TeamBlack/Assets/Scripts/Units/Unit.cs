@@ -16,6 +16,7 @@ public class Unit : MonoBehaviour {
     protected Unit target;
     public float range;
     public HPBar bar;
+    public bool canCapture = false;
 
     public void getAttacked(float damage)
     {
@@ -55,7 +56,7 @@ public class Unit : MonoBehaviour {
 
     public float getSpeed()
     {
-        return 50f; // Speed;
+        return Speed;
     }
     public virtual void Start() { }
     public virtual void Update()
@@ -132,6 +133,9 @@ public class Unit : MonoBehaviour {
             || (gameObject.tag == "Monster" && collision.gameObject.tag == "AttackUnit"))
         {
             Debug.Log(gameObject + " found " + collision.gameObject);
+            encounterList.Add(collision.gameObject.GetComponent<Unit>());
+        }else if (canCapture == true && collision.gameObject.tag=="Flag")
+        {
             encounterList.Add(collision.gameObject.GetComponent<Unit>());
         }
     }

@@ -12,11 +12,11 @@ public class Sword : AttackUnits
 
         mana = 10;
         //Dir = inDir;
-        HP = 20.0f;
+        HP = 15.0f;
         MAXHP = HP;
         Att = 20.0f;
         Def = 5.0f;
-        Speed = 75f;
+        Speed = 60f;
         AttSp = 1.0f;
         encounterList = new List<Unit>();
         range = 0.5f;

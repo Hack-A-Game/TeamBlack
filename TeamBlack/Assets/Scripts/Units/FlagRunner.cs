@@ -2,21 +2,23 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class Orc : DefenseUnits
-{
+public class NewBehaviourScript : Unit {
 
 	// Use this for initialization
 	public override void Start () {
         base.Start();
 
+        mana = 10;
+        //Dir = inDir;
         HP = 15.0f;
-        Att = 15.0f;
-        Def = 10.0f;
+        Att = 20.0f;
         MAXHP = HP;
-        AttSp = 0.5f;
-        mana = 5;
-        range = 0.5f;
-        Speed = 70f;
+        Def = 3.0f;
+        Speed = 120f;
+        AttSp = 0.05f;
         encounterList = new List<Unit>();
+        range = 1.5f;
+        canCapture = true;
     }
+	
 }
