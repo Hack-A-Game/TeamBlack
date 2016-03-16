@@ -15,7 +15,7 @@ public class Controller : MonoBehaviour {
     private Turns turnPlayer2;
     private float countdown = 30.0f;
     private bool endTime;
-    private Phases currentPhase;
+    private Phases currentPhase = Phases.Attack;
 
     public Button myButtonStart;
     public Button myButtonPlayer1;
@@ -54,7 +54,7 @@ public class Controller : MonoBehaviour {
         Screen.orientation = ScreenOrientation.LandscapeLeft;
         leftPanel = GameObject.Find("LeftPanel");
         rightPanel = GameObject.Find("RightPanel");
-
+        
         leftPanel.SetActive(true);
         rightPanel.SetActive(false);
     }
