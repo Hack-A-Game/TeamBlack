@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: d5aea29cb0bf14641a5a6726b588ec60
+timeCreated: 1458129126
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: monster_red2_0
+    21300002: monster_red2_1
+    21300004: monster_red2_2
+    21300006: monster_red2_3
+    21300008: monster_red2_4
+    21300010: monster_red2_5
+    21300012: monster_red2_6
+    21300014: monster_red2_7
+    21300016: monster_red2_8
+    21300018: monster_red2_9
+    21300020: monster_red2_10
+    21300022: monster_red2_11
+    21300024: monster_red2_12
+    21300026: monster_red2_13
+    21300028: monster_red2_14
+    21300030: monster_red2_15
+    21300032: monster_red2_16
+    21300034: monster_red2_17
+    21300036: monster_red2_18
+    21300038: monster_red2_19
+    21300040: monster_red2_20
+    21300042: monster_red2_21
+    21300044: monster_red2_22
+    21300046: monster_red2_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: monster_red2_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 641
+        width: 32
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5085075, y: 0.0667667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_red2_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 640
+        width: 28
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08217405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_red2_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 640
+        width: 39
+        height: 53
+      alignment: 9
+      pivot: {x: 0.63261217, y: 0.08217405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.936127, y: 47.88385}
+        - {x: -23.936127, y: 36.88385}
+        - {x: -23.936127, y: 2.88385}
+        - {x: -20.936127, y: -4.11615}
+        - {x: 14.063873, y: -4.11615}
+        - {x: 14.063873, y: 42.88385}
+        - {x: 4.0638733, y: 47.88385}
+    - name: monster_red2_3
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 640
+        width: 29
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08569336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_red2_4
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 640
+        width: 53
+        height: 54
+      alignment: 9
+      pivot: {x: 0.29456487, y: 0.08569336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.423584, y: 48.604675}
+        - {x: -15.423584, y: 43.604675}
+        - {x: -15.423584, y: -4.3953247}
+        - {x: 19.576416, y: -4.3953247}
+        - {x: 36.576416, y: 23.604675}
+        - {x: 36.576416, y: 48.604675}
+    - name: monster_red2_5
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 640
+        width: 58
+        height: 54
+      alignment: 9
+      pivot: {x: 0.26534298, y: 0.080652304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.15979, y: 32.86853}
+        - {x: -15.15979, y: 1.8685303}
+        - {x: -14.15979, y: -0.13146973}
+        - {x: -10.15979, y: -4.1314697}
+        - {x: 32.84021, y: -4.1314697}
+        - {x: 41.84021, y: 0.8685303}
+        - {x: 41.84021, y: 36.86853}
+        - {x: 14.84021, y: 48.86853}
+        - {x: -4.15979, y: 48.86853}
+        - {x: -13.15979, y: 43.86853}
+    - name: monster_red2_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 449
+        width: 39
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6869026, y: 0.053483494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.67749, y: 49.2023}
+        - {x: -25.67749, y: 18.202301}
+        - {x: -25.67749, y: 0.20230103}
+        - {x: -12.67749, y: -1.797699}
+        - {x: -11.67749, y: 1.202301}
+        - {x: -9.67749, y: 5.202301}
+        - {x: -9.67749, y: 0.20230103}
+        - {x: -8.67749, y: -2.797699}
+        - {x: 9.32251, y: -2.797699}
+        - {x: 13.32251, y: 1.202301}
+        - {x: 13.32251, y: 47.2023}
+        - {x: 12.32251, y: 49.2023}
+    - name: monster_red2_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 449
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.59748894, y: 0.055580888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_red2_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 449
+        width: 26
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5077867, y: 0.057303376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_red2_9
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 449
+        width: 36
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6237352, y: 0.053483494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.7925415, y: 49.2023}
+        - {x: -12.2074585, y: 49.2023}
+        - {x: -22.207458, y: 45.2023}
+        - {x: -22.207458, y: -0.797699}
+        - {x: -18.207458, y: -2.797699}
+        - {x: 9.7925415, y: -2.797699}
+        - {x: 13.7925415, y: 2.202301}
+        - {x: 13.7925415, y: 27.202301}
+        - {x: 9.7925415, y: 40.2023}
+    - name: monster_red2_10
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 449
+        width: 59
+        height: 53
+      alignment: 9
+      pivot: {x: 0.78141034, y: 0.053483494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.625061, y: 49.2023}
+        - {x: -21.625061, y: 46.2023}
+        - {x: -44.62506, y: 39.2023}
+        - {x: -44.62506, y: 24.202301}
+        - {x: -43.62506, y: 23.202301}
+        - {x: -16.625061, y: -2.797699}
+        - {x: 14.374939, y: -2.797699}
+        - {x: 14.374939, y: 49.2023}
+    - name: monster_red2_11
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 449
+        width: 47
+        height: 53
+      alignment: 9
+      pivot: {x: 0.7240172, y: 0.053483494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.0213013, y: 49.2023}
+        - {x: -12.978699, y: 49.2023}
+        - {x: -32.9787, y: 39.2023}
+        - {x: -32.9787, y: 25.202301}
+        - {x: -30.978699, y: 24.202301}
+        - {x: -13.978699, y: -0.797699}
+        - {x: -8.978699, y: -2.797699}
+        - {x: 11.021301, y: -2.797699}
+        - {x: 14.021301, y: 3.202301}
+        - {x: 14.021301, y: 33.2023}
+        - {x: 13.021301, y: 42.2023}
+    - name: monster_red2_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 257
+        width: 32
+        height: 55
+      alignment: 9
+      pivot: {x: 0.49302316, y: 0.040587824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_red2_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 257
+        width: 31
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5576093, y: 0.052764338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_red2_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 257
+        width: 43
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6868946, y: 0.06739145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.409332, y: 48.362747}
+        - {x: -10.590668, y: 48.362747}
+        - {x: -28.590668, y: 36.362747}
+        - {x: -28.590668, y: 5.362747}
+        - {x: -13.590668, y: -3.6372528}
+        - {x: 13.409332, y: -3.6372528}
+        - {x: 13.409332, y: 32.362747}
+        - {x: 12.409332, y: 37.362747}
+    - name: monster_red2_15
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 257
+        width: 32
+        height: 54
+      alignment: 9
+      pivot: {x: 0.54883194, y: 0.05787546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_red2_16
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 257
+        width: 52
+        height: 55
+      alignment: 9
+      pivot: {x: 0.27676392, y: 0.06899969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.786621, y: -3.8842468}
+        - {x: 38.21338, y: -3.8842468}
+        - {x: 38.21338, y: 22.115753}
+        - {x: 27.213379, y: 48.115753}
+        - {x: 20.213379, y: 50.115753}
+        - {x: -3.786621, y: 50.115753}
+        - {x: -13.786621, y: 40.115753}
+    - name: monster_red2_17
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 257
+        width: 62
+        height: 55
+      alignment: 9
+      pivot: {x: 0.24075809, y: 0.07305853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.197083, y: 22.899353}
+        - {x: 16.197083, y: 41.899353}
+        - {x: 6.1970825, y: 49.899353}
+        - {x: -3.8029175, y: 49.899353}
+        - {x: -13.8029175, y: 42.899353}
+        - {x: -14.8029175, y: 31.899353}
+        - {x: -14.8029175, y: -4.100647}
+        - {x: 17.197083, y: -4.100647}
+        - {x: 45.197083, y: 4.899353}
+        - {x: 46.197083, y: 6.899353}
+        - {x: 46.197083, y: 18.899353}
+    - name: monster_red2_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 65
+        width: 39
+        height: 53
+      alignment: 9
+      pivot: {x: 0.31489992, y: 0.060536653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.927704, y: -3.4100723}
+        - {x: 14.927704, y: -3.4100723}
+        - {x: 26.927704, y: -1.4100723}
+        - {x: 26.927704, y: 26.589928}
+        - {x: 8.927704, y: 48.589928}
+        - {x: -12.072296, y: 48.589928}
+        - {x: -12.072296, y: -3.4100723}
+        - {x: 9.927704, y: -3.4100723}
+        - {x: 10.927704, y: -1.4100723}
+        - {x: 10.927704, y: 2.5899277}
+        - {x: 11.927704, y: -1.4100723}
+    - name: monster_red2_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 65
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.41087738, y: 0.05897881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_red2_20
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 65
+        width: 26
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5154243, y: 0.056753196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_red2_21
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 65
+        width: 36
+        height: 53
+      alignment: 9
+      pivot: {x: 0.38302612, y: 0.052969735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.05188, y: 48.978706}
+        - {x: -13.05188, y: 31.978706}
+        - {x: -13.05188, y: 2.9787064}
+        - {x: -10.05188, y: -3.0212936}
+        - {x: 16.94812, y: -3.0212936}
+        - {x: 22.94812, y: 3.9787064}
+        - {x: 22.94812, y: 24.978706}
+        - {x: 12.94812, y: 48.978706}
+    - name: monster_red2_22
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 65
+        width: 59
+        height: 53
+      alignment: 9
+      pivot: {x: 0.2213052, y: 0.045402672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.400208, y: 39.367485}
+        - {x: 12.4002075, y: 49.367485}
+        - {x: -5.5997925, y: 49.367485}
+        - {x: -9.5997925, y: 40.367485}
+        - {x: -12.5997925, y: 26.367485}
+        - {x: -12.5997925, y: 1.367485}
+        - {x: -9.5997925, y: -2.632515}
+        - {x: 12.4002075, y: -2.632515}
+        - {x: 16.400208, y: -1.632515}
+        - {x: 45.400208, y: 22.367485}
+        - {x: 46.400208, y: 24.367485}
+        - {x: 46.400208, y: 36.367485}
+    - name: monster_red2_23
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 65
+        width: 47
+        height: 53
+      alignment: 9
+      pivot: {x: 0.27387643, y: 0.052969735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.387878, y: 48.978706}
+        - {x: -5.6121216, y: 48.978706}
+        - {x: -12.612122, y: 35.978706}
+        - {x: -12.612122, y: -3.0212936}
+        - {x: 20.387878, y: -3.0212936}
+        - {x: 33.38788, y: 24.978706}
+        - {x: 33.38788, y: 36.978706}
+        - {x: 27.387878, y: 40.978706}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
