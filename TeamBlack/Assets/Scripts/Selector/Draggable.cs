@@ -57,6 +57,7 @@ public class Draggable : MonoBehaviour
         }
 
         GameObject unit = gameObject;
+        GetComponent<Collider2D>().enabled = true;
         bool result;
         if (!isSet && Controller.controller.getCurrentPhase() == Controller.Phases.Attack)
         {
