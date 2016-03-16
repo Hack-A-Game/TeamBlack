@@ -3,11 +3,11 @@ using System.Collections;
 
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(Collider2D))]
-public class Movement : MonoBehaviour {
-
+public class Movement : MonoBehaviour
+{
     private Rigidbody2D _rigidBody;
     private Collider2D _collider;
-    private Vector2 _velocity = Vector2.right;
+    private Vector2 _velocity = Vector2.zero;
     private float _multiplier = 1.0f;
 
     // Use this for initialization
