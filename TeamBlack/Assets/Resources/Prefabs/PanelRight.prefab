@@ -323,7 +323,7 @@ GameObject:
   - 114: {fileID: 11436956}
   - 114: {fileID: 11407706}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: PanelRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -533,7 +533,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300032, guid: 5373d8886dbef1544921d4c133d6cd9b, type: 3}
+  m_Sprite: {fileID: 21300090, guid: 5374689c1aad4a5488dc897ea9ded8e5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -979,7 +979,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300032, guid: 2ef6f4b04b7b1cf45931835fc4424afc, type: 3}
+  m_Sprite: {fileID: 21300238, guid: 5cb48cb28b7c5dd42bc7316490a58e84, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -998,7 +998,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d762658609251234883544b82e00cfcd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: Soldier
+  unitName: Orc
 --- !u!114 &11436956
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1301,7 +1301,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300036, guid: 192e5e9b1db3b3e4f823a0e248695230, type: 3}
+  m_Sprite: {fileID: 21300300, guid: b94ceda111162af428cb1b7d4a86e2c1, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1320,7 +1320,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d762658609251234883544b82e00cfcd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: Archer
+  unitName: Monster
 --- !u!114 &11470192
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1482,7 +1482,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d762658609251234883544b82e00cfcd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  unitName: Rogue
+  unitName: Skeleton
 --- !u!114 &11478856
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1996,7 +1996,7 @@ RectTransform:
   m_RootOrder: 0
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -352, y: 0}
+  m_AnchoredPosition: {x: -145, y: 0}
   m_SizeDelta: {x: -703, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &22445304
