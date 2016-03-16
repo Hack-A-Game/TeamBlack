@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class Golem : Unit {
 
@@ -10,21 +11,28 @@ public class Golem : Unit {
         Def = 10.0f;
         AttSp = 2.0f;
         mana = 5;
+        encounterList = new List<Unit>();
 
     }
 
     // Update is called once per frame
     public override void Update()
     {
+        if (getHP() <= 0)
+        {
+            Destroy(this);
+        }
 
-
-        if (Attacking != null)
+        if (encounterList[0] != null)
         {
             countdown -= Time.deltaTime;
-            if (Attacking.getHP() > 0 && countdown <= 0.0f)
+            if (encounterList[0].getHP() > 0 && countdown <= 0.0f)
             {
-                Attacking.getAttacked(Att);
+                encounterList[0].getAttacked(Att);
                 countdown = AttSp;
+            } else if(encounterList[0].getHP() <= 0)
+            {
+                encounterList.RemoveAt(0);
             }
 
         }
@@ -34,7 +42,8 @@ public class Golem : Unit {
     {
         if (coll.gameObject.tag == "AttackUnit")
         {
-            Attacking = coll.gameObject.GetComponent<Unit>();
+            //Attacking = coll.gameObject.GetComponent<Unit>();
+            encounterList.Add(coll.gameObject.GetComponent<Unit>());
         }
 
 
