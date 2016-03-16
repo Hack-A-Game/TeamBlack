@@ -7,13 +7,14 @@ public class Map : MonoBehaviour {
     private const float TILEHEIGHT = 0.64f;
     public const uint GRIDSIZEX = 15;
     public const uint GRIDSIZEY = 10;
-    Camera _cam;
+
     public Vector2 startPos;
 
     private TileAtt[,] _grid= new TileAtt[GRIDSIZEX,GRIDSIZEY];
     public void Start()
     {
-        //TODO: set startPos by map
+        Vector3 minPoint = GetComponent<SpriteRenderer>().bounds.min;
+        startPos = new Vector2(minPoint.x,minPoint.y);
         for(uint x = 0; x < GRIDSIZEX; x++)
         {
             for(uint y = 0; y < GRIDSIZEY; y++)
@@ -33,8 +34,7 @@ public class Map : MonoBehaviour {
     }
     private bool hasFlag(gridPos p, TileAtt t)
     {
-        //return _grid[p.x, p.y].HasFlag(t);
-        return true;
+        return (_grid[p.x, p.y] & t) == t;
     }
     private bool canMove(gridPos p,Direction d,TileAtt flag)
     {
