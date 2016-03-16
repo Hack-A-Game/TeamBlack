@@ -7,7 +7,7 @@ public class Controller : MonoBehaviour {
     private Player _player1;
     private Player _player2;
     private bool _startplayer1Attack;
-    private Map _mapa;
+    
     private bool _gamePause;
     enum TurnPlayer1 { Attack, Defense };
     enum TurnPlayer2 { Attack, Defense };
@@ -17,6 +17,9 @@ public class Controller : MonoBehaviour {
     private float countdown = 30.0f;
     private bool endTime;
 
+    public static Controller controller;
+    public static Map map;
+
     // Use this for initialization
     void Start () {
         _player1 = new Player();
@@ -24,6 +27,8 @@ public class Controller : MonoBehaviour {
         _gamePause = false;
         endTime = false;
 
+        controller = this;
+        map = GameObject.Find("GameController").GetComponent<Map>();
 	}
 
     void Update()

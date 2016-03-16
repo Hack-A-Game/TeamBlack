@@ -24,6 +24,11 @@ public class Map : MonoBehaviour {
         }
     }
 
+    public gridPos ToGridPos(Vector2 pos)
+    {
+        return new gridPos((int)(pos.x / GRIDSIZEX), (int)(pos.y / GRIDSIZEY));
+    }
+
     public bool UnitCanMove(gridPos p, Direction d)
     {
         return canMove(p, d,TileAtt.Passable);
@@ -32,7 +37,7 @@ public class Map : MonoBehaviour {
     {
         return new Vector3(startPos.x+ x * TILEWIDTH, startPos.y + y * TILEHEIGHT, 0);
     }
-    private bool hasFlag(gridPos p, TileAtt t)
+    public bool hasFlag(gridPos p, TileAtt t)
     {
         return (_grid[p.x, p.y] & t) == t;
     }

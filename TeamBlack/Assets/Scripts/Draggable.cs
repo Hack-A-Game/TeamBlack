@@ -24,8 +24,17 @@ public class Draggable : MonoBehaviour
 
     public void DragEnd()
     {
-        // if (!map.isValidPosition(_startPosition)
+        gridPos pos = Controller.map.ToGridPos(transform.position);
+        if (pos.outOfBounds())
         {
+            // TODO: UI WARNING!
+            transform.position = _startPosition;
+        }
+
+        // FIXME: Towers are canBuild
+        if (!Controller.map.hasFlag(pos, TileAtt.Passable))
+        {
+            // TODO: UI WARNING!
             transform.position = _startPosition;
         }
     }
