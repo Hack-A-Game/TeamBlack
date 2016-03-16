@@ -24,6 +24,9 @@ public class Controller : MonoBehaviour {
     public static Controller controller;
     public static Map map;
 
+    private GameObject leftPanel;
+    private GameObject rightPanel;
+
     // Use this for initialization
     void Start () {
         _player1 = new Player();
@@ -45,8 +48,34 @@ public class Controller : MonoBehaviour {
         DontDestroyOnLoad(transform.gameObject);
 
         controller = this;
+
         map = GameObject.Find("Map").GetComponent<Map>();
         Screen.orientation = ScreenOrientation.LandscapeLeft;
+        leftPanel = GameObject.Find("LeftPanel");
+        rightPanel = GameObject.Find("RightPanel");
+
+        leftPanel.SetActive(true);
+        rightPanel.SetActive(false);
+    }
+
+    public void OnLevelWasLoaded(int level)
+    {
+        if (Application.loadedLevelName == "GamePlay")
+        {
+            if (!map)
+            {
+                map = GameObject.Find("Map").GetComponent<Map>();
+            }
+
+            if (!leftPanel)
+            {
+                leftPanel = GameObject.Find("LeftPanel");
+                rightPanel = GameObject.Find("RightPanel");
+
+                leftPanel.SetActive(true);
+                rightPanel.SetActive(false);
+            }
+        }
     }
 
     void Update()
@@ -120,11 +149,26 @@ public class Controller : MonoBehaviour {
     public void changePhase()
     {
         if (currentPhase == Phases.Attack)
+        {
             currentPhase = Phases.Defense;
+
+            leftPanel.SetActive(false);
+            rightPanel.SetActive(true);
+        }
         else if (currentPhase == Phases.Defense)
+        {
             currentPhase = Phases.InGame;
+
+            leftPanel.SetActive(false);
+            rightPanel.SetActive(false);
+        }
         else
+        {
             currentPhase = Phases.Attack;
+
+            leftPanel.SetActive(true);
+            rightPanel.SetActive(false);
+        }
     }
 
     public void loadScene (string nameScene)
