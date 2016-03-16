@@ -15,7 +15,10 @@ public class NextTurn : MonoBehaviour {
 
     public void DefensePhase()
     {
-        Controller.controller.changePhase();
+        if (Controller.controller.getPlayerAttack().countAttackUnits() > 0)
+        {
+            Controller.controller.changePhase();
+        }
     }
 
     public void GamePhase()

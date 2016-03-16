@@ -161,8 +161,6 @@ public class Controller : MonoBehaviour {
         }
         else
         {
-            leftPanel.SetActive(true);
-            rightPanel.SetActive(true);
             currentPhase = Phases.Attack;
         }
     }
