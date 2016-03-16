@@ -7,13 +7,14 @@ public class Controller : MonoBehaviour {
     private Player _player1;
     private Player _player2;
     private bool _gamePause;
-    public enum TurnPlayer1 { Attack, Defense };
-    public enum TurnPlayer2 { Attack, Defense };
+    public enum Turns { Attack, Defense };
+    public enum Phases { Attack, Defense, InGame };
     enum MenuScreen { Menu, Game, Options};
-    private TurnPlayer1 turnPlayer1;
-    private TurnPlayer2 turnPlayer2;
+    private Turns turnPlayer1;
+    private Turns turnPlayer2;
     private float countdown = 30.0f;
     private bool endTime;
+    private Phases currentPhase;
 
     public UnityEngine.UI.Button myButtonStart;
     public UnityEngine.UI.Button myButtonPlayer1;
@@ -53,31 +54,30 @@ public class Controller : MonoBehaviour {
         if (countdown <= 0.0f)
             endTime = true;
 
-
         if (Input.GetKeyDown(KeyCode.Escape))
             Application.Quit();
     }
 
-    public void defineTurn(TurnPlayer1 p1, TurnPlayer2 p2){
-        turnPlayer1 = TurnPlayer1.Defense;
-        turnPlayer2 = TurnPlayer2.Attack;
+    public void defineTurn(Turns p1, Turns p2){
+        turnPlayer1 = Turns.Defense;
+        turnPlayer2 = Turns.Attack;
     }
 
     public void changeTurn() {
-        if (turnPlayer1 == TurnPlayer1.Attack)
+        if (turnPlayer1 == Turns.Attack)
         {
-            turnPlayer1 = TurnPlayer1.Defense;
-            turnPlayer2 = TurnPlayer2.Attack;
+            turnPlayer1 = Turns.Defense;
+            turnPlayer2 = Turns.Attack;
         }
         else
         {
-            turnPlayer1 = TurnPlayer1.Attack;
-            turnPlayer2 = TurnPlayer2.Defense;
+            turnPlayer1 = Turns.Attack;
+            turnPlayer2 = Turns.Defense;
         }
     }
 
     public Player getPlayerAttack(){
-        if (turnPlayer1 == TurnPlayer1.Attack)
+        if (turnPlayer1 == Turns.Attack)
         {
             return _player1;
         }
@@ -89,7 +89,7 @@ public class Controller : MonoBehaviour {
 
     public Player getPlayerDefense()
     {
-        if (turnPlayer1 == TurnPlayer1.Defense)
+        if (turnPlayer1 == Turns.Defense)
         {
             return _player1;
         }
@@ -97,6 +97,21 @@ public class Controller : MonoBehaviour {
         {
             return _player2;
         }
+    }
+
+    public Phases getCurrentPhase()
+    {
+        return currentPhase;
+    }
+
+    public void changePhase()
+    {
+        if (currentPhase == Phases.Attack)
+            currentPhase = Phases.Defense;
+        else if (currentPhase == Phases.Defense)
+            currentPhase = Phases.InGame;
+        else
+            currentPhase = Phases.Attack;
     }
 
     public void loadScene (string nameScene)
@@ -123,16 +138,18 @@ public class Controller : MonoBehaviour {
         Debug.Log(choice);
         if (choice.Equals("p1"))
         {
-            defineTurn(TurnPlayer1.Defense, TurnPlayer2.Attack);
+            defineTurn(Turns.Defense, Turns.Attack);
         }
         else if (choice.Equals("p2"))
         {
-            defineTurn(TurnPlayer1.Attack, TurnPlayer2.Defense);
+            defineTurn(Turns.Attack, Turns.Defense);
         }
         else if (choice.Equals("p3"))
         {
-            defineTurn(TurnPlayer1.Defense, TurnPlayer2.Attack);
+            defineTurn(Turns.Defense, Turns.Attack);
         }
+
+        currentPhase = Phases.Attack;
         loadScene("GamePlay");
     }
 

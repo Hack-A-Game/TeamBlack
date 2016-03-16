@@ -52,6 +52,11 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update ()
     {
+        if (Controller.controller.getCurrentPhase() != Controller.Phases.InGame)
+        {
+            return;
+        }
+
         if (!_unit.getIsAttacking())
         {
             _position = Controller.map.ToGridPos(transform.position);
