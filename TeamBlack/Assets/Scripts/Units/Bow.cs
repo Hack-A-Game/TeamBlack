@@ -11,10 +11,10 @@ public class Bow : AttackUnits
         mana = 10;
         //Dir = inDir;
         HP = 150.0f;
-        Att = 200.0f;
+        Att = 50.0f;
         Def = 3.0f;
         Speed = 0.3f;
-        AttSp = 0.05f;
+        AttSp = 0.5f;
         encounterList = new List<Unit>();
         range = 4;
     }

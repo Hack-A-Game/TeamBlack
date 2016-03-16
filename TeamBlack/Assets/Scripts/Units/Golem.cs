@@ -7,9 +7,9 @@ public class Golem : DefenseUnits {
 	// Use this for initialization
 	public override void Start () {
         HP = 250.0f;
-        Att = 250.0f;
+        Att = 50.0f;
         Def = 10.0f;
-        AttSp = 2.0f;
+        AttSp = 0.5f;
         mana = 5;
         range = 4;
         encounterList = new List<Unit>();
@@ -32,9 +32,6 @@ public class Golem : DefenseUnits {
             {
                 target = encounterList[0];
             }
-
-            Debug.Log(target);
-            Debug.Log(isInRange(range));
             if (isInRange(range) && target.getHP() > 0 && countdown <= 0.0f)
             {
                 target.getAttacked(Att);
