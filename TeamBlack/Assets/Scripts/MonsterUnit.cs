@@ -17,7 +17,7 @@ public class MonsterUnit : Unit {
             HP = 150;
             Att = 20;
             Def = 5;
-            AttSp = 1.2;
+            AttSp = 1.2f;
         } else { //golem?
             HP = 250;
             Att = 25;
