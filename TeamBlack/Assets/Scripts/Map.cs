@@ -5,7 +5,7 @@ using System;
 public class Map : MonoBehaviour {
     private const float TILEWIDTH= 0.64f;
     private const float TILEHEIGHT = 0.64f;
-    public const uint GRIDSIZEX = 20;
+    public const uint GRIDSIZEX = 40;
     public const uint GRIDSIZEY = 10;
 
     public Vector2 startPos;

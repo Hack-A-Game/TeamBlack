@@ -74,8 +74,13 @@ public class Unit : MonoBehaviour {
 
     public bool isInRange(float range)
     {
-        float dist = Vector3.Distance(target.transform.position, transform.position);
-        return dist < range;
+        if (target)
+        {
+            float dist = Vector3.Distance(target.transform.position, transform.position);
+            return dist < range;
+        }
+
+        return false;
     }
 
 }

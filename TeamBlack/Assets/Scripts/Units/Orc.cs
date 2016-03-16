@@ -12,7 +12,8 @@ public class Orc : DefenseUnits
         Def = 5.0f;
         AttSp = 1.2f;
         mana = 2;
-        range = 4f;
+        range = 1.5f;
+        Speed = 140f;
         encounterList = new List<Unit>();
     }
 
