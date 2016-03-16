@@ -8,7 +8,6 @@ public class Castle : MonoBehaviour
     
     private Rigidbody2D rb2d;
     private BoxCollider2D bc2d;
-    private AudioSource audioSource;
     private Player player;
 
     // Use this for initialization
@@ -16,7 +15,6 @@ public class Castle : MonoBehaviour
     {
         rb2d = GetComponent<Rigidbody2D>();
         bc2d = GetComponent<BoxCollider2D>();
-        audioSource = GetComponent<AudioSource>();
         player = GetComponent<Player>();
         hits = 0;
     }
@@ -36,7 +34,6 @@ public class Castle : MonoBehaviour
             Debug.Log("> 2Colision Monster - Castle", gameObject);
             player.points++;
             hits++;
-            audioSource.Play();
         }
     }
 

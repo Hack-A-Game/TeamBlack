@@ -18,11 +18,18 @@ public class Unit : MonoBehaviour {
     public HPBar bar;
     public bool canCapture = false;
 
+    public void OnDestroy()
+    {
+        if (gameObject.tag == "AttackUnit")
+        {
+            Controller.controller.getPlayerAttack().removeAttackUnity((AttackUnits)this);
+        }
+    }
+
     public void getAttacked(float damage)
     {
         
         HP -= damage / Def;
-        
     }
 
     public bool getIsAttacking()
