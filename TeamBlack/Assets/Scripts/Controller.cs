@@ -39,4 +39,27 @@ public class Controller : MonoBehaviour {
         }
     }
 
+    public Player getTurnAttack(){
+        if (turnPlayer1 == TurnPlayer1.Attack)
+        {
+            return _player1;
+        }
+        else
+        {
+            return _player2;
+        }
+    }
+
+    public Player getTurnDefense()
+    {
+        if (turnPlayer1 == TurnPlayer1.Defense)
+        {
+            return _player1;
+        }
+        else
+        {
+            return _player2;
+        }
+    }
+
 }
