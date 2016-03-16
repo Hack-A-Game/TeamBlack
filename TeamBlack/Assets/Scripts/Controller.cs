@@ -46,7 +46,7 @@ public class Controller : MonoBehaviour {
             
         }
 
-        DontDestroyOnLoad(transform.gameObject);
+        //DontDestroyOnLoad(transform.gameObject);
 
         controller = this;
 
@@ -59,25 +59,21 @@ public class Controller : MonoBehaviour {
         rightPanel.SetActive(false);
     }
 
+    /*
     public void OnLevelWasLoaded(int level)
     {
         if (Application.loadedLevelName == "GamePlay")
         {
-            if (!map)
-            {
-                map = GameObject.Find("Map").GetComponent<Map>();
-            }
+            map = GameObject.Find("Map").GetComponent<Map>();
 
-            if (!leftPanel)
-            {
-                leftPanel = GameObject.Find("LeftPanel");
-                rightPanel = GameObject.Find("RightPanel");
+            leftPanel = GameObject.Find("LeftPanel");
+            rightPanel = GameObject.Find("RightPanel");
 
-                leftPanel.SetActive(true);
-                rightPanel.SetActive(false);
-            }
+            leftPanel.SetActive(true);
+            rightPanel.SetActive(false);
         }
     }
+    */
 
     void Update()
     {
@@ -165,10 +161,9 @@ public class Controller : MonoBehaviour {
         }
         else
         {
-            currentPhase = Phases.Attack;
-
             leftPanel.SetActive(true);
-            rightPanel.SetActive(false);
+            rightPanel.SetActive(true);
+            currentPhase = Phases.Attack;
         }
     }
 
