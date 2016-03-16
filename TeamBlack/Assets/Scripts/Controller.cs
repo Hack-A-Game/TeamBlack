@@ -5,8 +5,8 @@ using UnityEngine.SceneManagement;
 
 //torns, pausa, 
 public class Controller : MonoBehaviour {
-    private Player _player1;
-    private Player _player2;
+    public Player _player1;
+    public Player _player2;
     private bool _gamePause;
     public enum Turns { Attack, Defense };
     public enum Phases { Attack, Defense, InGame };
