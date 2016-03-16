@@ -53,10 +53,46 @@ public class Unit : MonoBehaviour {
 
     public float getSpeed()
     {
-        return Speed;
+        return 50f; // Speed;
     }
     public virtual void Start() { }
-    public virtual void Update() { }
+    public virtual void Update()
+    {
+        if (getHP() <= 0.0f)
+        {
+            Destroy(gameObject);
+        }
+
+        if (encounterList.Count > 0 || target)
+        {
+            Debug.Log(gameObject + " attacking " + target);
+            isAttacking = true;
+            countdown -= Time.deltaTime;
+
+            if (target == null)
+            {
+                target = encounterList[0];
+                Debug.Log(gameObject + " setTarget " + target);
+            }
+
+            if (isInRange(range) && target.getHP() > 0 && countdown <= 0.0f)
+            {
+                target.getAttacked(Att);
+                countdown = AttSp;
+
+                if (target.getHP() <= 0.0f)
+                {
+                    Debug.Log(target + " Dead");
+                    encounterList.RemoveAt(0);
+                    target = null;
+                }
+            }
+        }
+        else
+        {
+            isAttacking = false;
+        }
+    }
 
     public void targetOutOfRange()
     {
@@ -83,4 +119,27 @@ public class Unit : MonoBehaviour {
         return false;
     }
 
+    public void OnTriggerEnter2D(Collider2D collision)
+    {
+        if ((gameObject.tag == "AttackUnit" && collision.gameObject.tag == "Monster")
+            || (gameObject.tag == "Monster" && collision.gameObject.tag == "AttackUnit"))
+        {
+            Debug.Log(gameObject + " found " + collision.gameObject);
+            encounterList.Add(collision.gameObject.GetComponent<Unit>());
+        }
+    }
+
+    public void OnTriggerExit2D(Collider2D collision)
+    {
+        if ((gameObject.tag == "AttackUnit" && collision.gameObject.tag == "Monster")
+            || (gameObject.tag == "Monster" && collision.gameObject.tag == "AttackUnit"))
+        {
+            Unit unit = collision.gameObject.GetComponent<Unit>();
+            encounterList.Remove(unit);
+            if (target == unit)
+            {
+                target = unit;
+            }
+        }
+    }
 }

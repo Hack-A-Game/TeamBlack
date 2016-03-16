@@ -14,7 +14,7 @@ public class DefenseUnits : Unit {
 
     public override void Start()
     {
-        Speed = 0.0f;
+        base.Start();
         _velocity = new Vector2(Time.deltaTime, 0);
         _multiplier = 1.0f;
     }
@@ -38,16 +38,5 @@ public class DefenseUnits : Unit {
     public float getMultiplier()
     {
         return _multiplier;
-    }
-
-    // Update is called once per frame
-    public override void Update() { }
-
-    public void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.gameObject.tag == "AttackUnit")
-        {
-            encounterList.Add(collision.gameObject.GetComponent<Unit>());
-        }
     }
 }

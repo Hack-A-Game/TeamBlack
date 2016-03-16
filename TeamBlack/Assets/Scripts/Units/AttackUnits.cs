@@ -12,7 +12,9 @@ public class AttackUnits : Unit {
 
     // Use this for initialization
 
-	public override void Start () {
+	public override void Start ()
+    {
+        base.Start();
         _velocity = new Vector2(Time.deltaTime, 0);
         _multiplier = 1.0f;
     }
@@ -35,16 +37,5 @@ public class AttackUnits : Unit {
     public float getMultiplier()
     {
         return _multiplier;
-    }
-   	
-	// Update is called once per frame
-	public override void Update () { }
-
-    public void OnTriggerEnter2D (Collider2D collision)
-    {
-        if (collision.gameObject.tag == "Monster")
-        {
-            encounterList.Add(collision.gameObject.GetComponent<Unit>());   
-        }
     }
 }
