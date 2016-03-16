@@ -11,6 +11,7 @@ public class Golem : Unit {
         Def = 10.0f;
         AttSp = 2.0f;
         mana = 5;
+        range = 4f;
         encounterList = new List<Unit>();
 
     }
@@ -18,37 +19,34 @@ public class Golem : Unit {
     // Update is called once per frame
     public override void Update()
     {
-        if (getHP() <= 0)
+        if (getHP() <= 0.0f)
         {
-            isAttacking = false;
-            Destroy(this);
+            Destroy(gameObject);
         }
-
-        if (encounterList.Count < 0)
+        if (encounterList.Count > 0)
         {
+            isAttacking = true;
             countdown -= Time.deltaTime;
-            if (encounterList[0].getHP() > 0 && countdown <= 0.0f)
+
+            if (target == null)
             {
-                isAttacking = true;
-                encounterList[0].getAttacked(Att);
-                countdown = AttSp;
-            } else if(encounterList[0].getHP() <= 0)
-            {
-                encounterList.RemoveAt(0);
-                isAttacking = false;
+                target = encounterList[0];
             }
 
+            if (isInRange(range) && target.getHP() > 0 && countdown <= 0.0f)
+            {
+                target.getAttacked(Att);
+                countdown = AttSp;
+                if (target.getHP() <= 0)
+                {
+                    encounterList.RemoveAt(0);
+                    target = null;
+                }
+            }
         }
-    }
-
-    void OnCollisionEnter2D(Collision2D coll)
-    {
-        if (coll.gameObject.tag == "AttackUnit")
+        else
         {
-            //Attacking = coll.gameObject.GetComponent<Unit>();
-            encounterList.Add(coll.gameObject.GetComponent<Unit>());
+            isAttacking = false;
         }
-
-
     }
 }

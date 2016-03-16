@@ -12,44 +12,42 @@ public class Skeleton : Unit
         Def = 2.0f;
         AttSp = 1.0f;
         mana = 1;
+        range = 2f;
         encounterList = new List<Unit>();
     }
 
     // Update is called once per frame
     public override void Update()
     {
-        if(getHP() <= 0) //caso de mi muerte
+        if (getHP() <= 0.0f)
+        {
+            Destroy(gameObject);
+        }
+        if (encounterList.Count > 0)
+        {
+            isAttacking = true;
+            countdown -= Time.deltaTime;
+
+            if (target == null)
+            {
+                target = encounterList[0];
+            }
+
+            if (isInRange(range) && target.getHP() > 0 && countdown <= 0.0f)
+            {
+                target.getAttacked(Att);
+                countdown = AttSp;
+                if (target.getHP() <= 0)
+                {
+                    encounterList.RemoveAt(0);
+                    target = null;
+                }
+            }
+        }
+        else
         {
             isAttacking = false;
-            Destroy(this);
-            
-        }
-
-        if (encounterList.Count < 0)
-        {
-            countdown -= Time.deltaTime;
-            if (encounterList[0].getHP() > 0 && countdown <= 0.0f)
-            {
-                isAttacking = true;
-                
-                encounterList[0].getAttacked(Att);
-                countdown = AttSp;
-            }
-            else if (encounterList[0].getHP() <= 0)
-            {
-                encounterList.RemoveAt(0);
-                isAttacking = false;
-            }
-
-        }
-    }
-
-    void OnCollisionEnter2D(Collision2D coll)
-    {
-        if (coll.gameObject.tag == "AttackUnit")
-        {
-            //Attacking = coll.gameObject.GetComponent<Unit>();
-            encounterList.Add(coll.gameObject.GetComponent<Unit>());
         }
     }
 }
+
