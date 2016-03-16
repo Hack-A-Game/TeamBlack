@@ -5,7 +5,7 @@ public class Skeleton : Unit
 {
 
 	// Use this for initialization
-	void Start () {
+	public override void Start () {
         HP = 75.0f;
         Att = 10.0f;
         Def = 2.0f;
@@ -21,7 +21,7 @@ public class Skeleton : Unit
         if (Attacking != null)
         {
             countdown -= Time.deltaTime;
-            if (Attacking.getHP > 0 && countdown <= 0.0f)
+            if (Attacking.getHP() > 0 && countdown <= 0.0f)
             {
                 Attacking.getAttacked(Att);
                 countdown = AttSp;
