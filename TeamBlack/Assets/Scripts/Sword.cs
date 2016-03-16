@@ -22,7 +22,7 @@ public class Sword : AttackUnits
     {
         if (getHP() <= 0.0f)
         {
-            Destroy(this);
+            Destroy(gameObject);
         }
         if (encounterList.Count > 0)
         {

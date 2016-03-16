@@ -14,8 +14,9 @@ public class Bow : AttackUnits
         Att = 200.0f;
         Def = 3.0f;
         Speed = 0.3f;
-        AttSp = 1.5f;
+        AttSp = 0.05f;
         encounterList = new List<Unit>();
+        range = 4;
     }
 
     // Update is called once per frame
@@ -23,24 +24,32 @@ public class Bow : AttackUnits
     {
         if (getHP() <= 0.0f)
         {
-            Destroy(this);
+            Destroy(gameObject);
         }
         if (encounterList.Count > 0)
         {
+            isAttacking = true;
             countdown -= Time.deltaTime;
-            if (encounterList[0].getHP() > 0 && countdown <= 0.0f)
+
+            if (target == null)
             {
-                encounterList[0].getAttacked(Att);
+                target = encounterList[0];
+            }
+
+            if (isInRange(range) && target.getHP() > 0 && countdown <= 0.0f)
+            {
+                target.getAttacked(Att);
                 countdown = AttSp;
-                if (encounterList[0].getHP() <= 0)
+                if (target.getHP() <= 0)
                 {
                     encounterList.RemoveAt(0);
+                    target = null;
                 }
             }
         }
         else
         {
-            //Move
+            isAttacking = false;
         }
     }
 }
