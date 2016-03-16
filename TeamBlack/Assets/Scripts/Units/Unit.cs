@@ -138,7 +138,7 @@ public class Unit : MonoBehaviour {
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
-        if((collision.gameObject.tag == "Castle"))
+        if((collision.gameObject.tag == "Castle") && gameObject.tag == "AttackUnit")
         {
             Destroy(gameObject);
             Debug.Log("Destroy");
