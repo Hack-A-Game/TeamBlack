@@ -58,14 +58,14 @@ public class Draggable : MonoBehaviour
 
         GameObject unit = gameObject;
         bool result;
-        isSet = true;
-        if (Controller.controller.getCurrentPhase() == Controller.Phases.Attack)
+        if (!isSet && Controller.controller.getCurrentPhase() == Controller.Phases.Attack)
         {
             result = Controller.controller.getPlayerAttack().addAttackUnit(unit.GetComponent<AttackUnits>());
         }
-        else
+        else if(!isSet)
         {
             result = Controller.controller.getPlayerAttack().addDefendUnitUnit(unit.GetComponent<DefenseUnits>());
         }
+        isSet = true;
     }
 }
