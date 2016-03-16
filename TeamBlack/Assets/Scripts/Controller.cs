@@ -122,16 +122,7 @@ public class Controller : MonoBehaviour {
 
     public void startGame()
     {
-        myButtonStart.enabled = false;
-        myButtonPlayer1.gameObject.SetActive(true);
-        myButtonPlayer2.gameObject.SetActive(true);
-        myButtonRandom.gameObject.SetActive(true);
-
-        myButtonStart.gameObject.SetActive(false);
-        myButtonPlayer1.enabled = true;
-        myButtonPlayer2.enabled = true;
-        myButtonRandom.enabled = true;
-        Debug.Log("StartGame");
+        defineTurn(Turns.Defense, Turns.Attack);
     }
 
     public void playerStarts(string choice)
