@@ -27,6 +27,8 @@ public class Controller : MonoBehaviour {
     private GameObject leftPanel;
     private GameObject rightPanel;
 
+    public BoxCollider2D Castle1;
+
     // Use this for initialization
     void Start () {
         _player1 = new Player();
@@ -155,7 +157,7 @@ public class Controller : MonoBehaviour {
         else if (currentPhase == Phases.Defense)
         {
             currentPhase = Phases.InGame;
-
+            Castle1.enabled = true;
             leftPanel.SetActive(false);
             rightPanel.SetActive(false);
         }

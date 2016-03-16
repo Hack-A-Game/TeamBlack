@@ -316,7 +316,7 @@ Transform:
   m_LocalScale: {x: -2.1494446, y: 2.409804, z: 0.9231257}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
 --- !u!61 &81736157
 BoxCollider2D:
   m_ObjectHideFlags: 0
