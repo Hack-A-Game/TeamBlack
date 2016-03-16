@@ -17,29 +17,32 @@ public class DragController : MonoBehaviour
     {
 	    if (Input.GetMouseButtonDown(0))
         {
-            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-            RaycastHit hit;
-            if (Physics.Raycast(ray, out hit))
+            RaycastHit2D hit = Physics2D.Raycast(Camera.main.ScreenToWorldPoint(Input.mousePosition), Vector2.zero);
+            
+            if (hit.collider != null)
             {
+                Debug.Log(hit);
                 Draggable draggable = hit.collider.gameObject.GetComponent<Draggable>();
                 if (draggable != null)
                 {
                     _draggable = draggable;
-                    _offset = hit.point - draggable.transform.position;
+                    Vector2 pos = new Vector2(draggable.transform.position.x, draggable.transform.position.y);
+                    _offset = hit.point - pos;
 
                     _draggable.DragStart();
                 }
             }
         }
-        else if (Input.GetMouseButtonUp(0))
+        else if (Input.GetMouseButtonUp(0) && _draggable != null)
         {
+            _draggable.DragEnd();
             _draggable = null;
         }
 
         if (Input.GetMouseButton(0) && _draggable != null)
         {
-            _draggable.transform.position = Input.mousePosition + _offset;
-            _draggable.DragEnd();
+            Vector3 pos = Camera.main.ScreenToWorldPoint(Input.mousePosition) + _offset;
+            _draggable.transform.position = new Vector2(pos.x, pos.y);
         }
 	}
 }

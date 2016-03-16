@@ -30,7 +30,7 @@ public class Player : MonoBehaviour {
     {
 	    
 	}
-
+    /*
     public bool addAttackUnit(MonoBehaviour attackUnit)
     {
         if (listAttackUnits.Count < maxAttackUnit && attackUnit.getMana() <= mana)
@@ -51,7 +51,7 @@ public class Player : MonoBehaviour {
             return true;
         }
         return false;
-    }
+    }*/
 
     public void removeAttackUnity(MonoBehaviour attackUnit)
     {

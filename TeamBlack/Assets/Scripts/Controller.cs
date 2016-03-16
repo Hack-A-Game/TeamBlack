@@ -28,7 +28,7 @@ public class Controller : MonoBehaviour {
         endTime = false;
 
         controller = this;
-        map = GameObject.Find("GameController").GetComponent<Map>();
+        map = GameObject.Find("Map").GetComponent<Map>();
 	}
 
     void Update()
@@ -36,7 +36,6 @@ public class Controller : MonoBehaviour {
         countdown -= Time.deltaTime;
         if (countdown <= 0.0f)
             endTime = true;
-        Debug.Log(countdown);
                 
     }
 

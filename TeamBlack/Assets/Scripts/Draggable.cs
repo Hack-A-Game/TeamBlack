@@ -29,6 +29,7 @@ public class Draggable : MonoBehaviour
         {
             // TODO: UI WARNING!
             transform.position = _startPosition;
+            return;
         }
 
         // FIXME: Towers are canBuild
