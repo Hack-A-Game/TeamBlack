@@ -5,8 +5,8 @@ using UnityEngine.SceneManagement;
 
 //torns, pausa, 
 public class Controller : MonoBehaviour {
-    private Player _player1;
-    private Player _player2;
+    public Player _player1;
+    public Player _player2;
     private bool _gamePause;
     public enum Turns { Attack, Defense };
     public enum Phases { Attack, Defense, InGame };
@@ -58,6 +58,17 @@ public class Controller : MonoBehaviour {
         if (Input.GetKeyDown(KeyCode.Escape))
             Application.Quit();
 
+        // Check number of attacker units
+        if (getCurrentPhase() == Phases.InGame)
+        {
+            int attackers = getPlayerAttack().countAttackUnits();
+            if (attackers == 0)
+            {
+                changePhase();
+                changeTurn();
+                loadScene("GamePlay");
+            }
+        }
     }
 
     public void defineTurn(Turns p1, Turns p2){

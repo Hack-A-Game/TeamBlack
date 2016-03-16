@@ -13,6 +13,7 @@ public class Sword : AttackUnits
         mana = 10;
         //Dir = inDir;
         HP = 20.0f;
+        MAXHP = HP;
         Att = 20.0f;
         Def = 5.0f;
         Speed = 75f;

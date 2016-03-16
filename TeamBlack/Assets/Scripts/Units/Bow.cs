@@ -14,6 +14,7 @@ public class Bow : AttackUnits
         //Dir = inDir;
         HP = 15.0f;
         Att = 20.0f;
+        MAXHP = HP;
         Def = 3.0f;
         Speed = 120f;
         AttSp = 0.05f;

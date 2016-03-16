@@ -78,18 +78,31 @@ public class Movement : MonoBehaviour
             
             _rigidBody.velocity = _velocity * _unit.getSpeed() * Time.deltaTime;
         }
-        else if (_unit.getIsAttacking())
+        else if (_unit.getIsAttacking() && _unit.getTarget())
         {
             if (_unit.isInRange(_unit.range))
             {
                 Debug.Log(gameObject + " STOP");
                 _rigidBody.velocity = Vector2.zero;
             }
-            else if (_unit.getTarget())
+            else
             {
                 Vector2 direction = (_unit.getTarget().transform.position - transform.position).normalized;
-                _rigidBody.velocity = direction * _unit.getSpeed() * Time.deltaTime;
+                _rigidBody.velocity = direction * _unit.getSpeed() * Time.deltaTime + new Vector2(Time.deltaTime * 2, 0);
             }
+
+            if (movementType == MovementType.UNBOUNDED)
+            {
+                gridPos pos = Controller.map.ToGridPos(transform.position);
+                if (!Controller.map.hasFlag(pos, TileAtt.Passable))
+                {
+                    _rigidBody.velocity = Vector2.zero;
+                }
+            }
+        }
+        else
+        {
+            _rigidBody.velocity = Vector2.zero;
         }
 	}
 

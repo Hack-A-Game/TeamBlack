@@ -12,6 +12,7 @@ public class Golem : DefenseUnits {
         Att = 25.0f;
         Def = 10.0f;
         AttSp = 0.5f;
+        MAXHP = HP;
         mana = 5;
         range = 0.5f;
         Speed = 50f;

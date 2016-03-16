@@ -5,6 +5,7 @@ using System.Collections.Generic;
 public class Unit : MonoBehaviour {
     public int mana = 0;
     public float HP = 0.0f;
+    public float MAXHP = 0.0f;
     public float Att = 0.0f;
     public float Def = 0.0f;
     public float AttSp = 0.0f;
@@ -14,6 +15,8 @@ public class Unit : MonoBehaviour {
     public List<Unit> encounterList = new List<Unit>();
     protected Unit target;
     public float range;
+    public HPBar bar;
+    public bool canCapture = false;
 
     public void getAttacked(float damage)
     {
@@ -53,11 +56,16 @@ public class Unit : MonoBehaviour {
 
     public float getSpeed()
     {
-        return 50f; // Speed;
+        return Speed;
     }
     public virtual void Start() { }
     public virtual void Update()
     {
+
+        if (bar != null) {
+            bar.updateHP(HP, MAXHP, transform.position);
+        }
+
         if (getHP() <= 0.0f)
         {
             Destroy(gameObject);
@@ -125,6 +133,9 @@ public class Unit : MonoBehaviour {
             || (gameObject.tag == "Monster" && collision.gameObject.tag == "AttackUnit"))
         {
             Debug.Log(gameObject + " found " + collision.gameObject);
+            encounterList.Add(collision.gameObject.GetComponent<Unit>());
+        }else if (canCapture == true && collision.gameObject.tag=="Flag")
+        {
             encounterList.Add(collision.gameObject.GetComponent<Unit>());
         }
     }
