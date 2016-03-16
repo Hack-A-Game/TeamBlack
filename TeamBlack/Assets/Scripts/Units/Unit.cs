@@ -75,7 +75,7 @@ public class Unit : MonoBehaviour {
         if (getHP() <= 0.0f)
         {
             Destroy(gameObject);
-            Debug.Log("Destroy");
+            Debug.Log("Destroy" + getHP());
             Controller.controller.getPlayerDefense().points += 1;
 
             /*GUI.Label(new Rect(100, 0, 120, 100), "Player 1: " + Controller.controller._player1.points);
@@ -138,7 +138,7 @@ public class Unit : MonoBehaviour {
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
-        if((collision.gameObject.tag == "Castle"))
+        if((collision.gameObject.tag == "Castle") && gameObject.tag == "AttackUnit")
         {
             Destroy(gameObject);
             Debug.Log("Destroy");

@@ -1,25 +1,25 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
 public class DragController : MonoBehaviour
 {
     private Draggable _draggable;
     private Vector3 _offset;
-    public SpriteRenderer castle;
-
+    public Button castle;
+    public Draggable[] buttons;
 	// Use this for initialization
 	void Start()
     {
         hideTrash();
-
+        buttons = GetComponentsInChildren<Draggable>();
     }
     public void TrashUnit()
     {
-        Debug.Log("TRASH");
         if(_draggable!=null)
         {
-            Destroy(_draggable);
+            Destroy(_draggable.gameObject);
         }
     }
     private void ShowTrash()
@@ -43,7 +43,11 @@ public class DragController : MonoBehaviour
 	// Update is called once per frame
 	void Update()
     {
-	    if (Input.GetMouseButtonDown(0))
+        foreach (Draggable d in buttons)
+        {
+            //TODO MANA
+        }
+        if (Input.GetMouseButtonDown(0))
         {
             RaycastHit2D hit = Physics2D.Raycast(Camera.main.ScreenToWorldPoint(Input.mousePosition), Vector2.zero);
             
@@ -62,7 +66,15 @@ public class DragController : MonoBehaviour
         }
         else if (Input.GetMouseButtonUp(0) && _draggable != null)
         {
-            _draggable.DragEnd();
+            if ((Controller.controller.getCurrentPhase() == Controller.Phases.Attack &&(castle.GetComponent<RectTransform>().rect.xMax +40 > Input.mousePosition.x)) ||
+                ((Controller.controller.getCurrentPhase() == Controller.Phases.Defense && (castle.GetComponent<RectTransform>().rect.yMin-40 >Input.mousePosition.x))))
+            {
+                TrashUnit();
+            }
+            else
+            {
+                _draggable.DragEnd();
+            }
             _draggable = null;
             hideTrash();
         }
