@@ -1,36 +1,42 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+//torns, pausa, 
 public class Controller : MonoBehaviour {
     private Player _player1;
     private Player _player2;
-    private bool _player1Start;
-    //private static Mapa mapa;
+    private bool _startplayer1Attack;
+    //private static Mapa _mapa;
+    private bool _gamePause;
+    enum TurnPlayer1 { Attack, Defense };
+    enum TurnPlayer2 { Attack, Defense };
+    enum MenuScreen { Menu, Game, Options};
+    private TurnPlayer1 turnPlayer1;
+    private TurnPlayer2 turnPlayer2;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
         _player1 = new Player();
         _player2 = new Player();
-        randomStartPlayer();
+        _gamePause = false;
 	}
-	
-    public void randomStartPlayer(){
-        Debug.Log(Random.Range(1,10));
-        if (Random.Range(1, 10)%2==0) {
-            _player1Start = true;
-        }
-        else {
-            _player1Start = false;
-        }
 
-    }
-    public void startPlayer1(){
-        _player1Start = true;
+    public void defineTurn(){
+        turnPlayer1 = TurnPlayer1.Defense;
+        turnPlayer2 = TurnPlayer2.Attack;
     }
 
-    public void startPlayer2(){
-        _player1Start = false;
+    public void changeTurn() {
+        if (turnPlayer1 == TurnPlayer1.Attack)
+        {
+            turnPlayer1 = TurnPlayer1.Defense;
+            turnPlayer2 = TurnPlayer2.Attack;
+        }
+        else
+        {
+            turnPlayer1 = TurnPlayer1.Attack;
+            turnPlayer2 = TurnPlayer2.Defense;
+        }
     }
-    
 
 }
