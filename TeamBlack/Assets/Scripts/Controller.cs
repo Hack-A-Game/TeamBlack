@@ -40,6 +40,7 @@ public class Controller : MonoBehaviour {
             myButtonPlayer1.gameObject.SetActive(false);
             myButtonPlayer2.gameObject.SetActive(false);
             myButtonRandom.gameObject.SetActive(false);
+            
         }
 
         DontDestroyOnLoad(transform.gameObject);
