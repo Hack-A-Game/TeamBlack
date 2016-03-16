@@ -2,17 +2,17 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class Skeleton : Unit
+public class Orc : DefenseUnits
 {
 
 	// Use this for initialization
 	public override void Start () {
-        HP = 75.0f;
-        Att = 10.0f;
-        Def = 2.0f;
-        AttSp = 1.0f;
-        mana = 1;
-        range = 2f;
+        HP = 150.0f;
+        Att = 20.0f;
+        Def = 5.0f;
+        AttSp = 1.2f;
+        mana = 2;
+        range = 4f;
         encounterList = new List<Unit>();
     }
 
@@ -49,5 +49,5 @@ public class Skeleton : Unit
             isAttacking = false;
         }
     }
-}
 
+}

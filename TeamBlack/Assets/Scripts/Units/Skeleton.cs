@@ -2,18 +2,18 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class Golem : Unit {
+public class Skeleton : DefenseUnits
+{
 
 	// Use this for initialization
 	public override void Start () {
-        HP = 250.0f;
-        Att = 25.0f;
-        Def = 10.0f;
-        AttSp = 2.0f;
-        mana = 5;
-        range = 4f;
+        HP = 75.0f;
+        Att = 10.0f;
+        Def = 2.0f;
+        AttSp = 1.0f;
+        mana = 1;
+        range = 2f;
         encounterList = new List<Unit>();
-
     }
 
     // Update is called once per frame
@@ -50,3 +50,4 @@ public class Golem : Unit {
         }
     }
 }
+

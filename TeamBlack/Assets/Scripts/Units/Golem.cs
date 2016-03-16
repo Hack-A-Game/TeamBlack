@@ -2,18 +2,18 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class Orc : Unit
-{
+public class Golem : DefenseUnits {
 
 	// Use this for initialization
 	public override void Start () {
-        HP = 150.0f;
-        Att = 20.0f;
-        Def = 5.0f;
-        AttSp = 1.2f;
-        mana = 2;
-        range = 4f;
+        HP = 250.0f;
+        Att = 250.0f;
+        Def = 10.0f;
+        AttSp = 2.0f;
+        mana = 5;
+        range = 4;
         encounterList = new List<Unit>();
+
     }
 
     // Update is called once per frame
@@ -33,6 +33,8 @@ public class Orc : Unit
                 target = encounterList[0];
             }
 
+            Debug.Log(target);
+            Debug.Log(isInRange(range));
             if (isInRange(range) && target.getHP() > 0 && countdown <= 0.0f)
             {
                 target.getAttacked(Att);
@@ -49,5 +51,4 @@ public class Orc : Unit
             isAttacking = false;
         }
     }
-
 }
