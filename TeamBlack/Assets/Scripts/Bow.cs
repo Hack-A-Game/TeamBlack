@@ -11,7 +11,7 @@ public class Bow : AttackUnits
         mana = 10;
         //Dir = inDir;
         HP = 150.0f;
-        Att = 5.0f;
+        Att = 200.0f;
         Def = 3.0f;
         Speed = 0.3f;
         AttSp = 1.5f;
@@ -25,12 +25,11 @@ public class Bow : AttackUnits
         {
             Destroy(this);
         }
-        if (encounterList != null)
+        if (encounterList.Count > 0)
         {
             countdown -= Time.deltaTime;
             if (encounterList[0].getHP() > 0 && countdown <= 0.0f)
             {
-                getRigidBody().velocity = Vector2.zero;
                 encounterList[0].getAttacked(Att);
                 countdown = AttSp;
                 if (encounterList[0].getHP() <= 0)

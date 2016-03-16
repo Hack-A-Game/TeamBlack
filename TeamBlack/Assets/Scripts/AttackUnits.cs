@@ -1,5 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
+
 
 public class AttackUnits : Unit {
     public float Speed;
@@ -11,16 +13,11 @@ public class AttackUnits : Unit {
 
     // Use this for initialization
 
-    public AttackUnits()
-    {
+	public override void Start () {
         Speed = 0.0f;
-        _velocity = Vector2.zero;
+        _velocity = new Vector2(Time.deltaTime, 0);
         _multiplier = 1.0f;
     }
-
-	public override void Start () { 
-
-	}
 
     public float getSpeed()
     {
@@ -48,11 +45,9 @@ public class AttackUnits : Unit {
     }
    	
 	// Update is called once per frame
-	public override void Update () {
-        
-	}
+	public override void Update () { }
 
-    public void OnCollisionEnter2D (Collision2D collision)
+    public void OnTriggerEnter2D (Collider2D collision)
     {
         if (collision.gameObject.tag == "Monster")
         {

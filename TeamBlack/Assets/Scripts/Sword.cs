@@ -15,7 +15,6 @@ public class Sword : AttackUnits
         Def = 5.0f;
         Speed = 0.5f;
         AttSp = 1.0f;
-        encounterList = new List<Unit>();
     }
 
     // Update is called once per frame
@@ -25,12 +24,11 @@ public class Sword : AttackUnits
         {
             Destroy(this);
         }
-        if (encounterList != null)
+        if (encounterList.Count > 0)
         {
             countdown -= Time.deltaTime;
             if (encounterList[0].getHP() > 0 && countdown <= 0.0f)
             {
-                getRigidBody().velocity = Vector2.zero;
                 encounterList[0].getAttacked(Att);
                 countdown = AttSp;
                 if (encounterList[0].getHP() <= 0)
@@ -45,3 +43,4 @@ public class Sword : AttackUnits
         }
     }
 }
+

@@ -21,6 +21,6 @@ public class Rogue : AttackUnits
         {
             Destroy(this);
         }
-        //Move
+        transform.position += getSpeed()*Vector3.right*Time.deltaTime; 
     }
 }
