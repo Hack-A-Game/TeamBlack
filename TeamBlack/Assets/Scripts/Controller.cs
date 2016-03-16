@@ -151,12 +151,14 @@ public class Controller : MonoBehaviour {
         {
             currentPhase = Phases.Defense;
 
+            Castle1.enabled = false;
             leftPanel.SetActive(false);
             rightPanel.SetActive(true);
         }
         else if (currentPhase == Phases.Defense)
         {
             currentPhase = Phases.InGame;
+
             Castle1.enabled = true;
             leftPanel.SetActive(false);
             rightPanel.SetActive(false);

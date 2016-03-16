@@ -176,6 +176,9 @@ public class Unit : MonoBehaviour {
     {
         isAttacking = false;
         target = null;
-        encounterList.RemoveAt(0);
+        if (encounterList.Count > 0)
+        {
+            encounterList.RemoveAt(0);
+        }
     }
 }
