@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: ed2ed05fd1a44de49b9f9a3aa7d16ad2
+timeCreated: 1458150664
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flag_0
+    21300002: flag_1
+    21300004: flag_2
+    21300006: flag_3
+    21300008: flag_4
+    21300010: flag_5
+    21300012: flag_6
+    21300014: flag_7
+    21300016: flag_8
+    21300018: flag_9
+    21300020: flag_10
+    21300022: flag_11
+    21300024: flag_12
+    21300026: flag_13
+    21300028: flag_14
+    21300030: flag_15
+    21300032: flag_16
+    21300034: flag_17
+    21300036: flag_18
+    21300038: flag_19
+    21300040: flag_20
+    21300042: flag_21
+    21300044: flag_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: flag_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 81
+        width: 51
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 15}
+        - {x: -42, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 5}
+        - {x: 0, y: 62}
+        - {x: -1, y: 63}
+        - {x: -14, y: 63}
+        - {x: -51, y: 53}
+    - name: flag_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 81
+        width: 50
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 63}
+        - {x: -50, y: 37}
+        - {x: -50, y: 24}
+        - {x: -12, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 37}
+        - {x: 0, y: 61}
+        - {x: -2, y: 63}
+    - name: flag_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 81
+        width: 48
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 63}
+        - {x: -48, y: 54}
+        - {x: -48, y: 19}
+        - {x: -34, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 25}
+        - {x: 0, y: 63}
+    - name: flag_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 81
+        width: 47
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 4}
+        - {x: 0, y: 63}
+        - {x: -23, y: 63}
+        - {x: -47, y: 51}
+        - {x: -47, y: 15}
+    - name: flag_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 81
+        width: 46
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 63}
+        - {x: -16, y: 58}
+        - {x: -14, y: 52}
+        - {x: -38, y: 43}
+        - {x: -46, y: 36}
+        - {x: -46, y: 29}
+        - {x: -42, y: 28}
+        - {x: -15, y: 16}
+        - {x: -11, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 37}
+        - {x: 0, y: 61}
+        - {x: -2, y: 63}
+    - name: flag_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 81
+        width: 46
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 63}
+        - {x: -44, y: 45}
+        - {x: -46, y: 43}
+        - {x: -46, y: 9}
+        - {x: -13, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 37}
+        - {x: 0, y: 61}
+        - {x: -2, y: 63}
+    - name: flag_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 81
+        width: 48
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 63}
+        - {x: -48, y: 36}
+        - {x: -48, y: 19}
+        - {x: -18, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 24}
+        - {x: 0, y: 63}
+    - name: flag_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 81
+        width: 49
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 63}
+        - {x: -48, y: 44}
+        - {x: -49, y: 40}
+        - {x: -49, y: 26}
+        - {x: -12, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 37}
+        - {x: 0, y: 61}
+        - {x: -2, y: 63}
+    - name: flag_8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 81
+        width: 48
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 63}
+        - {x: -48, y: 39}
+        - {x: -48, y: 30}
+        - {x: -36, y: 19}
+        - {x: -12, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 34}
+        - {x: 0, y: 62}
+        - {x: -1, y: 63}
+    - name: flag_9
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 81
+        width: 47
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 63}
+        - {x: -16, y: 59}
+        - {x: -47, y: 40}
+        - {x: -47, y: 30}
+        - {x: -40, y: 22}
+        - {x: -12, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 37}
+        - {x: 0, y: 61}
+        - {x: -2, y: 63}
+    - name: flag_10
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 81
+        width: 47
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 63}
+        - {x: -47, y: 53}
+        - {x: -47, y: 14}
+        - {x: -35, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 22}
+        - {x: 0, y: 63}
+    - name: flag_11
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 81
+        width: 49
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 63}
+        - {x: -47, y: 37}
+        - {x: -49, y: 34}
+        - {x: -49, y: 20}
+        - {x: -22, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 18}
+        - {x: 0, y: 63}
+    - name: flag_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 8
+        width: 50
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 63}
+        - {x: -50, y: 37}
+        - {x: -50, y: 24}
+        - {x: -12, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 37}
+        - {x: 0, y: 61}
+        - {x: -2, y: 63}
+    - name: flag_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 8
+        width: 48
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 63}
+        - {x: -48, y: 54}
+        - {x: -48, y: 19}
+        - {x: -34, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 25}
+        - {x: 0, y: 63}
+    - name: flag_14
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 8
+        width: 47
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 4}
+        - {x: 0, y: 63}
+        - {x: -23, y: 63}
+        - {x: -47, y: 51}
+        - {x: -47, y: 15}
+    - name: flag_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 8
+        width: 46
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 63}
+        - {x: -16, y: 58}
+        - {x: -14, y: 52}
+        - {x: -38, y: 43}
+        - {x: -46, y: 36}
+        - {x: -46, y: 29}
+        - {x: -42, y: 28}
+        - {x: -15, y: 16}
+        - {x: -11, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 37}
+        - {x: 0, y: 61}
+        - {x: -2, y: 63}
+    - name: flag_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 8
+        width: 46
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 63}
+        - {x: -44, y: 45}
+        - {x: -46, y: 43}
+        - {x: -46, y: 9}
+        - {x: -13, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 37}
+        - {x: 0, y: 61}
+        - {x: -2, y: 63}
+    - name: flag_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 8
+        width: 48
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 63}
+        - {x: -48, y: 36}
+        - {x: -48, y: 19}
+        - {x: -18, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 24}
+        - {x: 0, y: 63}
+    - name: flag_18
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 8
+        width: 49
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 63}
+        - {x: -48, y: 44}
+        - {x: -49, y: 40}
+        - {x: -49, y: 26}
+        - {x: -12, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 37}
+        - {x: 0, y: 61}
+        - {x: -2, y: 63}
+    - name: flag_19
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 8
+        width: 48
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 63}
+        - {x: -48, y: 39}
+        - {x: -48, y: 30}
+        - {x: -36, y: 19}
+        - {x: -12, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 34}
+        - {x: 0, y: 62}
+        - {x: -1, y: 63}
+    - name: flag_20
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 8
+        width: 47
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 63}
+        - {x: -16, y: 59}
+        - {x: -47, y: 40}
+        - {x: -47, y: 30}
+        - {x: -40, y: 22}
+        - {x: -12, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 37}
+        - {x: 0, y: 61}
+        - {x: -2, y: 63}
+    - name: flag_21
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 8
+        width: 47
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 63}
+        - {x: -47, y: 53}
+        - {x: -47, y: 14}
+        - {x: -35, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 22}
+        - {x: 0, y: 63}
+    - name: flag_22
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 8
+        width: 49
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 63}
+        - {x: -47, y: 37}
+        - {x: -49, y: 34}
+        - {x: -49, y: 20}
+        - {x: -22, y: 0}
+        - {x: -2, y: 0}
+        - {x: 0, y: 18}
+        - {x: 0, y: 63}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
