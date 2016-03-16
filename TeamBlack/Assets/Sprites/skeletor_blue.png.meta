@@ -1,9 +1,187 @@
 fileFormatVersion: 2
 guid: 5cb48cb28b7c5dd42bc7316490a58e84
-timeCreated: 1458111769
+timeCreated: 1458121200
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: skeletor_blue_0
+    21300002: skeletor_blue_1
+    21300004: skeletor_blue_2
+    21300006: skeletor_blue_3
+    21300008: skeletor_blue_4
+    21300010: skeletor_blue_5
+    21300012: skeletor_blue_6
+    21300014: skeletor_blue_7
+    21300016: skeletor_blue_8
+    21300018: skeletor_blue_9
+    21300020: skeletor_blue_10
+    21300022: skeletor_blue_11
+    21300024: skeletor_blue_12
+    21300026: skeletor_blue_13
+    21300028: skeletor_blue_14
+    21300030: skeletor_blue_15
+    21300032: skeletor_blue_16
+    21300034: skeletor_blue_17
+    21300036: skeletor_blue_18
+    21300038: skeletor_blue_19
+    21300040: skeletor_blue_20
+    21300042: skeletor_blue_21
+    21300044: skeletor_blue_22
+    21300046: skeletor_blue_23
+    21300048: skeletor_blue_24
+    21300050: skeletor_blue_25
+    21300052: skeletor_blue_26
+    21300054: skeletor_blue_27
+    21300056: skeletor_blue_28
+    21300058: skeletor_blue_29
+    21300060: skeletor_blue_30
+    21300062: skeletor_blue_31
+    21300064: skeletor_blue_32
+    21300066: skeletor_blue_33
+    21300068: skeletor_blue_34
+    21300070: skeletor_blue_35
+    21300072: skeletor_blue_36
+    21300074: skeletor_blue_37
+    21300076: skeletor_blue_38
+    21300078: skeletor_blue_39
+    21300080: skeletor_blue_40
+    21300082: skeletor_blue_41
+    21300084: skeletor_blue_42
+    21300086: skeletor_blue_43
+    21300088: skeletor_blue_44
+    21300090: skeletor_blue_45
+    21300092: skeletor_blue_46
+    21300094: skeletor_blue_47
+    21300096: skeletor_blue_48
+    21300098: skeletor_blue_49
+    21300100: skeletor_blue_50
+    21300102: skeletor_blue_51
+    21300104: skeletor_blue_52
+    21300106: skeletor_blue_53
+    21300108: skeletor_blue_54
+    21300110: skeletor_blue_55
+    21300112: skeletor_blue_56
+    21300114: skeletor_blue_57
+    21300116: skeletor_blue_58
+    21300118: skeletor_blue_59
+    21300120: skeletor_blue_60
+    21300122: skeletor_blue_61
+    21300124: skeletor_blue_62
+    21300126: skeletor_blue_63
+    21300128: skeletor_blue_64
+    21300130: skeletor_blue_65
+    21300132: skeletor_blue_66
+    21300134: skeletor_blue_67
+    21300136: skeletor_blue_68
+    21300138: skeletor_blue_69
+    21300140: skeletor_blue_70
+    21300142: skeletor_blue_71
+    21300144: skeletor_blue_72
+    21300146: skeletor_blue_73
+    21300148: skeletor_blue_74
+    21300150: skeletor_blue_75
+    21300152: skeletor_blue_76
+    21300154: skeletor_blue_77
+    21300156: skeletor_blue_78
+    21300158: skeletor_blue_79
+    21300160: skeletor_blue_80
+    21300162: skeletor_blue_81
+    21300164: skeletor_blue_82
+    21300166: skeletor_blue_83
+    21300168: skeletor_blue_84
+    21300170: skeletor_blue_85
+    21300172: skeletor_blue_86
+    21300174: skeletor_blue_87
+    21300176: skeletor_blue_88
+    21300178: skeletor_blue_89
+    21300180: skeletor_blue_90
+    21300182: skeletor_blue_91
+    21300184: skeletor_blue_92
+    21300186: skeletor_blue_93
+    21300188: skeletor_blue_94
+    21300190: skeletor_blue_95
+    21300192: skeletor_blue_96
+    21300194: skeletor_blue_97
+    21300196: skeletor_blue_98
+    21300198: skeletor_blue_99
+    21300200: skeletor_blue_100
+    21300202: skeletor_blue_101
+    21300204: skeletor_blue_102
+    21300206: skeletor_blue_103
+    21300208: skeletor_blue_104
+    21300210: skeletor_blue_105
+    21300212: skeletor_blue_106
+    21300214: skeletor_blue_107
+    21300216: skeletor_blue_108
+    21300218: skeletor_blue_109
+    21300220: skeletor_blue_110
+    21300222: skeletor_blue_111
+    21300224: skeletor_blue_112
+    21300226: skeletor_blue_113
+    21300228: skeletor_blue_114
+    21300230: skeletor_blue_115
+    21300232: skeletor_blue_116
+    21300234: skeletor_blue_117
+    21300236: skeletor_blue_118
+    21300238: skeletor_blue_119
+    21300240: skeletor_blue_120
+    21300242: skeletor_blue_121
+    21300244: skeletor_blue_122
+    21300246: skeletor_blue_123
+    21300248: skeletor_blue_124
+    21300250: skeletor_blue_125
+    21300252: skeletor_blue_126
+    21300254: skeletor_blue_127
+    21300256: skeletor_blue_128
+    21300258: skeletor_blue_129
+    21300260: skeletor_blue_130
+    21300262: skeletor_blue_131
+    21300264: skeletor_blue_132
+    21300266: skeletor_blue_133
+    21300268: skeletor_blue_134
+    21300270: skeletor_blue_135
+    21300272: skeletor_blue_136
+    21300274: skeletor_blue_137
+    21300276: skeletor_blue_138
+    21300278: skeletor_blue_139
+    21300280: skeletor_blue_140
+    21300282: skeletor_blue_141
+    21300284: skeletor_blue_142
+    21300286: skeletor_blue_143
+    21300288: skeletor_blue_144
+    21300290: skeletor_blue_145
+    21300292: skeletor_blue_146
+    21300294: skeletor_blue_147
+    21300296: skeletor_blue_148
+    21300298: skeletor_blue_149
+    21300300: skeletor_blue_150
+    21300302: skeletor_blue_151
+    21300304: skeletor_blue_152
+    21300306: skeletor_blue_153
+    21300308: skeletor_blue_154
+    21300310: skeletor_blue_155
+    21300312: skeletor_blue_156
+    21300314: skeletor_blue_157
+    21300316: skeletor_blue_158
+    21300318: skeletor_blue_159
+    21300320: skeletor_blue_160
+    21300322: skeletor_blue_161
+    21300324: skeletor_blue_162
+    21300326: skeletor_blue_163
+    21300328: skeletor_blue_164
+    21300330: skeletor_blue_165
+    21300332: skeletor_blue_166
+    21300334: skeletor_blue_167
+    21300336: skeletor_blue_168
+    21300338: skeletor_blue_169
+    21300340: skeletor_blue_170
+    21300342: skeletor_blue_171
+    21300344: skeletor_blue_172
+    21300346: skeletor_blue_173
+    21300348: skeletor_blue_174
+    21300350: skeletor_blue_175
+    21300352: skeletor_blue_176
+    21300354: skeletor_blue_177
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -26,11 +204,11 @@ TextureImporter:
   cubemapConvolutionSteps: 7
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
-  textureFormat: -1
+  textureFormat: -3
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +216,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +227,3396 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: skeletor_blue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 50}
+        - {x: -17, y: 45}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 37}
+        - {x: 16, y: 50}
+    - name: skeletor_blue_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 50}
+        - {x: -9, y: 50}
+        - {x: -14, y: 44}
+        - {x: -15, y: 32}
+        - {x: -15, y: 1}
+        - {x: -14, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 48}
+    - name: skeletor_blue_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 50}
+        - {x: -14, y: 44}
+        - {x: -15, y: 38}
+        - {x: -15, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 49}
+        - {x: 10, y: 50}
+    - name: skeletor_blue_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 50}
+        - {x: -18, y: 50}
+        - {x: -20, y: 49}
+        - {x: -20, y: 0}
+        - {x: 16, y: 0}
+        - {x: 20, y: 1}
+        - {x: 20, y: 33}
+        - {x: 14, y: 48}
+    - name: skeletor_blue_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 50}
+        - {x: -27, y: 0}
+        - {x: 17, y: 0}
+        - {x: 27, y: 23}
+        - {x: 27, y: 44}
+        - {x: 9, y: 50}
+    - name: skeletor_blue_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 50}
+        - {x: -26, y: 42}
+        - {x: -26, y: 14}
+        - {x: -21, y: 0}
+        - {x: 18, y: 0}
+        - {x: 26, y: 24}
+        - {x: 26, y: 45}
+        - {x: 14, y: 50}
+    - name: skeletor_blue_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 50}
+        - {x: -18, y: 50}
+        - {x: -20, y: 49}
+        - {x: -20, y: 0}
+        - {x: 16, y: 0}
+        - {x: 20, y: 1}
+        - {x: 20, y: 33}
+        - {x: 14, y: 48}
+    - name: skeletor_blue_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -11, y: 1}
+        - {x: -9, y: 0}
+        - {x: 13, y: 0}
+        - {x: 13, y: 51}
+    - name: skeletor_blue_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 51}
+        - {x: -13, y: 0}
+        - {x: 10, y: 0}
+        - {x: 14, y: 8}
+        - {x: 14, y: 49}
+        - {x: 8, y: 51}
+    - name: skeletor_blue_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 51}
+        - {x: -12, y: 49}
+        - {x: -12, y: 1}
+        - {x: -4, y: 0}
+        - {x: 8, y: 0}
+        - {x: 13, y: 10}
+        - {x: 13, y: 49}
+        - {x: 8, y: 51}
+    - name: skeletor_blue_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 51}
+        - {x: -10, y: 51}
+        - {x: -14, y: 43}
+        - {x: -14, y: 2}
+        - {x: -4, y: 0}
+        - {x: 10, y: 0}
+        - {x: 12, y: 1}
+        - {x: 16, y: 13}
+        - {x: 16, y: 37}
+    - name: skeletor_blue_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 51}
+        - {x: -16, y: 42}
+        - {x: -16, y: 14}
+        - {x: -11, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 1}
+        - {x: 21, y: 24}
+        - {x: 21, y: 38}
+        - {x: 8, y: 51}
+    - name: skeletor_blue_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 51}
+        - {x: -6, y: 51}
+        - {x: -13, y: 49}
+        - {x: -16, y: 43}
+        - {x: -16, y: 13}
+        - {x: -15, y: 2}
+        - {x: -2, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 3}
+        - {x: 21, y: 28}
+        - {x: 21, y: 40}
+    - name: skeletor_blue_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 51}
+        - {x: -9, y: 51}
+        - {x: -14, y: 42}
+        - {x: -14, y: 2}
+        - {x: -6, y: 0}
+        - {x: 10, y: 0}
+        - {x: 18, y: 12}
+        - {x: 18, y: 44}
+        - {x: 17, y: 47}
+    - name: skeletor_blue_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 51}
+        - {x: -17, y: 32}
+        - {x: -17, y: 6}
+        - {x: -14, y: 0}
+        - {x: 13, y: 0}
+        - {x: 17, y: 7}
+        - {x: 17, y: 49}
+        - {x: 12, y: 51}
+    - name: skeletor_blue_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 51}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 39}
+        - {x: 12, y: 51}
+    - name: skeletor_blue_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 51}
+        - {x: -15, y: 48}
+        - {x: -15, y: 1}
+        - {x: -14, y: 0}
+        - {x: 12, y: 0}
+        - {x: 15, y: 1}
+        - {x: 15, y: 47}
+        - {x: 8, y: 51}
+    - name: skeletor_blue_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 24}
+        - {x: 14, y: 45}
+        - {x: 10, y: 51}
+        - {x: -7, y: 51}
+        - {x: -14, y: 49}
+        - {x: -20, y: 27}
+        - {x: -20, y: 13}
+        - {x: -15, y: 0}
+        - {x: 12, y: 0}
+        - {x: 14, y: 3}
+        - {x: 14, y: 6}
+        - {x: 20, y: 19}
+    - name: skeletor_blue_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 51}
+        - {x: -14, y: 51}
+        - {x: -27, y: 41}
+        - {x: -27, y: 24}
+        - {x: -15, y: 0}
+        - {x: 18, y: 0}
+        - {x: 27, y: 23}
+        - {x: 27, y: 36}
+        - {x: 25, y: 39}
+    - name: skeletor_blue_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -22, y: 46}
+        - {x: -26, y: 39}
+        - {x: -26, y: 30}
+        - {x: -14, y: 0}
+        - {x: 18, y: 0}
+        - {x: 26, y: 26}
+        - {x: 26, y: 42}
+        - {x: 25, y: 51}
+    - name: skeletor_blue_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 51}
+        - {x: -16, y: 51}
+        - {x: -19, y: 42}
+        - {x: -19, y: 1}
+        - {x: -17, y: 0}
+        - {x: 12, y: 0}
+        - {x: 19, y: 8}
+        - {x: 19, y: 41}
+        - {x: 18, y: 48}
+    - name: skeletor_blue_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -13, y: 46}
+        - {x: -13, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 50}
+        - {x: 8, y: 51}
+    - name: skeletor_blue_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 51}
+        - {x: -14, y: 51}
+        - {x: -14, y: 8}
+        - {x: -13, y: 1}
+        - {x: -11, y: 0}
+        - {x: 13, y: 0}
+        - {x: 13, y: 38}
+        - {x: 11, y: 47}
+    - name: skeletor_blue_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 51}
+        - {x: -13, y: 49}
+        - {x: -13, y: 12}
+        - {x: -9, y: 0}
+        - {x: 12, y: 0}
+        - {x: 12, y: 48}
+        - {x: 6, y: 51}
+    - name: skeletor_blue_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 51}
+        - {x: -14, y: 50}
+        - {x: -16, y: 44}
+        - {x: -16, y: 11}
+        - {x: -10, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 50}
+        - {x: 12, y: 51}
+    - name: skeletor_blue_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 51}
+        - {x: -21, y: 41}
+        - {x: -21, y: 22}
+        - {x: -10, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 51}
+    - name: skeletor_blue_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 51}
+        - {x: -11, y: 51}
+        - {x: -21, y: 45}
+        - {x: -21, y: 22}
+        - {x: -13, y: 0}
+        - {x: 9, y: 0}
+        - {x: 14, y: 2}
+        - {x: 16, y: 15}
+        - {x: 16, y: 39}
+        - {x: 13, y: 50}
+    - name: skeletor_blue_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 51}
+        - {x: -14, y: 45}
+        - {x: -18, y: 37}
+        - {x: -18, y: 18}
+        - {x: -9, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 51}
+    - name: skeletor_blue_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 48}
+        - {x: 7, y: 50}
+        - {x: -13, y: 50}
+        - {x: -17, y: 47}
+        - {x: -17, y: 0}
+        - {x: 12, y: 0}
+        - {x: 15, y: 2}
+        - {x: 17, y: 14}
+        - {x: 17, y: 36}
+    - name: skeletor_blue_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 49}
+        - {x: -14, y: 44}
+        - {x: -14, y: 5}
+        - {x: -11, y: 0}
+        - {x: 13, y: 0}
+        - {x: 16, y: 4}
+        - {x: 16, y: 32}
+        - {x: 11, y: 49}
+    - name: skeletor_blue_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 46}
+        - {x: 9, y: 49}
+        - {x: 6, y: 50}
+        - {x: -6, y: 50}
+        - {x: -11, y: 46}
+        - {x: -11, y: 0}
+        - {x: 12, y: 0}
+        - {x: 15, y: 8}
+        - {x: 15, y: 27}
+        - {x: 14, y: 43}
+    - name: skeletor_blue_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 46}
+        - {x: 9, y: 50}
+        - {x: -8, y: 50}
+        - {x: -11, y: 49}
+        - {x: -11, y: 4}
+        - {x: -7, y: 0}
+        - {x: 11, y: 0}
+        - {x: 14, y: 2}
+        - {x: 15, y: 5}
+        - {x: 15, y: 27}
+        - {x: 14, y: 43}
+    - name: skeletor_blue_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 49}
+        - {x: -10, y: 5}
+        - {x: -4, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 49}
+    - name: skeletor_blue_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 49}
+        - {x: -10, y: 5}
+        - {x: -4, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 49}
+    - name: skeletor_blue_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 49}
+        - {x: -10, y: 5}
+        - {x: -4, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 49}
+    - name: skeletor_blue_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 50}
+        - {x: -11, y: 3}
+        - {x: -6, y: 0}
+        - {x: 13, y: 0}
+        - {x: 13, y: 48}
+        - {x: 9, y: 50}
+    - name: skeletor_blue_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -11, y: 1}
+        - {x: -9, y: 0}
+        - {x: 13, y: 0}
+        - {x: 13, y: 51}
+    - name: skeletor_blue_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 51}
+        - {x: -11, y: 51}
+        - {x: -15, y: 50}
+        - {x: -15, y: 9}
+        - {x: -10, y: 1}
+        - {x: -5, y: 0}
+        - {x: 8, y: 0}
+        - {x: 13, y: 12}
+        - {x: 13, y: 44}
+    - name: skeletor_blue_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 51}
+        - {x: -15, y: 0}
+        - {x: 8, y: 0}
+        - {x: 16, y: 9}
+        - {x: 16, y: 44}
+        - {x: 14, y: 51}
+    - name: skeletor_blue_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 51}
+        - {x: -9, y: 51}
+        - {x: -12, y: 45}
+        - {x: -12, y: 1}
+        - {x: -8, y: 0}
+        - {x: 12, y: 0}
+        - {x: 16, y: 14}
+        - {x: 16, y: 38}
+        - {x: 14, y: 48}
+    - name: skeletor_blue_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 0}
+        - {x: 12, y: 39}
+        - {x: 10, y: 51}
+        - {x: -19, y: 51}
+        - {x: -19, y: 0}
+    - name: skeletor_blue_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 51}
+        - {x: -16, y: 49}
+        - {x: -22, y: 24}
+        - {x: -22, y: 14}
+        - {x: -13, y: 3}
+        - {x: -3, y: 0}
+        - {x: 12, y: 0}
+        - {x: 12, y: 48}
+        - {x: 6, y: 51}
+    - name: skeletor_blue_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 0}
+        - {x: 12, y: 39}
+        - {x: 10, y: 51}
+        - {x: -19, y: 51}
+        - {x: -19, y: 0}
+    - name: skeletor_blue_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 51}
+        - {x: -9, y: 51}
+        - {x: -12, y: 48}
+        - {x: -12, y: 8}
+        - {x: -10, y: 0}
+        - {x: 12, y: 0}
+        - {x: 16, y: 8}
+        - {x: 16, y: 40}
+        - {x: 14, y: 49}
+    - name: skeletor_blue_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 51}
+        - {x: -17, y: 32}
+        - {x: -17, y: 6}
+        - {x: -14, y: 0}
+        - {x: 13, y: 0}
+        - {x: 17, y: 7}
+        - {x: 17, y: 49}
+        - {x: 12, y: 51}
+    - name: skeletor_blue_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 51}
+        - {x: -15, y: 43}
+        - {x: -15, y: 4}
+        - {x: -14, y: 1}
+        - {x: 12, y: 1}
+        - {x: 13, y: 3}
+        - {x: 13, y: 43}
+        - {x: 12, y: 51}
+    - name: skeletor_blue_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 51}
+        - {x: -13, y: 1}
+        - {x: 12, y: 1}
+        - {x: 12, y: 51}
+    - name: skeletor_blue_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 51}
+        - {x: -16, y: 1}
+        - {x: 10, y: 1}
+        - {x: 12, y: 2}
+        - {x: 12, y: 47}
+        - {x: 9, y: 51}
+    - name: skeletor_blue_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 50}
+        - {x: -13, y: 49}
+        - {x: -13, y: 1}
+        - {x: 12, y: 1}
+        - {x: 12, y: 49}
+        - {x: 7, y: 50}
+    - name: skeletor_blue_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 50}
+        - {x: -12, y: 45}
+        - {x: -12, y: 4}
+        - {x: -5, y: 1}
+        - {x: 9, y: 1}
+        - {x: 12, y: 2}
+        - {x: 12, y: 45}
+        - {x: 6, y: 50}
+    - name: skeletor_blue_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 50}
+        - {x: -13, y: 46}
+        - {x: -13, y: 3}
+        - {x: -7, y: 1}
+        - {x: 12, y: 1}
+        - {x: 12, y: 46}
+        - {x: 8, y: 49}
+        - {x: 5, y: 50}
+    - name: skeletor_blue_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 51}
+        - {x: -16, y: 34}
+        - {x: -16, y: 18}
+        - {x: -14, y: 5}
+        - {x: -4, y: 1}
+        - {x: 12, y: 1}
+        - {x: 12, y: 50}
+        - {x: 11, y: 51}
+    - name: skeletor_blue_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 51}
+        - {x: -13, y: 48}
+        - {x: -13, y: 4}
+        - {x: -11, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 51}
+    - name: skeletor_blue_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 51}
+        - {x: -8, y: 51}
+        - {x: -13, y: 50}
+        - {x: -13, y: 10}
+        - {x: -9, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 31}
+        - {x: 11, y: 47}
+    - name: skeletor_blue_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 51}
+        - {x: -16, y: 40}
+        - {x: -16, y: 7}
+        - {x: -10, y: 0}
+        - {x: 6, y: 0}
+        - {x: 14, y: 2}
+        - {x: 15, y: 5}
+        - {x: 15, y: 46}
+        - {x: 13, y: 51}
+    - name: skeletor_blue_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 51}
+        - {x: -16, y: 0}
+        - {x: 5, y: 0}
+        - {x: 12, y: 2}
+        - {x: 12, y: 46}
+        - {x: 7, y: 51}
+    - name: skeletor_blue_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 51}
+        - {x: -5, y: 51}
+        - {x: -11, y: 48}
+        - {x: -12, y: 34}
+        - {x: -12, y: 0}
+        - {x: 13, y: 0}
+        - {x: 19, y: 13}
+        - {x: 19, y: 33}
+        - {x: 14, y: 44}
+    - name: skeletor_blue_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -12, y: 50}
+        - {x: -12, y: 0}
+        - {x: 17, y: 0}
+        - {x: 22, y: 5}
+        - {x: 22, y: 33}
+        - {x: 14, y: 51}
+    - name: skeletor_blue_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 51}
+        - {x: -5, y: 51}
+        - {x: -11, y: 48}
+        - {x: -12, y: 34}
+        - {x: -12, y: 0}
+        - {x: 13, y: 0}
+        - {x: 19, y: 13}
+        - {x: 19, y: 33}
+        - {x: 14, y: 44}
+    - name: skeletor_blue_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 51}
+        - {x: -16, y: 0}
+        - {x: 10, y: 0}
+        - {x: 12, y: 2}
+        - {x: 12, y: 49}
+        - {x: 7, y: 51}
+    - name: skeletor_blue_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 50}
+        - {x: 7, y: 52}
+        - {x: -11, y: 52}
+        - {x: -17, y: 47}
+        - {x: -17, y: 2}
+        - {x: 14, y: 2}
+        - {x: 17, y: 7}
+        - {x: 17, y: 37}
+    - name: skeletor_blue_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 52}
+        - {x: -12, y: 52}
+        - {x: -17, y: 38}
+        - {x: -17, y: 7}
+        - {x: -11, y: 2}
+        - {x: 11, y: 2}
+        - {x: 15, y: 4}
+        - {x: 17, y: 16}
+        - {x: 17, y: 35}
+    - name: skeletor_blue_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 52}
+        - {x: -13, y: 52}
+        - {x: -17, y: 49}
+        - {x: -17, y: 1}
+        - {x: 11, y: 1}
+        - {x: 17, y: 14}
+        - {x: 17, y: 38}
+        - {x: 14, y: 50}
+    - name: skeletor_blue_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 51}
+        - {x: -9, y: 51}
+        - {x: -14, y: 45}
+        - {x: -17, y: 37}
+        - {x: -17, y: 10}
+        - {x: -16, y: 4}
+        - {x: -4, y: 0}
+        - {x: 9, y: 0}
+        - {x: 15, y: 2}
+        - {x: 16, y: 17}
+        - {x: 16, y: 34}
+        - {x: 14, y: 49}
+    - name: skeletor_blue_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 52}
+        - {x: -12, y: 52}
+        - {x: -17, y: 36}
+        - {x: -17, y: 8}
+        - {x: -9, y: 2}
+        - {x: -2, y: 1}
+        - {x: 10, y: 1}
+        - {x: 17, y: 15}
+        - {x: 17, y: 39}
+        - {x: 14, y: 50}
+    - name: skeletor_blue_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 52}
+        - {x: -12, y: 52}
+        - {x: -17, y: 38}
+        - {x: -17, y: 7}
+        - {x: -11, y: 2}
+        - {x: 11, y: 2}
+        - {x: 15, y: 4}
+        - {x: 17, y: 16}
+        - {x: 17, y: 35}
+    - name: skeletor_blue_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 52}
+        - {x: -12, y: 52}
+        - {x: -17, y: 38}
+        - {x: -17, y: 8}
+        - {x: -10, y: 1}
+        - {x: 1, y: 1}
+        - {x: 9, y: 2}
+        - {x: 17, y: 13}
+        - {x: 17, y: 28}
+        - {x: 14, y: 50}
+    - name: skeletor_blue_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -16, y: 33}
+        - {x: -16, y: 20}
+        - {x: -13, y: 3}
+        - {x: -11, y: 0}
+        - {x: 2, y: 0}
+        - {x: 10, y: 2}
+        - {x: 17, y: 13}
+        - {x: 17, y: 29}
+        - {x: 10, y: 51}
+    - name: skeletor_blue_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 50}
+        - {x: 6, y: 52}
+        - {x: -9, y: 52}
+        - {x: -14, y: 46}
+        - {x: -17, y: 28}
+        - {x: -17, y: 15}
+        - {x: -10, y: 1}
+        - {x: 9, y: 1}
+        - {x: 17, y: 13}
+        - {x: 17, y: 29}
+    - name: skeletor_blue_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 52}
+        - {x: -22, y: 47}
+        - {x: -22, y: 1}
+        - {x: 13, y: 1}
+        - {x: 13, y: 52}
+    - name: skeletor_blue_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 51}
+        - {x: -12, y: 48}
+        - {x: -15, y: 14}
+        - {x: -15, y: 6}
+        - {x: -9, y: 1}
+        - {x: 12, y: 1}
+        - {x: 14, y: 6}
+        - {x: 14, y: 49}
+        - {x: 8, y: 51}
+    - name: skeletor_blue_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 52}
+        - {x: -13, y: 45}
+        - {x: -13, y: 2}
+        - {x: 10, y: 2}
+        - {x: 12, y: 3}
+        - {x: 12, y: 50}
+        - {x: 8, y: 52}
+    - name: skeletor_blue_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 52}
+        - {x: -12, y: 52}
+        - {x: -12, y: 8}
+        - {x: -6, y: 2}
+        - {x: 7, y: 2}
+        - {x: 15, y: 12}
+        - {x: 15, y: 26}
+        - {x: 13, y: 45}
+    - name: skeletor_blue_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -19, y: 37}
+        - {x: -19, y: 14}
+        - {x: -17, y: 1}
+        - {x: 12, y: 1}
+        - {x: 16, y: 10}
+        - {x: 16, y: 48}
+        - {x: 8, y: 52}
+    - name: skeletor_blue_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 51}
+        - {x: -14, y: 2}
+        - {x: -13, y: 1}
+        - {x: 18, y: 1}
+        - {x: 18, y: 51}
+    - name: skeletor_blue_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 52}
+        - {x: -17, y: 35}
+        - {x: -18, y: 32}
+        - {x: -18, y: 18}
+        - {x: -11, y: 1}
+        - {x: 6, y: 1}
+        - {x: 14, y: 3}
+        - {x: 16, y: 5}
+        - {x: 16, y: 42}
+        - {x: 13, y: 52}
+    - name: skeletor_blue_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 52}
+        - {x: -11, y: 52}
+        - {x: -20, y: 32}
+        - {x: -20, y: 8}
+        - {x: -10, y: 1}
+        - {x: 5, y: 1}
+        - {x: 11, y: 3}
+        - {x: 15, y: 13}
+        - {x: 15, y: 40}
+        - {x: 14, y: 50}
+    - name: skeletor_blue_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 52}
+        - {x: -12, y: 51}
+        - {x: -12, y: 7}
+        - {x: -11, y: 1}
+        - {x: 8, y: 1}
+        - {x: 14, y: 15}
+        - {x: 14, y: 50}
+        - {x: 7, y: 52}
+    - name: skeletor_blue_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 1}
+        - {x: 13, y: 1}
+        - {x: 17, y: 8}
+        - {x: 17, y: 37}
+        - {x: 15, y: 47}
+        - {x: 12, y: 52}
+        - {x: -11, y: 52}
+        - {x: -17, y: 49}
+        - {x: -17, y: 9}
+        - {x: -16, y: 2}
+        - {x: -12, y: 1}
+        - {x: -3, y: 1}
+        - {x: -1, y: 5}
+        - {x: -1, y: 8}
+        - {x: 1, y: 5}
+    - name: skeletor_blue_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 52}
+        - {x: -14, y: 46}
+        - {x: -17, y: 23}
+        - {x: -17, y: 13}
+        - {x: -11, y: 1}
+        - {x: 16, y: 1}
+        - {x: 17, y: 2}
+        - {x: 17, y: 49}
+        - {x: 10, y: 52}
+    - name: skeletor_blue_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 52}
+        - {x: -17, y: 37}
+        - {x: -17, y: 7}
+        - {x: -14, y: 4}
+        - {x: -4, y: 0}
+        - {x: 13, y: 0}
+        - {x: 17, y: 7}
+        - {x: 17, y: 50}
+        - {x: 13, y: 52}
+    - name: skeletor_blue_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -13, y: 49}
+        - {x: -17, y: 29}
+        - {x: -17, y: 9}
+        - {x: -10, y: 2}
+        - {x: -4, y: 0}
+        - {x: 9, y: 0}
+        - {x: 15, y: 2}
+        - {x: 17, y: 12}
+        - {x: 17, y: 49}
+        - {x: 11, y: 51}
+    - name: skeletor_blue_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -14, y: 50}
+        - {x: -17, y: 45}
+        - {x: -17, y: 5}
+        - {x: -16, y: 0}
+        - {x: 14, y: 0}
+        - {x: 17, y: 4}
+        - {x: 17, y: 39}
+        - {x: 11, y: 52}
+    - name: skeletor_blue_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 52}
+        - {x: -17, y: 41}
+        - {x: -17, y: 1}
+        - {x: 13, y: 1}
+        - {x: 17, y: 5}
+        - {x: 17, y: 49}
+        - {x: 9, y: 52}
+    - name: skeletor_blue_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 52}
+        - {x: -17, y: 42}
+        - {x: -17, y: 0}
+        - {x: 15, y: 0}
+        - {x: 17, y: 2}
+        - {x: 17, y: 40}
+        - {x: 12, y: 52}
+    - name: skeletor_blue_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 51}
+        - {x: -17, y: 43}
+        - {x: -17, y: 14}
+        - {x: -12, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 1}
+        - {x: 17, y: 8}
+        - {x: 17, y: 48}
+        - {x: 9, y: 51}
+    - name: skeletor_blue_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 46}
+        - {x: 10, y: 52}
+        - {x: -7, y: 52}
+        - {x: -14, y: 50}
+        - {x: -17, y: 26}
+        - {x: -17, y: 14}
+        - {x: -11, y: 0}
+        - {x: 11, y: 0}
+        - {x: 17, y: 12}
+        - {x: 17, y: 24}
+    - name: skeletor_blue_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 1}
+        - {x: 11, y: 1}
+        - {x: 22, y: 8}
+        - {x: 22, y: 35}
+        - {x: 11, y: 52}
+        - {x: -9, y: 52}
+        - {x: -13, y: 50}
+    - name: skeletor_blue_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 51}
+        - {x: -9, y: 51}
+        - {x: -12, y: 47}
+        - {x: -14, y: 32}
+        - {x: -14, y: 2}
+        - {x: -12, y: 1}
+        - {x: 14, y: 1}
+        - {x: 15, y: 2}
+        - {x: 15, y: 35}
+        - {x: 13, y: 49}
+    - name: skeletor_blue_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 52}
+        - {x: -12, y: 48}
+        - {x: -12, y: 20}
+        - {x: -11, y: 5}
+        - {x: -7, y: 2}
+        - {x: 13, y: 2}
+        - {x: 13, y: 51}
+        - {x: 8, y: 52}
+    - name: skeletor_blue_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 52}
+        - {x: -14, y: 45}
+        - {x: -15, y: 28}
+        - {x: -15, y: 13}
+        - {x: -6, y: 2}
+        - {x: 6, y: 2}
+        - {x: 12, y: 8}
+        - {x: 12, y: 51}
+        - {x: 7, y: 52}
+    - name: skeletor_blue_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 52}
+        - {x: -16, y: 1}
+        - {x: 13, y: 1}
+        - {x: 19, y: 11}
+        - {x: 19, y: 35}
+        - {x: 9, y: 52}
+    - name: skeletor_blue_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 51}
+        - {x: -16, y: 50}
+        - {x: -18, y: 33}
+        - {x: -18, y: 9}
+        - {x: -14, y: 2}
+        - {x: -11, y: 1}
+        - {x: 14, y: 1}
+        - {x: 14, y: 51}
+    - name: skeletor_blue_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 11}
+        - {x: -10, y: 1}
+        - {x: 12, y: 1}
+        - {x: 18, y: 6}
+        - {x: 18, y: 42}
+        - {x: 8, y: 52}
+        - {x: -12, y: 52}
+        - {x: -15, y: 51}
+        - {x: -16, y: 38}
+    - name: skeletor_blue_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 52}
+        - {x: -15, y: 43}
+        - {x: -15, y: 10}
+        - {x: -11, y: 1}
+        - {x: 8, y: 1}
+        - {x: 20, y: 7}
+        - {x: 20, y: 28}
+        - {x: 9, y: 52}
+    - name: skeletor_blue_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 52}
+        - {x: -14, y: 51}
+        - {x: -14, y: 12}
+        - {x: -7, y: 1}
+        - {x: 11, y: 1}
+        - {x: 12, y: 7}
+        - {x: 12, y: 52}
+    - name: skeletor_blue_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 50}
+        - {x: -17, y: 45}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 37}
+        - {x: 16, y: 50}
+    - name: skeletor_blue_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 47}
+        - {x: 7, y: 49}
+        - {x: -11, y: 49}
+        - {x: -15, y: 45}
+    - name: skeletor_blue_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 49}
+        - {x: -9, y: 49}
+        - {x: -14, y: 43}
+        - {x: -14, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 19}
+        - {x: 11, y: 45}
+    - name: skeletor_blue_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 50}
+        - {x: -14, y: 50}
+        - {x: -15, y: 46}
+        - {x: -15, y: 1}
+        - {x: -14, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 45}
+        - {x: 15, y: 48}
+    - name: skeletor_blue_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 50}
+        - {x: -16, y: 34}
+        - {x: -16, y: 0}
+        - {x: 18, y: 0}
+        - {x: 24, y: 23}
+        - {x: 24, y: 47}
+        - {x: 17, y: 50}
+    - name: skeletor_blue_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 5}
+        - {x: -12, y: 0}
+        - {x: 26, y: 0}
+        - {x: 27, y: 1}
+        - {x: 27, y: 50}
+        - {x: -9, y: 50}
+        - {x: -16, y: 33}
+    - name: skeletor_blue_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 51}
+        - {x: -6, y: 51}
+        - {x: -11, y: 47}
+        - {x: -12, y: 34}
+        - {x: -22, y: 21}
+        - {x: -22, y: 13}
+        - {x: -12, y: 0}
+        - {x: 8, y: 0}
+        - {x: 13, y: 12}
+        - {x: 13, y: 44}
+    - name: skeletor_blue_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 49}
+        - {x: -23, y: 30}
+        - {x: -23, y: 0}
+        - {x: 11, y: 0}
+        - {x: 12, y: 7}
+        - {x: 12, y: 49}
+    - name: skeletor_blue_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 51}
+        - {x: -14, y: 0}
+        - {x: 10, y: 0}
+        - {x: 14, y: 6}
+        - {x: 14, y: 48}
+        - {x: 6, y: 51}
+    - name: skeletor_blue_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 51}
+        - {x: -27, y: 36}
+        - {x: -27, y: 7}
+        - {x: -24, y: 0}
+        - {x: 13, y: 0}
+        - {x: 15, y: 4}
+        - {x: 15, y: 28}
+        - {x: 7, y: 51}
+    - name: skeletor_blue_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 51}
+        - {x: -18, y: 50}
+        - {x: -32, y: 41}
+        - {x: -32, y: 14}
+        - {x: -23, y: 0}
+        - {x: 10, y: 0}
+        - {x: 13, y: 1}
+        - {x: 14, y: 6}
+        - {x: 14, y: 30}
+        - {x: 8, y: 51}
+    - name: skeletor_blue_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 51}
+        - {x: -32, y: 17}
+        - {x: -25, y: 0}
+        - {x: 13, y: 0}
+        - {x: 14, y: 1}
+        - {x: 14, y: 45}
+        - {x: 11, y: 51}
+    - name: skeletor_blue_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 51}
+        - {x: -17, y: 32}
+        - {x: -17, y: 6}
+        - {x: -14, y: 0}
+        - {x: 13, y: 0}
+        - {x: 17, y: 7}
+        - {x: 17, y: 49}
+        - {x: 12, y: 51}
+    - name: skeletor_blue_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -15, y: 45}
+        - {x: -15, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 50}
+        - {x: 12, y: 51}
+    - name: skeletor_blue_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 49}
+        - {x: -15, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 46}
+        - {x: 12, y: 49}
+    - name: skeletor_blue_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 50}
+        - {x: -11, y: 48}
+        - {x: -14, y: 18}
+        - {x: -14, y: 0}
+        - {x: 6, y: 0}
+        - {x: 12, y: 1}
+        - {x: 16, y: 3}
+        - {x: 16, y: 46}
+        - {x: 12, y: 50}
+    - name: skeletor_blue_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 20}
+        - {x: 13, y: 17}
+        - {x: 15, y: 15}
+        - {x: 15, y: 8}
+        - {x: 18, y: 5}
+        - {x: 19, y: 5}
+        - {x: 24, y: 8}
+        - {x: 25, y: 17}
+        - {x: 25, y: 27}
+        - {x: 21, y: 47}
+        - {x: 12, y: 51}
+        - {x: -11, y: 51}
+        - {x: -14, y: 47}
+        - {x: -14, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 1}
+        - {x: 15, y: 4}
+        - {x: 15, y: 7}
+        - {x: 14, y: 10}
+    - name: skeletor_blue_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 51}
+        - {x: -15, y: 0}
+        - {x: 26, y: 0}
+        - {x: 32, y: 9}
+        - {x: 32, y: 47}
+        - {x: 25, y: 51}
+    - name: skeletor_blue_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 51}
+        - {x: -13, y: 45}
+        - {x: -13, y: 4}
+        - {x: -11, y: 0}
+        - {x: 21, y: 0}
+        - {x: 22, y: 1}
+        - {x: 22, y: 40}
+        - {x: 15, y: 51}
+    - name: skeletor_blue_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 49}
+        - {x: -12, y: 48}
+        - {x: -12, y: 0}
+        - {x: 8, y: 0}
+        - {x: 23, y: 3}
+        - {x: 23, y: 35}
+        - {x: 19, y: 49}
+    - name: skeletor_blue_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 44}
+        - {x: 12, y: 51}
+        - {x: -14, y: 51}
+        - {x: -14, y: 0}
+        - {x: 8, y: 0}
+        - {x: 12, y: 1}
+        - {x: 13, y: 4}
+        - {x: 14, y: 9}
+    - name: skeletor_blue_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 44}
+        - {x: 10, y: 51}
+        - {x: -4, y: 51}
+        - {x: -9, y: 47}
+        - {x: -15, y: 22}
+        - {x: -15, y: 5}
+        - {x: -14, y: 0}
+        - {x: 27, y: 0}
+        - {x: 27, y: 20}
+        - {x: 24, y: 28}
+    - name: skeletor_blue_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 51}
+        - {x: -14, y: 0}
+        - {x: 17, y: 0}
+        - {x: 32, y: 14}
+        - {x: 32, y: 45}
+        - {x: 24, y: 51}
+    - name: skeletor_blue_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 51}
+        - {x: -14, y: 35}
+        - {x: -14, y: 0}
+        - {x: 17, y: 0}
+        - {x: 32, y: 16}
+        - {x: 32, y: 38}
+        - {x: 19, y: 51}
+    - name: skeletor_blue_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 48}
+        - {x: 6, y: 50}
+        - {x: -14, y: 50}
+        - {x: -18, y: 47}
+        - {x: -18, y: 0}
+        - {x: 11, y: 0}
+        - {x: 14, y: 2}
+        - {x: 16, y: 14}
+        - {x: 16, y: 36}
+    - name: skeletor_blue_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 49}
+        - {x: -15, y: 44}
+        - {x: -15, y: 5}
+        - {x: -12, y: 0}
+        - {x: 12, y: 0}
+        - {x: 15, y: 4}
+        - {x: 15, y: 32}
+        - {x: 10, y: 49}
+    - name: skeletor_blue_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 50}
+        - {x: -12, y: 46}
+        - {x: -12, y: 2}
+        - {x: -7, y: 0}
+        - {x: 13, y: 0}
+        - {x: 13, y: 43}
+        - {x: 10, y: 50}
+    - name: skeletor_blue_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 50}
+        - {x: -13, y: 13}
+        - {x: -10, y: 0}
+        - {x: 12, y: 0}
+        - {x: 12, y: 48}
+        - {x: 7, y: 50}
+    - name: skeletor_blue_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 50}
+        - {x: -13, y: 46}
+        - {x: -13, y: 4}
+        - {x: -6, y: 0}
+        - {x: 15, y: 0}
+        - {x: 16, y: 3}
+        - {x: 16, y: 39}
+        - {x: 12, y: 50}
+    - name: skeletor_blue_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 50}
+        - {x: -12, y: 50}
+        - {x: -13, y: 49}
+        - {x: -13, y: 16}
+        - {x: -12, y: 6}
+        - {x: -5, y: 0}
+        - {x: 10, y: 0}
+        - {x: 15, y: 5}
+        - {x: 15, y: 49}
+    - name: skeletor_blue_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 32}
+        - {x: -9, y: 7}
+        - {x: -6, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 50}
+        - {x: -8, y: 50}
+        - {x: -13, y: 45}
+    - name: skeletor_blue_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 50}
+        - {x: -13, y: 49}
+        - {x: -13, y: 12}
+        - {x: -10, y: 0}
+        - {x: 13, y: 0}
+        - {x: 15, y: 5}
+        - {x: 15, y: 42}
+        - {x: 8, y: 50}
+    - name: skeletor_blue_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 50}
+        - {x: -11, y: 50}
+        - {x: -13, y: 48}
+        - {x: -13, y: 3}
+        - {x: -7, y: 0}
+        - {x: 13, y: 0}
+        - {x: 17, y: 11}
+        - {x: 17, y: 33}
+        - {x: 13, y: 48}
+    - name: skeletor_blue_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 50}
+        - {x: -13, y: 12}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 16, y: 10}
+        - {x: 16, y: 39}
+        - {x: 11, y: 50}
+    - name: skeletor_blue_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 50}
+        - {x: -13, y: 13}
+        - {x: -10, y: 0}
+        - {x: 12, y: 0}
+        - {x: 12, y: 48}
+        - {x: 7, y: 50}
+    - name: skeletor_blue_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 50}
+        - {x: -13, y: 49}
+        - {x: -13, y: 13}
+        - {x: -10, y: 0}
+        - {x: 12, y: 0}
+        - {x: 12, y: 49}
+        - {x: 7, y: 50}
+    - name: skeletor_blue_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 50}
+        - {x: -13, y: 13}
+        - {x: -10, y: 0}
+        - {x: 12, y: 0}
+        - {x: 12, y: 48}
+        - {x: 7, y: 50}
+    - name: skeletor_blue_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 51}
+        - {x: -5, y: 51}
+        - {x: -10, y: 48}
+        - {x: -10, y: 1}
+        - {x: -3, y: 0}
+        - {x: 9, y: 0}
+        - {x: 14, y: 14}
+        - {x: 14, y: 44}
+    - name: skeletor_blue_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 51}
+        - {x: -11, y: 48}
+        - {x: -14, y: 30}
+        - {x: -14, y: 9}
+        - {x: -9, y: 1}
+        - {x: -2, y: 0}
+        - {x: 9, y: 0}
+        - {x: 14, y: 11}
+        - {x: 14, y: 49}
+        - {x: 8, y: 51}
+    - name: skeletor_blue_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 51}
+        - {x: -11, y: 51}
+        - {x: -14, y: 49}
+        - {x: -19, y: 28}
+        - {x: -19, y: 14}
+        - {x: -9, y: 1}
+        - {x: 0, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 2}
+        - {x: 17, y: 15}
+        - {x: 17, y: 48}
+    - name: skeletor_blue_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -21, y: 29}
+        - {x: -21, y: 13}
+        - {x: -13, y: 1}
+        - {x: -10, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 46}
+        - {x: 9, y: 51}
+    - name: skeletor_blue_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -21, y: 35}
+        - {x: -21, y: 15}
+        - {x: -9, y: 0}
+        - {x: 15, y: 0}
+        - {x: 18, y: 6}
+        - {x: 18, y: 49}
+        - {x: 14, y: 51}
+    - name: skeletor_blue_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 51}
+        - {x: -22, y: 43}
+        - {x: -22, y: 9}
+        - {x: -19, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 51}
+    - name: skeletor_blue_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 51}
+        - {x: -22, y: 44}
+        - {x: -22, y: 10}
+        - {x: -19, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 51}
+    - name: skeletor_blue_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 51}
+        - {x: -14, y: 51}
+        - {x: -21, y: 36}
+        - {x: -21, y: 17}
+        - {x: -14, y: 2}
+        - {x: -5, y: 0}
+        - {x: 13, y: 0}
+        - {x: 14, y: 2}
+        - {x: 19, y: 21}
+        - {x: 19, y: 40}
+    - name: skeletor_blue_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 51}
+        - {x: -21, y: 42}
+        - {x: -21, y: 12}
+        - {x: -9, y: 0}
+        - {x: 14, y: 0}
+        - {x: 16, y: 1}
+        - {x: 21, y: 19}
+        - {x: 21, y: 36}
+        - {x: 11, y: 51}
+    - name: skeletor_blue_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -21, y: 35}
+        - {x: -21, y: 15}
+        - {x: -9, y: 0}
+        - {x: 15, y: 0}
+        - {x: 18, y: 6}
+        - {x: 18, y: 49}
+        - {x: 14, y: 51}
+    - name: skeletor_blue_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -13, y: 50}
+        - {x: -21, y: 30}
+        - {x: -21, y: 26}
+        - {x: -11, y: 3}
+        - {x: -3, y: 0}
+        - {x: 15, y: 0}
+        - {x: 16, y: 4}
+        - {x: 16, y: 42}
+        - {x: 13, y: 51}
+    - name: skeletor_blue_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 51}
+        - {x: -21, y: 30}
+        - {x: -21, y: 26}
+        - {x: -12, y: 0}
+        - {x: 13, y: 0}
+        - {x: 13, y: 50}
+        - {x: 10, y: 51}
+    - name: skeletor_blue_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -13, y: 50}
+        - {x: -21, y: 30}
+        - {x: -21, y: 26}
+        - {x: -11, y: 3}
+        - {x: -3, y: 0}
+        - {x: 15, y: 0}
+        - {x: 16, y: 4}
+        - {x: 16, y: 42}
+        - {x: 13, y: 51}
+    - name: skeletor_blue_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 51}
+        - {x: -18, y: 50}
+        - {x: -18, y: 0}
+        - {x: 12, y: 0}
+        - {x: 16, y: 7}
+        - {x: 16, y: 49}
+        - {x: 9, y: 51}
+    - name: skeletor_blue_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 51}
+        - {x: -16, y: 49}
+        - {x: -16, y: 1}
+        - {x: 13, y: 1}
+        - {x: 13, y: 49}
+        - {x: 6, y: 51}
+    - name: skeletor_blue_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -16, y: 49}
+        - {x: -16, y: 20}
+        - {x: -13, y: 17}
+        - {x: -14, y: 9}
+        - {x: -11, y: 2}
+        - {x: -9, y: 1}
+        - {x: 12, y: 1}
+        - {x: 12, y: 51}
+    - name: skeletor_blue_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 51}
+        - {x: -16, y: 40}
+        - {x: -16, y: 9}
+        - {x: -10, y: 0}
+        - {x: 10, y: 0}
+        - {x: 11, y: 6}
+        - {x: 11, y: 51}
+    - name: skeletor_blue_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 51}
+        - {x: -15, y: 18}
+        - {x: -14, y: 4}
+        - {x: -7, y: 0}
+        - {x: 4, y: 0}
+        - {x: 9, y: 1}
+        - {x: 11, y: 30}
+        - {x: 11, y: 46}
+        - {x: 7, y: 51}
+    - name: skeletor_blue_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 51}
+        - {x: -14, y: 4}
+        - {x: -8, y: 0}
+        - {x: 4, y: 0}
+        - {x: 9, y: 1}
+        - {x: 11, y: 30}
+        - {x: 11, y: 46}
+        - {x: 8, y: 51}
+    - name: skeletor_blue_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 51}
+        - {x: -15, y: 48}
+        - {x: -15, y: 9}
+        - {x: -11, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 14}
+        - {x: 11, y: 50}
+        - {x: 8, y: 51}
+    - name: skeletor_blue_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 51}
+        - {x: -11, y: 51}
+        - {x: -16, y: 41}
+        - {x: -16, y: 25}
+        - {x: -12, y: 5}
+        - {x: -5, y: 0}
+        - {x: 4, y: 0}
+        - {x: 8, y: 2}
+        - {x: 11, y: 36}
+        - {x: 11, y: 46}
+    - name: skeletor_blue_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -16, y: 44}
+        - {x: -16, y: 1}
+        - {x: -12, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 18}
+        - {x: 11, y: 49}
+        - {x: 8, y: 51}
+    - name: skeletor_blue_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 51}
+        - {x: -15, y: 18}
+        - {x: -14, y: 4}
+        - {x: -7, y: 0}
+        - {x: 4, y: 0}
+        - {x: 9, y: 1}
+        - {x: 11, y: 30}
+        - {x: 11, y: 46}
+        - {x: 7, y: 51}
+    - name: skeletor_blue_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 51}
+        - {x: -11, y: 51}
+        - {x: -16, y: 48}
+        - {x: -16, y: 2}
+        - {x: -10, y: 0}
+        - {x: 4, y: 0}
+        - {x: 9, y: 1}
+        - {x: 11, y: 30}
+        - {x: 11, y: 45}
+        - {x: 7, y: 50}
+    - name: skeletor_blue_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 51}
+        - {x: -13, y: 47}
+        - {x: -13, y: 4}
+        - {x: -6, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 10}
+        - {x: 11, y: 50}
+        - {x: 6, y: 51}
+    - name: skeletor_blue_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 51}
+        - {x: -11, y: 51}
+        - {x: -16, y: 48}
+        - {x: -16, y: 2}
+        - {x: -10, y: 0}
+        - {x: 4, y: 0}
+        - {x: 9, y: 1}
+        - {x: 11, y: 30}
+        - {x: 11, y: 45}
+        - {x: 7, y: 50}
+    - name: skeletor_blue_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 51}
+        - {x: -14, y: 46}
+        - {x: -14, y: 5}
+        - {x: -12, y: 2}
+        - {x: -10, y: 0}
+        - {x: 10, y: 0}
+        - {x: 10, y: 51}
+    - name: skeletor_blue_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 51}
+        - {x: -9, y: 51}
+        - {x: -14, y: 50}
+        - {x: -14, y: 8}
+        - {x: -11, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 31}
+        - {x: 10, y: 47}
+    - name: skeletor_blue_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 51}
+        - {x: -8, y: 51}
+        - {x: -13, y: 47}
+        - {x: -17, y: 32}
+        - {x: -17, y: 12}
+        - {x: -10, y: 0}
+        - {x: 6, y: 0}
+        - {x: 9, y: 1}
+        - {x: 19, y: 8}
+        - {x: 19, y: 36}
+        - {x: 16, y: 47}
+    - name: skeletor_blue_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 48}
+        - {x: 9, y: 51}
+        - {x: -14, y: 51}
+        - {x: -16, y: 47}
+        - {x: -16, y: 5}
+        - {x: -12, y: 0}
+        - {x: 9, y: 0}
+        - {x: 14, y: 2}
+        - {x: 21, y: 17}
+        - {x: 21, y: 32}
+    - name: skeletor_blue_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 51}
+        - {x: -13, y: 47}
+        - {x: -18, y: 42}
+        - {x: -18, y: 4}
+        - {x: -16, y: 0}
+        - {x: 6, y: 0}
+        - {x: 12, y: 3}
+        - {x: 21, y: 13}
+        - {x: 21, y: 39}
+        - {x: 14, y: 51}
+    - name: skeletor_blue_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 51}
+        - {x: -14, y: 49}
+        - {x: -14, y: 0}
+        - {x: 12, y: 0}
+        - {x: 19, y: 1}
+        - {x: 22, y: 18}
+        - {x: 22, y: 49}
+        - {x: 16, y: 51}
+    - name: skeletor_blue_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 51}
+        - {x: -10, y: 51}
+        - {x: -16, y: 40}
+        - {x: -16, y: 14}
+        - {x: -14, y: 2}
+        - {x: -12, y: 0}
+        - {x: 13, y: 0}
+        - {x: 22, y: 15}
+        - {x: 22, y: 37}
+        - {x: 20, y: 40}
+    - name: skeletor_blue_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 51}
+        - {x: -19, y: 0}
+        - {x: 14, y: 0}
+        - {x: 21, y: 11}
+        - {x: 21, y: 39}
+        - {x: 16, y: 51}
+    - name: skeletor_blue_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 51}
+        - {x: -10, y: 51}
+        - {x: -21, y: 35}
+        - {x: -21, y: 24}
+        - {x: -15, y: 7}
+        - {x: -12, y: 0}
+        - {x: -2, y: 0}
+        - {x: 12, y: 3}
+        - {x: 21, y: 26}
+        - {x: 21, y: 34}
+        - {x: 18, y: 36}
+    - name: skeletor_blue_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -18, y: 44}
+        - {x: -18, y: 4}
+        - {x: -16, y: 0}
+        - {x: 5, y: 0}
+        - {x: 12, y: 3}
+        - {x: 21, y: 23}
+        - {x: 21, y: 36}
+        - {x: 10, y: 51}
+    - name: skeletor_blue_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 51}
+        - {x: -16, y: 2}
+        - {x: -14, y: 0}
+        - {x: -2, y: 0}
+        - {x: 12, y: 3}
+        - {x: 21, y: 24}
+        - {x: 21, y: 36}
+        - {x: 10, y: 51}
+    - name: skeletor_blue_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 51}
+        - {x: -13, y: 0}
+        - {x: 4, y: 0}
+        - {x: 12, y: 3}
+        - {x: 21, y: 14}
+        - {x: 21, y: 47}
+        - {x: 19, y: 51}
+    - name: skeletor_blue_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 51}
+        - {x: -16, y: 2}
+        - {x: -14, y: 0}
+        - {x: -2, y: 0}
+        - {x: 12, y: 3}
+        - {x: 21, y: 24}
+        - {x: 21, y: 36}
+        - {x: 10, y: 51}
+    - name: skeletor_blue_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 51}
+        - {x: -17, y: 32}
+        - {x: -17, y: 6}
+        - {x: -14, y: 0}
+        - {x: 13, y: 0}
+        - {x: 17, y: 7}
+        - {x: 17, y: 49}
+        - {x: 12, y: 51}
+    - name: skeletor_blue_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 50}
+        - {x: -9, y: 50}
+        - {x: -13, y: 44}
+        - {x: -16, y: 19}
+        - {x: -16, y: 9}
+        - {x: -9, y: 2}
+        - {x: -2, y: 2}
+        - {x: 2, y: 6}
+        - {x: 2, y: 9}
+        - {x: 2, y: 3}
+        - {x: 5, y: 0}
+        - {x: 17, y: 0}
+        - {x: 19, y: 9}
+        - {x: 19, y: 48}
+    - name: skeletor_blue_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 43}
+        - {x: -15, y: 27}
+        - {x: -15, y: 0}
+        - {x: 18, y: 0}
+        - {x: 20, y: 2}
+        - {x: 20, y: 24}
+        - {x: 14, y: 43}
+    - name: skeletor_blue_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 39}
+        - {x: -10, y: 35}
+        - {x: -15, y: 23}
+        - {x: -15, y: 1}
+        - {x: 18, y: 1}
+        - {x: 19, y: 3}
+        - {x: 19, y: 35}
+        - {x: 9, y: 39}
+    - name: skeletor_blue_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 33}
+        - {x: -15, y: 29}
+        - {x: -15, y: 1}
+        - {x: 20, y: 1}
+        - {x: 20, y: 26}
+        - {x: 15, y: 33}
+    - name: skeletor_blue_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 38}
+        - {x: -16, y: 0}
+        - {x: 22, y: 0}
+        - {x: 22, y: 28}
+        - {x: 19, y: 38}
     outline: []
   spritePackingTag: 
   userData: 
