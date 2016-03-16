@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Draggable : MonoBehaviour
 {
-    bool _isDragging = false;
+    private Vector3 _startPosition;
 
 	// Use this for initialization
 	void Start()
@@ -16,4 +16,17 @@ public class Draggable : MonoBehaviour
     {
         
 	}
+
+    public void DragStart()
+    {
+        _startPosition = transform.position;
+    }
+
+    public void DragEnd()
+    {
+        // if (!map.isValidPosition(_startPosition)
+        {
+            transform.position = _startPosition;
+        }
+    }
 }
