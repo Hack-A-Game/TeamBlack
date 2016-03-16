@@ -2,18 +2,21 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class Orc : Unit
+public class Bow : AttackUnits
 {
-
-	// Use this for initialization
-	public override void Start () {
+    
+    // Use this for initialization
+    public override void Start()
+    {
+        mana = 10;
+        //Dir = inDir;
         HP = 150.0f;
-        Att = 20.0f;
-        Def = 5.0f;
-        AttSp = 1.2f;
-        mana = 2;
-        range = 4f;
+        Att = 200.0f;
+        Def = 3.0f;
+        Speed = 100f;
+        AttSp = 0.05f;
         encounterList = new List<Unit>();
+        range = 4;
     }
 
     // Update is called once per frame
@@ -49,5 +52,4 @@ public class Orc : Unit
             isAttacking = false;
         }
     }
-
 }

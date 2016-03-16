@@ -112,10 +112,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 318b0217a50c152458abcc67f77018e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myButtonStart: {fileID: 0}
-  myButtonPlayer1: {fileID: 0}
-  myButtonPlayer2: {fileID: 0}
-  myButtonRandom: {fileID: 0}
 --- !u!4 &163562802
 Transform:
   m_ObjectHideFlags: 0
@@ -493,16 +489,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 762c5899d6bf04746bd4648f510ed0db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mana: 0
-  HP: 0
-  Att: 0
-  Def: 0
-  AttSp: 0
-  Speed: 0
-  isAttacking: 0
-  countdown: 0
-  encounterList: []
-  range: 0
 --- !u!212 &1071978071
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -736,10 +722,8 @@ GameObject:
   m_Component:
   - 4: {fileID: 1915234513}
   - 212: {fileID: 1915234512}
-  - 114: {fileID: 1915234510}
-  - 61: {fileID: 1915234515}
-  - 50: {fileID: 1915234514}
   - 114: {fileID: 1915234511}
+  - 114: {fileID: 1915234510}
   m_Layer: 0
   m_Name: Unit
   m_TagString: Untagged
@@ -763,11 +747,9 @@ MonoBehaviour:
   Att: 0
   Def: 0
   AttSp: 0
-  Speed: 0
-  isAttacking: 0
+  Attacking: {fileID: 0}
   countdown: 0
-  encounterList: []
-  range: 0
+  Speed: 0
   Dir: 0
 --- !u!114 &1915234511
 MonoBehaviour:
@@ -777,11 +759,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 1915234509}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a19035b85e82edb4fadb858bad00376b, type: 3}
+  m_Script: {fileID: 11500000, guid: 476530b416cd10741b226beb5c2f8741, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementType: 0
-  movementRadius: 0
+  mana: 0
+  HP: 0
+  Att: 0
+  Def: 0
+  AttSp: 0
+  Attacking: {fileID: 0}
+  countdown: 0
+  Speed: 0
+  Dir: 0
 --- !u!212 &1915234512
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -824,34 +813,3 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
---- !u!50 &1915234514
-Rigidbody2D:
-  serializedVersion: 2
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1915234509}
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_IsKinematic: 1
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
---- !u!61 &1915234515
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1915234509}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
-  m_Size: {x: 0.01, y: 0.01}
