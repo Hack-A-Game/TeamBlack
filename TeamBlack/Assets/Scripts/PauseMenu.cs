@@ -6,6 +6,7 @@ public class PauseMenu : MonoBehaviour
 
     public void onClick()
     {
-        //Controller.Controller.desactiveGamePaused();
+        Controller.controller.desactiveGamePaused();
+        Debug.Log("holaa");
     }
 }
