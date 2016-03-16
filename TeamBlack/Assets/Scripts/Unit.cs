@@ -47,6 +47,7 @@ public class Unit : MonoBehaviour {
     {
         return mana;
     }
+    public virtual void Start() { }
     public virtual void Update() { }
 
 }

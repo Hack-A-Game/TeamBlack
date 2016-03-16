@@ -18,7 +18,7 @@ public class AttackUnits : Unit {
         _multiplier = 1.0f;
     }
 
-	void Start () { 
+	public override void Start () { 
 
 	}
 

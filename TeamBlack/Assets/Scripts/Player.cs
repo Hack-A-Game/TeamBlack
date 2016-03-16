@@ -33,10 +33,10 @@ public class Player : MonoBehaviour {
 
     public bool addAttackUnit(MonoBehaviour attackUnit)
     {
-        if (listAttackUnits.Count < maxAttackUnit && attackUnit.getManaCost() <= mana)
+        if (listAttackUnits.Count < maxAttackUnit && attackUnit.getMana() <= mana)
         {
             listAttackUnits.Add(attackUnit);
-            mana = mana - attackUnit.getManaCost();
+            mana = mana - attackUnit.getMana();
             return true;
         }
         return false;
@@ -44,10 +44,10 @@ public class Player : MonoBehaviour {
 
     public bool addDefendUnitUnit(MonoBehaviour defendUnit)
     {
-        if (listDefendUnits.Count < maxDefendUnit && defendUnit.getManaCost() <= mana)
+        if (listDefendUnits.Count < maxDefendUnit && defendUnit.getMana() <= mana)
         {
             listDefendUnits.Add(defendUnit);
-            mana = mana - defendUnit.getManaCost();
+            mana = mana - defendUnit.getMana();
             return true;
         }
         return false;
