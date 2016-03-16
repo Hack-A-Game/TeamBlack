@@ -19,9 +19,22 @@ public class Map : MonoBehaviour {
         {
             for(uint y = 0; y < GRIDSIZEY; y++)
             {
-                _grid[0, 0] |= TileAtt.Passable;
+                _grid[x, y] |= TileAtt.Passable;
             }
         }
+    }
+
+    public gridPos ToGridPos(Vector2 pos)
+    {
+        float x = (pos.x - startPos.x) / TILEWIDTH;
+        float y = (pos.y - startPos.y) / TILEHEIGHT;
+
+        if (x < 0 || y < 0)
+        {
+            return new gridPos(-1, -1);
+        }
+
+        return new gridPos((int)(x), (int)(y));
     }
 
     public bool UnitCanMove(gridPos p, Direction d)
@@ -30,9 +43,9 @@ public class Map : MonoBehaviour {
     }
     public Vector3 GridToWorld(int x, int y)
     {
-        return new Vector3(startPos.x+ x * TILEWIDTH, startPos.y + y * TILEHEIGHT, 0);
+        return new Vector3(startPos.x + x * TILEWIDTH, startPos.y + y * TILEHEIGHT, 0);
     }
-    private bool hasFlag(gridPos p, TileAtt t)
+    public bool hasFlag(gridPos p, TileAtt t)
     {
         return (_grid[p.x, p.y] & t) == t;
     }

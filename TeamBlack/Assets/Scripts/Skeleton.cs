@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class Skeleton : Unit
 {
@@ -17,9 +18,11 @@ public class Skeleton : Unit
     // Update is called once per frame
     public override void Update()
     {
-        if(getHP() <= 0)
+        if(getHP() <= 0) //caso de mi muerte
         {
+            isAttacking = false;
             Destroy(this);
+            
         }
 
         if (encounterList[0] != null)
@@ -27,12 +30,15 @@ public class Skeleton : Unit
             countdown -= Time.deltaTime;
             if (encounterList[0].getHP() > 0 && countdown <= 0.0f)
             {
+                isAttacking = true;
+                
                 encounterList[0].getAttacked(Att);
                 countdown = AttSp;
             }
             else if (encounterList[0].getHP() <= 0)
             {
                 encounterList.RemoveAt(0);
+                isAttacking = false;
             }
 
         }

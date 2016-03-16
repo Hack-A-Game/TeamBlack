@@ -25,7 +25,9 @@ public class Castle : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Monster"))
         {
-            Debug.Log("> Colision Monster - Castle");
+            Debug.Log("> Colision Monster - Castle", gameObject);   
         }
     }
+
+    
 }

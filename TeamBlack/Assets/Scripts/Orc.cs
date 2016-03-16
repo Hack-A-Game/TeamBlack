@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class Orc : Unit
 {
@@ -18,7 +19,9 @@ public class Orc : Unit
 	public override void Update () {
         if (getHP() <= 0)
         {
+            isAttacking = false;
             Destroy(this);
+
         }
 
         if (encounterList[0] != null)
@@ -26,12 +29,14 @@ public class Orc : Unit
             countdown -= Time.deltaTime;
             if (encounterList[0].getHP() > 0 && countdown <= 0.0f)
             {
+                isAttacking = true;
                 encounterList[0].getAttacked(Att);
                 countdown = AttSp;
             }
             else if (encounterList[0].getHP() <= 0)
             {
                 encounterList.RemoveAt(0);
+                isAttacking = false;
             }
 
         }

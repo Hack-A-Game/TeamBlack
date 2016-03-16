@@ -56,7 +56,7 @@ public class AttackUnits : Unit {
     {
         if (collision.gameObject.tag == "Monster")
         {
-            encounterList.Add(collision.gameObject.GetComponent<Unit>());
+            encounterList.Add(collision.gameObject.GetComponent<Unit>());   
         }
     }
 }
