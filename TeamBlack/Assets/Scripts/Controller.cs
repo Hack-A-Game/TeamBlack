@@ -44,14 +44,18 @@ public class Controller : MonoBehaviour {
 
         controller = this;
         map = GameObject.Find("Map").GetComponent<Map>();
-	}
+        Screen.orientation = ScreenOrientation.LandscapeLeft;
+    }
 
-void Update()
+    void Update()
     {
         countdown -= Time.deltaTime;
         if (countdown <= 0.0f)
             endTime = true;
-                
+
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+            Application.Quit();
     }
 
     public void defineTurn(TurnPlayer1 p1, TurnPlayer2 p2){
