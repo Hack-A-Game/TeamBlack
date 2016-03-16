@@ -10,6 +10,7 @@ public class Unit : MonoBehaviour {
     public float AttSp;
     public float Speed;
     public float countdown = 0.0f;
+    public bool isAttacking;
     public List<Unit> encounterList;
     //Constructor
     public Unit()
@@ -20,13 +21,20 @@ public class Unit : MonoBehaviour {
         AttSp = 0.0f;
         Speed = 0.0f;
         encounterList = new List<Unit>();
+        isAttacking = false;
     }
 
     public void getAttacked(float damage)
     {
+        
         HP -= damage / Def;
+        
     }
 
+    public bool getIsAttacking()
+    {
+        return isAttacking;
+    }
     public double getHP()
     {
         return HP;

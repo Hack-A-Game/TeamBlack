@@ -20,6 +20,7 @@ public class Golem : Unit {
     {
         if (getHP() <= 0)
         {
+            isAttacking = false;
             Destroy(this);
         }
 
@@ -28,11 +29,13 @@ public class Golem : Unit {
             countdown -= Time.deltaTime;
             if (encounterList[0].getHP() > 0 && countdown <= 0.0f)
             {
+                isAttacking = true;
                 encounterList[0].getAttacked(Att);
                 countdown = AttSp;
             } else if(encounterList[0].getHP() <= 0)
             {
                 encounterList.RemoveAt(0);
+                isAttacking = false;
             }
 
         }
