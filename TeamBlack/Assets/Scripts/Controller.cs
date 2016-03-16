@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 //torns, pausa, 
 public class Controller : MonoBehaviour {
@@ -62,4 +63,8 @@ public class Controller : MonoBehaviour {
         }
     }
 
+    public void loadScene (string nameScene)
+    {
+        SceneManager.LoadScene(nameScene);
+    }
 }
