@@ -1,9 +1,33 @@
 fileFormatVersion: 2
 guid: 192e5e9b1db3b3e4f823a0e248695230
-timeCreated: 1458125506
+timeCreated: 1458128505
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: soldier_blue2_0
+    21300002: soldier_blue2_1
+    21300004: soldier_blue2_2
+    21300006: soldier_blue2_3
+    21300008: soldier_blue2_4
+    21300010: soldier_blue2_5
+    21300012: soldier_blue2_6
+    21300014: soldier_blue2_7
+    21300016: soldier_blue2_8
+    21300018: soldier_blue2_9
+    21300020: soldier_blue2_10
+    21300022: soldier_blue2_11
+    21300024: soldier_blue2_12
+    21300026: soldier_blue2_13
+    21300028: soldier_blue2_14
+    21300030: soldier_blue2_15
+    21300032: soldier_blue2_16
+    21300034: soldier_blue2_17
+    21300036: soldier_blue2_18
+    21300038: soldier_blue2_19
+    21300040: soldier_blue2_20
+    21300042: soldier_blue2_21
+    21300044: soldier_blue2_22
+    21300046: soldier_blue2_23
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +54,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +62,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +73,459 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: soldier_blue2_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 641
+        width: 41
+        height: 50
+      alignment: 9
+      pivot: {x: 0.61486745, y: 0.07613648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.237984, y: 45.430786}
+        - {x: -24.237984, y: 43.430786}
+        - {x: -24.237984, y: 15.430786}
+        - {x: -18.237984, y: -3.5692139}
+        - {x: 16.762016, y: -3.5692139}
+        - {x: 16.762016, y: 37.430786}
+        - {x: 14.762016, y: 45.430786}
+    - name: soldier_blue2_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 640
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.7180354, y: 0.086602785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.417572, y: 44.9541}
+        - {x: -33.417572, y: 32.9541}
+        - {x: -33.417572, y: 2.9541016}
+        - {x: -23.417572, y: -4.0458984}
+        - {x: 13.582428, y: -4.0458984}
+        - {x: 13.582428, y: 44.9541}
+    - name: soldier_blue2_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 640
+        width: 47
+        height: 50
+      alignment: 9
+      pivot: {x: 0.70597416, y: 0.07613769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.937683, y: 45.461365}
+        - {x: -17.062317, y: 45.461365}
+        - {x: -32.062317, y: 22.461365}
+        - {x: -32.062317, y: -0.53863525}
+        - {x: -16.062317, y: -3.5386353}
+        - {x: 13.937683, y: -3.5386353}
+        - {x: 13.937683, y: 28.461365}
+        - {x: 11.937683, y: 40.461365}
+    - name: soldier_blue2_3
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 640
+        width: 58
+        height: 51
+      alignment: 9
+      pivot: {x: 0.77066565, y: 0.07418764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.434387, y: 46.468628}
+        - {x: -31.434387, y: 39.468628}
+        - {x: -43.434387, y: 26.468628}
+        - {x: -43.434387, y: 9.468628}
+        - {x: -37.434387, y: 3.468628}
+        - {x: -16.434387, y: -3.531372}
+        - {x: 14.565613, y: -3.531372}
+        - {x: 14.565613, y: 45.468628}
+        - {x: 11.565613, y: 46.468628}
+    - name: soldier_blue2_4
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 640
+        width: 83
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5346753, y: 0.067718945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.881104, y: 63.33142}
+        - {x: -35.881104, y: 54.33142}
+        - {x: -42.881104, y: 40.33142}
+        - {x: -42.881104, y: 10.331421}
+        - {x: -11.8811035, y: -4.668579}
+        - {x: 17.118896, y: -4.668579}
+        - {x: 20.118896, y: -3.668579}
+        - {x: 39.118896, y: 38.33142}
+        - {x: 39.118896, y: 63.33142}
+    - name: soldier_blue2_5
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 640
+        width: 79
+        height: 66
+      alignment: 9
+      pivot: {x: 0.20192593, y: 0.07185595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.526123, y: 60.30957}
+        - {x: -11.526123, y: 54.30957}
+        - {x: -7.526123, y: 52.30957}
+        - {x: 48.473877, y: 41.30957}
+        - {x: 20.473877, y: 33.30957}
+        - {x: 9.473877, y: 46.30957}
+        - {x: -2.526123, y: 50.30957}
+        - {x: -15.526123, y: 45.30957}
+        - {x: -15.526123, y: -4.6904297}
+        - {x: 43.473877, y: -4.6904297}
+        - {x: 61.473877, y: 0.3095703}
+        - {x: 61.473877, y: 48.30957}
+        - {x: 41.473877, y: 60.30957}
+    - name: soldier_blue2_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 447
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.439453, y: 25.822266}
+        - {x: -27.560547, y: -3.1777344}
+        - {x: -27.560547, y: -25.177734}
+        - {x: 23.439453, y: -25.177734}
+        - {x: 28.439453, y: -23.177734}
+        - {x: 28.439453, y: 25.822266}
+    - name: soldier_blue2_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 449
+        width: 33
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6109998, y: 0.08027967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: soldier_blue2_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 449
+        width: 38
+        height: 50
+      alignment: 9
+      pivot: {x: 0.33475134, y: 0.065671384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.858765, y: 45.81299}
+        - {x: -7.1412354, y: 45.81299}
+        - {x: -12.141235, y: 39.81299}
+        - {x: -12.141235, y: 3.8129883}
+        - {x: -10.141235, y: -0.18701172}
+        - {x: -9.141235, y: -3.1870117}
+        - {x: 13.858765, y: -3.1870117}
+        - {x: 14.858765, y: -2.1870117}
+        - {x: 25.858765, y: 12.812988}
+        - {x: 25.858765, y: 36.81299}
+    - name: soldier_blue2_9
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 449
+        width: 59
+        height: 50
+      alignment: 9
+      pivot: {x: 0.42461124, y: 0.09183533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.4245, y: 44.54483}
+        - {x: -24.4245, y: 30.54483}
+        - {x: -24.4245, y: 2.5448303}
+        - {x: -16.4245, y: -4.4551697}
+        - {x: 18.5755, y: -4.4551697}
+        - {x: 33.5755, y: 17.54483}
+        - {x: 33.5755, y: 34.54483}
+        - {x: 21.5755, y: 44.54483}
+    - name: soldier_blue2_10
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 449
+        width: 95
+        height: 50
+      alignment: 9
+      pivot: {x: 0.8442672, y: 0.07090393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.867065, y: 45.559387}
+        - {x: -45.132935, y: 45.559387}
+        - {x: -78.132935, y: 37.559387}
+        - {x: -78.132935, y: 17.559387}
+        - {x: -49.132935, y: 5.559387}
+        - {x: -10.132935, y: -3.4406128}
+        - {x: 12.867065, y: -3.4406128}
+        - {x: 14.867065, y: 0.5593872}
+        - {x: 14.867065, y: 37.559387}
+        - {x: 13.867065, y: 43.559387}
+    - name: soldier_blue2_11
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 449
+        width: 93
+        height: 50
+      alignment: 9
+      pivot: {x: 0.8404173, y: 0.09183533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.054626, y: 44.54483}
+        - {x: -60.054626, y: 41.54483}
+        - {x: -76.05463, y: 33.54483}
+        - {x: -76.05463, y: 25.54483}
+        - {x: -18.054626, y: -4.4551697}
+        - {x: 14.945374, y: -4.4551697}
+        - {x: 14.945374, y: 32.54483}
+        - {x: 9.945374, y: 44.54483}
+    - name: soldier_blue2_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 254
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.6725235, y: 26.727875}
+        - {x: -13.6725235, y: 23.727875}
+        - {x: -19.672523, y: -0.27212524}
+        - {x: -19.672523, y: -26.272125}
+        - {x: 21.327477, y: -26.272125}
+        - {x: 21.327477, y: 18.727875}
+        - {x: 16.327477, y: 26.727875}
+    - name: soldier_blue2_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 257
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.73438835, y: 0.06392655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.178497, y: 46.695312}
+        - {x: -34.178497, y: 17.695312}
+        - {x: -34.178497, y: 7.6953125}
+        - {x: -18.178497, y: -3.3046875}
+        - {x: 12.821503, y: -3.3046875}
+        - {x: 12.821503, y: 46.695312}
+    - name: soldier_blue2_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 257
+        width: 47
+        height: 49
+      alignment: 9
+      pivot: {x: 0.7226751, y: 0.07816548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.823242, y: 44.173508}
+        - {x: -32.823242, y: 43.173508}
+        - {x: -32.823242, y: 21.173508}
+        - {x: -21.823242, y: -3.8264923}
+        - {x: 13.176758, y: -3.8264923}
+        - {x: 13.176758, y: 28.173508}
+        - {x: 10.176758, y: 44.173508}
+    - name: soldier_blue2_15
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 257
+        width: 55
+        height: 50
+      alignment: 9
+      pivot: {x: 0.7616433, y: 0.07090454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.757996, y: 45.43434}
+        - {x: -40.757996, y: 14.434341}
+        - {x: -35.757996, y: 2.4343414}
+        - {x: -20.757996, y: -3.5656586}
+        - {x: 14.242004, y: -3.5656586}
+        - {x: 14.242004, y: 45.43434}
+    - name: soldier_blue2_16
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 238
+        width: 83
+        height: 70
+      alignment: 9
+      pivot: {x: 0.54098034, y: 0.3168492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.611633, y: 47.645706}
+        - {x: -10.388367, y: 47.645706}
+        - {x: -25.388367, y: 10.645706}
+        - {x: -11.388367, y: -3.3542938}
+        - {x: -4.3883667, y: -3.3542938}
+        - {x: -0.3883667, y: 0.6457062}
+        - {x: -0.3883667, y: -3.3542938}
+        - {x: -14.388367, y: -3.3542938}
+        - {x: -39.388367, y: 19.645706}
+        - {x: -43.388367, y: 20.645706}
+        - {x: -43.388367, y: 9.645706}
+        - {x: -37.388367, y: -1.3542938}
+        - {x: -19.388367, y: -16.354294}
+        - {x: -13.388367, y: -19.354294}
+        - {x: -5.3883667, y: -21.354294}
+        - {x: 38.611633, y: -21.354294}
+        - {x: 38.611633, y: 4.645706}
+        - {x: 21.611633, y: 46.645706}
+    - name: soldier_blue2_17
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 241
+        width: 78
+        height: 67
+      alignment: 9
+      pivot: {x: 0.18468612, y: 0.2891226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.042175, y: 47.322113}
+        - {x: -14.042175, y: 31.322113}
+        - {x: -14.042175, y: -2.677887}
+        - {x: -12.042175, y: -5.677887}
+        - {x: 4.9578247, y: -5.677887}
+        - {x: 16.957825, y: -0.67788696}
+        - {x: 32.957825, y: -7.677887}
+        - {x: -7.0421753, y: -10.677887}
+        - {x: -9.042175, y: -12.677887}
+        - {x: -8.042175, y: -18.677887}
+        - {x: 44.957825, y: -18.677887}
+        - {x: 61.957825, y: -5.677887}
+        - {x: 61.957825, y: 23.322113}
+        - {x: 19.957825, y: 47.322113}
+    - name: soldier_blue2_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 63
+        width: 57
+        height: 52
+      alignment: 9
+      pivot: {x: 0.23835647, y: 0.1175964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.112976, y: 44.848793}
+        - {x: -13.112976, y: 41.848793}
+        - {x: -13.112976, y: -5.151207}
+        - {x: -8.112976, y: -6.151207}
+        - {x: 42.887024, y: -6.151207}
+        - {x: 42.887024, y: 9.848793}
+        - {x: 10.887024, y: 44.848793}
+    - name: soldier_blue2_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 65
+        width: 33
+        height: 48
+      alignment: 9
+      pivot: {x: 0.40485728, y: 0.08027855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: soldier_blue2_20
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 65
+        width: 37
+        height: 50
+      alignment: 9
+      pivot: {x: 0.65557116, y: 0.08660309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.094299, y: 44.54844}
+        - {x: -23.0943, y: 30.548439}
+        - {x: -23.0943, y: 13.548439}
+        - {x: -15.094299, y: -4.451561}
+        - {x: 13.905701, y: -4.451561}
+        - {x: 13.905701, y: 44.54844}
+    - name: soldier_blue2_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 65
+        width: 59
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5798236, y: 0.09706879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.148804, y: 44.04116}
+        - {x: -33.148804, y: 39.04116}
+        - {x: -33.148804, y: 19.04116}
+        - {x: -27.148804, y: 13.041161}
+        - {x: -13.148804, y: -4.9588394}
+        - {x: 17.851196, y: -4.9588394}
+        - {x: 24.851196, y: 5.0411606}
+        - {x: 24.851196, y: 27.04116}
+        - {x: 13.851196, y: 44.04116}
+    - name: soldier_blue2_22
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 65
+        width: 95
+        height: 50
+      alignment: 9
+      pivot: {x: 0.16124074, y: 0.07090454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77.157715, y: 45.30935}
+        - {x: -14.842285, y: 45.30935}
+        - {x: -14.842285, y: -3.690651}
+        - {x: 57.157715, y: -3.690651}
+        - {x: 79.157715, y: 10.309349}
+        - {x: 79.157715, y: 44.30935}
+    - name: soldier_blue2_23
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 65
+        width: 93
+        height: 50
+      alignment: 9
+      pivot: {x: 0.16520838, y: 0.06567169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.231812, y: 45.56298}
+        - {x: -15.231812, y: 27.56298}
+        - {x: -15.231812, y: 2.5629807}
+        - {x: -13.231812, y: -2.4370193}
+        - {x: -12.231812, y: -3.4370193}
+        - {x: 16.768188, y: -3.4370193}
+        - {x: 75.76819, y: 22.56298}
+        - {x: 75.76819, y: 45.56298}
     outline: []
   spritePackingTag: 
   userData: 
