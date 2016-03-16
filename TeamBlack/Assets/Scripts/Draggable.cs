@@ -37,6 +37,28 @@ public class Draggable : MonoBehaviour
         {
             // TODO: UI WARNING!
             transform.position = _startPosition;
+            return;
+        }
+
+        GameObject unit = GameObject.Instantiate(gameObject);
+        bool result;
+
+        if (Controller.controller.getCurrentPhase() == Controller.Phases.Attack)
+        {
+            result = Controller.controller.getPlayerAttack().addAttackUnit(unit.GetComponent<AttackUnits>());
+        }
+        else
+        {
+            result = Controller.controller.getPlayerAttack().addDefendUnitUnit(unit.GetComponent<DefenseUnits>());
+        }
+
+        if (result)
+        {
+            Destroy(unit.GetComponent<Draggable>());
+        }
+        else
+        {
+            Destroy(unit);
         }
     }
 }

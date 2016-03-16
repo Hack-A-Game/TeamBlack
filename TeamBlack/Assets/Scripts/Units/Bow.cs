@@ -11,12 +11,12 @@ public class Bow : AttackUnits
         mana = 10;
         //Dir = inDir;
         HP = 150.0f;
-        Att = 50.0f;
+        Att = 20.0f;
         Def = 3.0f;
-        Speed = 100f;
+        Speed = 120f;
         AttSp = 0.05f;
         encounterList = new List<Unit>();
-        range = 4;
+        range = 1.5f;
     }
 
     // Update is called once per frame

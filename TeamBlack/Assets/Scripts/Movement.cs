@@ -30,6 +30,8 @@ public class Movement : MonoBehaviour
         _rigidBody = GetComponent<Rigidbody2D>();
         _collider = GetComponent<Collider2D>();
         _position = new gridPos(0, 0);
+
+        SetInitialPositionNow();
     }
 
     public void SetInitialPositionNow()
@@ -52,6 +54,11 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update ()
     {
+        if (Controller.controller.getCurrentPhase() != Controller.Phases.InGame)
+        {
+            //return;
+        }
+
         if (!_unit.getIsAttacking())
         {
             _position = Controller.map.ToGridPos(transform.position);
