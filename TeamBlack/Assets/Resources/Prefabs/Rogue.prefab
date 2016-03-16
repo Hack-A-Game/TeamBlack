@@ -160,7 +160,7 @@ Animator:
   m_GameObject: {fileID: 104752}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 79c72ebfb29be354abb7402a6c8bc055, type: 2}
+  m_Controller: {fileID: 9100000, guid: ec9e4991453161d4e9aba9ef8aac28e8, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -217,6 +217,7 @@ MonoBehaviour:
   encounterList: []
   range: 0
   bar: {fileID: 11436062}
+  canCapture: 0
   Dir: 0
 --- !u!212 &21207584
 SpriteRenderer:

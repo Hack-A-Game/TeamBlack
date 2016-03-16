@@ -19,6 +19,7 @@ public class Movement : MonoBehaviour
 
     private gridPos _position;
     private Vector3 _initialPosition = Vector3.zero;
+    private Animator _animator;
 
     public MovementType movementType;
     public float movementRadius;
@@ -29,6 +30,7 @@ public class Movement : MonoBehaviour
         _unit = GetComponent<Unit>();
         _rigidBody = GetComponent<Rigidbody2D>();
         _collider = GetComponent<Collider2D>();
+        _animator = GetComponent<Animator>();
         _position = new gridPos(0, 0);
 
         SetInitialPositionNow();
@@ -66,20 +68,24 @@ public class Movement : MonoBehaviour
             if (Controller.map.UnitCanMove(_position, Direction.right))
             {
                 _velocity = Vector2.right;
+                _animator.SetInteger("status", 1);
             }
             else if (Controller.map.UnitCanMove(_position, Direction.down))
             {
                 _velocity = Vector2.down;
+                _animator.SetInteger("status", 4);
             }
             else
             {
                 _velocity = Vector2.zero;
+                _animator.SetInteger("status", 0);
             }
             
             _rigidBody.velocity = _velocity * _unit.getSpeed() * Time.deltaTime;
         }
         else if (_unit.getIsAttacking() && _unit.getTarget())
         {
+            _animator.SetInteger("status", 6);
             if (_unit.isInRange(_unit.range))
             {
                 Debug.Log(gameObject + " STOP");
