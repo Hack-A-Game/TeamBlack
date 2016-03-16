@@ -11,12 +11,12 @@ public class Sword : AttackUnits
         mana = 10;
         //Dir = inDir;
         HP = 200.0f;
-        Att = 200.0f;
+        Att = 20.0f;
         Def = 5.0f;
-        Speed = 0.5f;
+        Speed = 75f;
         AttSp = 1.0f;
         encounterList = new List<Unit>();
-        range = 2;
+        range = 1.5f;
     }
 
     // Update is called once per frame

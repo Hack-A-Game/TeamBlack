@@ -12,7 +12,8 @@ public class Skeleton : DefenseUnits
         Def = 2.0f;
         AttSp = 1.0f;
         mana = 1;
-        range = 2f;
+        range = 1.5f;
+        Speed = 120f;
         encounterList = new List<Unit>();
     }
 

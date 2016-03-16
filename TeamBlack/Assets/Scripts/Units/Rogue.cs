@@ -11,7 +11,7 @@ public class Rogue : AttackUnits
         //Dir = inDir;
         HP = 100.0f;
         Def = 2.0f;
-        Speed = 1.5f;
+        Speed = 50f;
     }
 
     // Update is called once per frame
@@ -21,6 +21,5 @@ public class Rogue : AttackUnits
         {
             Destroy(gameObject);
         }
-        transform.position += getSpeed()*Vector3.right*Time.deltaTime; 
     }
 }
