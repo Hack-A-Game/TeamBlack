@@ -58,6 +58,17 @@ public class Controller : MonoBehaviour {
         if (Input.GetKeyDown(KeyCode.Escape))
             Application.Quit();
 
+        // Check number of attacker units
+        if (getCurrentPhase() == Phases.InGame)
+        {
+            int attackers = getPlayerAttack().countAttackUnits();
+            if (attackers == 0)
+            {
+                changePhase();
+                changeTurn();
+                loadScene("Game");
+            }
+        }
     }
 
     public void defineTurn(Turns p1, Turns p2){

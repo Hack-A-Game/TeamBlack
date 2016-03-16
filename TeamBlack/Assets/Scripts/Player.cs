@@ -42,6 +42,11 @@ public class Player : MonoBehaviour {
         return false;
     }
 
+    public int countAttackUnits()
+    {
+        return listAttackUnits.Count;
+    }
+
     public bool addDefendUnitUnit(DefenseUnits defendUnit)
     {
         if (listDefendUnits.Count < maxDefendUnit && defendUnit.getMana() <= mana)
