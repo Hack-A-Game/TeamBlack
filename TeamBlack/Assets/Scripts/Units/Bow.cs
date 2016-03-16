@@ -13,7 +13,7 @@ public class Bow : AttackUnits
         HP = 150.0f;
         Att = 200.0f;
         Def = 3.0f;
-        Speed = 0.3f;
+        Speed = 100f;
         AttSp = 0.05f;
         encounterList = new List<Unit>();
         range = 4;

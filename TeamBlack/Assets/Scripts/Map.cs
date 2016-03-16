@@ -5,7 +5,7 @@ using System;
 public class Map : MonoBehaviour {
     private const float TILEWIDTH= 0.64f;
     private const float TILEHEIGHT = 0.64f;
-    public const uint GRIDSIZEX = 15;
+    public const uint GRIDSIZEX = 20;
     public const uint GRIDSIZEY = 10;
 
     public Vector2 startPos;
@@ -82,7 +82,7 @@ public struct gridPos
     }
     public bool outOfBounds()
     {
-        return (x > Map.GRIDSIZEX || x < 0 || y > Map.GRIDSIZEY || y < 0);
+        return (x >= Map.GRIDSIZEX || x < 0 || y >= Map.GRIDSIZEY || y < 0);
     }
     public int x;
     public int y;

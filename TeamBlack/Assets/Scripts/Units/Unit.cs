@@ -8,7 +8,7 @@ public class Unit : MonoBehaviour {
     public float Att = 0.0f;
     public float Def = 0.0f;
     public float AttSp = 0.0f;
-    public float Speed;
+    public float Speed = 2.0f;
     public bool isAttacking;
     public float countdown = 0.0f;
     public List<Unit> encounterList = new List<Unit>();

@@ -28,13 +28,18 @@ public class Controller : MonoBehaviour {
         _player2 = new Player();
         _gamePause = false;
         endTime = false;
-        myButtonStart.enabled = true;
-        myButtonPlayer1.enabled = false;
-        myButtonPlayer2.enabled = false;
-        myButtonRandom.enabled = false;
-        myButtonPlayer1.gameObject.SetActive(false);
-        myButtonPlayer2.gameObject.SetActive(false);
-        myButtonRandom.gameObject.SetActive(false);
+
+        if (myButtonPlayer1 != null)
+        {
+            myButtonStart.enabled = true;
+            myButtonPlayer1.enabled = false;
+            myButtonPlayer2.enabled = false;
+            myButtonRandom.enabled = false;
+            myButtonPlayer1.gameObject.SetActive(false);
+            myButtonPlayer2.gameObject.SetActive(false);
+            myButtonRandom.gameObject.SetActive(false);
+        }
+
         DontDestroyOnLoad(transform.gameObject);
 
         controller = this;
