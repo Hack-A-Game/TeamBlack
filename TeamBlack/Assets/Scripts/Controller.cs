@@ -6,7 +6,6 @@ using UnityEngine.SceneManagement;
 public class Controller : MonoBehaviour {
     private Player _player1;
     private Player _player2;
-    private Map _mapa;
     private bool _gamePause;
     public enum TurnPlayer1 { Attack, Defense };
     public enum TurnPlayer2 { Attack, Defense };
@@ -20,6 +19,8 @@ public class Controller : MonoBehaviour {
     public UnityEngine.UI.Button myButtonPlayer1;
     public UnityEngine.UI.Button myButtonPlayer2;
     public UnityEngine.UI.Button myButtonRandom;
+    public static Controller controller;
+    public static Map map;
 
     // Use this for initialization
     void Start () {
@@ -36,7 +37,9 @@ public class Controller : MonoBehaviour {
         myButtonRandom.gameObject.SetActive(false);
         DontDestroyOnLoad(transform.gameObject);
 
-}
+        controller = this;
+        map = GameObject.Find("Map").GetComponent<Map>();
+	}
 
 void Update()
     {
@@ -135,6 +138,3 @@ void Update()
     }
 
 }
-
-
-//timer

@@ -17,6 +17,10 @@ public class Rogue : AttackUnits
     // Update is called once per frame
     public override void Update()
     {
+        if (getHP() <= 0.0f)
+        {
+            Destroy(this);
+        }
         //Move
     }
 }

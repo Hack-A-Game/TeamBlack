@@ -1,38 +1,39 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class Player : MonoBehaviour {
 
     //Llistas de unitats amb monoBehavior
 
-    public double life;
+    public int points;
     public int maxAttackUnit;
     public int maxDefendUnit;
     public int mana;
-    public bool turnAttack; // True-> turn d'atac | False -> Turn de defensa
-    private ArrayList listAttackUnits;
-    private ArrayList listDefendUnits;
+    private List<AttackUnits> listAttackUnits;
+    private List<DefenseUnits> listDefendUnits;
+    private Castle castle;
 
 	// Use this for initialization
 	void Start ()
     {
-        life = 100;
+        points = 0;
         maxAttackUnit = 10;
         maxDefendUnit = 5;
         mana = 50;
-        listAttackUnits = new ArrayList();
-        listDefendUnits = new ArrayList();
-        //turnAttack = true;
-	}
-	
-	// Update is called once per frame
-	void Update ()
-    {
-	    
+        castle = new Castle();
+        listAttackUnits = new List<AttackUnits>();
+        listDefendUnits = new List<DefenseUnits>();
 	}
 
-    public bool addAttackUnit(MonoBehaviour attackUnit)
+    // Update is called once per frame
+    void Update()
     {
+    }
+
+	public bool addAttackUnit(AttackUnits attackUnit)
+    {
+
         if (listAttackUnits.Count < maxAttackUnit && attackUnit.getMana() <= mana)
         {
             listAttackUnits.Add(attackUnit);
@@ -42,7 +43,7 @@ public class Player : MonoBehaviour {
         return false;
     }
 
-    public bool addDefendUnitUnit(MonoBehaviour defendUnit)
+    public bool addDefendUnitUnit(DefenseUnits defendUnit)
     {
         if (listDefendUnits.Count < maxDefendUnit && defendUnit.getMana() <= mana)
         {
@@ -53,7 +54,7 @@ public class Player : MonoBehaviour {
         return false;
     }
 
-    public void removeAttackUnity(MonoBehaviour attackUnit)
+    public void removeAttackUnity(AttackUnits attackUnit)
     {
         if (listAttackUnits.Count > 0)
         {
@@ -61,7 +62,7 @@ public class Player : MonoBehaviour {
         }
     }
 
-    public void removeDefendUnity(MonoBehaviour defendUnit)
+    public void removeDefendUnity(DefenseUnits defendUnit)
     {
         if (listDefendUnits.Count > 0)
         {
@@ -69,8 +70,8 @@ public class Player : MonoBehaviour {
         }
     }
 
-    public void getDamage(int damage)
+    public void addPoint()
     {
-        life = life - damage;
+        this.points++;
     }
 }

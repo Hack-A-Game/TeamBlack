@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class Unit : MonoBehaviour {
     public int mana;
@@ -7,9 +8,10 @@ public class Unit : MonoBehaviour {
     public float Att;
     public float Def;
     public float AttSp;
-    public Unit Attacking = null;
+    public float Speed;
     public float countdown = 0.0f;
-    public ArrayList encounterList;
+    public bool isAttacking;
+    public List<Unit> encounterList;
     //Constructor
     public Unit()
     {
@@ -17,14 +19,22 @@ public class Unit : MonoBehaviour {
         Att = 0;
         Def = 0;
         AttSp = 0.0f;
-        encounterList = new ArrayList();
+        Speed = 0.0f;
+        encounterList = new List<Unit>();
+        isAttacking = false;
     }
 
     public void getAttacked(float damage)
     {
+        
         HP -= damage / Def;
+        
     }
 
+    public bool getIsAttacking()
+    {
+        return isAttacking;
+    }
     public double getHP()
     {
         return HP;
@@ -48,6 +58,11 @@ public class Unit : MonoBehaviour {
     public int getMana()
     {
         return mana;
+    }
+
+    public float getSpeed()
+    {
+        return Speed;
     }
     public virtual void Start() { }
     public virtual void Update() { }

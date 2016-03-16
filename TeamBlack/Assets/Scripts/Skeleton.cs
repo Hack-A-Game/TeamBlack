@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class Skeleton : Unit
 {
@@ -11,23 +12,33 @@ public class Skeleton : Unit
         Def = 2.0f;
         AttSp = 1.0f;
         mana = 1;
+        encounterList = new List<Unit>();
     }
 
     // Update is called once per frame
     public override void Update()
     {
-        if(getHP() <= 0)
+        if(getHP() <= 0) //caso de mi muerte
         {
+            isAttacking = false;
             Destroy(this);
+            
         }
 
-        if (Attacking != null)
+        if (encounterList[0] != null)
         {
             countdown -= Time.deltaTime;
-            if (Attacking.getHP() > 0 && countdown <= 0.0f)
+            if (encounterList[0].getHP() > 0 && countdown <= 0.0f)
             {
-                Attacking.getAttacked(Att);
+                isAttacking = true;
+                
+                encounterList[0].getAttacked(Att);
                 countdown = AttSp;
+            }
+            else if (encounterList[0].getHP() <= 0)
+            {
+                encounterList.RemoveAt(0);
+                isAttacking = false;
             }
 
         }
@@ -37,10 +48,8 @@ public class Skeleton : Unit
     {
         if (coll.gameObject.tag == "AttackUnit")
         {
-            Attacking = coll.gameObject.GetComponent<Unit>();
-            encounterList.Add(Attacking);
+            //Attacking = coll.gameObject.GetComponent<Unit>();
+            encounterList.Add(coll.gameObject.GetComponent<Unit>());
         }
-
-
     }
 }
