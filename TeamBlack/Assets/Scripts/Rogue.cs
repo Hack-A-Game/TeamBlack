@@ -5,7 +5,7 @@ public class Rogue : AttackUnits
 {
 
     // Use this for initialization
-    void Start()
+    public override void Start()
     {
         mana = 10;
         //Dir = inDir;
@@ -17,6 +17,10 @@ public class Rogue : AttackUnits
     // Update is called once per frame
     public override void Update()
     {
+        if (getHP() <= 0.0f)
+        {
+            Destroy(this);
+        }
         //Move
     }
 }

@@ -18,7 +18,7 @@ public class AttackUnits : Unit {
         _multiplier = 1.0f;
     }
 
-	void Start () { 
+	public override void Start () { 
 
 	}
 
@@ -56,7 +56,7 @@ public class AttackUnits : Unit {
     {
         if (collision.gameObject.tag == "Monster")
         {
-            Attacking = collision.gameObject.GetComponent<Unit>();
+            encounterList.Add(collision.gameObject.GetComponent<Unit>());
         }
     }
 }

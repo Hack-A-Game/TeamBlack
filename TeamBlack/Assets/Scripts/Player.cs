@@ -34,7 +34,8 @@ public class Player : MonoBehaviour {
 
     public bool addAttackUnit(AttackUnits attackUnit)
     {
-        if (listAttackUnits.Count < maxAttackUnit  && attackUnit.getMana() <= mana)
+
+        if (listAttackUnits.Count < maxAttackUnit && attackUnit.getMana() <= mana)
         {
             listAttackUnits.Add(attackUnit);
             mana = mana - attackUnit.getMana();
