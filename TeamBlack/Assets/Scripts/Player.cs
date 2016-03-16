@@ -74,5 +74,6 @@ public class Player : MonoBehaviour {
     public void addPoint()
     {
         this.points++;
+        Debug.Log(points.ToString());
     }
 }
