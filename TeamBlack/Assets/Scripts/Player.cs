@@ -10,19 +10,16 @@ public class Player : MonoBehaviour {
     public int maxAttackUnit;
     public int maxDefendUnit;
     public int mana;
-    private List<AttackUnits> listAttackUnits;
-    private List<DefenseUnits> listDefendUnits;
+    private List<AttackUnits> listAttackUnits = new List<AttackUnits>();
+    private List<DefenseUnits> listDefendUnits = new List<DefenseUnits>();
 
-	// Use this for initialization
-	void Start ()
+    // Use this for initialization
+    void Start ()
     {
         points = 0;
         maxAttackUnit = 10;
         maxDefendUnit = 5;
         mana = 50;
-
-        listAttackUnits = new List<AttackUnits>();
-        listDefendUnits = new List<DefenseUnits>();
 	}
 
     // Update is called once per frame

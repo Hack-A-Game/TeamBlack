@@ -56,7 +56,7 @@ public class Unit : MonoBehaviour {
 
     public float getSpeed()
     {
-        return 50f; // Speed;
+        return Speed;
     }
     public virtual void Start() { }
     public virtual void Update()

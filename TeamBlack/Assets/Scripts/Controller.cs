@@ -66,7 +66,7 @@ public class Controller : MonoBehaviour {
             {
                 changePhase();
                 changeTurn();
-                loadScene("Game");
+                loadScene("GamePlay");
             }
         }
     }

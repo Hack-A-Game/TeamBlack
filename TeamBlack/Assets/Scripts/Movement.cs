@@ -100,6 +100,10 @@ public class Movement : MonoBehaviour
                 }
             }
         }
+        else
+        {
+            _rigidBody.velocity = Vector2.zero;
+        }
 	}
 
     void LateUpdate()
