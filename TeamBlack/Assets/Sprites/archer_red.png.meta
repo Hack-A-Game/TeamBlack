@@ -1,9 +1,187 @@
 fileFormatVersion: 2
 guid: b4350003d9a94bb4ca81a6f1bb5d633c
-timeCreated: 1458111546
+timeCreated: 1458121118
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: archer_red_0
+    21300002: archer_red_1
+    21300004: archer_red_2
+    21300006: archer_red_3
+    21300008: archer_red_4
+    21300010: archer_red_5
+    21300012: archer_red_6
+    21300014: archer_red_7
+    21300016: archer_red_8
+    21300018: archer_red_9
+    21300020: archer_red_10
+    21300022: archer_red_11
+    21300024: archer_red_12
+    21300026: archer_red_13
+    21300028: archer_red_14
+    21300030: archer_red_15
+    21300032: archer_red_16
+    21300034: archer_red_17
+    21300036: archer_red_18
+    21300038: archer_red_19
+    21300040: archer_red_20
+    21300042: archer_red_21
+    21300044: archer_red_22
+    21300046: archer_red_23
+    21300048: archer_red_24
+    21300050: archer_red_25
+    21300052: archer_red_26
+    21300054: archer_red_27
+    21300056: archer_red_28
+    21300058: archer_red_29
+    21300060: archer_red_30
+    21300062: archer_red_31
+    21300064: archer_red_32
+    21300066: archer_red_33
+    21300068: archer_red_34
+    21300070: archer_red_35
+    21300072: archer_red_36
+    21300074: archer_red_37
+    21300076: archer_red_38
+    21300078: archer_red_39
+    21300080: archer_red_40
+    21300082: archer_red_41
+    21300084: archer_red_42
+    21300086: archer_red_43
+    21300088: archer_red_44
+    21300090: archer_red_45
+    21300092: archer_red_46
+    21300094: archer_red_47
+    21300096: archer_red_48
+    21300098: archer_red_49
+    21300100: archer_red_50
+    21300102: archer_red_51
+    21300104: archer_red_52
+    21300106: archer_red_53
+    21300108: archer_red_54
+    21300110: archer_red_55
+    21300112: archer_red_56
+    21300114: archer_red_57
+    21300116: archer_red_58
+    21300118: archer_red_59
+    21300120: archer_red_60
+    21300122: archer_red_61
+    21300124: archer_red_62
+    21300126: archer_red_63
+    21300128: archer_red_64
+    21300130: archer_red_65
+    21300132: archer_red_66
+    21300134: archer_red_67
+    21300136: archer_red_68
+    21300138: archer_red_69
+    21300140: archer_red_70
+    21300142: archer_red_71
+    21300144: archer_red_72
+    21300146: archer_red_73
+    21300148: archer_red_74
+    21300150: archer_red_75
+    21300152: archer_red_76
+    21300154: archer_red_77
+    21300156: archer_red_78
+    21300158: archer_red_79
+    21300160: archer_red_80
+    21300162: archer_red_81
+    21300164: archer_red_82
+    21300166: archer_red_83
+    21300168: archer_red_84
+    21300170: archer_red_85
+    21300172: archer_red_86
+    21300174: archer_red_87
+    21300176: archer_red_88
+    21300178: archer_red_89
+    21300180: archer_red_90
+    21300182: archer_red_91
+    21300184: archer_red_92
+    21300186: archer_red_93
+    21300188: archer_red_94
+    21300190: archer_red_95
+    21300192: archer_red_96
+    21300194: archer_red_97
+    21300196: archer_red_98
+    21300198: archer_red_99
+    21300200: archer_red_100
+    21300202: archer_red_101
+    21300204: archer_red_102
+    21300206: archer_red_103
+    21300208: archer_red_104
+    21300210: archer_red_105
+    21300212: archer_red_106
+    21300214: archer_red_107
+    21300216: archer_red_108
+    21300218: archer_red_109
+    21300220: archer_red_110
+    21300222: archer_red_111
+    21300224: archer_red_112
+    21300226: archer_red_113
+    21300228: archer_red_114
+    21300230: archer_red_115
+    21300232: archer_red_116
+    21300234: archer_red_117
+    21300236: archer_red_118
+    21300238: archer_red_119
+    21300240: archer_red_120
+    21300242: archer_red_121
+    21300244: archer_red_122
+    21300246: archer_red_123
+    21300248: archer_red_124
+    21300250: archer_red_125
+    21300252: archer_red_126
+    21300254: archer_red_127
+    21300256: archer_red_128
+    21300258: archer_red_129
+    21300260: archer_red_130
+    21300262: archer_red_131
+    21300264: archer_red_132
+    21300266: archer_red_133
+    21300268: archer_red_134
+    21300270: archer_red_135
+    21300272: archer_red_136
+    21300274: archer_red_137
+    21300276: archer_red_138
+    21300278: archer_red_139
+    21300280: archer_red_140
+    21300282: archer_red_141
+    21300284: archer_red_142
+    21300286: archer_red_143
+    21300288: archer_red_144
+    21300290: archer_red_145
+    21300292: archer_red_146
+    21300294: archer_red_147
+    21300296: archer_red_148
+    21300298: archer_red_149
+    21300300: archer_red_150
+    21300302: archer_red_151
+    21300304: archer_red_152
+    21300306: archer_red_153
+    21300308: archer_red_154
+    21300310: archer_red_155
+    21300312: archer_red_156
+    21300314: archer_red_157
+    21300316: archer_red_158
+    21300318: archer_red_159
+    21300320: archer_red_160
+    21300322: archer_red_161
+    21300324: archer_red_162
+    21300326: archer_red_163
+    21300328: archer_red_164
+    21300330: archer_red_165
+    21300332: archer_red_166
+    21300334: archer_red_167
+    21300336: archer_red_168
+    21300338: archer_red_169
+    21300340: archer_red_170
+    21300342: archer_red_171
+    21300344: archer_red_172
+    21300346: archer_red_173
+    21300348: archer_red_174
+    21300350: archer_red_175
+    21300352: archer_red_176
+    21300354: archer_red_177
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +208,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +216,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +227,3535 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: archer_red_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 54}
+        - {x: -10, y: 53}
+        - {x: -19, y: 37}
+        - {x: -19, y: 5}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 42}
+        - {x: 11, y: 54}
+    - name: archer_red_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 15}
+        - {x: -19, y: 7}
+        - {x: -15, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 48}
+        - {x: 5, y: 54}
+        - {x: -5, y: 54}
+        - {x: -14, y: 45}
+    - name: archer_red_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 54}
+        - {x: -5, y: 54}
+        - {x: -19, y: 48}
+        - {x: -19, y: 7}
+        - {x: -13, y: 0}
+        - {x: 13, y: 0}
+        - {x: 16, y: 9}
+        - {x: 16, y: 38}
+        - {x: 14, y: 46}
+    - name: archer_red_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 54}
+        - {x: -2, y: 54}
+        - {x: -9, y: 52}
+        - {x: -20, y: 26}
+        - {x: -20, y: 7}
+        - {x: -11, y: 0}
+        - {x: 16, y: 0}
+        - {x: 20, y: 10}
+        - {x: 20, y: 37}
+        - {x: 12, y: 46}
+    - name: archer_red_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 38}
+        - {x: 4, y: 54}
+        - {x: -5, y: 54}
+        - {x: -27, y: 37}
+        - {x: -27, y: 4}
+        - {x: -17, y: 0}
+        - {x: 19, y: 0}
+        - {x: 20, y: 1}
+        - {x: 27, y: 25}
+        - {x: 27, y: 37}
+    - name: archer_red_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 54}
+        - {x: -26, y: 14}
+        - {x: -24, y: 6}
+        - {x: -17, y: 0}
+        - {x: 16, y: 0}
+        - {x: 20, y: 1}
+        - {x: 26, y: 19}
+        - {x: 26, y: 54}
+    - name: archer_red_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 54}
+        - {x: -2, y: 54}
+        - {x: -9, y: 52}
+        - {x: -20, y: 26}
+        - {x: -20, y: 7}
+        - {x: -11, y: 0}
+        - {x: 16, y: 0}
+        - {x: 20, y: 10}
+        - {x: 20, y: 37}
+        - {x: 12, y: 46}
+    - name: archer_red_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 55}
+        - {x: -16, y: 50}
+        - {x: -19, y: 42}
+        - {x: -19, y: 9}
+        - {x: -11, y: 0}
+        - {x: 9, y: 0}
+        - {x: 17, y: 16}
+        - {x: 24, y: 45}
+        - {x: 24, y: 55}
+    - name: archer_red_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 54}
+        - {x: 18, y: 55}
+        - {x: -1, y: 55}
+        - {x: -16, y: 50}
+        - {x: -17, y: 42}
+        - {x: -19, y: 31}
+        - {x: -19, y: 15}
+        - {x: -15, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 3}
+        - {x: 19, y: 25}
+        - {x: 24, y: 48}
+    - name: archer_red_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 55}
+        - {x: -19, y: 54}
+        - {x: -19, y: 7}
+        - {x: -13, y: 0}
+        - {x: 13, y: 0}
+        - {x: 15, y: 1}
+        - {x: 24, y: 31}
+        - {x: 24, y: 51}
+        - {x: 16, y: 55}
+    - name: archer_red_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 55}
+        - {x: -5, y: 55}
+        - {x: -19, y: 52}
+        - {x: -19, y: 9}
+        - {x: -15, y: 0}
+        - {x: 10, y: 0}
+        - {x: 20, y: 25}
+        - {x: 24, y: 47}
+        - {x: 24, y: 54}
+    - name: archer_red_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 55}
+        - {x: -16, y: 50}
+        - {x: -19, y: 46}
+        - {x: -19, y: 20}
+        - {x: -16, y: 0}
+        - {x: 11, y: 0}
+        - {x: 24, y: 15}
+        - {x: 24, y: 53}
+        - {x: 17, y: 55}
+    - name: archer_red_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 51}
+        - {x: 23, y: 52}
+        - {x: 14, y: 55}
+        - {x: -1, y: 55}
+        - {x: -16, y: 50}
+        - {x: -19, y: 47}
+        - {x: -19, y: 9}
+        - {x: -18, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 3}
+        - {x: 24, y: 30}
+    - name: archer_red_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 55}
+        - {x: -19, y: 52}
+        - {x: -19, y: 12}
+        - {x: -12, y: 0}
+        - {x: 11, y: 0}
+        - {x: 24, y: 14}
+        - {x: 24, y: 55}
+    - name: archer_red_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 48}
+        - {x: 6, y: 58}
+        - {x: -13, y: 60}
+        - {x: -17, y: 60}
+        - {x: -17, y: 0}
+        - {x: 15, y: 0}
+        - {x: 16, y: 2}
+        - {x: 21, y: 18}
+        - {x: 21, y: 24}
+    - name: archer_red_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 58}
+        - {x: -12, y: 60}
+        - {x: -17, y: 60}
+        - {x: -17, y: 12}
+        - {x: -15, y: 0}
+        - {x: 15, y: 0}
+        - {x: 21, y: 14}
+        - {x: 21, y: 31}
+        - {x: 15, y: 48}
+    - name: archer_red_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 60}
+        - {x: -16, y: 60}
+        - {x: -16, y: 0}
+        - {x: 17, y: 0}
+        - {x: 21, y: 5}
+        - {x: 21, y: 36}
+    - name: archer_red_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 60}
+        - {x: -20, y: 0}
+        - {x: 19, y: 0}
+        - {x: 21, y: 3}
+        - {x: 21, y: 37}
+        - {x: 9, y: 60}
+    - name: archer_red_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 57}
+        - {x: -13, y: 60}
+        - {x: -19, y: 60}
+        - {x: -27, y: 38}
+        - {x: -27, y: 22}
+        - {x: -17, y: 0}
+        - {x: 13, y: 0}
+        - {x: 27, y: 20}
+        - {x: 27, y: 42}
+    - name: archer_red_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 60}
+        - {x: -26, y: 49}
+        - {x: -26, y: 19}
+        - {x: -15, y: 0}
+        - {x: 16, y: 0}
+        - {x: 26, y: 15}
+        - {x: 26, y: 45}
+        - {x: 1, y: 60}
+    - name: archer_red_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 48}
+        - {x: 6, y: 57}
+        - {x: -13, y: 60}
+        - {x: -19, y: 60}
+        - {x: -19, y: 4}
+        - {x: -15, y: 0}
+        - {x: 15, y: 0}
+        - {x: 17, y: 1}
+        - {x: 21, y: 17}
+        - {x: 21, y: 24}
+    - name: archer_red_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 47}
+        - {x: 6, y: 55}
+        - {x: -15, y: 55}
+        - {x: -24, y: 53}
+        - {x: -24, y: 38}
+        - {x: -9, y: 0}
+        - {x: 6, y: 0}
+        - {x: 14, y: 2}
+        - {x: 19, y: 16}
+        - {x: 19, y: 25}
+        - {x: 16, y: 28}
+    - name: archer_red_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 55}
+        - {x: -24, y: 38}
+        - {x: -8, y: 0}
+        - {x: 15, y: 0}
+        - {x: 19, y: 15}
+        - {x: 19, y: 48}
+        - {x: 14, y: 55}
+    - name: archer_red_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 55}
+        - {x: -15, y: 55}
+        - {x: -24, y: 53}
+        - {x: -24, y: 36}
+        - {x: -12, y: 2}
+        - {x: -7, y: 0}
+        - {x: 7, y: 0}
+        - {x: 12, y: 3}
+        - {x: 19, y: 11}
+        - {x: 19, y: 50}
+    - name: archer_red_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 55}
+        - {x: -24, y: 53}
+        - {x: -24, y: 34}
+        - {x: -13, y: 2}
+        - {x: -10, y: 0}
+        - {x: 19, y: 0}
+        - {x: 19, y: 53}
+        - {x: 13, y: 55}
+    - name: archer_red_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 55}
+        - {x: -10, y: 55}
+        - {x: -24, y: 54}
+        - {x: -24, y: 20}
+        - {x: -18, y: 0}
+        - {x: 7, y: 0}
+        - {x: 12, y: 3}
+        - {x: 19, y: 13}
+        - {x: 19, y: 48}
+    - name: archer_red_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 55}
+        - {x: -17, y: 55}
+        - {x: -24, y: 54}
+        - {x: -24, y: 26}
+        - {x: -16, y: 1}
+        - {x: -13, y: 0}
+        - {x: 4, y: 0}
+        - {x: 14, y: 2}
+        - {x: 19, y: 16}
+        - {x: 19, y: 36}
+        - {x: 17, y: 47}
+    - name: archer_red_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 55}
+        - {x: -24, y: 53}
+        - {x: -24, y: 37}
+        - {x: -11, y: 3}
+        - {x: -9, y: 0}
+        - {x: 19, y: 0}
+        - {x: 19, y: 53}
+        - {x: 13, y: 55}
+    - name: archer_red_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 54}
+        - {x: -10, y: 53}
+        - {x: -18, y: 31}
+        - {x: -18, y: 3}
+        - {x: -11, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 52}
+        - {x: 8, y: 54}
+    - name: archer_red_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 53}
+        - {x: -14, y: 44}
+        - {x: -17, y: 20}
+        - {x: -17, y: 8}
+        - {x: -10, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 39}
+        - {x: 9, y: 53}
+    - name: archer_red_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 54}
+        - {x: -17, y: 34}
+        - {x: -17, y: 11}
+        - {x: -15, y: 8}
+        - {x: -7, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 48}
+        - {x: 12, y: 54}
+    - name: archer_red_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 54}
+        - {x: -17, y: 48}
+        - {x: -17, y: 4}
+        - {x: -6, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 48}
+        - {x: 8, y: 54}
+    - name: archer_red_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 53}
+        - {x: -13, y: 45}
+        - {x: -17, y: 25}
+        - {x: -17, y: 8}
+        - {x: -5, y: 0}
+        - {x: 12, y: 0}
+        - {x: 15, y: 6}
+        - {x: 15, y: 45}
+        - {x: 5, y: 53}
+    - name: archer_red_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 53}
+        - {x: -14, y: 45}
+        - {x: -17, y: 23}
+        - {x: -17, y: 9}
+        - {x: -5, y: 0}
+        - {x: 14, y: 0}
+        - {x: 15, y: 24}
+        - {x: 15, y: 47}
+        - {x: 8, y: 53}
+    - name: archer_red_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 53}
+        - {x: -13, y: 45}
+        - {x: -17, y: 25}
+        - {x: -17, y: 8}
+        - {x: -5, y: 0}
+        - {x: 12, y: 0}
+        - {x: 15, y: 6}
+        - {x: 15, y: 45}
+        - {x: 5, y: 53}
+    - name: archer_red_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 54}
+        - {x: -3, y: 54}
+        - {x: -17, y: 45}
+        - {x: -17, y: 5}
+        - {x: -7, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 46}
+    - name: archer_red_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 55}
+        - {x: -18, y: 52}
+        - {x: -19, y: 48}
+        - {x: -19, y: 10}
+        - {x: -14, y: 2}
+        - {x: -8, y: 0}
+        - {x: 10, y: 0}
+        - {x: 17, y: 16}
+        - {x: 24, y: 45}
+        - {x: 24, y: 55}
+    - name: archer_red_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 55}
+        - {x: -19, y: 49}
+        - {x: -19, y: 0}
+        - {x: 12, y: 0}
+        - {x: 24, y: 39}
+        - {x: 24, y: 55}
+    - name: archer_red_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 55}
+        - {x: -19, y: 53}
+        - {x: -19, y: 8}
+        - {x: -9, y: 0}
+        - {x: 14, y: 0}
+        - {x: 24, y: 28}
+        - {x: 24, y: 51}
+        - {x: 13, y: 55}
+    - name: archer_red_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 55}
+        - {x: -19, y: 0}
+        - {x: 15, y: 0}
+        - {x: 22, y: 4}
+        - {x: 24, y: 48}
+        - {x: 24, y: 53}
+        - {x: 16, y: 55}
+    - name: archer_red_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 54}
+        - {x: 19, y: 55}
+        - {x: -2, y: 55}
+        - {x: -18, y: 50}
+        - {x: -21, y: 41}
+        - {x: -21, y: 10}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 3}
+        - {x: 13, y: 6}
+        - {x: 22, y: 46}
+    - name: archer_red_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 52}
+        - {x: 12, y: 55}
+        - {x: -8, y: 55}
+        - {x: -21, y: 52}
+        - {x: -22, y: 50}
+        - {x: -22, y: 9}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 3}
+        - {x: 13, y: 6}
+        - {x: 22, y: 48}
+    - name: archer_red_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 54}
+        - {x: 19, y: 55}
+        - {x: -2, y: 55}
+        - {x: -18, y: 50}
+        - {x: -21, y: 41}
+        - {x: -21, y: 10}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 3}
+        - {x: 13, y: 6}
+        - {x: 22, y: 46}
+    - name: archer_red_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 55}
+        - {x: -6, y: 55}
+        - {x: -19, y: 53}
+        - {x: -19, y: 11}
+        - {x: -10, y: 1}
+        - {x: -3, y: 0}
+        - {x: 22, y: 0}
+        - {x: 24, y: 11}
+        - {x: 24, y: 51}
+        - {x: 23, y: 52}
+    - name: archer_red_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 0}
+        - {x: 12, y: 0}
+        - {x: 21, y: 13}
+        - {x: 21, y: 34}
+        - {x: 17, y: 49}
+        - {x: 6, y: 58}
+        - {x: -13, y: 60}
+        - {x: -17, y: 60}
+        - {x: -17, y: 6}
+        - {x: -16, y: 1}
+        - {x: -12, y: 0}
+        - {x: -3, y: 0}
+        - {x: -1, y: 4}
+        - {x: -1, y: 8}
+        - {x: 1, y: 4}
+    - name: archer_red_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 59}
+        - {x: -16, y: 3}
+        - {x: -13, y: 1}
+        - {x: 12, y: 1}
+        - {x: 20, y: 9}
+        - {x: 20, y: 42}
+        - {x: 18, y: 49}
+        - {x: 5, y: 56}
+        - {x: -13, y: 60}
+    - name: archer_red_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 60}
+        - {x: -16, y: 40}
+        - {x: -14, y: 18}
+        - {x: -11, y: 1}
+        - {x: 11, y: 1}
+        - {x: 20, y: 11}
+        - {x: 20, y: 51}
+        - {x: -6, y: 60}
+    - name: archer_red_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 60}
+        - {x: -16, y: 4}
+        - {x: -13, y: 1}
+        - {x: 14, y: 1}
+        - {x: 20, y: 6}
+        - {x: 20, y: 51}
+        - {x: -6, y: 60}
+    - name: archer_red_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 59}
+        - {x: -16, y: 27}
+        - {x: -13, y: 4}
+        - {x: 0, y: 1}
+        - {x: 13, y: 1}
+        - {x: 20, y: 8}
+        - {x: 20, y: 37}
+        - {x: 9, y: 59}
+    - name: archer_red_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 57}
+        - {x: -13, y: 59}
+        - {x: -16, y: 59}
+        - {x: -16, y: 20}
+        - {x: -15, y: 3}
+        - {x: -6, y: 1}
+        - {x: 14, y: 1}
+        - {x: 20, y: 11}
+        - {x: 20, y: 31}
+        - {x: 15, y: 47}
+    - name: archer_red_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 59}
+        - {x: -16, y: 27}
+        - {x: -13, y: 4}
+        - {x: 0, y: 1}
+        - {x: 13, y: 1}
+        - {x: 20, y: 8}
+        - {x: 20, y: 37}
+        - {x: 9, y: 59}
+    - name: archer_red_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 1}
+        - {x: 20, y: 1}
+        - {x: 20, y: 49}
+        - {x: 14, y: 60}
+        - {x: -16, y: 60}
+        - {x: -16, y: 6}
+    - name: archer_red_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 55}
+        - {x: -24, y: 53}
+        - {x: -24, y: 38}
+        - {x: -10, y: 4}
+        - {x: -8, y: 0}
+        - {x: 3, y: 0}
+        - {x: 14, y: 2}
+        - {x: 19, y: 8}
+        - {x: 19, y: 51}
+        - {x: 9, y: 55}
+    - name: archer_red_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 55}
+        - {x: -24, y: 53}
+        - {x: -24, y: 36}
+        - {x: -12, y: 3}
+        - {x: -9, y: 0}
+        - {x: 3, y: 0}
+        - {x: 14, y: 2}
+        - {x: 19, y: 8}
+        - {x: 19, y: 51}
+        - {x: 9, y: 55}
+    - name: archer_red_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 55}
+        - {x: -24, y: 54}
+        - {x: -24, y: 30}
+        - {x: -12, y: 0}
+        - {x: 9, y: 0}
+        - {x: 14, y: 2}
+        - {x: 19, y: 8}
+        - {x: 19, y: 51}
+        - {x: 9, y: 55}
+    - name: archer_red_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 55}
+        - {x: -24, y: 53}
+        - {x: -24, y: 32}
+        - {x: -15, y: 1}
+        - {x: -13, y: 0}
+        - {x: 19, y: 0}
+        - {x: 19, y: 52}
+        - {x: 12, y: 55}
+    - name: archer_red_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 55}
+        - {x: -22, y: 54}
+        - {x: -22, y: 39}
+        - {x: -14, y: 0}
+        - {x: 21, y: 0}
+        - {x: 21, y: 55}
+    - name: archer_red_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 55}
+        - {x: -22, y: 39}
+        - {x: -18, y: 21}
+        - {x: -14, y: 0}
+        - {x: 5, y: 0}
+        - {x: 12, y: 3}
+        - {x: 22, y: 11}
+        - {x: 22, y: 42}
+        - {x: 13, y: 55}
+    - name: archer_red_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 55}
+        - {x: -22, y: 54}
+        - {x: -22, y: 39}
+        - {x: -14, y: 0}
+        - {x: 21, y: 0}
+        - {x: 21, y: 55}
+    - name: archer_red_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 53}
+        - {x: 12, y: 55}
+        - {x: -15, y: 55}
+        - {x: -24, y: 53}
+        - {x: -24, y: 17}
+        - {x: -22, y: 3}
+        - {x: -14, y: 0}
+        - {x: 19, y: 0}
+    - name: archer_red_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 55}
+        - {x: -10, y: 54}
+        - {x: -19, y: 39}
+        - {x: -19, y: 7}
+        - {x: -17, y: 1}
+        - {x: 17, y: 1}
+        - {x: 17, y: 45}
+        - {x: 9, y: 55}
+    - name: archer_red_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 55}
+        - {x: -16, y: 47}
+        - {x: -19, y: 28}
+        - {x: -19, y: 4}
+        - {x: -9, y: 1}
+        - {x: 17, y: 1}
+        - {x: 17, y: 53}
+        - {x: 14, y: 55}
+    - name: archer_red_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 55}
+        - {x: -19, y: 49}
+        - {x: -19, y: 0}
+        - {x: 13, y: 0}
+        - {x: 16, y: 1}
+        - {x: 17, y: 3}
+        - {x: 17, y: 44}
+        - {x: 9, y: 55}
+    - name: archer_red_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 54}
+        - {x: -19, y: 45}
+        - {x: -19, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 48}
+        - {x: 7, y: 54}
+    - name: archer_red_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 55}
+        - {x: -19, y: 31}
+        - {x: -19, y: 3}
+        - {x: -3, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 52}
+        - {x: 7, y: 55}
+    - name: archer_red_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 55}
+        - {x: -19, y: 49}
+        - {x: -19, y: 2}
+        - {x: -17, y: 1}
+        - {x: 17, y: 1}
+        - {x: 17, y: 53}
+        - {x: 12, y: 55}
+    - name: archer_red_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 55}
+        - {x: -16, y: 47}
+        - {x: -19, y: 28}
+        - {x: -19, y: 2}
+        - {x: -13, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 49}
+        - {x: 10, y: 55}
+    - name: archer_red_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 54}
+        - {x: -7, y: 54}
+        - {x: -18, y: 47}
+        - {x: -19, y: 38}
+        - {x: -19, y: 1}
+        - {x: -17, y: 0}
+        - {x: 10, y: 0}
+        - {x: 17, y: 11}
+        - {x: 17, y: 23}
+        - {x: 14, y: 46}
+    - name: archer_red_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 55}
+        - {x: -4, y: 55}
+        - {x: -16, y: 47}
+        - {x: -19, y: 37}
+        - {x: -19, y: 6}
+        - {x: -14, y: 0}
+        - {x: 9, y: 0}
+        - {x: 17, y: 11}
+        - {x: 17, y: 29}
+        - {x: 14, y: 47}
+    - name: archer_red_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 55}
+        - {x: -16, y: 50}
+        - {x: -19, y: 46}
+        - {x: -19, y: 7}
+        - {x: -18, y: 0}
+        - {x: 13, y: 0}
+        - {x: 21, y: 26}
+        - {x: 24, y: 41}
+        - {x: 24, y: 55}
+    - name: archer_red_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 54}
+        - {x: -5, y: 54}
+        - {x: -19, y: 49}
+        - {x: -19, y: 0}
+        - {x: -6, y: 0}
+        - {x: -2, y: 4}
+        - {x: 3, y: 0}
+        - {x: 9, y: 0}
+        - {x: 14, y: 5}
+        - {x: 24, y: 41}
+        - {x: 24, y: 51}
+    - name: archer_red_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 55}
+        - {x: -19, y: 1}
+        - {x: 16, y: 1}
+        - {x: 24, y: 47}
+        - {x: 24, y: 54}
+        - {x: 19, y: 55}
+    - name: archer_red_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 52}
+        - {x: 13, y: 55}
+        - {x: -7, y: 55}
+        - {x: -19, y: 53}
+        - {x: -19, y: 14}
+        - {x: -8, y: 2}
+        - {x: -5, y: 1}
+        - {x: 7, y: 1}
+        - {x: 18, y: 13}
+        - {x: 24, y: 35}
+        - {x: 24, y: 51}
+    - name: archer_red_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 55}
+        - {x: -19, y: 55}
+        - {x: -19, y: 0}
+        - {x: 9, y: 0}
+        - {x: 21, y: 12}
+        - {x: 24, y: 48}
+        - {x: 24, y: 53}
+    - name: archer_red_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 50}
+        - {x: 16, y: 54}
+        - {x: -11, y: 54}
+        - {x: -19, y: 52}
+        - {x: -19, y: 10}
+        - {x: -11, y: 0}
+        - {x: -1, y: 0}
+        - {x: 6, y: 1}
+        - {x: 12, y: 4}
+        - {x: 22, y: 13}
+        - {x: 24, y: 23}
+    - name: archer_red_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 55}
+        - {x: -7, y: 55}
+        - {x: -19, y: 53}
+        - {x: -19, y: 12}
+        - {x: -11, y: 0}
+        - {x: 6, y: 0}
+        - {x: 11, y: 1}
+        - {x: 17, y: 13}
+        - {x: 24, y: 47}
+        - {x: 24, y: 54}
+    - name: archer_red_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 55}
+        - {x: -19, y: 53}
+        - {x: -19, y: 13}
+        - {x: -6, y: 0}
+        - {x: 11, y: 0}
+        - {x: 24, y: 33}
+        - {x: 24, y: 51}
+        - {x: 15, y: 55}
+    - name: archer_red_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 55}
+        - {x: -19, y: 53}
+        - {x: -19, y: 12}
+        - {x: -10, y: 0}
+        - {x: 15, y: 0}
+        - {x: 24, y: 43}
+        - {x: 24, y: 55}
+    - name: archer_red_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 60}
+        - {x: -17, y: 60}
+        - {x: -17, y: 0}
+        - {x: 13, y: 0}
+        - {x: 17, y: 1}
+        - {x: 21, y: 8}
+        - {x: 21, y: 38}
+    - name: archer_red_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 60}
+        - {x: -17, y: 0}
+        - {x: 15, y: 0}
+        - {x: 21, y: 5}
+        - {x: 21, y: 40}
+        - {x: 12, y: 60}
+    - name: archer_red_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 60}
+        - {x: -16, y: 60}
+        - {x: -17, y: 59}
+        - {x: -17, y: 7}
+        - {x: -11, y: 0}
+        - {x: 11, y: 0}
+        - {x: 21, y: 14}
+        - {x: 21, y: 39}
+        - {x: 20, y: 50}
+    - name: archer_red_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 55}
+        - {x: -13, y: 59}
+        - {x: -16, y: 59}
+        - {x: -16, y: 12}
+        - {x: -13, y: 0}
+        - {x: 13, y: 0}
+        - {x: 21, y: 12}
+        - {x: 21, y: 28}
+        - {x: 17, y: 47}
+    - name: archer_red_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 60}
+        - {x: -16, y: 60}
+        - {x: -17, y: 59}
+        - {x: -17, y: 8}
+        - {x: -13, y: 0}
+        - {x: 12, y: 0}
+        - {x: 21, y: 13}
+        - {x: 21, y: 40}
+        - {x: 20, y: 50}
+    - name: archer_red_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 60}
+        - {x: -17, y: 0}
+        - {x: 14, y: 0}
+        - {x: 21, y: 6}
+        - {x: 21, y: 45}
+        - {x: 11, y: 60}
+    - name: archer_red_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 56}
+        - {x: -12, y: 60}
+        - {x: -17, y: 60}
+        - {x: -17, y: 0}
+        - {x: 11, y: 0}
+        - {x: 21, y: 17}
+        - {x: 21, y: 30}
+        - {x: 16, y: 48}
+    - name: archer_red_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 59}
+        - {x: -17, y: 11}
+        - {x: -12, y: 0}
+        - {x: 13, y: 0}
+        - {x: 21, y: 8}
+        - {x: 21, y: 34}
+        - {x: 10, y: 59}
+    - name: archer_red_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 48}
+        - {x: 5, y: 56}
+        - {x: -11, y: 60}
+        - {x: -17, y: 60}
+        - {x: -17, y: 0}
+        - {x: 11, y: 0}
+        - {x: 21, y: 17}
+        - {x: 21, y: 30}
+    - name: archer_red_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 47}
+        - {x: 6, y: 55}
+        - {x: -15, y: 55}
+        - {x: -24, y: 53}
+        - {x: -24, y: 38}
+        - {x: -9, y: 0}
+        - {x: 6, y: 0}
+        - {x: 14, y: 2}
+        - {x: 19, y: 16}
+        - {x: 19, y: 25}
+        - {x: 16, y: 28}
+    - name: archer_red_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 54}
+        - {x: -15, y: 54}
+        - {x: -24, y: 52}
+        - {x: -24, y: 32}
+        - {x: -16, y: 4}
+        - {x: -10, y: 0}
+        - {x: 15, y: 0}
+        - {x: 19, y: 6}
+        - {x: 19, y: 51}
+    - name: archer_red_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 49}
+        - {x: 6, y: 55}
+        - {x: -15, y: 55}
+        - {x: -24, y: 53}
+        - {x: -24, y: 37}
+        - {x: -10, y: 1}
+        - {x: 15, y: 1}
+        - {x: 19, y: 15}
+        - {x: 19, y: 36}
+        - {x: 18, y: 42}
+    - name: archer_red_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 52}
+        - {x: 10, y: 55}
+        - {x: -16, y: 55}
+        - {x: -24, y: 53}
+        - {x: -24, y: 33}
+        - {x: -13, y: 1}
+        - {x: 7, y: 1}
+        - {x: 7, y: 3}
+        - {x: 19, y: 18}
+        - {x: 19, y: 39}
+    - name: archer_red_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 40}
+        - {x: 16, y: 51}
+        - {x: 8, y: 55}
+        - {x: -15, y: 55}
+        - {x: -24, y: 53}
+        - {x: -24, y: 34}
+        - {x: -14, y: 0}
+        - {x: 8, y: 0}
+        - {x: 12, y: 4}
+        - {x: 11, y: 8}
+        - {x: 19, y: 18}
+    - name: archer_red_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 48}
+        - {x: 6, y: 54}
+        - {x: -15, y: 54}
+        - {x: -24, y: 52}
+        - {x: -24, y: 21}
+        - {x: -21, y: 4}
+        - {x: -4, y: 0}
+        - {x: 12, y: 0}
+        - {x: 19, y: 16}
+        - {x: 19, y: 35}
+        - {x: 18, y: 41}
+    - name: archer_red_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 39}
+        - {x: 18, y: 52}
+        - {x: 10, y: 55}
+        - {x: -15, y: 55}
+        - {x: -24, y: 53}
+        - {x: -24, y: 36}
+        - {x: -16, y: 14}
+        - {x: -8, y: 2}
+        - {x: -5, y: 1}
+        - {x: 0, y: 0}
+        - {x: 7, y: 0}
+        - {x: 10, y: 3}
+        - {x: 10, y: 6}
+        - {x: 19, y: 18}
+    - name: archer_red_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 55}
+        - {x: -16, y: 55}
+        - {x: -24, y: 53}
+        - {x: -24, y: 38}
+        - {x: -17, y: 17}
+        - {x: -8, y: 0}
+        - {x: 3, y: 0}
+        - {x: 8, y: 2}
+        - {x: 19, y: 17}
+        - {x: 19, y: 40}
+        - {x: 16, y: 51}
+    - name: archer_red_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 55}
+        - {x: -16, y: 55}
+        - {x: -24, y: 53}
+        - {x: -24, y: 36}
+        - {x: -17, y: 18}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 19, y: 17}
+        - {x: 19, y: 39}
+        - {x: 18, y: 52}
+    - name: archer_red_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 54}
+        - {x: -10, y: 53}
+        - {x: -19, y: 37}
+        - {x: -19, y: 5}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 42}
+        - {x: 11, y: 54}
+    - name: archer_red_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 53}
+        - {x: -12, y: 53}
+        - {x: -19, y: 51}
+        - {x: -19, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 46}
+    - name: archer_red_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 53}
+        - {x: -17, y: 45}
+        - {x: -19, y: 42}
+        - {x: -19, y: 3}
+        - {x: -16, y: 0}
+        - {x: 13, y: 0}
+        - {x: 15, y: 2}
+        - {x: 15, y: 40}
+        - {x: 8, y: 53}
+    - name: archer_red_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 54}
+        - {x: -5, y: 54}
+        - {x: -18, y: 49}
+        - {x: -18, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 30}
+        - {x: 14, y: 46}
+    - name: archer_red_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 54}
+        - {x: -8, y: 53}
+        - {x: -18, y: 27}
+        - {x: -18, y: 4}
+        - {x: -17, y: 1}
+        - {x: -12, y: 0}
+        - {x: 15, y: 0}
+        - {x: 18, y: 1}
+        - {x: 24, y: 21}
+        - {x: 24, y: 40}
+        - {x: 6, y: 54}
+    - name: archer_red_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 54}
+        - {x: -13, y: 45}
+        - {x: -18, y: 17}
+        - {x: -18, y: 7}
+        - {x: -10, y: 0}
+        - {x: 18, y: 0}
+        - {x: 27, y: 12}
+        - {x: 27, y: 43}
+        - {x: 23, y: 54}
+    - name: archer_red_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 55}
+        - {x: -16, y: 50}
+        - {x: -19, y: 42}
+        - {x: -19, y: 9}
+        - {x: -11, y: 0}
+        - {x: 9, y: 0}
+        - {x: 17, y: 16}
+        - {x: 24, y: 45}
+        - {x: 24, y: 55}
+    - name: archer_red_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 53}
+        - {x: -15, y: 53}
+        - {x: -21, y: 52}
+        - {x: -21, y: 10}
+        - {x: -12, y: 1}
+        - {x: -6, y: 0}
+        - {x: 10, y: 0}
+        - {x: 18, y: 12}
+        - {x: 22, y: 26}
+        - {x: 22, y: 49}
+    - name: archer_red_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 55}
+        - {x: -21, y: 6}
+        - {x: -12, y: 0}
+        - {x: 16, y: 0}
+        - {x: 22, y: 26}
+        - {x: 22, y: 55}
+    - name: archer_red_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 55}
+        - {x: -22, y: 53}
+        - {x: -23, y: 50}
+        - {x: -23, y: 16}
+        - {x: -13, y: 0}
+        - {x: 10, y: 0}
+        - {x: 19, y: 14}
+        - {x: 21, y: 28}
+        - {x: 21, y: 55}
+    - name: archer_red_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 55}
+        - {x: -20, y: 50}
+        - {x: -26, y: 35}
+        - {x: -26, y: 21}
+        - {x: -15, y: 0}
+        - {x: 15, y: 0}
+        - {x: 20, y: 8}
+        - {x: 20, y: 55}
+    - name: archer_red_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 55}
+        - {x: -7, y: 55}
+        - {x: -22, y: 52}
+        - {x: -23, y: 42}
+        - {x: -23, y: 14}
+        - {x: -15, y: 0}
+        - {x: 16, y: 0}
+        - {x: 20, y: 25}
+        - {x: 20, y: 51}
+        - {x: 19, y: 52}
+    - name: archer_red_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 0}
+        - {x: 22, y: 0}
+        - {x: 22, y: 52}
+        - {x: 6, y: 58}
+        - {x: -13, y: 60}
+        - {x: -17, y: 60}
+        - {x: -17, y: 6}
+        - {x: -16, y: 1}
+        - {x: -12, y: 0}
+        - {x: -3, y: 0}
+        - {x: -1, y: 4}
+        - {x: -1, y: 8}
+    - name: archer_red_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 48}
+        - {x: 5, y: 56}
+        - {x: -13, y: 60}
+        - {x: -16, y: 59}
+        - {x: -16, y: 1}
+        - {x: -12, y: 0}
+        - {x: 17, y: 0}
+        - {x: 22, y: 9}
+        - {x: 22, y: 30}
+    - name: archer_red_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 16}
+        - {x: 21, y: 29}
+        - {x: 19, y: 48}
+        - {x: -1, y: 58}
+        - {x: -17, y: 58}
+        - {x: -17, y: 1}
+        - {x: -13, y: 0}
+        - {x: 7, y: 0}
+        - {x: 12, y: 1}
+        - {x: 15, y: 4}
+        - {x: 15, y: 7}
+    - name: archer_red_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 59}
+        - {x: -14, y: 0}
+        - {x: 18, y: 0}
+        - {x: 24, y: 4}
+        - {x: 24, y: 41}
+        - {x: 12, y: 59}
+    - name: archer_red_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 60}
+        - {x: -14, y: 58}
+        - {x: -14, y: 0}
+        - {x: 11, y: 0}
+        - {x: 19, y: 2}
+        - {x: 25, y: 11}
+        - {x: 25, y: 36}
+        - {x: 12, y: 60}
+    - name: archer_red_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 58}
+        - {x: -10, y: 60}
+        - {x: -15, y: 60}
+        - {x: -15, y: 0}
+        - {x: 18, y: 0}
+        - {x: 28, y: 18}
+        - {x: 28, y: 35}
+        - {x: 18, y: 48}
+    - name: archer_red_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 47}
+        - {x: 6, y: 55}
+        - {x: -15, y: 55}
+        - {x: -24, y: 53}
+        - {x: -24, y: 38}
+        - {x: -9, y: 0}
+        - {x: 6, y: 0}
+        - {x: 14, y: 2}
+        - {x: 19, y: 16}
+        - {x: 19, y: 25}
+        - {x: 16, y: 28}
+    - name: archer_red_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 53}
+        - {x: -17, y: 53}
+        - {x: -22, y: 49}
+        - {x: -22, y: 28}
+        - {x: -12, y: 1}
+        - {x: -11, y: 0}
+        - {x: 12, y: 0}
+        - {x: 21, y: 9}
+        - {x: 21, y: 41}
+        - {x: 18, y: 49}
+    - name: archer_red_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 55}
+        - {x: -22, y: 54}
+        - {x: -22, y: 38}
+        - {x: -17, y: 14}
+        - {x: -12, y: 1}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 21, y: 6}
+        - {x: 21, y: 48}
+        - {x: 16, y: 55}
+    - name: archer_red_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 55}
+        - {x: -12, y: 55}
+        - {x: -21, y: 53}
+        - {x: -21, y: 22}
+        - {x: -17, y: 0}
+        - {x: 13, y: 0}
+        - {x: 23, y: 8}
+        - {x: 23, y: 43}
+        - {x: 21, y: 48}
+    - name: archer_red_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 52}
+        - {x: 7, y: 55}
+        - {x: -20, y: 55}
+        - {x: -20, y: 20}
+        - {x: -14, y: 0}
+        - {x: 12, y: 0}
+        - {x: 14, y: 3}
+        - {x: 26, y: 22}
+        - {x: 26, y: 35}
+    - name: archer_red_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 55}
+        - {x: -8, y: 55}
+        - {x: -20, y: 52}
+        - {x: -20, y: 27}
+        - {x: -18, y: 14}
+        - {x: -10, y: 0}
+        - {x: 12, y: 0}
+        - {x: 23, y: 14}
+        - {x: 23, y: 48}
+    - name: archer_red_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 55}
+        - {x: -10, y: 55}
+        - {x: -26, y: 32}
+        - {x: -26, y: 14}
+        - {x: -12, y: 0}
+        - {x: 16, y: 0}
+        - {x: 21, y: 7}
+        - {x: 21, y: 20}
+        - {x: 14, y: 47}
+    - name: archer_red_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 52}
+        - {x: -23, y: 45}
+        - {x: -23, y: 7}
+        - {x: -16, y: 0}
+        - {x: 12, y: 0}
+        - {x: 20, y: 4}
+        - {x: 20, y: 35}
+        - {x: 17, y: 52}
+    - name: archer_red_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 10}
+        - {x: 21, y: 22}
+        - {x: 13, y: 49}
+        - {x: 9, y: 53}
+        - {x: -20, y: 53}
+        - {x: -20, y: 6}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 12, y: 3}
+        - {x: 12, y: 5}
+        - {x: 9, y: 8}
+    - name: archer_red_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 54}
+        - {x: -19, y: 43}
+        - {x: -19, y: 3}
+        - {x: -8, y: 0}
+        - {x: 11, y: 0}
+        - {x: 12, y: 1}
+        - {x: 12, y: 52}
+        - {x: 9, y: 54}
+    - name: archer_red_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 53}
+        - {x: -1, y: 57}
+        - {x: -7, y: 57}
+        - {x: -16, y: 48}
+        - {x: -19, y: 39}
+        - {x: -19, y: 3}
+        - {x: -8, y: 0}
+        - {x: 11, y: 0}
+        - {x: 17, y: 16}
+        - {x: 17, y: 31}
+        - {x: 12, y: 49}
+    - name: archer_red_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 60}
+        - {x: -9, y: 60}
+        - {x: -19, y: 36}
+        - {x: -19, y: 2}
+        - {x: -14, y: 0}
+        - {x: 14, y: 0}
+        - {x: 15, y: 2}
+        - {x: 15, y: 46}
+        - {x: 14, y: 50}
+    - name: archer_red_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 51}
+        - {x: 1, y: 61}
+        - {x: -10, y: 61}
+        - {x: -19, y: 37}
+        - {x: -19, y: 2}
+        - {x: -10, y: 0}
+        - {x: 10, y: 0}
+        - {x: 12, y: 5}
+        - {x: 16, y: 20}
+        - {x: 16, y: 45}
+    - name: archer_red_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 62}
+        - {x: -19, y: 46}
+        - {x: -19, y: 1}
+        - {x: -17, y: 0}
+        - {x: 16, y: 0}
+        - {x: 17, y: 8}
+        - {x: 17, y: 57}
+        - {x: 4, y: 62}
+    - name: archer_red_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 59}
+        - {x: -12, y: 59}
+        - {x: -19, y: 35}
+        - {x: -19, y: 0}
+        - {x: 11, y: 0}
+        - {x: 18, y: 19}
+        - {x: 18, y: 32}
+        - {x: 10, y: 57}
+    - name: archer_red_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 62}
+        - {x: -8, y: 62}
+        - {x: -19, y: 46}
+        - {x: -19, y: 1}
+        - {x: -12, y: 0}
+        - {x: 11, y: 0}
+        - {x: 17, y: 12}
+        - {x: 17, y: 27}
+        - {x: 11, y: 56}
+    - name: archer_red_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 62}
+        - {x: -19, y: 49}
+        - {x: -19, y: 3}
+        - {x: -11, y: 0}
+        - {x: 12, y: 0}
+        - {x: 12, y: 60}
+        - {x: 10, y: 62}
+    - name: archer_red_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 62}
+        - {x: -19, y: 42}
+        - {x: -19, y: 4}
+        - {x: -15, y: 0}
+        - {x: 12, y: 0}
+        - {x: 12, y: 54}
+        - {x: 3, y: 62}
+    - name: archer_red_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 62}
+        - {x: -19, y: 49}
+        - {x: -19, y: 3}
+        - {x: -11, y: 0}
+        - {x: 12, y: 0}
+        - {x: 12, y: 60}
+        - {x: 10, y: 62}
+    - name: archer_red_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 55}
+        - {x: -27, y: 51}
+        - {x: -27, y: 17}
+        - {x: -9, y: 0}
+        - {x: 10, y: 0}
+        - {x: 13, y: 3}
+        - {x: 23, y: 18}
+        - {x: 25, y: 33}
+        - {x: 25, y: 55}
+    - name: archer_red_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 55}
+        - {x: -20, y: 47}
+        - {x: -15, y: 43}
+        - {x: -14, y: 40}
+        - {x: -14, y: 41}
+        - {x: -17, y: 44}
+        - {x: -22, y: 44}
+        - {x: -22, y: 22}
+        - {x: -16, y: 0}
+        - {x: 20, y: 0}
+        - {x: 23, y: 19}
+        - {x: 25, y: 36}
+        - {x: 25, y: 55}
+    - name: archer_red_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 55}
+        - {x: -24, y: 52}
+        - {x: -26, y: 45}
+        - {x: -26, y: 11}
+        - {x: -9, y: 1}
+        - {x: 0, y: 0}
+        - {x: 7, y: 0}
+        - {x: 18, y: 10}
+        - {x: 25, y: 42}
+        - {x: 25, y: 55}
+    - name: archer_red_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 55}
+        - {x: -14, y: 50}
+        - {x: -25, y: 30}
+        - {x: -25, y: 12}
+        - {x: -12, y: 0}
+        - {x: 13, y: 0}
+        - {x: 19, y: 5}
+        - {x: 25, y: 48}
+        - {x: 24, y: 52}
+        - {x: 15, y: 55}
+    - name: archer_red_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 55}
+        - {x: -14, y: 53}
+        - {x: -29, y: 28}
+        - {x: -29, y: 21}
+        - {x: -9, y: 0}
+        - {x: 18, y: 0}
+        - {x: 25, y: 35}
+        - {x: 25, y: 55}
+    - name: archer_red_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 57}
+        - {x: -11, y: 57}
+        - {x: -32, y: 40}
+        - {x: -32, y: 26}
+        - {x: -9, y: 0}
+        - {x: 11, y: 0}
+        - {x: 13, y: 3}
+        - {x: 25, y: 47}
+        - {x: 25, y: 56}
+    - name: archer_red_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 59}
+        - {x: -32, y: 45}
+        - {x: -32, y: 27}
+        - {x: -11, y: 0}
+        - {x: 15, y: 0}
+        - {x: 25, y: 28}
+        - {x: 25, y: 52}
+        - {x: 6, y: 59}
+    - name: archer_red_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 57}
+        - {x: -30, y: 37}
+        - {x: -30, y: 29}
+        - {x: -9, y: 0}
+        - {x: 15, y: 0}
+        - {x: 25, y: 21}
+        - {x: 25, y: 57}
+    - name: archer_red_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 55}
+        - {x: -18, y: 48}
+        - {x: -27, y: 34}
+        - {x: -27, y: 28}
+        - {x: -9, y: 0}
+        - {x: 15, y: 0}
+        - {x: 25, y: 23}
+        - {x: 25, y: 55}
+    - name: archer_red_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 55}
+        - {x: -21, y: 49}
+        - {x: -21, y: 17}
+        - {x: -15, y: 0}
+        - {x: 15, y: 0}
+        - {x: 25, y: 19}
+        - {x: 25, y: 54}
+        - {x: 16, y: 55}
+    - name: archer_red_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 55}
+        - {x: -17, y: 55}
+        - {x: -21, y: 44}
+        - {x: -21, y: 10}
+        - {x: -14, y: 0}
+        - {x: 14, y: 0}
+        - {x: 15, y: 2}
+        - {x: 25, y: 33}
+        - {x: 25, y: 52}
+    - name: archer_red_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 53}
+        - {x: 22, y: 55}
+        - {x: -18, y: 55}
+        - {x: -21, y: 44}
+        - {x: -21, y: 11}
+        - {x: -14, y: 0}
+        - {x: 13, y: 0}
+        - {x: 13, y: 6}
+        - {x: 25, y: 32}
+    - name: archer_red_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 55}
+        - {x: -14, y: 55}
+        - {x: -26, y: 34}
+        - {x: -26, y: 13}
+        - {x: -9, y: 0}
+        - {x: 13, y: 0}
+        - {x: 24, y: 20}
+        - {x: 25, y: 29}
+        - {x: 25, y: 52}
+    - name: archer_red_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 60}
+        - {x: -18, y: 59}
+        - {x: -19, y: 46}
+        - {x: -19, y: 10}
+        - {x: -15, y: 0}
+        - {x: 21, y: 0}
+        - {x: 24, y: 3}
+        - {x: 24, y: 43}
+        - {x: 21, y: 53}
+    - name: archer_red_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 60}
+        - {x: -22, y: 42}
+        - {x: -22, y: 8}
+        - {x: -14, y: 1}
+        - {x: 19, y: 1}
+        - {x: 19, y: 60}
+    - name: archer_red_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 60}
+        - {x: -21, y: 4}
+        - {x: -11, y: 1}
+        - {x: 11, y: 1}
+        - {x: 19, y: 15}
+        - {x: 19, y: 45}
+        - {x: 7, y: 60}
+    - name: archer_red_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 57}
+        - {x: -14, y: 60}
+        - {x: -17, y: 60}
+        - {x: -17, y: 18}
+        - {x: -8, y: 0}
+        - {x: 8, y: 0}
+        - {x: 17, y: 17}
+        - {x: 17, y: 35}
+        - {x: 14, y: 48}
+    - name: archer_red_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 60}
+        - {x: -17, y: 32}
+        - {x: -14, y: 10}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 17, y: 8}
+        - {x: 17, y: 41}
+        - {x: 9, y: 60}
+    - name: archer_red_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 58}
+        - {x: -14, y: 60}
+        - {x: -17, y: 60}
+        - {x: -17, y: 18}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 17, y: 13}
+        - {x: 17, y: 35}
+        - {x: 14, y: 48}
+    - name: archer_red_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 60}
+        - {x: -17, y: 34}
+        - {x: -12, y: 5}
+        - {x: -10, y: 0}
+        - {x: 8, y: 0}
+        - {x: 17, y: 7}
+        - {x: 17, y: 45}
+        - {x: 6, y: 60}
+    - name: archer_red_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 59}
+        - {x: -17, y: 31}
+        - {x: -13, y: 27}
+        - {x: -12, y: 5}
+        - {x: -8, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 53}
+        - {x: -14, y: 60}
+    - name: archer_red_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 56}
+        - {x: -14, y: 60}
+        - {x: -17, y: 60}
+        - {x: -17, y: 11}
+        - {x: -16, y: 3}
+        - {x: -11, y: 0}
+        - {x: 5, y: 0}
+        - {x: 11, y: 2}
+        - {x: 17, y: 9}
+        - {x: 17, y: 46}
+        - {x: 16, y: 49}
+    - name: archer_red_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 60}
+        - {x: -17, y: 32}
+        - {x: -14, y: 10}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 17, y: 8}
+        - {x: 17, y: 41}
+        - {x: 9, y: 60}
+    - name: archer_red_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 60}
+        - {x: -17, y: 16}
+        - {x: -9, y: 0}
+        - {x: 9, y: 0}
+        - {x: 17, y: 8}
+        - {x: 17, y: 42}
+        - {x: 9, y: 60}
+    - name: archer_red_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 56}
+        - {x: -14, y: 60}
+        - {x: -17, y: 60}
+        - {x: -17, y: 41}
+        - {x: -16, y: 18}
+        - {x: -9, y: 0}
+        - {x: 6, y: 0}
+        - {x: 17, y: 16}
+        - {x: 17, y: 29}
+        - {x: 14, y: 48}
+    - name: archer_red_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 56}
+        - {x: -14, y: 60}
+        - {x: -17, y: 60}
+        - {x: -17, y: 18}
+        - {x: -14, y: 9}
+        - {x: -9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 17, y: 13}
+        - {x: 17, y: 35}
+        - {x: 14, y: 48}
+    - name: archer_red_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 55}
+        - {x: -25, y: 53}
+        - {x: -25, y: 13}
+        - {x: -9, y: 0}
+        - {x: 13, y: 0}
+        - {x: 27, y: 9}
+        - {x: 27, y: 53}
+        - {x: 26, y: 55}
+    - name: archer_red_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 44}
+        - {x: 14, y: 41}
+        - {x: 14, y: 40}
+        - {x: 15, y: 43}
+        - {x: 16, y: 47}
+        - {x: 5, y: 55}
+        - {x: -16, y: 55}
+        - {x: -25, y: 53}
+        - {x: -25, y: 11}
+        - {x: -19, y: 0}
+        - {x: 8, y: 0}
+        - {x: 22, y: 12}
+        - {x: 22, y: 42}
+        - {x: 20, y: 46}
+    - name: archer_red_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 55}
+        - {x: -16, y: 55}
+        - {x: -25, y: 53}
+        - {x: -25, y: 31}
+        - {x: -17, y: 0}
+        - {x: 9, y: 0}
+        - {x: 26, y: 12}
+        - {x: 26, y: 40}
+        - {x: 24, y: 51}
+    - name: archer_red_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 55}
+        - {x: -16, y: 55}
+        - {x: -25, y: 53}
+        - {x: -25, y: 32}
+        - {x: -16, y: 1}
+        - {x: -14, y: 0}
+        - {x: 9, y: 0}
+        - {x: 25, y: 20}
+        - {x: 16, y: 47}
+    - name: archer_red_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 55}
+        - {x: -23, y: 55}
+        - {x: -25, y: 53}
+        - {x: -25, y: 41}
+        - {x: -13, y: 0}
+        - {x: 9, y: 0}
+        - {x: 14, y: 1}
+        - {x: 29, y: 25}
+        - {x: 29, y: 32}
+        - {x: 23, y: 50}
+    - name: archer_red_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 57}
+        - {x: -13, y: 57}
+        - {x: -25, y: 51}
+        - {x: -25, y: 41}
+        - {x: -16, y: 1}
+        - {x: -11, y: 0}
+        - {x: 6, y: 0}
+        - {x: 9, y: 1}
+        - {x: 32, y: 26}
+        - {x: 32, y: 41}
+    - name: archer_red_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 59}
+        - {x: -12, y: 56}
+        - {x: -25, y: 51}
+        - {x: -25, y: 42}
+        - {x: -14, y: 0}
+        - {x: 12, y: 0}
+        - {x: 32, y: 32}
+        - {x: 32, y: 39}
+        - {x: 10, y: 59}
+    - name: archer_red_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 57}
+        - {x: -25, y: 54}
+        - {x: -25, y: 32}
+        - {x: -15, y: 0}
+        - {x: 12, y: 0}
+        - {x: 30, y: 28}
+        - {x: 30, y: 42}
+        - {x: 11, y: 57}
+    - name: archer_red_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 55}
+        - {x: -11, y: 55}
+        - {x: -25, y: 52}
+        - {x: -25, y: 38}
+        - {x: -20, y: 21}
+        - {x: -13, y: 0}
+        - {x: 11, y: 0}
+        - {x: 27, y: 24}
+        - {x: 27, y: 38}
+        - {x: 18, y: 50}
+    - name: archer_red_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 44}
+        - {x: 11, y: 55}
+        - {x: -10, y: 55}
+        - {x: -25, y: 51}
+        - {x: -25, y: 39}
+        - {x: -16, y: 1}
+        - {x: -11, y: 0}
+        - {x: 7, y: 0}
+        - {x: 9, y: 1}
+        - {x: 20, y: 16}
+        - {x: 21, y: 21}
+    - name: archer_red_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 55}
+        - {x: -25, y: 52}
+        - {x: -25, y: 38}
+        - {x: -13, y: 0}
+        - {x: 15, y: 0}
+        - {x: 21, y: 17}
+        - {x: 21, y: 50}
+        - {x: 12, y: 55}
+    - name: archer_red_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 55}
+        - {x: -25, y: 54}
+        - {x: -25, y: 39}
+        - {x: -16, y: 1}
+        - {x: -11, y: 0}
+        - {x: 18, y: 0}
+        - {x: 21, y: 6}
+        - {x: 21, y: 54}
+        - {x: 17, y: 55}
+    - name: archer_red_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 55}
+        - {x: -25, y: 51}
+        - {x: -25, y: 43}
+        - {x: -12, y: 0}
+        - {x: 10, y: 0}
+        - {x: 26, y: 14}
+        - {x: 26, y: 34}
+        - {x: 14, y: 55}
+    - name: archer_red_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 0}
+        - {x: 11, y: 0}
+        - {x: 21, y: 8}
+        - {x: 21, y: 42}
+        - {x: 12, y: 60}
+        - {x: -13, y: 60}
+        - {x: -17, y: 59}
+        - {x: -17, y: 7}
+        - {x: -16, y: 1}
+        - {x: -12, y: 0}
+        - {x: -3, y: 0}
+        - {x: -1, y: 4}
+        - {x: -1, y: 8}
+        - {x: 1, y: 4}
+    - name: archer_red_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 58}
+        - {x: -16, y: 39}
+        - {x: -16, y: 9}
+        - {x: -9, y: 1}
+        - {x: 0, y: 0}
+        - {x: 13, y: 0}
+        - {x: 23, y: 12}
+        - {x: 23, y: 36}
+        - {x: 11, y: 58}
+    - name: archer_red_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 49}
+        - {x: -15, y: 48}
+        - {x: -15, y: 0}
+        - {x: 17, y: 0}
+        - {x: 22, y: 13}
+        - {x: 22, y: 41}
+        - {x: 2, y: 49}
+    - name: archer_red_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 28}
+        - {x: 10, y: 45}
+        - {x: -15, y: 45}
+        - {x: -15, y: 1}
+        - {x: 14, y: 1}
+        - {x: 16, y: 2}
+        - {x: 22, y: 12}
+    - name: archer_red_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 38}
+        - {x: -13, y: 37}
+        - {x: -16, y: 24}
+        - {x: -16, y: 1}
+        - {x: 25, y: 1}
+        - {x: 25, y: 23}
+        - {x: 12, y: 38}
+    - name: archer_red_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 38}
+        - {x: -16, y: 0}
+        - {x: 25, y: 0}
+        - {x: 27, y: 4}
+        - {x: 27, y: 28}
+        - {x: 18, y: 38}
     outline: []
   spritePackingTag: 
   userData: 
