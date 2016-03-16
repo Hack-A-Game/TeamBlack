@@ -1,0 +1,3297 @@
+fileFormatVersion: 2
+guid: 457731d2a1b227345ab375f332a1778b
+timeCreated: 1458115419
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: archer_blue_0
+    21300002: archer_blue_1
+    21300004: archer_blue_2
+    21300006: archer_blue_3
+    21300008: archer_blue_4
+    21300010: archer_blue_5
+    21300012: archer_blue_6
+    21300014: archer_blue_7
+    21300016: archer_blue_8
+    21300018: archer_blue_9
+    21300020: archer_blue_10
+    21300022: archer_blue_11
+    21300024: archer_blue_12
+    21300026: archer_blue_13
+    21300028: archer_blue_14
+    21300030: archer_blue_15
+    21300032: archer_blue_16
+    21300034: archer_blue_17
+    21300036: archer_blue_18
+    21300038: archer_blue_19
+    21300040: archer_blue_20
+    21300042: archer_blue_21
+    21300044: archer_blue_22
+    21300046: archer_blue_23
+    21300048: archer_blue_24
+    21300050: archer_blue_25
+    21300052: archer_blue_26
+    21300054: archer_blue_27
+    21300056: archer_blue_28
+    21300058: archer_blue_29
+    21300060: archer_blue_30
+    21300062: archer_blue_31
+    21300064: archer_blue_32
+    21300066: archer_blue_33
+    21300068: archer_blue_34
+    21300070: archer_blue_35
+    21300072: archer_blue_36
+    21300074: archer_blue_37
+    21300076: archer_blue_38
+    21300078: archer_blue_39
+    21300080: archer_blue_40
+    21300082: archer_blue_41
+    21300084: archer_blue_42
+    21300086: archer_blue_43
+    21300088: archer_blue_44
+    21300090: archer_blue_45
+    21300092: archer_blue_46
+    21300094: archer_blue_47
+    21300096: archer_blue_48
+    21300098: archer_blue_49
+    21300100: archer_blue_50
+    21300102: archer_blue_51
+    21300104: archer_blue_52
+    21300106: archer_blue_53
+    21300108: archer_blue_54
+    21300110: archer_blue_55
+    21300112: archer_blue_56
+    21300114: archer_blue_57
+    21300116: archer_blue_58
+    21300118: archer_blue_59
+    21300120: archer_blue_60
+    21300122: archer_blue_61
+    21300124: archer_blue_62
+    21300126: archer_blue_63
+    21300128: archer_blue_64
+    21300130: archer_blue_65
+    21300132: archer_blue_66
+    21300134: archer_blue_67
+    21300136: archer_blue_68
+    21300138: archer_blue_69
+    21300140: archer_blue_70
+    21300142: archer_blue_71
+    21300144: archer_blue_72
+    21300146: archer_blue_73
+    21300148: archer_blue_74
+    21300150: archer_blue_75
+    21300152: archer_blue_76
+    21300154: archer_blue_77
+    21300156: archer_blue_78
+    21300158: archer_blue_79
+    21300160: archer_blue_80
+    21300162: archer_blue_81
+    21300164: archer_blue_82
+    21300166: archer_blue_83
+    21300168: archer_blue_84
+    21300170: archer_blue_85
+    21300172: archer_blue_86
+    21300174: archer_blue_87
+    21300176: archer_blue_88
+    21300178: archer_blue_89
+    21300180: archer_blue_90
+    21300182: archer_blue_91
+    21300184: archer_blue_92
+    21300186: archer_blue_93
+    21300188: archer_blue_94
+    21300190: archer_blue_95
+    21300192: archer_blue_96
+    21300194: archer_blue_97
+    21300196: archer_blue_98
+    21300198: archer_blue_99
+    21300200: archer_blue_100
+    21300202: archer_blue_101
+    21300204: archer_blue_102
+    21300206: archer_blue_103
+    21300208: archer_blue_104
+    21300210: archer_blue_105
+    21300212: archer_blue_106
+    21300214: archer_blue_107
+    21300216: archer_blue_108
+    21300218: archer_blue_109
+    21300220: archer_blue_110
+    21300222: archer_blue_111
+    21300224: archer_blue_112
+    21300226: archer_blue_113
+    21300228: archer_blue_114
+    21300230: archer_blue_115
+    21300232: archer_blue_116
+    21300234: archer_blue_117
+    21300236: archer_blue_118
+    21300238: archer_blue_119
+    21300240: archer_blue_120
+    21300242: archer_blue_121
+    21300244: archer_blue_122
+    21300246: archer_blue_123
+    21300248: archer_blue_124
+    21300250: archer_blue_125
+    21300252: archer_blue_126
+    21300254: archer_blue_127
+    21300256: archer_blue_128
+    21300258: archer_blue_129
+    21300260: archer_blue_130
+    21300262: archer_blue_131
+    21300264: archer_blue_132
+    21300266: archer_blue_133
+    21300268: archer_blue_134
+    21300270: archer_blue_135
+    21300272: archer_blue_136
+    21300274: archer_blue_137
+    21300276: archer_blue_138
+    21300278: archer_blue_139
+    21300280: archer_blue_140
+    21300282: archer_blue_141
+    21300284: archer_blue_142
+    21300286: archer_blue_143
+    21300288: archer_blue_144
+    21300290: archer_blue_145
+    21300292: archer_blue_146
+    21300294: archer_blue_147
+    21300296: archer_blue_148
+    21300298: archer_blue_149
+    21300300: archer_blue_150
+    21300302: archer_blue_151
+    21300304: archer_blue_152
+    21300306: archer_blue_153
+    21300308: archer_blue_154
+    21300310: archer_blue_155
+    21300312: archer_blue_156
+    21300314: archer_blue_157
+    21300316: archer_blue_158
+    21300318: archer_blue_159
+    21300320: archer_blue_160
+    21300322: archer_blue_161
+    21300324: archer_blue_162
+    21300326: archer_blue_163
+    21300328: archer_blue_164
+    21300330: archer_blue_165
+    21300332: archer_blue_166
+    21300334: archer_blue_167
+    21300336: archer_blue_168
+    21300338: archer_blue_169
+    21300340: archer_blue_170
+    21300342: archer_blue_171
+    21300344: archer_blue_172
+    21300346: archer_blue_173
+    21300348: archer_blue_174
+    21300350: archer_blue_175
+    21300352: archer_blue_176
+    21300354: archer_blue_177
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: archer_blue_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1282
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5114784, y: 0.75849855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.6326904, y: 12.075073}
+        - {x: -6.3673096, y: 12.075073}
+        - {x: -16.36731, y: 9.075073}
+        - {x: -16.36731, y: -37.924927}
+        - {x: 14.63269, y: -37.924927}
+        - {x: 15.63269, y: -35.924927}
+        - {x: 15.63269, y: -7.9249268}
+        - {x: 12.63269, y: 6.0750732}
+    - name: archer_blue_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1282
+        width: 31
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5611533, y: 0.78177977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1282
+        width: 31
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5395306, y: 0.7725391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5162866, y: 0.7756079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.586319, y: 11.2196045}
+        - {x: -18.586319, y: -2.7803955}
+        - {x: -18.586319, y: -38.780396}
+        - {x: 17.413681, y: -38.780396}
+        - {x: 17.413681, y: 2.2196045}
+        - {x: 12.413681, y: 11.2196045}
+    - name: archer_blue_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5030725, y: 0.7901123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.8463745, y: 10.494385}
+        - {x: -9.1536255, y: 10.494385}
+        - {x: -25.153625, y: 2.4943848}
+        - {x: -25.153625, y: -39.505615}
+        - {x: 23.846375, y: -39.505615}
+        - {x: 24.846375, y: -32.505615}
+        - {x: 24.846375, y: 4.494385}
+    - name: archer_blue_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.51154774, y: 0.78457034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.55429, y: 10.771484}
+        - {x: -24.55429, y: -39.228516}
+        - {x: 23.44571, y: -39.228516}
+        - {x: 23.44571, y: 8.771484}
+        - {x: 21.44571, y: 10.771484}
+    - name: archer_blue_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 36
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5119663, y: 0.8011987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.430786, y: 9.940063}
+        - {x: -18.430786, y: -4.0599365}
+        - {x: -18.430786, y: -40.059937}
+        - {x: 17.569214, y: -40.059937}
+        - {x: 17.569214, y: 0.9400635}
+        - {x: 12.569214, y: 9.940063}
+    - name: archer_blue_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1218
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4273892, y: 0.43059227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.6681786, y: 29.039795}
+        - {x: -14.668179, y: 25.039795}
+        - {x: -16.668179, y: 23.039795}
+        - {x: -16.668179, y: -10.960205}
+        - {x: -14.668179, y: -21.960205}
+        - {x: 12.331821, y: -21.960205}
+        - {x: 22.331821, y: 10.039795}
+        - {x: 22.331821, y: 29.039795}
+    - name: archer_blue_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1218
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.48184714, y: 0.43059227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.792038, y: 29.039795}
+        - {x: -18.792038, y: 22.039795}
+        - {x: -18.792038, y: -6.960205}
+        - {x: -10.792038, y: -21.960205}
+        - {x: 15.207962, y: -21.960205}
+        - {x: 20.207962, y: 4.039795}
+        - {x: 20.207962, y: 29.039795}
+    - name: archer_blue_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1218
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.46369424, y: 0.43059227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.084076, y: 29.039795}
+        - {x: -16.084076, y: 25.039795}
+        - {x: -18.084076, y: 23.039795}
+        - {x: -18.084076, y: -11.960205}
+        - {x: -16.084076, y: -21.960205}
+        - {x: 16.915924, y: -21.960205}
+        - {x: 20.915924, y: -8.960205}
+        - {x: 20.915924, y: 28.039795}
+        - {x: 15.915924, y: 29.039795}
+    - name: archer_blue_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1217
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.44554177, y: 0.44447476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.376129, y: 28.331787}
+        - {x: -16.37613, y: 27.331787}
+        - {x: -17.37613, y: 24.331787}
+        - {x: -17.37613, y: -13.668213}
+        - {x: -9.376129, y: -22.668213}
+        - {x: 19.62387, y: -22.668213}
+        - {x: 21.62387, y: -10.668213}
+        - {x: 21.62387, y: 28.331787}
+    - name: archer_blue_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1218
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4273893, y: 0.44447237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.668182, y: 28.33191}
+        - {x: -16.668182, y: -14.668091}
+        - {x: -9.668182, y: -22.66809}
+        - {x: 12.331818, y: -22.66809}
+        - {x: 22.331818, y: -6.668091}
+        - {x: 22.331818, y: 28.33191}
+    - name: archer_blue_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1218
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.445541, y: 0.45835248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.3760986, y: 27.624023}
+        - {x: -17.376099, y: 25.624023}
+        - {x: -17.376099, y: -12.375977}
+        - {x: -10.376099, y: -23.375977}
+        - {x: 11.623901, y: -23.375977}
+        - {x: 21.623901, y: -3.3759766}
+        - {x: 21.623901, y: 26.624023}
+        - {x: 14.623901, y: 27.624023}
+    - name: archer_blue_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1218
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 25.5}
+        - {x: -17.5, y: 21.5}
+        - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -25.5}
+        - {x: 8.5, y: -25.5}
+        - {x: 18.5, y: -0.5}
+        - {x: 19.5, y: 4.5}
+        - {x: 19.5, y: 25.5}
+    - name: archer_blue_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1154
+        width: 34
+        height: 56
+      alignment: 9
+      pivot: {x: 0.45323104, y: 0.72605026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.590145, y: 6.3411865}
+        - {x: 1.5901451, y: 13.341187}
+        - {x: -7.409855, y: 15.341187}
+        - {x: -15.409855, y: 15.341187}
+        - {x: -15.409855, y: -40.658813}
+        - {x: 17.590145, y: -40.658813}
+        - {x: 18.590145, y: -36.658813}
+        - {x: 18.590145, y: -5.6588135}
+    - name: archer_blue_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1153
+        width: 34
+        height: 56
+      alignment: 9
+      pivot: {x: 0.44205162, y: 0.74547905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.029755, y: 14.253174}
+        - {x: -15.029755, y: -41.746826}
+        - {x: 18.970245, y: -41.746826}
+        - {x: 18.970245, y: 11.253174}
+        - {x: 8.970245, y: 14.253174}
+    - name: archer_blue_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1154
+        width: 33
+        height: 56
+      alignment: 9
+      pivot: {x: 0.45054394, y: 0.7291369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.13205, y: -39.831665}
+        - {x: 18.13205, y: 2.168335}
+        - {x: 11.13205, y: 15.168335}
+        - {x: -14.86795, y: 15.168335}
+        - {x: -14.86795, y: -40.831665}
+        - {x: 16.13205, y: -40.831665}
+    - name: archer_blue_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1154
+        width: 37
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5299633, y: 0.7348153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.391357, y: 7.850342}
+        - {x: 1.3913574, y: 12.850342}
+        - {x: -4.6086426, y: 14.850342}
+        - {x: -17.608643, y: 14.850342}
+        - {x: -19.608643, y: 2.8503418}
+        - {x: -19.608643, y: -28.149658}
+        - {x: -15.608643, y: -41.14966}
+        - {x: 14.391357, y: -41.14966}
+        - {x: 17.391357, y: -35.14966}
+        - {x: 17.391357, y: -6.149658}
+        - {x: 15.391357, y: 4.850342}
+    - name: archer_blue_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1153
+        width: 50
+        height: 56
+      alignment: 9
+      pivot: {x: 0.52217287, y: 0.7584643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.891357, y: 9.526001}
+        - {x: 5.8913574, y: 13.526001}
+        - {x: -22.108643, y: 13.526001}
+        - {x: -26.108643, y: 8.526001}
+        - {x: -26.108643, y: -28.473999}
+        - {x: -17.108643, y: -42.474}
+        - {x: 16.891357, y: -42.474}
+        - {x: 23.891357, y: -29.473999}
+        - {x: 23.891357, y: -4.473999}
+    - name: archer_blue_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1154
+        width: 48
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5181739, y: 0.753346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.872345, y: 13.812622}
+        - {x: -20.872345, y: 13.812622}
+        - {x: -24.872345, y: 3.812622}
+        - {x: -24.872345, y: -19.187378}
+        - {x: -17.872345, y: -42.187378}
+        - {x: 18.127655, y: -42.187378}
+        - {x: 23.127655, y: -20.187378}
+        - {x: 23.127655, y: 1.8126221}
+        - {x: 13.127655, y: 11.812622}
+    - name: archer_blue_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1154
+        width: 36
+        height: 56
+      alignment: 9
+      pivot: {x: 0.49116516, y: 0.7571978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.681946, y: 13.596924}
+        - {x: -17.681946, y: -42.403076}
+        - {x: 18.318054, y: -42.403076}
+        - {x: 18.318054, y: 4.596924}
+        - {x: 13.318054, y: 13.596924}
+    - name: archer_blue_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1090
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5788313, y: 0.47588992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.57442, y: 26.729614}
+        - {x: -22.57442, y: 9.729614}
+        - {x: -14.574421, y: -24.270386}
+        - {x: 13.425579, y: -24.270386}
+        - {x: 16.42558, y: -20.270386}
+        - {x: 16.42558, y: 24.729614}
+        - {x: 11.425579, y: 26.729614}
+    - name: archer_blue_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1090
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5709483, y: 0.4698606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.733017, y: 27.03711}
+        - {x: -22.266983, y: 27.03711}
+        - {x: -22.266983, y: 4.0371094}
+        - {x: -16.266983, y: -23.96289}
+        - {x: 10.733017, y: -23.96289}
+        - {x: 12.733017, y: -22.96289}
+        - {x: 16.733017, y: -17.96289}
+        - {x: 16.733017, y: 25.03711}
+    - name: archer_blue_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1090
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.60248077, y: 0.47588754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.49675, y: 26.729736}
+        - {x: -23.49675, y: 3.7297363}
+        - {x: -18.49675, y: -24.270264}
+        - {x: 15.50325, y: -24.270264}
+        - {x: 15.50325, y: 25.729736}
+        - {x: 11.50325, y: 26.729736}
+    - name: archer_blue_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1090
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5867145, y: 0.47588754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.118134, y: 26.729736}
+        - {x: -22.881866, y: 26.729736}
+        - {x: -22.881866, y: -13.270264}
+        - {x: -12.881866, y: -24.270264}
+        - {x: 10.118134, y: -24.270264}
+        - {x: 16.118134, y: -21.270264}
+        - {x: 16.118134, y: 25.729736}
+    - name: archer_blue_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1090
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.60248035, y: 0.4698606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5032654, y: 27.03711}
+        - {x: -23.496735, y: 27.03711}
+        - {x: -23.496735, y: -2.9628906}
+        - {x: -14.496735, y: -22.96289}
+        - {x: -12.496735, y: -23.96289}
+        - {x: 9.503265, y: -23.96289}
+        - {x: 11.503265, y: -22.96289}
+        - {x: 15.503265, y: -12.962891}
+        - {x: 15.503265, y: 24.03711}
+    - name: archer_blue_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1090
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5867145, y: 0.47588754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.118134, y: 20.729736}
+        - {x: 7.1181335, y: 26.729736}
+        - {x: -22.881866, y: 26.729736}
+        - {x: -22.881866, y: -9.270264}
+        - {x: -19.881866, y: -24.270264}
+        - {x: 10.118134, y: -24.270264}
+        - {x: 12.118134, y: -23.270264}
+        - {x: 16.118134, y: -11.270264}
+        - {x: 16.118134, y: 12.729736}
+    - name: archer_blue_27
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1090
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5788316, y: 0.4698606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.574432, y: 27.03711}
+        - {x: -22.574432, y: 26.03711}
+        - {x: -22.574432, y: 18.03711}
+        - {x: -18.574432, y: 12.037109}
+        - {x: -22.574432, y: 4.0371094}
+        - {x: -22.574432, y: -15.962891}
+        - {x: -14.574432, y: -23.96289}
+        - {x: 16.425568, y: -23.96289}
+        - {x: 16.425568, y: 27.03711}
+    - name: archer_blue_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1026
+        width: 31
+        height: 50
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.77234864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1024
+        width: 29
+        height: 51
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.68003935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1024
+        width: 27
+        height: 52
+      alignment: 9
+      pivot: {x: 0.56578517, y: 0.6753024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1024
+        width: 27
+        height: 52
+      alignment: 9
+      pivot: {x: 0.57410175, y: 0.6923805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_32
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1024
+        width: 28
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5803866, y: 0.6912483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_33
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1024
+        width: 28
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5893195, y: 0.720672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_34
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1024
+        width: 28
+        height: 51
+      alignment: 9
+      pivot: {x: 0.59825134, y: 0.7353803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_35
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1024
+        width: 27
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5926265, y: 0.726046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 962
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.40749192, y: 0.26566687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.892185, y: 37.45099}
+        - {x: -15.892185, y: -13.549011}
+        - {x: 14.107815, y: -13.549011}
+        - {x: 23.107815, y: 18.450989}
+        - {x: 23.107815, y: 37.45099}
+    - name: archer_blue_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 962
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.40749145, y: 0.2656681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.892166, y: 37.450928}
+        - {x: -15.892166, y: 33.450928}
+        - {x: -15.892166, y: -2.5490723}
+        - {x: -13.892166, y: -13.549072}
+        - {x: 14.107834, y: -13.549072}
+        - {x: 23.107834, y: 26.450928}
+        - {x: 23.107834, y: 37.450928}
+    - name: archer_blue_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 962
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4161643, y: 0.27008894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.230408, y: 37.225464}
+        - {x: -16.230408, y: -13.774536}
+        - {x: 11.769592, y: -13.774536}
+        - {x: 22.769592, y: -4.774536}
+        - {x: 22.769592, y: 36.225464}
+        - {x: 17.769592, y: 37.225464}
+    - name: archer_blue_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 962
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.42483678, y: 0.27009013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.431366, y: 37.225403}
+        - {x: -10.568634, y: 37.225403}
+        - {x: -16.568634, y: 35.225403}
+        - {x: -16.568634, y: -4.774597}
+        - {x: -11.568634, y: -12.774597}
+        - {x: -8.568634, y: -13.774597}
+        - {x: 14.431366, y: -13.774597}
+        - {x: 19.431366, y: 9.225403}
+        - {x: 22.431366, y: 26.225403}
+        - {x: 22.431366, y: 36.225403}
+    - name: archer_blue_40
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 962
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.44796363, y: 0.2656681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.529419, y: 21.450928}
+        - {x: 21.529419, y: 27.450928}
+        - {x: 21.529419, y: 37.450928}
+        - {x: -10.470581, y: 37.450928}
+        - {x: -17.470581, y: 31.450928}
+        - {x: -17.470581, y: -0.54907227}
+        - {x: -9.470581, y: -13.549072}
+        - {x: 13.529419, y: -13.549072}
+        - {x: 13.529419, y: -9.549072}
+        - {x: 11.529419, y: -4.5490723}
+    - name: archer_blue_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 40
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4661766, y: 0.2656681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.647064, y: 37.450928}
+        - {x: -18.647064, y: 31.450928}
+        - {x: -18.647064, y: -2.5490723}
+        - {x: -13.647064, y: -13.549072}
+        - {x: 15.352936, y: -13.549072}
+        - {x: 21.352936, y: 21.450928}
+        - {x: 21.352936, y: 37.450928}
+    - name: archer_blue_42
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 962
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.45952743, y: 0.27230057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.07843, y: 21.11267}
+        - {x: 21.07843, y: 27.11267}
+        - {x: 21.07843, y: 37.11267}
+        - {x: -10.92157, y: 37.11267}
+        - {x: -17.92157, y: 31.11267}
+        - {x: -17.92157, y: -0.8873291}
+        - {x: -9.92157, y: -13.887329}
+        - {x: 13.07843, y: -13.887329}
+        - {x: 13.07843, y: -9.887329}
+        - {x: 11.07843, y: -4.887329}
+    - name: archer_blue_43
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 962
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.43061867, y: 0.27009013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.205872, y: 37.225403}
+        - {x: -10.794128, y: 37.225403}
+        - {x: -16.794128, y: 35.225403}
+        - {x: -16.794128, y: -9.774597}
+        - {x: -11.794128, y: -13.774597}
+        - {x: 11.205872, y: -13.774597}
+        - {x: 12.205872, y: -12.774597}
+        - {x: 18.205872, y: 9.225403}
+        - {x: 22.205872, y: 26.225403}
+    - name: archer_blue_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 898
+        width: 34
+        height: 56
+      alignment: 9
+      pivot: {x: 0.44031188, y: 0.5765043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.970604, y: 23.71576}
+        - {x: -14.970604, y: -32.28424}
+        - {x: 19.029396, y: -32.28424}
+        - {x: 19.029396, y: 20.71576}
+        - {x: -0.97060394, y: 23.71576}
+    - name: archer_blue_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 899
+        width: 32
+        height: 55
+      alignment: 9
+      pivot: {x: 0.44010425, y: 0.56764585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.083336, y: 23.77948}
+        - {x: -14.083336, y: 23.77948}
+        - {x: -14.083336, y: -26.22052}
+        - {x: -12.083336, y: -31.22052}
+        - {x: 14.916664, y: -31.22052}
+        - {x: 17.916664, y: -27.22052}
+        - {x: 17.916664, y: 4.77948}
+        - {x: 12.916664, y: 18.77948}
+    - name: archer_blue_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 899
+        width: 32
+        height: 55
+      alignment: 9
+      pivot: {x: 0.43658113, y: 0.56764585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.0294037, y: 21.77948}
+        - {x: -2.9705963, y: 23.77948}
+        - {x: -13.970596, y: 23.77948}
+        - {x: -13.970596, y: -31.22052}
+        - {x: 13.029404, y: -31.22052}
+        - {x: 18.029404, y: -18.22052}
+        - {x: 18.029404, y: 6.77948}
+        - {x: 17.029404, y: 13.77948}
+    - name: archer_blue_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 32
+        height: 55
+      alignment: 9
+      pivot: {x: 0.43658066, y: 0.56764585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.029419, y: 22.77948}
+        - {x: -1.970581, y: 23.77948}
+        - {x: -13.970581, y: 23.77948}
+        - {x: -13.970581, y: -30.22052}
+        - {x: -11.970581, y: -31.22052}
+        - {x: 15.029419, y: -31.22052}
+        - {x: 18.029419, y: -19.22052}
+        - {x: 18.029419, y: 14.77948}
+    - name: archer_blue_48
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 899
+        width: 32
+        height: 54
+      alignment: 9
+      pivot: {x: 0.43658066, y: 0.5626345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.970581, y: 23.617737}
+        - {x: -13.970581, y: -30.382263}
+        - {x: 18.029419, y: -30.382263}
+        - {x: 18.029419, y: 16.617737}
+        - {x: 14.029419, y: 23.617737}
+    - name: archer_blue_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 899
+        width: 32
+        height: 54
+      alignment: 9
+      pivot: {x: 0.44010448, y: 0.5584592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.0833435, y: 23.8432}
+        - {x: -14.0833435, y: -29.1568}
+        - {x: -11.0833435, y: -30.1568}
+        - {x: 15.9166565, y: -30.1568}
+        - {x: 17.916656, y: -29.1568}
+        - {x: 17.916656, y: 15.843201}
+        - {x: 12.9166565, y: 23.8432}
+    - name: archer_blue_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 899
+        width: 32
+        height: 54
+      alignment: 9
+      pivot: {x: 0.44010448, y: 0.5605469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.0833435, y: 23.730469}
+        - {x: -14.0833435, y: -30.269531}
+        - {x: 17.916656, y: -30.269531}
+        - {x: 17.916656, y: 16.730469}
+        - {x: 13.9166565, y: 23.730469}
+    - name: archer_blue_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 32
+        height: 55
+      alignment: 9
+      pivot: {x: 0.44010448, y: 0.56764585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.0833435, y: 23.77948}
+        - {x: -14.0833435, y: -31.22052}
+        - {x: 17.916656, y: -31.22052}
+        - {x: 17.916656, y: 18.77948}
+        - {x: 4.9166565, y: 23.77948}
+    - name: archer_blue_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 834
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.70846295, y: 0.53360045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.630054, y: 23.786377}
+        - {x: -27.630054, y: 22.786377}
+        - {x: -27.630054, y: 8.786377}
+        - {x: -15.630054, y: -27.213623}
+        - {x: 11.369946, y: -27.213623}
+        - {x: 11.369946, y: 23.786377}
+    - name: archer_blue_53
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 834
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.7098831, y: 0.5325066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.68544, y: 23.842163}
+        - {x: -27.68544, y: 7.842163}
+        - {x: -21.68544, y: -10.157837}
+        - {x: -15.68544, y: -27.157837}
+        - {x: 8.31456, y: -27.157837}
+        - {x: 11.31456, y: -20.157837}
+        - {x: 11.31456, y: 23.842163}
+    - name: archer_blue_54
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 834
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.7072261, y: 0.53656965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.581818, y: 23.634949}
+        - {x: -27.581818, y: -18.365051}
+        - {x: -17.581818, y: -27.365051}
+        - {x: 11.418182, y: -27.365051}
+        - {x: 11.418182, y: 23.634949}
+    - name: archer_blue_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 834
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.7205098, y: 0.5467278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.099884, y: 23.116882}
+        - {x: -28.099884, y: 2.1168823}
+        - {x: -23.099884, y: -27.883118}
+        - {x: 5.900116, y: -27.883118}
+        - {x: 10.900116, y: -20.883118}
+        - {x: 10.900116, y: 21.116882}
+        - {x: 3.900116, y: 23.116882}
+    - name: archer_blue_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 834
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.7072261, y: 0.53656965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.581818, y: 23.634949}
+        - {x: -27.581818, y: -14.365051}
+        - {x: -25.581818, y: -27.365051}
+        - {x: 11.418182, y: -27.365051}
+        - {x: 11.418182, y: 23.634949}
+    - name: archer_blue_57
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 834
+        width: 40
+        height: 51
+      alignment: 9
+      pivot: {x: 0.69168395, y: 0.53860176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.3326416, y: 23.531311}
+        - {x: -21.667358, y: 23.531311}
+        - {x: -27.667358, y: 22.531311}
+        - {x: -27.667358, y: 5.531311}
+        - {x: -19.667358, y: -27.468689}
+        - {x: 5.3326416, y: -27.468689}
+        - {x: 12.332642, y: -16.468689}
+        - {x: 12.332642, y: 17.531311}
+    - name: archer_blue_58
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 834
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.7098827, y: 0.53656965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.685425, y: 23.634949}
+        - {x: -27.685425, y: -14.365051}
+        - {x: -25.685425, y: -27.365051}
+        - {x: 11.314575, y: -27.365051}
+        - {x: 11.314575, y: 23.634949}
+    - name: archer_blue_59
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 834
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.7337936, y: 0.55688596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.61795, y: 22.598816}
+        - {x: -28.61795, y: 2.598816}
+        - {x: -21.61795, y: -28.401184}
+        - {x: 3.3820496, y: -28.401184}
+        - {x: 10.38205, y: -20.401184}
+        - {x: 10.38205, y: 20.598816}
+        - {x: 3.3820496, y: 22.598816}
+    - name: archer_blue_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 771
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5280168, y: 0.76071167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.896538, y: 11.9644165}
+        - {x: -16.896538, y: -5.0355835}
+        - {x: -16.896538, y: -38.035583}
+        - {x: 15.103462, y: -38.035583}
+        - {x: 15.103462, y: 6.9644165}
+        - {x: 8.103462, y: 11.9644165}
+    - name: archer_blue_61
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 771
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.54176044, y: 0.7588794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.336334, y: 12.05603}
+        - {x: -9.336334, y: 11.05603}
+        - {x: -16.336334, y: 0.056030273}
+        - {x: -17.336334, y: -12.94397}
+        - {x: -17.336334, y: -37.94397}
+        - {x: 14.663666, y: -37.94397}
+        - {x: 14.663666, y: 11.05603}
+        - {x: 12.663666, y: 12.05603}
+    - name: archer_blue_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 770
+        width: 32
+        height: 51
+      alignment: 9
+      pivot: {x: 0.54175997, y: 0.7794213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.336319, y: 11.249512}
+        - {x: -17.336319, y: 6.2495117}
+        - {x: -17.336319, y: -36.75049}
+        - {x: -10.336319, y: -39.75049}
+        - {x: 14.663681, y: -39.75049}
+        - {x: 14.663681, y: 10.249512}
+        - {x: 13.663681, y: 11.249512}
+    - name: archer_blue_63
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 769
+        width: 31
+        height: 51
+      alignment: 9
+      pivot: {x: 0.54708815, y: 0.78309304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 770
+        width: 32
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5310545, y: 0.78125715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.993744, y: 11.155884}
+        - {x: -16.993744, y: 6.155884}
+        - {x: -16.993744, y: -36.844116}
+        - {x: -8.993744, y: -39.844116}
+        - {x: 15.006256, y: -39.844116}
+        - {x: 15.006256, y: 11.155884}
+    - name: archer_blue_65
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 771
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5388346, y: 0.79373413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.7572937, y: 10.313293}
+        - {x: -15.242706, y: 10.313293}
+        - {x: -17.242706, y: -3.6867065}
+        - {x: -17.242706, y: -39.686707}
+        - {x: 13.757294, y: -39.686707}
+        - {x: 14.757294, y: -38.686707}
+        - {x: 14.757294, y: 2.3132935}
+        - {x: 13.757294, y: 5.3132935}
+    - name: archer_blue_66
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 770
+        width: 32
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5184202, y: 0.78797466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.589447, y: 10.813293}
+        - {x: -16.589447, y: -9.186707}
+        - {x: -16.589447, y: -37.186707}
+        - {x: -12.589447, y: -40.186707}
+        - {x: 15.410553, y: -40.186707}
+        - {x: 15.410553, y: 0.81329346}
+        - {x: 11.410553, y: 10.813293}
+    - name: archer_blue_67
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 769
+        width: 32
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5310545, y: 0.78309304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.993744, y: -10.937744}
+        - {x: -16.993744, y: -39.937744}
+        - {x: 8.006256, y: -39.937744}
+        - {x: 15.006256, y: -36.937744}
+        - {x: 15.006256, y: 6.062256}
+        - {x: 6.006256, y: 11.062256}
+        - {x: -7.993744, y: 11.062256}
+        - {x: -14.993744, y: 4.062256}
+    - name: archer_blue_68
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 770
+        width: 32
+        height: 51
+      alignment: 9
+      pivot: {x: 0.54076195, y: 0.76477647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.304382, y: 11.996399}
+        - {x: -17.304382, y: -1.0036011}
+        - {x: -17.304382, y: -39.0036}
+        - {x: 14.695618, y: -39.0036}
+        - {x: 14.695618, y: 7.996399}
+        - {x: 7.6956177, y: 11.996399}
+    - name: archer_blue_69
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 706
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.48575953, y: 0.8459688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.944622, y: 7.855591}
+        - {x: -16.944622, y: 3.8555908}
+        - {x: -18.944622, y: -2.1444092}
+        - {x: -18.944622, y: -29.14441}
+        - {x: -11.944622, y: -43.14441}
+        - {x: 11.055378, y: -43.14441}
+        - {x: 20.055378, y: -17.14441}
+        - {x: 20.055378, y: 6.855591}
+        - {x: 15.055378, y: 7.855591}
+    - name: archer_blue_70
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 706
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.50092787, y: 0.86348635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.536186, y: 6.8256836}
+        - {x: -19.536186, y: 2.8256836}
+        - {x: -19.536186, y: -43.174316}
+        - {x: 11.463814, y: -43.174316}
+        - {x: 17.463814, y: -36.174316}
+        - {x: 19.463814, y: -16.174316}
+        - {x: 19.463814, y: 6.8256836}
+    - name: archer_blue_71
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 707
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5128761, y: 0.86846435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.002167, y: 6.576782}
+        - {x: -20.002167, y: 5.576782}
+        - {x: -20.002167, y: -43.423218}
+        - {x: 8.997833, y: -43.423218}
+        - {x: 18.997833, y: -3.4232178}
+        - {x: 18.997833, y: 6.576782}
+    - name: archer_blue_72
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 707
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.48494115, y: 0.8634851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.912704, y: 6.8257446}
+        - {x: -18.912704, y: 2.8257446}
+        - {x: -18.912704, y: -41.174255}
+        - {x: -16.912704, y: -43.174255}
+        - {x: 13.087296, y: -43.174255}
+        - {x: 20.087296, y: -13.174255}
+        - {x: 20.087296, y: 6.8257446}
+    - name: archer_blue_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 706
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.49770883, y: 0.8703769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.410645, y: 6.610779}
+        - {x: -19.410645, y: 1.6107788}
+        - {x: -19.410645, y: -31.389221}
+        - {x: -14.410645, y: -42.38922}
+        - {x: -12.410645, y: -44.38922}
+        - {x: 18.589355, y: -44.38922}
+        - {x: 19.589355, y: -39.38922}
+        - {x: 19.589355, y: 5.610779}
+        - {x: 14.589355, y: 6.610779}
+    - name: archer_blue_74
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 707
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4937259, y: 0.8454407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.25531, y: 7.7279663}
+        - {x: -19.25531, y: 5.7279663}
+        - {x: -19.25531, y: -38.272034}
+        - {x: -17.25531, y: -42.272034}
+        - {x: 14.74469, y: -42.272034}
+        - {x: 19.74469, y: -18.272034}
+        - {x: 19.74469, y: 7.7279663}
+    - name: archer_blue_75
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 705
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.49852732, y: 0.86549526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.442566, y: 6.859741}
+        - {x: -19.442566, y: 3.8597412}
+        - {x: -19.442566, y: -41.14026}
+        - {x: -18.442566, y: -44.14026}
+        - {x: 8.557434, y: -44.14026}
+        - {x: 17.557434, y: -32.14026}
+        - {x: 19.557434, y: -20.140259}
+        - {x: 19.557434, y: 6.859741}
+    - name: archer_blue_76
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 706
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4937259, y: 0.86061484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.25531, y: 7.1086426}
+        - {x: -19.25531, y: 6.1086426}
+        - {x: -19.25531, y: -43.891357}
+        - {x: 9.74469, y: -43.891357}
+        - {x: 19.74469, y: -11.891357}
+        - {x: 19.74469, y: 7.1086426}
+    - name: archer_blue_77
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 706
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.47937638, y: 0.8557332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.695679, y: 7.357605}
+        - {x: -18.695679, y: 2.357605}
+        - {x: -18.695679, y: -30.642395}
+        - {x: -12.695679, y: -43.642395}
+        - {x: 10.304321, y: -43.642395}
+        - {x: 12.304321, y: -26.642395}
+        - {x: 20.304321, y: -4.642395}
+        - {x: 20.304321, y: 7.357605}
+    - name: archer_blue_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 642
+        width: 34
+        height: 56
+      alignment: 9
+      pivot: {x: 0.44060707, y: 0.7648588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.0193596, y: 11.167908}
+        - {x: -6.9806404, y: 13.167908}
+        - {x: -14.98064, y: 13.167908}
+        - {x: -14.98064, y: -42.832092}
+        - {x: 19.01936, y: -42.832092}
+        - {x: 19.01936, y: 0.16790771}
+        - {x: 17.01936, y: 4.1679077}
+    - name: archer_blue_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 34
+        height: 56
+      alignment: 9
+      pivot: {x: 0.44517517, y: 0.7794996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.864044, y: 3.3480225}
+        - {x: 1.8640442, y: 10.348022}
+        - {x: -7.135956, y: 12.348022}
+        - {x: -15.135956, y: 12.348022}
+        - {x: -15.135956, y: -34.651978}
+        - {x: -12.135956, y: -43.651978}
+        - {x: 13.864044, y: -43.651978}
+        - {x: 18.864044, y: -35.651978}
+        - {x: 18.864044, y: -8.651978}
+    - name: archer_blue_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 34
+        height: 57
+      alignment: 9
+      pivot: {x: 0.45404682, y: 0.7827716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.562408, y: 9.382019}
+        - {x: -0.43759155, y: 12.382019}
+        - {x: -15.437592, y: 12.382019}
+        - {x: -15.437592, y: -37.61798}
+        - {x: -13.437592, y: -44.61798}
+        - {x: 12.562408, y: -44.61798}
+        - {x: 18.562408, y: -34.61798}
+        - {x: 18.562408, y: -8.617981}
+        - {x: 16.562408, y: 2.382019}
+    - name: archer_blue_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 641
+        width: 33
+        height: 56
+      alignment: 9
+      pivot: {x: 0.44324008, y: 0.7662768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.3730774, y: 13.088501}
+        - {x: -14.626923, y: 13.088501}
+        - {x: -14.626923, y: -37.9115}
+        - {x: -12.626923, y: -42.9115}
+        - {x: 12.373077, y: -42.9115}
+        - {x: 18.373077, y: -32.9115}
+        - {x: 18.373077, y: -13.911499}
+        - {x: 13.373077, y: 10.088501}
+    - name: archer_blue_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 34
+        height: 57
+      alignment: 9
+      pivot: {x: 0.44974473, y: 0.7643304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.291321, y: 13.4331665}
+        - {x: -15.291321, y: -43.566833}
+        - {x: 16.70868, y: -43.566833}
+        - {x: 18.70868, y: -42.566833}
+        - {x: 18.70868, y: 4.4331665}
+        - {x: 13.708679, y: 13.4331665}
+    - name: archer_blue_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 642
+        width: 34
+        height: 56
+      alignment: 9
+      pivot: {x: 0.44974384, y: 0.78243476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.7087097, y: 10.183655}
+        - {x: -7.2912903, y: 12.183655}
+        - {x: -15.29129, y: 12.183655}
+        - {x: -15.29129, y: -40.816345}
+        - {x: -14.29129, y: -43.816345}
+        - {x: 12.70871, y: -43.816345}
+        - {x: 18.70871, y: -34.816345}
+        - {x: 18.70871, y: -8.816345}
+        - {x: 16.70871, y: 3.1836548}
+    - name: archer_blue_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 34
+        height: 57
+      alignment: 9
+      pivot: {x: 0.45861548, y: 0.7935138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.592926, y: 11.769714}
+        - {x: -15.592926, y: -42.230286}
+        - {x: -13.592926, y: -45.230286}
+        - {x: 11.407074, y: -45.230286}
+        - {x: 18.407074, y: -42.230286}
+        - {x: 18.407074, y: -0.23028564}
+        - {x: 12.407074, y: 11.769714}
+    - name: archer_blue_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 34
+        height: 56
+      alignment: 9
+      pivot: {x: 0.44974473, y: 0.7687269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.708679, y: 8.951294}
+        - {x: -6.291321, y: 12.951294}
+        - {x: -15.291321, y: 12.951294}
+        - {x: -15.291321, y: -33.048706}
+        - {x: -13.291321, y: -43.048706}
+        - {x: 11.708679, y: -43.048706}
+        - {x: 18.70868, y: -32.048706}
+        - {x: 18.70868, y: -12.048706}
+        - {x: 17.70868, y: -6.048706}
+    - name: archer_blue_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 34
+        height: 57
+      alignment: 9
+      pivot: {x: 0.44974473, y: 0.7933553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.291321, y: 11.778748}
+        - {x: -15.291321, y: -35.221252}
+        - {x: -13.291321, y: -45.221252}
+        - {x: 18.70868, y: -45.221252}
+        - {x: 18.70868, y: 10.778748}
+        - {x: 4.708679, y: 11.778748}
+    - name: archer_blue_87
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 578
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.52072644, y: 0.8672234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.30833, y: 6.7716064}
+        - {x: -20.30833, y: -10.228394}
+        - {x: -12.308331, y: -44.228394}
+        - {x: 15.691669, y: -44.228394}
+        - {x: 18.69167, y: -40.228394}
+        - {x: 18.69167, y: 4.7716064}
+        - {x: 13.691669, y: 6.7716064}
+    - name: archer_blue_88
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 578
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.51988494, y: 0.8624304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.275513, y: 6.878479}
+        - {x: -20.275513, y: 5.878479}
+        - {x: -20.275513, y: -12.121521}
+        - {x: -15.275513, y: -42.12152}
+        - {x: -13.275513, y: -43.12152}
+        - {x: 16.724487, y: -43.12152}
+        - {x: 18.724487, y: -41.12152}
+        - {x: 18.724487, y: 6.878479}
+    - name: archer_blue_89
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 579
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.49640596, y: 0.86322266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.359833, y: 6.838867}
+        - {x: -19.359833, y: -10.161133}
+        - {x: -11.359833, y: -43.161133}
+        - {x: 16.640167, y: -43.161133}
+        - {x: 19.640167, y: -41.161133}
+        - {x: 19.640167, y: 4.838867}
+        - {x: 13.640167, y: 6.838867}
+    - name: archer_blue_90
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 579
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.485681, y: 0.85791016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.941559, y: 7.104492}
+        - {x: -18.941559, y: 6.104492}
+        - {x: -18.941559, y: -8.895508}
+        - {x: -13.941559, y: -32.895508}
+        - {x: -6.941559, y: -42.895508}
+        - {x: 14.058441, y: -42.895508}
+        - {x: 20.058441, y: -29.895508}
+        - {x: 20.058441, y: 1.1044922}
+        - {x: 10.058441, y: 7.104492}
+    - name: archer_blue_91
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 578
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5090121, y: 0.8674077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.14853, y: 2.762207}
+        - {x: 17.14853, y: 6.762207}
+        - {x: -19.85147, y: 6.762207}
+        - {x: -19.85147, y: -37.237793}
+        - {x: -8.851471, y: -44.237793}
+        - {x: 10.148529, y: -44.237793}
+        - {x: 13.148529, y: -41.237793}
+        - {x: 13.148529, y: -38.237793}
+        - {x: 19.14853, y: -29.237793}
+    - name: archer_blue_92
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 578
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4914762, y: 0.8654834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.167572, y: 6.72583}
+        - {x: -19.167572, y: -22.27417}
+        - {x: -18.167572, y: -32.27417}
+        - {x: -6.167572, y: -43.27417}
+        - {x: 17.832428, y: -43.27417}
+        - {x: 19.832428, y: -39.27417}
+        - {x: 19.832428, y: 1.7258301}
+        - {x: 10.832428, y: 6.72583}
+    - name: archer_blue_93
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 578
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5126625, y: 0.86867267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.006165, y: 6.697693}
+        - {x: -19.993835, y: 6.697693}
+        - {x: -19.993835, y: -23.302307}
+        - {x: -18.993835, y: -34.302307}
+        - {x: -6.9938354, y: -44.302307}
+        - {x: 14.006165, y: -44.302307}
+        - {x: 19.006165, y: -39.302307}
+        - {x: 19.006165, y: 1.6976929}
+    - name: archer_blue_94
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 578
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5266951, y: 0.8681832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.541107, y: 6.7226562}
+        - {x: -20.541107, y: 5.7226562}
+        - {x: -20.541107, y: -4.2773438}
+        - {x: -15.541107, y: -29.277344}
+        - {x: -6.541107, y: -44.277344}
+        - {x: 11.458893, y: -44.277344}
+        - {x: 18.458893, y: -29.277344}
+        - {x: 18.458893, y: 0.72265625}
+        - {x: 8.458893, y: 6.7226562}
+    - name: archer_blue_95
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 578
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5188693, y: 0.87039965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.2359, y: 6.609619}
+        - {x: -20.2359, y: -32.39038}
+        - {x: -7.235901, y: -44.39038}
+        - {x: 12.764099, y: -44.39038}
+        - {x: 18.7641, y: -35.39038}
+        - {x: 18.7641, y: 1.6096191}
+        - {x: 14.764099, y: 6.609619}
+    - name: archer_blue_96
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 514
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5360402, y: 0.5230664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.153286, y: 23.84668}
+        - {x: -17.153286, y: 6.8466797}
+        - {x: -17.153286, y: -26.15332}
+        - {x: 14.846714, y: -26.15332}
+        - {x: 14.846714, y: 18.84668}
+        - {x: 7.846714, y: 23.84668}
+    - name: archer_blue_97
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 513
+        width: 30
+        height: 50
+      alignment: 9
+      pivot: {x: 0.57047856, y: 0.5192212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_98
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 513
+        width: 30
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5512573, y: 0.5230652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_99
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 513
+        width: 31
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5496039, y: 0.53392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_100
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 513
+        width: 38
+        height: 51
+      alignment: 9
+      pivot: {x: 0.48482552, y: 0.52638274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.42337, y: 24.15448}
+        - {x: -18.42337, y: 20.15448}
+        - {x: -18.42337, y: -26.84552}
+        - {x: 19.57663, y: -26.84552}
+        - {x: 19.57663, y: 13.15448}
+        - {x: 12.57663, y: 24.15448}
+    - name: archer_blue_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 513
+        width: 41
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4531183, y: 0.53015137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.42215, y: 12.96228}
+        - {x: 9.42215, y: 23.96228}
+        - {x: -14.57785, y: 23.96228}
+        - {x: -18.57785, y: 18.96228}
+        - {x: -18.57785, y: -27.03772}
+        - {x: 15.42215, y: -27.03772}
+        - {x: 22.42215, y: -8.03772}
+    - name: archer_blue_102
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 450
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.42607155, y: 0.50753844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.616791, y: 25.11554}
+        - {x: -14.616791, y: 21.11554}
+        - {x: -16.61679, y: 19.11554}
+        - {x: -16.61679, y: -14.88446}
+        - {x: -14.616791, y: -25.88446}
+        - {x: 12.383209, y: -25.88446}
+        - {x: 22.38321, y: 6.1155396}
+        - {x: 22.38321, y: 25.11554}
+    - name: archer_blue_103
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 450
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.42607176, y: 0.48823205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.616798, y: 25.07663}
+        - {x: -16.616798, y: 20.07663}
+        - {x: -16.616798, y: -23.92337}
+        - {x: 16.383202, y: -23.92337}
+        - {x: 22.383202, y: -4.9233704}
+        - {x: 22.383202, y: 25.07663}
+    - name: archer_blue_104
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 450
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.42114297, y: 0.5037692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.424576, y: 25.30777}
+        - {x: -14.424576, y: 21.30777}
+        - {x: -16.424576, y: 15.30777}
+        - {x: -16.424576, y: -20.69223}
+        - {x: -15.424576, y: -25.69223}
+        - {x: 22.575424, y: -25.69223}
+        - {x: 22.575424, y: 25.30777}
+    - name: archer_blue_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 450
+        width: 40
+        height: 51
+      alignment: 9
+      pivot: {x: 0.43753052, y: 0.50753844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.501221, y: 25.11554}
+        - {x: -15.501221, y: 22.11554}
+        - {x: -17.50122, y: 11.11554}
+        - {x: -17.50122, y: -17.88446}
+        - {x: -12.501221, y: -25.88446}
+        - {x: 18.49878, y: -25.88446}
+        - {x: 22.49878, y: -17.88446}
+        - {x: 22.49878, y: 25.11554}
+    - name: archer_blue_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 453
+        width: 42
+        height: 51
+      alignment: 9
+      pivot: {x: 0.46338764, y: 0.50753844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.46228, y: 24.11554}
+        - {x: -19.46228, y: -14.88446}
+        - {x: -12.46228, y: -25.88446}
+        - {x: 14.53772, y: -25.88446}
+        - {x: 21.53772, y: -16.88446}
+        - {x: 22.53772, y: -10.88446}
+        - {x: 22.53772, y: 24.11554}
+    - name: archer_blue_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 450
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.42114335, y: 0.50753844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.424591, y: 25.11554}
+        - {x: -16.424591, y: 24.11554}
+        - {x: -16.424591, y: -17.88446}
+        - {x: -9.424591, y: -25.88446}
+        - {x: 21.575409, y: -25.88446}
+        - {x: 22.575409, y: -19.88446}
+        - {x: 22.575409, y: 25.11554}
+    - name: archer_blue_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 386
+        width: 35
+        height: 56
+      alignment: 9
+      pivot: {x: 0.44508177, y: 0.46224377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.422138, y: 14.114349}
+        - {x: 18.422138, y: 22.11435}
+        - {x: -0.5778618, y: 30.11435}
+        - {x: -15.577862, y: 30.11435}
+        - {x: -15.577862, y: -25.88565}
+        - {x: 15.422138, y: -25.88565}
+        - {x: 13.422138, y: -21.88565}
+        - {x: 19.422138, y: -11.885651}
+    - name: archer_blue_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 386
+        width: 34
+        height: 56
+      alignment: 9
+      pivot: {x: 0.4208531, y: 0.46567646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.690994, y: -25.07788}
+        - {x: 19.690994, y: -18.07788}
+        - {x: 19.690994, y: 4.922119}
+        - {x: 15.690994, y: 19.92212}
+        - {x: 2.6909943, y: 28.92212}
+        - {x: -2.3090057, y: 29.92212}
+        - {x: -14.309006, y: 29.92212}
+        - {x: -14.309006, y: -26.07788}
+        - {x: 13.690994, y: -26.07788}
+    - name: archer_blue_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 386
+        width: 34
+        height: 54
+      alignment: 9
+      pivot: {x: 0.40389296, y: 0.44304797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.732361, y: 30.075409}
+        - {x: -13.732361, y: -23.924591}
+        - {x: 20.26764, y: -23.924591}
+        - {x: 20.26764, y: 27.075409}
+        - {x: 3.2676392, y: 30.075409}
+    - name: archer_blue_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 386
+        width: 34
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4265065, y: 0.4580622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.4987793, y: 29.80658}
+        - {x: -14.501221, y: 29.80658}
+        - {x: -14.501221, y: -25.19342}
+        - {x: 15.498779, y: -25.19342}
+        - {x: 19.49878, y: -21.19342}
+        - {x: 19.49878, y: 11.80658}
+        - {x: 15.498779, y: 19.80658}
+    - name: archer_blue_112
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 387
+        width: 35
+        height: 56
+      alignment: 9
+      pivot: {x: 0.43959, y: 0.46224377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.614349, y: 25.11435}
+        - {x: -6.3856506, y: 30.11435}
+        - {x: -15.385651, y: 30.11435}
+        - {x: -15.385651, y: -25.88565}
+        - {x: 12.614349, y: -25.88565}
+        - {x: 19.61435, y: -11.885651}
+        - {x: 19.61435, y: 4.1143494}
+    - name: archer_blue_113
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 391
+        width: 39
+        height: 56
+      alignment: 9
+      pivot: {x: 0.42114258, y: 0.4588116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.42456, y: 26.30655}
+        - {x: -16.42456, y: -25.69345}
+        - {x: 14.575439, y: -25.69345}
+        - {x: 21.57544, y: -14.693451}
+        - {x: 21.57544, y: 2.306549}
+        - {x: 3.5754395, y: 26.30655}
+    - name: archer_blue_114
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 322
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.58378553, y: 0.50753844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.767635, y: 25.11554}
+        - {x: -22.767635, y: 8.11554}
+        - {x: -14.767635, y: -25.88446}
+        - {x: 13.232365, y: -25.88446}
+        - {x: 16.232365, y: -21.88446}
+        - {x: 16.232365, y: 23.11554}
+        - {x: 11.232365, y: 25.11554}
+    - name: archer_blue_115
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 322
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5837856, y: 0.484309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.76764, y: 25.26886}
+        - {x: -22.76764, y: 24.26886}
+        - {x: -22.76764, y: 3.2688599}
+        - {x: -15.767639, y: -23.73114}
+        - {x: 13.232361, y: -23.73114}
+        - {x: 16.23236, y: -22.73114}
+        - {x: 16.23236, y: 19.26886}
+        - {x: 6.232361, y: 25.26886}
+    - name: archer_blue_116
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 322
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5887142, y: 0.51130706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.959854, y: 24.92334}
+        - {x: -22.959854, y: 23.92334}
+        - {x: -22.959854, y: 3.9233398}
+        - {x: -16.959854, y: -26.07666}
+        - {x: 12.040146, y: -26.07666}
+        - {x: 16.040146, y: -20.07666}
+        - {x: 16.040146, y: 22.92334}
+        - {x: 9.040146, y: 24.92334}
+    - name: archer_blue_117
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 322
+        width: 40
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5768856, y: 0.51130706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.924576, y: 24.92334}
+        - {x: -17.075424, y: 24.92334}
+        - {x: -23.075424, y: 23.92334}
+        - {x: -23.075424, y: -5.07666}
+        - {x: -18.075424, y: -26.07666}
+        - {x: 12.924576, y: -26.07666}
+        - {x: 16.924576, y: -23.07666}
+        - {x: 16.924576, y: 18.92334}
+    - name: archer_blue_118
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 323
+        width: 42
+        height: 51
+      alignment: 9
+      pivot: {x: 0.54576546, y: 0.50753844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.0778503, y: 25.11554}
+        - {x: -22.92215, y: 25.11554}
+        - {x: -22.92215, y: -19.88446}
+        - {x: -19.92215, y: -25.88446}
+        - {x: 9.07785, y: -25.88446}
+        - {x: 19.07785, y: -11.88446}
+        - {x: 19.07785, y: 14.11554}
+        - {x: 17.07785, y: 19.11554}
+    - name: archer_blue_119
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 322
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5837856, y: 0.5150763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.76764, y: 24.73111}
+        - {x: -22.76764, y: -20.26889}
+        - {x: -15.767639, y: -26.26889}
+        - {x: 8.232361, y: -26.26889}
+        - {x: 16.23236, y: -15.26889}
+        - {x: 16.23236, y: 20.73111}
+        - {x: 7.232361, y: 24.73111}
+    - name: archer_blue_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 43
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5273395, y: 0.76831895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.6756, y: 11.815735}
+        - {x: -22.6756, y: -39.184265}
+        - {x: 20.3244, y: -39.184265}
+        - {x: 20.3244, y: -8.184265}
+        - {x: 7.3244, y: 11.815735}
+    - name: archer_blue_121
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5098576, y: 0.78447753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.884445, y: 10.776123}
+        - {x: -19.884445, y: 7.776123}
+        - {x: -19.884445, y: -30.223877}
+        - {x: -11.884445, y: -39.223877}
+        - {x: 19.115555, y: -39.223877}
+        - {x: 19.115555, y: 10.776123}
+    - name: archer_blue_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 256
+        width: 37
+        height: 51
+      alignment: 9
+      pivot: {x: 0.47402543, y: 0.8015119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.53894, y: 10.122894}
+        - {x: -17.53894, y: -37.877106}
+        - {x: -8.53894, y: -40.877106}
+        - {x: 14.46106, y: -40.877106}
+        - {x: 19.46106, y: -31.877106}
+        - {x: 19.46106, y: -4.8771057}
+        - {x: 14.46106, y: 10.122894}
+    - name: archer_blue_123
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 256
+        width: 27
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5640722, y: 0.7846245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_124
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 257
+        width: 32
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.758616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 13.276123}
+        - {x: -11, y: 13.276123}
+        - {x: -16, y: -2.723877}
+        - {x: -16, y: -39.723877}
+        - {x: -9, y: -41.723877}
+        - {x: 16, y: -41.723877}
+        - {x: 16, y: -0.72387695}
+        - {x: 15, y: 7.276123}
+    - name: archer_blue_125
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 256
+        width: 30
+        height: 58
+      alignment: 9
+      pivot: {x: 0.51281434, y: 0.71209824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_126
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 256
+        width: 31
+        height: 59
+      alignment: 9
+      pivot: {x: 0.47519806, y: 0.6824408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_127
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 256
+        width: 32
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6890101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18.659393}
+        - {x: -16, y: 10.659393}
+        - {x: -16, y: -36.340607}
+        - {x: -5, y: -41.340607}
+        - {x: 15, y: -41.340607}
+        - {x: 16, y: -39.340607}
+        - {x: 16, y: 10.659393}
+        - {x: 8, y: 18.659393}
+    - name: archer_blue_128
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 256
+        width: 33
+        height: 57
+      alignment: 9
+      pivot: {x: 0.48835152, y: 0.71919173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.115601, y: 16.006073}
+        - {x: -16.1156, y: -5.993927}
+        - {x: -16.1156, y: -37.993927}
+        - {x: -6.1156006, y: -40.993927}
+        - {x: 11.884399, y: -40.993927}
+        - {x: 16.8844, y: -24.993927}
+        - {x: 16.8844, y: -0.993927}
+        - {x: 11.884399, y: 16.006073}
+    - name: archer_blue_129
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 256
+        width: 32
+        height: 60
+      alignment: 9
+      pivot: {x: 0.48798752, y: 0.6890101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.3843994, y: 18.659393}
+        - {x: -13.615601, y: 18.659393}
+        - {x: -15.615601, y: 11.659393}
+        - {x: -15.615601, y: -36.340607}
+        - {x: -4.6156006, y: -41.340607}
+        - {x: 16.3844, y: -41.340607}
+        - {x: 16.3844, y: -1.3406067}
+        - {x: 11.384399, y: 13.659393}
+    - name: archer_blue_130
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 256
+        width: 27
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5498341, y: 0.6858068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_131
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 256
+        width: 27
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5640711, y: 0.66658527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_132
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 256
+        width: 27
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5783081, y: 0.66658527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 194
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.59070706, y: 0.86009604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.353939, y: 7.1351013}
+        - {x: -28.35394, y: -2.8648987}
+        - {x: -28.35394, y: -26.864899}
+        - {x: -20.35394, y: -43.8649}
+        - {x: 6.646061, y: -43.8649}
+        - {x: 19.64606, y: -28.864899}
+        - {x: 19.64606, y: 7.1351013}
+    - name: archer_blue_134
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 194
+        width: 43
+        height: 51
+      alignment: 9
+      pivot: {x: 0.54314333, y: 0.8692992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.355164, y: 6.665741}
+        - {x: -19.355164, y: 4.665741}
+        - {x: -18.355164, y: -3.334259}
+        - {x: -17.355164, y: -6.334259}
+        - {x: -17.355164, y: -5.334259}
+        - {x: -20.355164, y: -2.334259}
+        - {x: -23.355164, y: -1.334259}
+        - {x: -23.355164, y: -33.33426}
+        - {x: -19.355164, y: -44.33426}
+        - {x: 15.644836, y: -44.33426}
+        - {x: 18.644836, y: -27.334259}
+        - {x: 19.644836, y: -21.334259}
+        - {x: 19.644836, y: 6.665741}
+    - name: archer_blue_135
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 194
+        width: 47
+        height: 51
+      alignment: 9
+      pivot: {x: 0.59396946, y: 0.8688621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.916565, y: 6.688034}
+        - {x: -27.916565, y: 4.688034}
+        - {x: -27.916565, y: -37.311966}
+        - {x: -15.916565, y: -44.311966}
+        - {x: 6.083435, y: -44.311966}
+        - {x: 19.083435, y: -32.311966}
+        - {x: 19.083435, y: 6.688034}
+    - name: archer_blue_136
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 194
+        width: 46
+        height: 51
+      alignment: 9
+      pivot: {x: 0.59785926, y: 0.87017435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.498474, y: 6.621109}
+        - {x: -6.501526, y: 6.621109}
+        - {x: -20.501526, y: 0.621109}
+        - {x: -27.501526, y: -18.378891}
+        - {x: -27.501526, y: -32.37889}
+        - {x: -14.501526, y: -44.37889}
+        - {x: 8.498474, y: -44.37889}
+        - {x: 16.498474, y: -26.378891}
+        - {x: 18.498474, y: -18.378891}
+        - {x: 18.498474, y: 4.621109}
+    - name: archer_blue_137
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 194
+        width: 50
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6207843, y: 0.8743822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.039215, y: 6.4065094}
+        - {x: -27.039215, y: -6.5934906}
+        - {x: -31.039215, y: -16.59349}
+        - {x: -31.039215, y: -28.59349}
+        - {x: -20.039215, y: -44.59349}
+        - {x: 14.960785, y: -44.59349}
+        - {x: 18.960785, y: -12.593491}
+        - {x: 18.960785, y: 5.4065094}
+        - {x: 14.960785, y: 6.4065094}
+    - name: archer_blue_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 194
+        width: 55
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6486528, y: 0.83208334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.324097, y: 8.899582}
+        - {x: -18.675903, y: 8.899582}
+        - {x: -35.675903, y: -2.100418}
+        - {x: -35.675903, y: -22.100418}
+        - {x: -21.675903, y: -44.100418}
+        - {x: 11.324097, y: -44.100418}
+        - {x: 12.324097, y: -40.100418}
+        - {x: 19.324097, y: -11.100418}
+        - {x: 19.324097, y: 7.899582}
+    - name: archer_blue_139
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 194
+        width: 54
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6488444, y: 0.80235404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.037598, y: 10.870529}
+        - {x: -35.037598, y: -8.129471}
+        - {x: -35.037598, y: -14.129471}
+        - {x: -33.037598, y: -16.12947}
+        - {x: -16.037598, y: -44.12947}
+        - {x: 11.962402, y: -44.12947}
+        - {x: 18.962402, y: -13.129471}
+        - {x: 18.962402, y: 6.870529}
+        - {x: 3.9624023, y: 10.870529}
+    - name: archer_blue_140
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 194
+        width: 51
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6412964, y: 0.834682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.706116, y: 8.761856}
+        - {x: -32.706116, y: -1.2381439}
+        - {x: -32.706116, y: -21.238144}
+        - {x: -20.706116, y: -44.238144}
+        - {x: 10.293884, y: -44.238144}
+        - {x: 18.293884, y: -10.238144}
+        - {x: 18.293884, y: 7.761856}
+        - {x: 13.293884, y: 8.761856}
+    - name: archer_blue_141
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 194
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6270307, y: 0.8695448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.097473, y: 6.6532135}
+        - {x: -30.097473, y: -7.3467865}
+        - {x: -30.097473, y: -19.346786}
+        - {x: -15.097473, y: -42.346786}
+        - {x: -13.097473, y: -44.346786}
+        - {x: 7.902527, y: -44.346786}
+        - {x: 9.902527, y: -39.346786}
+        - {x: 17.902527, y: -17.346786}
+        - {x: 17.902527, y: 6.6532135}
+    - name: archer_blue_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 42
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5461934, y: 0.8695442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.9401245, y: 6.653244}
+        - {x: -22.940125, y: 1.653244}
+        - {x: -22.940125, y: -31.346756}
+        - {x: -18.940125, y: -44.346756}
+        - {x: 11.0598755, y: -44.346756}
+        - {x: 19.059875, y: -7.346756}
+        - {x: 19.059875, y: 4.653244}
+        - {x: 11.0598755, y: 6.653244}
+    - name: archer_blue_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 194
+        width: 42
+        height: 51
+      alignment: 9
+      pivot: {x: 0.55939156, y: 0.8695448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.494446, y: 6.6532135}
+        - {x: -23.494446, y: 1.6532135}
+        - {x: -23.494446, y: -32.346786}
+        - {x: -19.494446, y: -44.346786}
+        - {x: 14.505554, y: -44.346786}
+        - {x: 18.505554, y: -24.346786}
+        - {x: 18.505554, y: 6.6532135}
+    - name: archer_blue_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 194
+        width: 42
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5659892, y: 0.8695442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.771545, y: 6.653244}
+        - {x: -23.771545, y: 2.653244}
+        - {x: -23.771545, y: -32.346756}
+        - {x: -19.771545, y: -44.346756}
+        - {x: 11.228455, y: -44.346756}
+        - {x: 18.228455, y: -8.346756}
+        - {x: 18.228455, y: 6.653244}
+    - name: archer_blue_145
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 194
+        width: 47
+        height: 51
+      alignment: 9
+      pivot: {x: 0.59435254, y: 0.8695448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.06543, y: 6.6532135}
+        - {x: -12.93457, y: 6.6532135}
+        - {x: -14.93457, y: 4.6532135}
+        - {x: -21.93457, y: -0.3467865}
+        - {x: -26.93457, y: -15.3467865}
+        - {x: -27.93457, y: -17.346786}
+        - {x: -27.93457, y: -29.346786}
+        - {x: -12.93457, y: -44.346786}
+        - {x: 10.06543, y: -44.346786}
+        - {x: 19.06543, y: -26.346786}
+        - {x: 19.06543, y: 4.6532135}
+    - name: archer_blue_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 20}
+        - {x: -2.5, y: 28}
+        - {x: -19.5, y: 28}
+        - {x: -19.5, y: -28}
+        - {x: 14.5, y: -28}
+        - {x: 19.5, y: -21}
+        - {x: 19.5, y: 9}
+    - name: archer_blue_147
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 131
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 27.5}
+        - {x: -18.5, y: 27.5}
+        - {x: -18.5, y: -20.5}
+        - {x: -12.5, y: -27.5}
+        - {x: 14.5, y: -27.5}
+        - {x: 18.5, y: -22.5}
+        - {x: 18.5, y: 18.5}
+        - {x: 16.5, y: 26.5}
+    - name: archer_blue_148
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 27.5}
+        - {x: -18, y: 27.5}
+        - {x: -18, y: -26.5}
+        - {x: -14, y: -27.5}
+        - {x: 11, y: -27.5}
+        - {x: 18, y: -18.5}
+        - {x: 18, y: 15.5}
+        - {x: 5, y: 25.5}
+    - name: archer_blue_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_150
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 128
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_151
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 130
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_152
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 130
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 130
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 130
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_155
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 128
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 128
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_157
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 128
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 128
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_159
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 66
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.45958102, y: 0.85867536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.059889, y: 7.2075577}
+        - {x: -22.059889, y: 6.2075577}
+        - {x: -22.059889, y: -32.792442}
+        - {x: -18.059889, y: -43.792442}
+        - {x: 17.940111, y: -43.792442}
+        - {x: 25.940111, y: -26.792442}
+        - {x: 25.940111, y: 1.2075577}
+        - {x: 15.940111, y: 7.2075577}
+    - name: archer_blue_160
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 66
+        width: 43
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4806632, y: 0.85867536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.331482, y: -4.7924423}
+        - {x: 16.331482, y: -5.7924423}
+        - {x: 17.331482, y: -2.7924423}
+        - {x: 22.331482, y: 2.2075577}
+        - {x: 22.331482, y: 3.2075577}
+        - {x: 10.331482, y: 7.2075577}
+        - {x: -20.668518, y: 7.2075577}
+        - {x: -20.668518, y: -35.792442}
+        - {x: -16.668518, y: -43.792442}
+        - {x: 14.331482, y: -43.792442}
+        - {x: 22.331482, y: -27.792442}
+        - {x: 22.331482, y: 0.20755768}
+        - {x: 19.331482, y: -1.7924423}
+    - name: archer_blue_161
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 66
+        width: 47
+        height: 51
+      alignment: 9
+      pivot: {x: 0.45872074, y: 0.85867536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.559875, y: 7.2075577}
+        - {x: -21.559875, y: -11.792442}
+        - {x: -18.559875, y: -27.792442}
+        - {x: -9.5598755, y: -43.792442}
+        - {x: 12.4401245, y: -43.792442}
+        - {x: 25.440125, y: -31.792442}
+        - {x: 25.440125, y: 0.20755768}
+        - {x: 11.4401245, y: 7.2075577}
+    - name: archer_blue_162
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 66
+        width: 46
+        height: 51
+      alignment: 9
+      pivot: {x: 0.42769757, y: 0.85867536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.325912, y: 7.2075577}
+        - {x: -11.674088, y: 7.2075577}
+        - {x: -19.674088, y: 5.2075577}
+        - {x: -19.674088, y: -1.7924423}
+        - {x: -15.674088, y: -7.7924423}
+        - {x: -15.674088, y: -25.792442}
+        - {x: -9.674088, y: -42.792442}
+        - {x: -9.674088, y: -43.792442}
+        - {x: 14.325912, y: -43.792442}
+        - {x: 26.325912, y: -31.792442}
+        - {x: 26.325912, y: -14.792442}
+        - {x: 21.325912, y: 3.2075577}
+    - name: archer_blue_163
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 66
+        width: 50
+        height: 51
+      alignment: 9
+      pivot: {x: 0.40576598, y: 0.8695442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.7117, y: 6.653244}
+        - {x: -20.2883, y: 6.653244}
+        - {x: -20.2883, y: -29.346756}
+        - {x: -16.2883, y: -44.346756}
+        - {x: 16.7117, y: -44.346756}
+        - {x: 29.7117, y: -25.346756}
+        - {x: 29.7117, y: -9.346756}
+    - name: archer_blue_164
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 66
+        width: 55
+        height: 53
+      alignment: 9
+      pivot: {x: 0.35890114, y: 0.8346821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.739563, y: 8.761848}
+        - {x: -19.739563, y: -24.238152}
+        - {x: -15.739563, y: -44.23815}
+        - {x: 13.260437, y: -44.23815}
+        - {x: 35.260437, y: -20.238152}
+        - {x: 35.260437, y: -5.2381516}
+        - {x: 17.260437, y: 8.761848}
+    - name: archer_blue_165
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 66
+        width: 54
+        height: 55
+      alignment: 9
+      pivot: {x: 0.371686, y: 0.797315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.071045, y: 11.147675}
+        - {x: -20.071045, y: -27.852325}
+        - {x: -17.071045, y: -43.852325}
+        - {x: 19.928955, y: -43.852325}
+        - {x: 33.928955, y: -29.852325}
+        - {x: 33.928955, y: 0.14767456}
+        - {x: 21.928955, y: 11.147675}
+    - name: archer_blue_166
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 66
+        width: 51
+        height: 53
+      alignment: 9
+      pivot: {x: 0.3858756, y: 0.8346821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.679657, y: 8.761848}
+        - {x: -19.679657, y: -19.238152}
+        - {x: -14.679657, y: -44.23815}
+        - {x: 16.320343, y: -44.23815}
+        - {x: 31.320343, y: -17.238152}
+        - {x: 31.320343, y: -4.2381516}
+        - {x: 16.320343, y: 8.761848}
+    - name: archer_blue_167
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 66
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4133873, y: 0.8695442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.84259, y: 6.653244}
+        - {x: -19.84259, y: -25.346756}
+        - {x: -9.84259, y: -44.346756}
+        - {x: 17.15741, y: -44.346756}
+        - {x: 28.15741, y: -32.346756}
+        - {x: 28.15741, y: -2.346756}
+        - {x: 18.15741, y: 6.653244}
+    - name: archer_blue_168
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 66
+        width: 42
+        height: 51
+      alignment: 9
+      pivot: {x: 0.45380655, y: 0.8695442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.059875, y: 6.653244}
+        - {x: -19.059875, y: -14.346756}
+        - {x: -10.0598755, y: -44.346756}
+        - {x: 13.9401245, y: -44.346756}
+        - {x: 22.940125, y: -30.346756}
+        - {x: 22.940125, y: 0.653244}
+        - {x: 16.940125, y: 6.653244}
+    - name: archer_blue_169
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 66
+        width: 42
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4472075, y: 0.8695442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.782715, y: 6.653244}
+        - {x: -18.782715, y: -25.346756}
+        - {x: -8.782715, y: -44.346756}
+        - {x: 14.217285, y: -44.346756}
+        - {x: 23.217285, y: -37.346756}
+        - {x: 23.217285, y: 1.653244}
+        - {x: 21.217285, y: 6.653244}
+    - name: archer_blue_170
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 66
+        width: 42
+        height: 51
+      alignment: 9
+      pivot: {x: 0.46040562, y: 0.8749788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.337036, y: 6.3760834}
+        - {x: -19.337036, y: -14.623917}
+        - {x: -10.337036, y: -44.623917}
+        - {x: 13.662964, y: -44.623917}
+        - {x: 22.662964, y: -37.623917}
+        - {x: 22.662964, y: 0.37608337}
+        - {x: 20.662964, y: 6.3760834}
+    - name: archer_blue_171
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 66
+        width: 47
+        height: 51
+      alignment: 9
+      pivot: {x: 0.41154447, y: 0.8695442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.34259, y: 6.653244}
+        - {x: -19.34259, y: -11.346756}
+        - {x: -12.34259, y: -44.346756}
+        - {x: 14.65741, y: -44.346756}
+        - {x: 27.65741, y: -34.346756}
+        - {x: 27.65741, y: -3.346756}
+        - {x: 15.65741, y: 6.653244}
+    - name: archer_blue_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 34
+        height: 56
+      alignment: 9
+      pivot: {x: 0.45108962, y: 0.7474631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.6629524, y: 12.142067}
+        - {x: -7.3370476, y: 14.142067}
+        - {x: -15.337048, y: 14.142067}
+        - {x: -15.337048, y: -41.857933}
+        - {x: 15.662952, y: -41.857933}
+        - {x: 18.662952, y: -34.857933}
+        - {x: 18.662952, y: -5.857933}
+        - {x: 16.662952, y: 4.142067}
+    - name: archer_blue_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 35
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 17.5, y: 4}
+        - {x: 17.5, y: 38}
+        - {x: 12.5, y: 51}
+        - {x: -4.5, y: 54}
+        - {x: -17.5, y: 54}
+        - {x: -17.5, y: 1}
+    - name: archer_blue_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 33
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 45}
+        - {x: -16.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 16.5, y: 1}
+        - {x: 16.5, y: 38}
+        - {x: 1.5, y: 45}
+    - name: archer_blue_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 33
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 39}
+        - {x: -5.5, y: 40}
+        - {x: -16.5, y: 40}
+        - {x: -16.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 16.5, y: 5}
+        - {x: 16.5, y: 31}
+    - name: archer_blue_176
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3
+        width: 37
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 33}
+        - {x: -18.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 18.5, y: 21}
+        - {x: 9.5, y: 33}
+    - name: archer_blue_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 36}
+        - {x: -19.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 24}
+        - {x: 14.5, y: 36}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
