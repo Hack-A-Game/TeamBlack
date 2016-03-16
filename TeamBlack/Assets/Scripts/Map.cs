@@ -5,10 +5,29 @@ using System;
 public class Map : MonoBehaviour {
     private const float TILEWIDTH= 0.64f;
     private const float TILEHEIGHT = 0.64f;
-    public const uint GRIDSIZEX = 40;
-    public const uint GRIDSIZEY = 20;
+    public const uint GRIDSIZEX = 35;
+    public const uint GRIDSIZEY = 17;
 
     public Vector2 startPos;
+
+    public void Update()
+    {
+        for (uint x_ = 0; x_ < GRIDSIZEX; x_++)
+        {
+            for (uint y_ = 0; y_ < GRIDSIZEY; y_++)
+            {
+                float x = startPos.x + x_ * TILEWIDTH;
+                float y = startPos.y + y_ * TILEWIDTH;
+
+                Color color = (_grid[x_, y_] & TileAtt.Passable) == TileAtt.Passable ? Color.green : Color.red;
+
+                Debug.DrawLine(new Vector3(x, y, 0), new Vector3(x + TILEWIDTH, y, 0), color);
+                Debug.DrawLine(new Vector3(x, y, 0), new Vector3(x, y + TILEHEIGHT, 0), color);
+                Debug.DrawLine(new Vector3(x + TILEWIDTH, y, 0), new Vector3(x + TILEWIDTH, y + TILEHEIGHT, 0), color);
+                Debug.DrawLine(new Vector3(x, y + TILEHEIGHT, 0), new Vector3(x + TILEWIDTH, y + TILEHEIGHT, 0), color);
+            }
+        }
+    }
 
     private TileAtt[,] _grid= new TileAtt[GRIDSIZEX,GRIDSIZEY];
     public void Start()
@@ -19,7 +38,10 @@ public class Map : MonoBehaviour {
         {
             for(uint y = 0; y < GRIDSIZEY; y++)
             {
-                _grid[x, y] |= TileAtt.Passable;
+                if (y == 3 || y == 4 || y == 7 || y == 8 || y == 11 || y == 12 || y == 13)
+                {
+                    _grid[x, y] |= TileAtt.Passable;
+                }
             }
         }
     }
