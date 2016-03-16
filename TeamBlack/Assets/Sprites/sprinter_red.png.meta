@@ -1,9 +1,187 @@
 fileFormatVersion: 2
 guid: b19b44828578ae14298ece1007aadf8d
-timeCreated: 1458111545
+timeCreated: 1458126571
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: sprinter_red_0
+    21300002: sprinter_red_1
+    21300004: sprinter_red_2
+    21300006: sprinter_red_3
+    21300008: sprinter_red_4
+    21300010: sprinter_red_5
+    21300012: sprinter_red_6
+    21300014: sprinter_red_7
+    21300016: sprinter_red_8
+    21300018: sprinter_red_9
+    21300020: sprinter_red_10
+    21300022: sprinter_red_11
+    21300024: sprinter_red_12
+    21300026: sprinter_red_13
+    21300028: sprinter_red_14
+    21300030: sprinter_red_15
+    21300032: sprinter_red_16
+    21300034: sprinter_red_17
+    21300036: sprinter_red_18
+    21300038: sprinter_red_19
+    21300040: sprinter_red_20
+    21300042: sprinter_red_21
+    21300044: sprinter_red_22
+    21300046: sprinter_red_23
+    21300048: sprinter_red_24
+    21300050: sprinter_red_25
+    21300052: sprinter_red_26
+    21300054: sprinter_red_27
+    21300056: sprinter_red_28
+    21300058: sprinter_red_29
+    21300060: sprinter_red_30
+    21300062: sprinter_red_31
+    21300064: sprinter_red_32
+    21300066: sprinter_red_33
+    21300068: sprinter_red_34
+    21300070: sprinter_red_35
+    21300072: sprinter_red_36
+    21300074: sprinter_red_37
+    21300076: sprinter_red_38
+    21300078: sprinter_red_39
+    21300080: sprinter_red_40
+    21300082: sprinter_red_41
+    21300084: sprinter_red_42
+    21300086: sprinter_red_43
+    21300088: sprinter_red_44
+    21300090: sprinter_red_45
+    21300092: sprinter_red_46
+    21300094: sprinter_red_47
+    21300096: sprinter_red_48
+    21300098: sprinter_red_49
+    21300100: sprinter_red_50
+    21300102: sprinter_red_51
+    21300104: sprinter_red_52
+    21300106: sprinter_red_53
+    21300108: sprinter_red_54
+    21300110: sprinter_red_55
+    21300112: sprinter_red_56
+    21300114: sprinter_red_57
+    21300116: sprinter_red_58
+    21300118: sprinter_red_59
+    21300120: sprinter_red_60
+    21300122: sprinter_red_61
+    21300124: sprinter_red_62
+    21300126: sprinter_red_63
+    21300128: sprinter_red_64
+    21300130: sprinter_red_65
+    21300132: sprinter_red_66
+    21300134: sprinter_red_67
+    21300136: sprinter_red_68
+    21300138: sprinter_red_69
+    21300140: sprinter_red_70
+    21300142: sprinter_red_71
+    21300144: sprinter_red_72
+    21300146: sprinter_red_73
+    21300148: sprinter_red_74
+    21300150: sprinter_red_75
+    21300152: sprinter_red_76
+    21300154: sprinter_red_77
+    21300156: sprinter_red_78
+    21300158: sprinter_red_79
+    21300160: sprinter_red_80
+    21300162: sprinter_red_81
+    21300164: sprinter_red_82
+    21300166: sprinter_red_83
+    21300168: sprinter_red_84
+    21300170: sprinter_red_85
+    21300172: sprinter_red_86
+    21300174: sprinter_red_87
+    21300176: sprinter_red_88
+    21300178: sprinter_red_89
+    21300180: sprinter_red_90
+    21300182: sprinter_red_91
+    21300184: sprinter_red_92
+    21300186: sprinter_red_93
+    21300188: sprinter_red_94
+    21300190: sprinter_red_95
+    21300192: sprinter_red_96
+    21300194: sprinter_red_97
+    21300196: sprinter_red_98
+    21300198: sprinter_red_99
+    21300200: sprinter_red_100
+    21300202: sprinter_red_101
+    21300204: sprinter_red_102
+    21300206: sprinter_red_103
+    21300208: sprinter_red_104
+    21300210: sprinter_red_105
+    21300212: sprinter_red_106
+    21300214: sprinter_red_107
+    21300216: sprinter_red_108
+    21300218: sprinter_red_109
+    21300220: sprinter_red_110
+    21300222: sprinter_red_111
+    21300224: sprinter_red_112
+    21300226: sprinter_red_113
+    21300228: sprinter_red_114
+    21300230: sprinter_red_115
+    21300232: sprinter_red_116
+    21300234: sprinter_red_117
+    21300236: sprinter_red_118
+    21300238: sprinter_red_119
+    21300240: sprinter_red_120
+    21300242: sprinter_red_121
+    21300244: sprinter_red_122
+    21300246: sprinter_red_123
+    21300248: sprinter_red_124
+    21300250: sprinter_red_125
+    21300252: sprinter_red_126
+    21300254: sprinter_red_127
+    21300256: sprinter_red_128
+    21300258: sprinter_red_129
+    21300260: sprinter_red_130
+    21300262: sprinter_red_131
+    21300264: sprinter_red_132
+    21300266: sprinter_red_133
+    21300268: sprinter_red_134
+    21300270: sprinter_red_135
+    21300272: sprinter_red_136
+    21300274: sprinter_red_137
+    21300276: sprinter_red_138
+    21300278: sprinter_red_139
+    21300280: sprinter_red_140
+    21300282: sprinter_red_141
+    21300284: sprinter_red_142
+    21300286: sprinter_red_143
+    21300288: sprinter_red_144
+    21300290: sprinter_red_145
+    21300292: sprinter_red_146
+    21300294: sprinter_red_147
+    21300296: sprinter_red_148
+    21300298: sprinter_red_149
+    21300300: sprinter_red_150
+    21300302: sprinter_red_151
+    21300304: sprinter_red_152
+    21300306: sprinter_red_153
+    21300308: sprinter_red_154
+    21300310: sprinter_red_155
+    21300312: sprinter_red_156
+    21300314: sprinter_red_157
+    21300316: sprinter_red_158
+    21300318: sprinter_red_159
+    21300320: sprinter_red_160
+    21300322: sprinter_red_161
+    21300324: sprinter_red_162
+    21300326: sprinter_red_163
+    21300328: sprinter_red_164
+    21300330: sprinter_red_165
+    21300332: sprinter_red_166
+    21300334: sprinter_red_167
+    21300336: sprinter_red_168
+    21300338: sprinter_red_169
+    21300340: sprinter_red_170
+    21300342: sprinter_red_171
+    21300344: sprinter_red_172
+    21300346: sprinter_red_173
+    21300348: sprinter_red_174
+    21300350: sprinter_red_175
+    21300352: sprinter_red_176
+    21300354: sprinter_red_177
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +208,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +216,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +227,3479 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: sprinter_red_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 52}
+        - {x: -6, y: 52}
+        - {x: -17, y: 42}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 46}
+        - {x: 8, y: 51}
+    - name: sprinter_red_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 52}
+        - {x: -14, y: 49}
+        - {x: -16, y: 37}
+        - {x: -16, y: 7}
+        - {x: -14, y: 0}
+        - {x: 12, y: 0}
+        - {x: 16, y: 2}
+        - {x: 16, y: 46}
+        - {x: 8, y: 52}
+    - name: sprinter_red_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 52}
+        - {x: -16, y: 47}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 50}
+        - {x: 7, y: 52}
+    - name: sprinter_red_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 52}
+        - {x: -20, y: 52}
+        - {x: -20, y: 0}
+        - {x: 16, y: 0}
+        - {x: 20, y: 1}
+        - {x: 20, y: 34}
+        - {x: 16, y: 44}
+    - name: sprinter_red_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 37}
+        - {x: 10, y: 52}
+        - {x: -8, y: 52}
+        - {x: -27, y: 42}
+        - {x: -27, y: 10}
+        - {x: -22, y: 0}
+        - {x: 15, y: 0}
+        - {x: 18, y: 2}
+        - {x: 27, y: 26}
+    - name: sprinter_red_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 52}
+        - {x: -26, y: 45}
+        - {x: -26, y: 28}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 26, y: 29}
+        - {x: 26, y: 52}
+    - name: sprinter_red_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 52}
+        - {x: -19, y: 40}
+        - {x: -20, y: 29}
+        - {x: -20, y: 18}
+        - {x: -14, y: 0}
+        - {x: 16, y: 0}
+        - {x: 20, y: 1}
+        - {x: 20, y: 34}
+        - {x: 12, y: 52}
+    - name: sprinter_red_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 52}
+        - {x: -13, y: 45}
+        - {x: -13, y: 3}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 12, y: 2}
+        - {x: 14, y: 4}
+        - {x: 14, y: 46}
+        - {x: 12, y: 52}
+    - name: sprinter_red_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -13, y: 50}
+        - {x: -13, y: 1}
+        - {x: -8, y: 0}
+        - {x: 11, y: 0}
+        - {x: 14, y: 4}
+        - {x: 14, y: 45}
+        - {x: 11, y: 52}
+    - name: sprinter_red_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 52}
+        - {x: -13, y: 7}
+        - {x: -12, y: 0}
+        - {x: 9, y: 0}
+        - {x: 14, y: 10}
+        - {x: 14, y: 50}
+        - {x: 8, y: 52}
+    - name: sprinter_red_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 52}
+        - {x: -7, y: 52}
+        - {x: -14, y: 49}
+        - {x: -14, y: 0}
+        - {x: 11, y: 0}
+        - {x: 16, y: 11}
+        - {x: 16, y: 37}
+        - {x: 14, y: 45}
+    - name: sprinter_red_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 39}
+        - {x: -16, y: 7}
+        - {x: -12, y: 0}
+        - {x: 16, y: 0}
+        - {x: 21, y: 6}
+        - {x: 21, y: 42}
+        - {x: 11, y: 52}
+        - {x: -7, y: 52}
+        - {x: -14, y: 44}
+    - name: sprinter_red_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 52}
+        - {x: -7, y: 52}
+        - {x: -16, y: 48}
+        - {x: -16, y: 17}
+        - {x: -14, y: 2}
+        - {x: -3, y: 0}
+        - {x: 13, y: 0}
+        - {x: 17, y: 1}
+        - {x: 21, y: 20}
+        - {x: 21, y: 48}
+    - name: sprinter_red_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 52}
+        - {x: -12, y: 52}
+        - {x: -14, y: 49}
+        - {x: -14, y: 0}
+        - {x: 8, y: 0}
+        - {x: 11, y: 3}
+        - {x: 18, y: 17}
+        - {x: 18, y: 49}
+    - name: sprinter_red_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 53}
+        - {x: -10, y: 53}
+        - {x: -17, y: 41}
+        - {x: -17, y: 0}
+        - {x: 15, y: 0}
+        - {x: 17, y: 1}
+        - {x: 17, y: 41}
+    - name: sprinter_red_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 53}
+        - {x: -7, y: 53}
+        - {x: -17, y: 46}
+        - {x: -17, y: 9}
+        - {x: -15, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 34}
+        - {x: 15, y: 45}
+    - name: sprinter_red_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 53}
+        - {x: -16, y: 47}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 52}
+        - {x: 10, y: 53}
+    - name: sprinter_red_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 45}
+        - {x: 7, y: 51}
+        - {x: 4, y: 53}
+        - {x: -13, y: 53}
+        - {x: -20, y: 40}
+        - {x: -20, y: 11}
+        - {x: -13, y: 0}
+        - {x: 14, y: 0}
+        - {x: 20, y: 13}
+        - {x: 20, y: 29}
+    - name: sprinter_red_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 39}
+        - {x: 21, y: 37}
+        - {x: 14, y: 44}
+        - {x: 8, y: 51}
+        - {x: 4, y: 53}
+        - {x: -10, y: 53}
+        - {x: -27, y: 44}
+        - {x: -27, y: 9}
+        - {x: -23, y: 0}
+        - {x: 14, y: 0}
+        - {x: 22, y: 6}
+        - {x: 27, y: 23}
+        - {x: 27, y: 34}
+    - name: sprinter_red_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 49}
+        - {x: 12, y: 53}
+        - {x: -12, y: 53}
+        - {x: -26, y: 44}
+        - {x: -26, y: 15}
+        - {x: -15, y: 0}
+        - {x: 18, y: 0}
+        - {x: 26, y: 25}
+        - {x: 26, y: 45}
+    - name: sprinter_red_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 53}
+        - {x: -8, y: 52}
+        - {x: -17, y: 41}
+        - {x: -19, y: 27}
+        - {x: -19, y: 0}
+        - {x: 19, y: 0}
+        - {x: 19, y: 49}
+        - {x: 7, y: 53}
+    - name: sprinter_red_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -14, y: 49}
+        - {x: -14, y: 2}
+        - {x: -10, y: 0}
+        - {x: 2, y: 0}
+        - {x: 13, y: 2}
+        - {x: 13, y: 46}
+        - {x: 12, y: 52}
+    - name: sprinter_red_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -14, y: 50}
+        - {x: -14, y: 20}
+        - {x: -11, y: 3}
+        - {x: -8, y: 0}
+        - {x: 13, y: 0}
+        - {x: 13, y: 45}
+        - {x: 10, y: 52}
+    - name: sprinter_red_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 52}
+        - {x: -14, y: 44}
+        - {x: -14, y: 14}
+        - {x: -9, y: 0}
+        - {x: 12, y: 0}
+        - {x: 13, y: 12}
+        - {x: 13, y: 47}
+        - {x: 9, y: 52}
+    - name: sprinter_red_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 52}
+        - {x: -16, y: 47}
+        - {x: -16, y: 13}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 26}
+        - {x: 13, y: 44}
+        - {x: 9, y: 52}
+    - name: sprinter_red_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 52}
+        - {x: -21, y: 35}
+        - {x: -21, y: 10}
+        - {x: -9, y: 0}
+        - {x: 2, y: 0}
+        - {x: 14, y: 2}
+        - {x: 16, y: 5}
+        - {x: 16, y: 44}
+        - {x: 13, y: 52}
+    - name: sprinter_red_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -21, y: 45}
+        - {x: -21, y: 27}
+        - {x: -8, y: 0}
+        - {x: 4, y: 0}
+        - {x: 14, y: 2}
+        - {x: 16, y: 11}
+        - {x: 16, y: 42}
+        - {x: 12, y: 52}
+    - name: sprinter_red_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 52}
+        - {x: -14, y: 45}
+        - {x: -18, y: 31}
+        - {x: -18, y: 15}
+        - {x: -10, y: 0}
+        - {x: 7, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 41}
+        - {x: 11, y: 52}
+    - name: sprinter_red_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 51}
+        - {x: 6, y: 52}
+        - {x: -7, y: 52}
+        - {x: -17, y: 45}
+        - {x: -17, y: 6}
+        - {x: -16, y: 0}
+        - {x: 12, y: 0}
+        - {x: 17, y: 4}
+        - {x: 17, y: 39}
+        - {x: 15, y: 44}
+    - name: sprinter_red_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 51}
+        - {x: -15, y: 44}
+        - {x: -15, y: 6}
+        - {x: -14, y: 1}
+        - {x: -11, y: 0}
+        - {x: 14, y: 0}
+        - {x: 16, y: 5}
+        - {x: 16, y: 46}
+        - {x: 7, y: 51}
+    - name: sprinter_red_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 52}
+        - {x: -7, y: 52}
+        - {x: -14, y: 47}
+        - {x: -14, y: 8}
+        - {x: -13, y: 4}
+        - {x: -3, y: 0}
+        - {x: 14, y: 0}
+        - {x: 15, y: 7}
+        - {x: 15, y: 51}
+    - name: sprinter_red_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 52}
+        - {x: -14, y: 44}
+        - {x: -14, y: 19}
+        - {x: -12, y: 6}
+        - {x: -4, y: 0}
+        - {x: 14, y: 0}
+        - {x: 15, y: 6}
+        - {x: 15, y: 44}
+        - {x: 12, y: 52}
+    - name: sprinter_red_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 51}
+        - {x: -10, y: 51}
+        - {x: -13, y: 43}
+        - {x: -13, y: 3}
+        - {x: -6, y: 0}
+        - {x: 14, y: 0}
+        - {x: 16, y: 19}
+        - {x: 16, y: 46}
+    - name: sprinter_red_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 51}
+        - {x: -7, y: 51}
+        - {x: -13, y: 47}
+        - {x: -13, y: 13}
+        - {x: -8, y: 0}
+        - {x: 12, y: 0}
+        - {x: 16, y: 8}
+        - {x: 16, y: 45}
+        - {x: 10, y: 50}
+    - name: sprinter_red_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 51}
+        - {x: -10, y: 51}
+        - {x: -13, y: 43}
+        - {x: -13, y: 3}
+        - {x: -6, y: 0}
+        - {x: 14, y: 0}
+        - {x: 16, y: 19}
+        - {x: 16, y: 46}
+    - name: sprinter_red_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 52}
+        - {x: -8, y: 52}
+        - {x: -14, y: 42}
+        - {x: -14, y: 17}
+        - {x: -9, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 45}
+        - {x: 9, y: 51}
+    - name: sprinter_red_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 52}
+        - {x: -13, y: 45}
+        - {x: -13, y: 3}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 12, y: 2}
+        - {x: 14, y: 4}
+        - {x: 14, y: 46}
+        - {x: 12, y: 52}
+    - name: sprinter_red_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 52}
+        - {x: -15, y: 42}
+        - {x: -15, y: 4}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 13, y: 2}
+        - {x: 14, y: 13}
+        - {x: 14, y: 45}
+        - {x: 8, y: 52}
+    - name: sprinter_red_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 52}
+        - {x: -15, y: 40}
+        - {x: -15, y: 6}
+        - {x: -13, y: 3}
+        - {x: -7, y: 0}
+        - {x: 7, y: 0}
+        - {x: 13, y: 2}
+        - {x: 16, y: 8}
+        - {x: 16, y: 42}
+        - {x: 11, y: 52}
+    - name: sprinter_red_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 52}
+        - {x: -13, y: 51}
+        - {x: -13, y: 1}
+        - {x: -10, y: 0}
+        - {x: 14, y: 0}
+        - {x: 17, y: 6}
+        - {x: 17, y: 39}
+        - {x: 12, y: 52}
+    - name: sprinter_red_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 52}
+        - {x: -17, y: 44}
+        - {x: -19, y: 28}
+        - {x: -19, y: 19}
+        - {x: -15, y: 13}
+        - {x: -11, y: 4}
+        - {x: -9, y: 2}
+        - {x: -5, y: 0}
+        - {x: 12, y: 0}
+        - {x: 12, y: 51}
+        - {x: 7, y: 52}
+    - name: sprinter_red_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 52}
+        - {x: -16, y: 44}
+        - {x: -14, y: 33}
+        - {x: -22, y: 23}
+        - {x: -22, y: 19}
+        - {x: -18, y: 12}
+        - {x: -13, y: 2}
+        - {x: -7, y: 0}
+        - {x: 12, y: 0}
+        - {x: 12, y: 49}
+        - {x: 5, y: 52}
+    - name: sprinter_red_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 52}
+        - {x: -17, y: 44}
+        - {x: -19, y: 28}
+        - {x: -19, y: 19}
+        - {x: -15, y: 13}
+        - {x: -11, y: 4}
+        - {x: -9, y: 2}
+        - {x: -5, y: 0}
+        - {x: 12, y: 0}
+        - {x: 12, y: 51}
+        - {x: 7, y: 52}
+    - name: sprinter_red_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 52}
+        - {x: -13, y: 48}
+        - {x: -13, y: 9}
+        - {x: -10, y: 0}
+        - {x: 15, y: 0}
+        - {x: 17, y: 3}
+        - {x: 17, y: 46}
+        - {x: 13, y: 52}
+    - name: sprinter_red_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 0}
+        - {x: 14, y: 0}
+        - {x: 17, y: 6}
+        - {x: 17, y: 45}
+        - {x: 10, y: 53}
+        - {x: -7, y: 53}
+        - {x: -17, y: 46}
+        - {x: -17, y: 0}
+        - {x: -3, y: 0}
+        - {x: -1, y: 4}
+        - {x: -1, y: 8}
+        - {x: 1, y: 4}
+    - name: sprinter_red_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 53}
+        - {x: -16, y: 48}
+        - {x: -16, y: 1}
+        - {x: 15, y: 1}
+        - {x: 15, y: 50}
+        - {x: 11, y: 53}
+    - name: sprinter_red_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 53}
+        - {x: -10, y: 53}
+        - {x: -16, y: 43}
+        - {x: -16, y: 35}
+        - {x: -13, y: 18}
+        - {x: -11, y: 1}
+        - {x: 12, y: 1}
+        - {x: 15, y: 3}
+        - {x: 15, y: 47}
+    - name: sprinter_red_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 53}
+        - {x: -16, y: 48}
+        - {x: -16, y: 8}
+        - {x: -8, y: 1}
+        - {x: 12, y: 1}
+        - {x: 15, y: 2}
+        - {x: 15, y: 50}
+        - {x: 11, y: 53}
+    - name: sprinter_red_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -16, y: 44}
+        - {x: -16, y: 20}
+        - {x: -14, y: 4}
+        - {x: -6, y: 1}
+        - {x: 14, y: 1}
+        - {x: 15, y: 4}
+        - {x: 15, y: 48}
+        - {x: 13, y: 52}
+    - name: sprinter_red_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 52}
+        - {x: -16, y: 45}
+        - {x: -16, y: 22}
+        - {x: -13, y: 5}
+        - {x: -6, y: 1}
+        - {x: 9, y: 1}
+        - {x: 14, y: 3}
+        - {x: 15, y: 15}
+        - {x: 15, y: 47}
+        - {x: 9, y: 52}
+    - name: sprinter_red_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -16, y: 44}
+        - {x: -16, y: 20}
+        - {x: -14, y: 4}
+        - {x: -6, y: 1}
+        - {x: 14, y: 1}
+        - {x: 15, y: 4}
+        - {x: 15, y: 48}
+        - {x: 13, y: 52}
+    - name: sprinter_red_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 53}
+        - {x: -16, y: 48}
+        - {x: -16, y: 8}
+        - {x: -8, y: 1}
+        - {x: 12, y: 1}
+        - {x: 15, y: 2}
+        - {x: 15, y: 50}
+        - {x: 11, y: 53}
+    - name: sprinter_red_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -14, y: 49}
+        - {x: -14, y: 2}
+        - {x: -10, y: 0}
+        - {x: 2, y: 0}
+        - {x: 13, y: 2}
+        - {x: 13, y: 46}
+        - {x: 12, y: 52}
+    - name: sprinter_red_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -14, y: 49}
+        - {x: -14, y: 2}
+        - {x: -11, y: 0}
+        - {x: 7, y: 0}
+        - {x: 15, y: 1}
+        - {x: 15, y: 38}
+        - {x: 11, y: 52}
+    - name: sprinter_red_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 44}
+        - {x: 9, y: 52}
+        - {x: -10, y: 52}
+        - {x: -16, y: 45}
+        - {x: -16, y: 0}
+        - {x: 6, y: 0}
+        - {x: 10, y: 1}
+        - {x: 11, y: 4}
+        - {x: 15, y: 11}
+        - {x: 15, y: 36}
+    - name: sprinter_red_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 52}
+        - {x: -8, y: 52}
+        - {x: -15, y: 41}
+        - {x: -17, y: 30}
+        - {x: -17, y: 15}
+        - {x: -14, y: 6}
+        - {x: -11, y: 0}
+        - {x: 1, y: 0}
+        - {x: 13, y: 2}
+        - {x: 13, y: 44}
+        - {x: 7, y: 51}
+    - name: sprinter_red_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 52}
+        - {x: -7, y: 52}
+        - {x: -12, y: 49}
+        - {x: -12, y: 3}
+        - {x: -11, y: 0}
+        - {x: 1, y: 0}
+        - {x: 13, y: 3}
+        - {x: 19, y: 10}
+        - {x: 19, y: 35}
+    - name: sprinter_red_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 52}
+        - {x: -8, y: 52}
+        - {x: -12, y: 51}
+        - {x: -12, y: 0}
+        - {x: 4, y: 0}
+        - {x: 13, y: 3}
+        - {x: 22, y: 12}
+        - {x: 22, y: 37}
+        - {x: 19, y: 45}
+    - name: sprinter_red_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 52}
+        - {x: -7, y: 52}
+        - {x: -12, y: 49}
+        - {x: -12, y: 3}
+        - {x: -11, y: 0}
+        - {x: 1, y: 0}
+        - {x: 13, y: 3}
+        - {x: 19, y: 10}
+        - {x: 19, y: 35}
+    - name: sprinter_red_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 52}
+        - {x: -17, y: 35}
+        - {x: -17, y: 10}
+        - {x: -13, y: 2}
+        - {x: -11, y: 0}
+        - {x: 1, y: 0}
+        - {x: 13, y: 2}
+        - {x: 13, y: 44}
+        - {x: 8, y: 52}
+    - name: sprinter_red_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 53}
+        - {x: -17, y: 46}
+        - {x: -17, y: 1}
+        - {x: 17, y: 1}
+        - {x: 17, y: 50}
+        - {x: 11, y: 53}
+    - name: sprinter_red_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 52}
+        - {x: 6, y: 53}
+        - {x: -7, y: 53}
+        - {x: -17, y: 46}
+        - {x: -17, y: 7}
+        - {x: -16, y: 1}
+        - {x: 12, y: 1}
+        - {x: 17, y: 5}
+        - {x: 17, y: 40}
+        - {x: 15, y: 45}
+    - name: sprinter_red_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 53}
+        - {x: -17, y: 50}
+        - {x: -17, y: 7}
+        - {x: -16, y: 0}
+        - {x: 12, y: 0}
+        - {x: 17, y: 10}
+        - {x: 17, y: 48}
+        - {x: 8, y: 53}
+    - name: sprinter_red_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 52}
+        - {x: -15, y: 50}
+        - {x: -17, y: 46}
+        - {x: -17, y: 4}
+        - {x: -15, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 47}
+        - {x: 8, y: 52}
+    - name: sprinter_red_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 53}
+        - {x: -17, y: 52}
+        - {x: -17, y: 3}
+        - {x: -16, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 51}
+        - {x: 11, y: 53}
+    - name: sprinter_red_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 53}
+        - {x: -17, y: 43}
+        - {x: -17, y: 5}
+        - {x: -12, y: 1}
+        - {x: 15, y: 1}
+        - {x: 17, y: 4}
+        - {x: 17, y: 40}
+        - {x: 13, y: 53}
+    - name: sprinter_red_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 53}
+        - {x: -17, y: 43}
+        - {x: -17, y: 7}
+        - {x: -14, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 50}
+        - {x: 7, y: 53}
+    - name: sprinter_red_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 52}
+        - {x: -16, y: 43}
+        - {x: -16, y: 17}
+        - {x: -12, y: 2}
+        - {x: -11, y: 0}
+        - {x: 13, y: 0}
+        - {x: 17, y: 10}
+        - {x: 17, y: 40}
+        - {x: 11, y: 52}
+    - name: sprinter_red_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 53}
+        - {x: -17, y: 43}
+        - {x: -17, y: 0}
+        - {x: 9, y: 0}
+        - {x: 17, y: 5}
+        - {x: 17, y: 39}
+        - {x: 11, y: 53}
+    - name: sprinter_red_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 52}
+        - {x: -13, y: 45}
+        - {x: -13, y: 3}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 12, y: 2}
+        - {x: 14, y: 4}
+        - {x: 14, y: 46}
+        - {x: 12, y: 52}
+    - name: sprinter_red_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 2}
+        - {x: -11, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 51}
+        - {x: -14, y: 51}
+        - {x: -15, y: 47}
+    - name: sprinter_red_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 52}
+        - {x: -13, y: 49}
+        - {x: -13, y: 1}
+        - {x: 14, y: 1}
+        - {x: 14, y: 48}
+        - {x: 11, y: 52}
+    - name: sprinter_red_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 52}
+        - {x: -13, y: 51}
+        - {x: -13, y: 12}
+        - {x: -12, y: 9}
+        - {x: -6, y: 1}
+        - {x: 8, y: 1}
+        - {x: 15, y: 5}
+        - {x: 15, y: 42}
+        - {x: 12, y: 52}
+    - name: sprinter_red_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 52}
+        - {x: -13, y: 47}
+        - {x: -13, y: 1}
+        - {x: -8, y: 0}
+        - {x: 15, y: 0}
+        - {x: 16, y: 1}
+        - {x: 16, y: 42}
+        - {x: 12, y: 52}
+    - name: sprinter_red_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 51}
+        - {x: -14, y: 43}
+        - {x: -14, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 50}
+        - {x: 12, y: 51}
+    - name: sprinter_red_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 52}
+        - {x: -7, y: 52}
+        - {x: -13, y: 44}
+        - {x: -13, y: 13}
+        - {x: -9, y: 0}
+        - {x: 6, y: 0}
+        - {x: 9, y: 3}
+        - {x: 16, y: 12}
+        - {x: 16, y: 41}
+    - name: sprinter_red_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 52}
+        - {x: -7, y: 52}
+        - {x: -13, y: 45}
+        - {x: -13, y: 36}
+        - {x: -8, y: 1}
+        - {x: -5, y: 0}
+        - {x: 8, y: 0}
+        - {x: 13, y: 6}
+        - {x: 15, y: 11}
+        - {x: 15, y: 42}
+    - name: sprinter_red_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 52}
+        - {x: -7, y: 52}
+        - {x: -13, y: 49}
+        - {x: -13, y: 12}
+        - {x: -10, y: 0}
+        - {x: 9, y: 0}
+        - {x: 12, y: 2}
+        - {x: 14, y: 18}
+        - {x: 14, y: 45}
+    - name: sprinter_red_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 0}
+        - {x: 14, y: 0}
+        - {x: 17, y: 6}
+        - {x: 17, y: 45}
+        - {x: 10, y: 53}
+        - {x: -7, y: 53}
+        - {x: -17, y: 46}
+        - {x: -17, y: 0}
+        - {x: -3, y: 0}
+        - {x: -1, y: 4}
+        - {x: -1, y: 8}
+        - {x: 1, y: 4}
+    - name: sprinter_red_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 53}
+        - {x: -7, y: 53}
+        - {x: -8, y: 52}
+        - {x: -17, y: 41}
+        - {x: -17, y: 13}
+        - {x: -11, y: 0}
+        - {x: 13, y: 0}
+        - {x: 17, y: 15}
+        - {x: 17, y: 44}
+    - name: sprinter_red_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 53}
+        - {x: -8, y: 52}
+        - {x: -17, y: 41}
+        - {x: -17, y: 9}
+        - {x: -14, y: 2}
+        - {x: -7, y: 0}
+        - {x: 13, y: 0}
+        - {x: 16, y: 1}
+        - {x: 17, y: 8}
+        - {x: 17, y: 44}
+        - {x: 7, y: 53}
+    - name: sprinter_red_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 52}
+        - {x: -16, y: 46}
+        - {x: -16, y: 12}
+        - {x: -12, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 49}
+        - {x: 13, y: 52}
+    - name: sprinter_red_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 53}
+        - {x: -8, y: 52}
+        - {x: -17, y: 41}
+        - {x: -17, y: 8}
+        - {x: -14, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 46}
+        - {x: 7, y: 53}
+    - name: sprinter_red_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 53}
+        - {x: -7, y: 53}
+        - {x: -17, y: 46}
+        - {x: -17, y: 0}
+        - {x: 16, y: 0}
+        - {x: 17, y: 5}
+        - {x: 17, y: 48}
+    - name: sprinter_red_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 53}
+        - {x: -13, y: 53}
+        - {x: -17, y: 40}
+        - {x: -17, y: 5}
+        - {x: -13, y: 0}
+        - {x: 12, y: 0}
+        - {x: 17, y: 8}
+        - {x: 17, y: 33}
+        - {x: 15, y: 45}
+    - name: sprinter_red_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 52}
+        - {x: -17, y: 39}
+        - {x: -17, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 40}
+        - {x: 11, y: 52}
+    - name: sprinter_red_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 53}
+        - {x: -17, y: 47}
+        - {x: -17, y: 5}
+        - {x: -16, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 50}
+        - {x: 12, y: 53}
+    - name: sprinter_red_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -14, y: 49}
+        - {x: -14, y: 2}
+        - {x: -10, y: 0}
+        - {x: 2, y: 0}
+        - {x: 13, y: 2}
+        - {x: 13, y: 46}
+        - {x: 12, y: 52}
+    - name: sprinter_red_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 51}
+        - {x: -14, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 36}
+        - {x: 12, y: 51}
+    - name: sprinter_red_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 52}
+        - {x: -14, y: 45}
+        - {x: -14, y: 21}
+        - {x: -12, y: 4}
+        - {x: -8, y: 1}
+        - {x: 13, y: 1}
+        - {x: 13, y: 47}
+        - {x: 12, y: 52}
+    - name: sprinter_red_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 52}
+        - {x: -15, y: 41}
+        - {x: -15, y: 6}
+        - {x: -8, y: 1}
+        - {x: 10, y: 1}
+        - {x: 13, y: 31}
+        - {x: 13, y: 46}
+        - {x: 9, y: 52}
+    - name: sprinter_red_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 52}
+        - {x: -16, y: 35}
+        - {x: -16, y: 1}
+        - {x: -15, y: 0}
+        - {x: 13, y: 0}
+        - {x: 13, y: 52}
+    - name: sprinter_red_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 51}
+        - {x: -18, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 49}
+        - {x: 12, y: 51}
+    - name: sprinter_red_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 52}
+        - {x: -8, y: 52}
+        - {x: -15, y: 41}
+        - {x: -16, y: 26}
+        - {x: -16, y: 13}
+        - {x: -8, y: 2}
+        - {x: -3, y: 0}
+        - {x: 7, y: 0}
+        - {x: 13, y: 1}
+        - {x: 13, y: 46}
+        - {x: 7, y: 51}
+    - name: sprinter_red_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 52}
+        - {x: -15, y: 42}
+        - {x: -15, y: 3}
+        - {x: -7, y: 0}
+        - {x: 9, y: 0}
+        - {x: 13, y: 6}
+        - {x: 13, y: 52}
+    - name: sprinter_red_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 52}
+        - {x: -14, y: 50}
+        - {x: -14, y: 0}
+        - {x: 9, y: 0}
+        - {x: 13, y: 36}
+        - {x: 13, y: 45}
+        - {x: 9, y: 52}
+    - name: sprinter_red_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 52}
+        - {x: -6, y: 52}
+        - {x: -17, y: 42}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 46}
+        - {x: 8, y: 51}
+    - name: sprinter_red_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 51}
+        - {x: -15, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 47}
+        - {x: 9, y: 51}
+    - name: sprinter_red_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 51}
+        - {x: -16, y: 42}
+        - {x: -16, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 46}
+        - {x: 6, y: 51}
+    - name: sprinter_red_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 52}
+        - {x: -13, y: 49}
+        - {x: -15, y: 39}
+        - {x: -15, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 50}
+        - {x: 12, y: 52}
+    - name: sprinter_red_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 52}
+        - {x: -6, y: 52}
+        - {x: -16, y: 47}
+        - {x: -16, y: 0}
+        - {x: 21, y: 0}
+        - {x: 24, y: 15}
+        - {x: 24, y: 40}
+        - {x: 10, y: 51}
+    - name: sprinter_red_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 52}
+        - {x: -16, y: 41}
+        - {x: -16, y: 3}
+        - {x: -13, y: 0}
+        - {x: 17, y: 0}
+        - {x: 19, y: 1}
+        - {x: 27, y: 17}
+        - {x: 27, y: 40}
+        - {x: 12, y: 52}
+    - name: sprinter_red_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 52}
+        - {x: -13, y: 45}
+        - {x: -13, y: 3}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 12, y: 2}
+        - {x: 14, y: 4}
+        - {x: 14, y: 46}
+        - {x: 12, y: 52}
+    - name: sprinter_red_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 50}
+        - {x: -17, y: 38}
+        - {x: -17, y: 4}
+        - {x: -12, y: 0}
+        - {x: 11, y: 0}
+        - {x: 12, y: 3}
+        - {x: 12, y: 45}
+        - {x: 5, y: 50}
+    - name: sprinter_red_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 52}
+        - {x: -9, y: 52}
+        - {x: -15, y: 47}
+        - {x: -15, y: 6}
+        - {x: -14, y: 0}
+        - {x: 11, y: 0}
+        - {x: 14, y: 5}
+        - {x: 14, y: 35}
+        - {x: 12, y: 45}
+    - name: sprinter_red_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 52}
+        - {x: -23, y: 33}
+        - {x: -23, y: 9}
+        - {x: -16, y: 2}
+        - {x: -4, y: 0}
+        - {x: 10, y: 0}
+        - {x: 15, y: 5}
+        - {x: 15, y: 36}
+        - {x: 8, y: 52}
+    - name: sprinter_red_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 52}
+        - {x: -11, y: 52}
+        - {x: -20, y: 44}
+        - {x: -26, y: 34}
+        - {x: -26, y: 19}
+        - {x: -12, y: 0}
+        - {x: 10, y: 0}
+        - {x: 14, y: 6}
+        - {x: 14, y: 29}
+        - {x: 9, y: 45}
+    - name: sprinter_red_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 52}
+        - {x: -11, y: 52}
+        - {x: -23, y: 40}
+        - {x: -23, y: 20}
+        - {x: -15, y: 0}
+        - {x: 10, y: 0}
+        - {x: 14, y: 6}
+        - {x: 14, y: 30}
+        - {x: 10, y: 45}
+    - name: sprinter_red_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 0}
+        - {x: 14, y: 0}
+        - {x: 17, y: 6}
+        - {x: 17, y: 45}
+        - {x: 10, y: 53}
+        - {x: -7, y: 53}
+        - {x: -17, y: 46}
+        - {x: -17, y: 0}
+        - {x: -3, y: 0}
+        - {x: -1, y: 4}
+        - {x: -1, y: 8}
+        - {x: 1, y: 4}
+    - name: sprinter_red_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 53}
+        - {x: -5, y: 53}
+        - {x: -8, y: 52}
+        - {x: -16, y: 44}
+        - {x: -16, y: 19}
+        - {x: -14, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 45}
+    - name: sprinter_red_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 51}
+        - {x: -13, y: 51}
+        - {x: -17, y: 41}
+        - {x: -17, y: 0}
+        - {x: 14, y: 0}
+        - {x: 15, y: 1}
+        - {x: 15, y: 43}
+    - name: sprinter_red_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 52}
+        - {x: -6, y: 51}
+        - {x: -14, y: 43}
+        - {x: -14, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 45}
+        - {x: 7, y: 52}
+    - name: sprinter_red_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 45}
+        - {x: 12, y: 53}
+        - {x: -8, y: 53}
+        - {x: -14, y: 45}
+        - {x: -14, y: 0}
+        - {x: 9, y: 0}
+        - {x: 18, y: 2}
+        - {x: 23, y: 12}
+        - {x: 25, y: 19}
+        - {x: 25, y: 27}
+    - name: sprinter_red_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 53}
+        - {x: -15, y: 49}
+        - {x: -15, y: 0}
+        - {x: 22, y: 0}
+        - {x: 28, y: 14}
+        - {x: 28, y: 36}
+        - {x: 15, y: 53}
+    - name: sprinter_red_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -14, y: 49}
+        - {x: -14, y: 2}
+        - {x: -10, y: 0}
+        - {x: 2, y: 0}
+        - {x: 13, y: 2}
+        - {x: 13, y: 46}
+        - {x: 12, y: 52}
+    - name: sprinter_red_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 50}
+        - {x: -12, y: 49}
+        - {x: -12, y: 1}
+        - {x: -8, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 50}
+    - name: sprinter_red_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 52}
+        - {x: -14, y: 48}
+        - {x: -14, y: 8}
+        - {x: -11, y: 2}
+        - {x: -9, y: 0}
+        - {x: 14, y: 0}
+        - {x: 15, y: 6}
+        - {x: 15, y: 51}
+        - {x: 14, y: 52}
+    - name: sprinter_red_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 52}
+        - {x: -15, y: 32}
+        - {x: -15, y: 3}
+        - {x: -13, y: 0}
+        - {x: 23, y: 0}
+        - {x: 23, y: 52}
+    - name: sprinter_red_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 52}
+        - {x: -7, y: 52}
+        - {x: -14, y: 35}
+        - {x: -14, y: 3}
+        - {x: -12, y: 0}
+        - {x: 15, y: 0}
+        - {x: 26, y: 19}
+        - {x: 26, y: 38}
+        - {x: 22, y: 48}
+    - name: sprinter_red_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 52}
+        - {x: -7, y: 52}
+        - {x: -14, y: 47}
+        - {x: -14, y: 0}
+        - {x: 13, y: 0}
+        - {x: 23, y: 15}
+        - {x: 23, y: 46}
+        - {x: 18, y: 50}
+    - name: sprinter_red_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 51}
+        - {x: 5, y: 52}
+        - {x: -8, y: 52}
+        - {x: -18, y: 45}
+        - {x: -18, y: 6}
+        - {x: -17, y: 0}
+        - {x: 11, y: 0}
+        - {x: 16, y: 4}
+        - {x: 16, y: 39}
+        - {x: 14, y: 44}
+    - name: sprinter_red_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 51}
+        - {x: -16, y: 43}
+        - {x: -16, y: 12}
+        - {x: -10, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 37}
+        - {x: 10, y: 51}
+    - name: sprinter_red_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 52}
+        - {x: -15, y: 3}
+        - {x: -8, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 45}
+        - {x: 12, y: 52}
+    - name: sprinter_red_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -16, y: 50}
+        - {x: -16, y: 27}
+        - {x: -6, y: 0}
+        - {x: 11, y: 0}
+        - {x: 13, y: 7}
+        - {x: 13, y: 52}
+    - name: sprinter_red_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 52}
+        - {x: -16, y: 45}
+        - {x: -16, y: 28}
+        - {x: -6, y: 0}
+        - {x: 11, y: 0}
+        - {x: 17, y: 7}
+        - {x: 17, y: 36}
+        - {x: 10, y: 52}
+    - name: sprinter_red_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 52}
+        - {x: -15, y: 49}
+        - {x: -16, y: 48}
+        - {x: -16, y: 19}
+        - {x: -9, y: 0}
+        - {x: 15, y: 0}
+        - {x: 15, y: 49}
+        - {x: 9, y: 52}
+    - name: sprinter_red_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 52}
+        - {x: -7, y: 52}
+        - {x: -16, y: 49}
+        - {x: -16, y: 27}
+        - {x: -7, y: 0}
+        - {x: 13, y: 0}
+        - {x: 16, y: 7}
+        - {x: 16, y: 42}
+        - {x: 14, y: 44}
+    - name: sprinter_red_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 52}
+        - {x: -16, y: 44}
+        - {x: -16, y: 30}
+        - {x: -9, y: 8}
+        - {x: -5, y: 0}
+        - {x: 13, y: 0}
+        - {x: 17, y: 8}
+        - {x: 17, y: 43}
+        - {x: 11, y: 52}
+    - name: sprinter_red_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 52}
+        - {x: -11, y: 52}
+        - {x: -16, y: 46}
+        - {x: -16, y: 28}
+        - {x: -7, y: 0}
+        - {x: 14, y: 0}
+        - {x: 18, y: 7}
+        - {x: 18, y: 44}
+        - {x: 17, y: 46}
+    - name: sprinter_red_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 52}
+        - {x: -8, y: 52}
+        - {x: -16, y: 45}
+        - {x: -16, y: 28}
+        - {x: -6, y: 0}
+        - {x: 9, y: 0}
+        - {x: 11, y: 1}
+        - {x: 17, y: 12}
+        - {x: 17, y: 34}
+    - name: sprinter_red_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -16, y: 50}
+        - {x: -16, y: 27}
+        - {x: -6, y: 0}
+        - {x: 11, y: 0}
+        - {x: 13, y: 7}
+        - {x: 13, y: 52}
+    - name: sprinter_red_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 52}
+        - {x: -10, y: 52}
+        - {x: -16, y: 43}
+        - {x: -16, y: 20}
+        - {x: -7, y: 0}
+        - {x: 10, y: 0}
+        - {x: 13, y: 4}
+        - {x: 13, y: 49}
+    - name: sprinter_red_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -16, y: 50}
+        - {x: -16, y: 27}
+        - {x: -6, y: 0}
+        - {x: 11, y: 0}
+        - {x: 13, y: 7}
+        - {x: 13, y: 52}
+    - name: sprinter_red_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 52}
+        - {x: -10, y: 52}
+        - {x: -12, y: 45}
+        - {x: -12, y: 2}
+        - {x: -2, y: 0}
+        - {x: 11, y: 0}
+        - {x: 15, y: 2}
+        - {x: 15, y: 51}
+    - name: sprinter_red_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 52}
+        - {x: -14, y: 41}
+        - {x: -14, y: 5}
+        - {x: -12, y: 3}
+        - {x: -7, y: 0}
+        - {x: 9, y: 0}
+        - {x: 14, y: 2}
+        - {x: 15, y: 8}
+        - {x: 15, y: 45}
+        - {x: 9, y: 52}
+    - name: sprinter_red_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 52}
+        - {x: -18, y: 47}
+        - {x: -19, y: 46}
+        - {x: -19, y: 9}
+        - {x: -11, y: 0}
+        - {x: 11, y: 0}
+        - {x: 13, y: 2}
+        - {x: 17, y: 10}
+        - {x: 17, y: 39}
+        - {x: 12, y: 52}
+    - name: sprinter_red_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 52}
+        - {x: -18, y: 47}
+        - {x: -21, y: 39}
+        - {x: -21, y: 6}
+        - {x: -19, y: 3}
+        - {x: -7, y: 0}
+        - {x: 15, y: 0}
+        - {x: 18, y: 11}
+        - {x: 18, y: 35}
+        - {x: 11, y: 52}
+    - name: sprinter_red_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 52}
+        - {x: -6, y: 52}
+        - {x: -18, y: 46}
+        - {x: -21, y: 37}
+        - {x: -21, y: 15}
+        - {x: -9, y: 1}
+        - {x: -7, y: 0}
+        - {x: 15, y: 0}
+        - {x: 18, y: 7}
+        - {x: 18, y: 40}
+        - {x: 16, y: 45}
+    - name: sprinter_red_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 52}
+        - {x: -22, y: 45}
+        - {x: -22, y: 9}
+        - {x: -17, y: 0}
+        - {x: 14, y: 0}
+        - {x: 15, y: 1}
+        - {x: 15, y: 46}
+        - {x: 7, y: 52}
+    - name: sprinter_red_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 52}
+        - {x: -22, y: 43}
+        - {x: -22, y: 25}
+        - {x: -9, y: 1}
+        - {x: -6, y: 0}
+        - {x: 15, y: 0}
+        - {x: 16, y: 3}
+        - {x: 16, y: 47}
+        - {x: 11, y: 52}
+    - name: sprinter_red_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 52}
+        - {x: -21, y: 40}
+        - {x: -21, y: 22}
+        - {x: -14, y: 2}
+        - {x: -9, y: 0}
+        - {x: 17, y: 0}
+        - {x: 19, y: 4}
+        - {x: 19, y: 43}
+        - {x: 10, y: 52}
+    - name: sprinter_red_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 52}
+        - {x: -21, y: 39}
+        - {x: -21, y: 21}
+        - {x: -14, y: 2}
+        - {x: -8, y: 0}
+        - {x: 17, y: 0}
+        - {x: 21, y: 10}
+        - {x: 21, y: 41}
+        - {x: 8, y: 52}
+    - name: sprinter_red_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 52}
+        - {x: -6, y: 52}
+        - {x: -18, y: 46}
+        - {x: -21, y: 37}
+        - {x: -21, y: 15}
+        - {x: -9, y: 1}
+        - {x: -7, y: 0}
+        - {x: 15, y: 0}
+        - {x: 18, y: 7}
+        - {x: 18, y: 40}
+        - {x: 16, y: 45}
+    - name: sprinter_red_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 52}
+        - {x: -21, y: 41}
+        - {x: -21, y: 14}
+        - {x: -15, y: 1}
+        - {x: -13, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 51}
+        - {x: 11, y: 52}
+    - name: sprinter_red_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 11}
+        - {x: -17, y: 0}
+        - {x: 14, y: 0}
+        - {x: 15, y: 1}
+        - {x: 15, y: 52}
+        - {x: -6, y: 52}
+        - {x: -21, y: 40}
+    - name: sprinter_red_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 52}
+        - {x: -21, y: 41}
+        - {x: -21, y: 14}
+        - {x: -15, y: 1}
+        - {x: -13, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 51}
+        - {x: 11, y: 52}
+    - name: sprinter_red_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 0}
+        - {x: 13, y: 0}
+        - {x: 16, y: 6}
+        - {x: 16, y: 45}
+        - {x: 9, y: 53}
+        - {x: -8, y: 53}
+        - {x: -18, y: 46}
+        - {x: -18, y: 0}
+        - {x: -4, y: 0}
+        - {x: -2, y: 4}
+        - {x: -2, y: 8}
+        - {x: 0, y: 4}
+    - name: sprinter_red_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 53}
+        - {x: -17, y: 48}
+        - {x: -17, y: 8}
+        - {x: -15, y: 1}
+        - {x: 12, y: 1}
+        - {x: 14, y: 5}
+        - {x: 14, y: 46}
+        - {x: 8, y: 53}
+    - name: sprinter_red_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 53}
+        - {x: -9, y: 52}
+        - {x: -17, y: 42}
+        - {x: -17, y: 8}
+        - {x: -11, y: 1}
+        - {x: 12, y: 1}
+        - {x: 13, y: 2}
+        - {x: 14, y: 12}
+        - {x: 14, y: 47}
+        - {x: 3, y: 53}
+    - name: sprinter_red_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 53}
+        - {x: -17, y: 49}
+        - {x: -17, y: 15}
+        - {x: -14, y: 4}
+        - {x: -8, y: 0}
+        - {x: 12, y: 0}
+        - {x: 14, y: 19}
+        - {x: 14, y: 49}
+        - {x: 9, y: 53}
+    - name: sprinter_red_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 53}
+        - {x: -9, y: 52}
+        - {x: -17, y: 45}
+        - {x: -17, y: 15}
+        - {x: -15, y: 3}
+        - {x: -7, y: 0}
+        - {x: 8, y: 0}
+        - {x: 14, y: 13}
+        - {x: 14, y: 48}
+        - {x: 11, y: 53}
+    - name: sprinter_red_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 53}
+        - {x: -17, y: 48}
+        - {x: -17, y: 16}
+        - {x: -13, y: 4}
+        - {x: -8, y: 0}
+        - {x: 12, y: 0}
+        - {x: 14, y: 23}
+        - {x: 14, y: 48}
+        - {x: 9, y: 53}
+    - name: sprinter_red_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 53}
+        - {x: -17, y: 47}
+        - {x: -17, y: 15}
+        - {x: -10, y: 0}
+        - {x: 12, y: 0}
+        - {x: 14, y: 23}
+        - {x: 14, y: 47}
+        - {x: 4, y: 53}
+    - name: sprinter_red_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 53}
+        - {x: -6, y: 53}
+        - {x: -17, y: 45}
+        - {x: -17, y: 25}
+        - {x: -12, y: 5}
+        - {x: -5, y: 0}
+        - {x: 5, y: 0}
+        - {x: 9, y: 2}
+        - {x: 14, y: 16}
+        - {x: 14, y: 45}
+    - name: sprinter_red_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 53}
+        - {x: -17, y: 44}
+        - {x: -17, y: 20}
+        - {x: -14, y: 4}
+        - {x: -6, y: 0}
+        - {x: 10, y: 0}
+        - {x: 14, y: 10}
+        - {x: 14, y: 48}
+        - {x: 11, y: 53}
+    - name: sprinter_red_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 53}
+        - {x: -9, y: 52}
+        - {x: -17, y: 45}
+        - {x: -17, y: 15}
+        - {x: -15, y: 3}
+        - {x: -7, y: 0}
+        - {x: 8, y: 0}
+        - {x: 14, y: 13}
+        - {x: 14, y: 48}
+        - {x: 11, y: 53}
+    - name: sprinter_red_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 53}
+        - {x: -17, y: 49}
+        - {x: -17, y: 13}
+        - {x: -14, y: 3}
+        - {x: -6, y: 0}
+        - {x: 9, y: 0}
+        - {x: 14, y: 10}
+        - {x: 14, y: 47}
+        - {x: 10, y: 53}
+    - name: sprinter_red_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 53}
+        - {x: -9, y: 52}
+        - {x: -17, y: 44}
+        - {x: -17, y: 27}
+        - {x: -13, y: 5}
+        - {x: -7, y: 0}
+        - {x: 5, y: 0}
+        - {x: 10, y: 1}
+        - {x: 14, y: 26}
+        - {x: 14, y: 46}
+        - {x: 4, y: 53}
+    - name: sprinter_red_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 53}
+        - {x: -17, y: 49}
+        - {x: -17, y: 13}
+        - {x: -14, y: 3}
+        - {x: -6, y: 0}
+        - {x: 9, y: 0}
+        - {x: 14, y: 10}
+        - {x: 14, y: 47}
+        - {x: 10, y: 53}
+    - name: sprinter_red_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -11, y: 4}
+        - {x: -9, y: 0}
+        - {x: 7, y: 0}
+        - {x: 12, y: 1}
+        - {x: 12, y: 50}
+        - {x: 11, y: 52}
+        - {x: -9, y: 52}
+        - {x: -15, y: 43}
+    - name: sprinter_red_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 52}
+        - {x: -15, y: 49}
+        - {x: -15, y: 8}
+        - {x: -13, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 48}
+        - {x: 6, y: 52}
+    - name: sprinter_red_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -14, y: 44}
+        - {x: -17, y: 32}
+        - {x: -17, y: 12}
+        - {x: -11, y: 0}
+        - {x: 19, y: 0}
+        - {x: 19, y: 50}
+        - {x: 11, y: 52}
+    - name: sprinter_red_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 52}
+        - {x: -9, y: 52}
+        - {x: -18, y: 47}
+        - {x: -18, y: 13}
+        - {x: -15, y: 1}
+        - {x: -12, y: 0}
+        - {x: 5, y: 0}
+        - {x: 12, y: 3}
+        - {x: 21, y: 14}
+        - {x: 21, y: 26}
+    - name: sprinter_red_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 52}
+        - {x: -18, y: 1}
+        - {x: -16, y: 0}
+        - {x: -1, y: 0}
+        - {x: 12, y: 2}
+        - {x: 21, y: 21}
+        - {x: 21, y: 39}
+        - {x: 11, y: 52}
+    - name: sprinter_red_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 52}
+        - {x: -15, y: 45}
+        - {x: -15, y: 0}
+        - {x: 17, y: 0}
+        - {x: 22, y: 7}
+        - {x: 22, y: 37}
+        - {x: 13, y: 52}
+    - name: sprinter_red_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 25}
+        - {x: 22, y: 30}
+        - {x: 22, y: 36}
+        - {x: 18, y: 38}
+        - {x: 14, y: 38}
+        - {x: 13, y: 44}
+        - {x: 6, y: 52}
+        - {x: -8, y: 52}
+        - {x: -16, y: 49}
+        - {x: -16, y: 2}
+        - {x: -13, y: 0}
+        - {x: -2, y: 0}
+        - {x: 8, y: 2}
+        - {x: 10, y: 4}
+        - {x: 10, y: 7}
+    - name: sprinter_red_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 52}
+        - {x: -19, y: 40}
+        - {x: -19, y: 21}
+        - {x: -13, y: 0}
+        - {x: 12, y: 0}
+        - {x: 21, y: 14}
+        - {x: 21, y: 37}
+        - {x: 7, y: 52}
+    - name: sprinter_red_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -21, y: 39}
+        - {x: -21, y: 20}
+        - {x: -15, y: 6}
+        - {x: -12, y: 0}
+        - {x: 11, y: 0}
+        - {x: 21, y: 19}
+        - {x: 21, y: 40}
+        - {x: 7, y: 52}
+    - name: sprinter_red_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 52}
+        - {x: -18, y: 1}
+        - {x: -16, y: 0}
+        - {x: -1, y: 0}
+        - {x: 12, y: 2}
+        - {x: 21, y: 21}
+        - {x: 21, y: 39}
+        - {x: 11, y: 52}
+    - name: sprinter_red_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 52}
+        - {x: -9, y: 52}
+        - {x: -16, y: 41}
+        - {x: -17, y: 35}
+        - {x: -17, y: 14}
+        - {x: -13, y: 0}
+        - {x: 2, y: 0}
+        - {x: 12, y: 3}
+        - {x: 21, y: 14}
+        - {x: 21, y: 45}
+        - {x: 20, y: 49}
+    - name: sprinter_red_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 0}
+        - {x: 10, y: 0}
+        - {x: 21, y: 7}
+        - {x: 21, y: 44}
+        - {x: 14, y: 52}
+        - {x: 6, y: 53}
+        - {x: -11, y: 53}
+        - {x: -15, y: 46}
+    - name: sprinter_red_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 52}
+        - {x: -9, y: 52}
+        - {x: -16, y: 41}
+        - {x: -17, y: 35}
+        - {x: -17, y: 14}
+        - {x: -13, y: 0}
+        - {x: 2, y: 0}
+        - {x: 12, y: 3}
+        - {x: 21, y: 14}
+        - {x: 21, y: 45}
+        - {x: 20, y: 49}
+    - name: sprinter_red_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 0}
+        - {x: 14, y: 0}
+        - {x: 17, y: 6}
+        - {x: 17, y: 45}
+        - {x: 10, y: 53}
+        - {x: -7, y: 53}
+        - {x: -17, y: 46}
+        - {x: -17, y: 0}
+        - {x: -3, y: 0}
+        - {x: -1, y: 4}
+        - {x: -1, y: 8}
+        - {x: 1, y: 4}
+    - name: sprinter_red_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 52}
+        - {x: -16, y: 43}
+        - {x: -16, y: 11}
+        - {x: -9, y: 1}
+        - {x: -6, y: 0}
+        - {x: 17, y: 0}
+        - {x: 19, y: 5}
+        - {x: 19, y: 50}
+        - {x: 17, y: 52}
+    - name: sprinter_red_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 45}
+        - {x: -15, y: 41}
+        - {x: -15, y: 0}
+        - {x: 18, y: 0}
+        - {x: 19, y: 1}
+        - {x: 19, y: 30}
+        - {x: 14, y: 45}
+    - name: sprinter_red_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 41}
+        - {x: -14, y: 39}
+        - {x: -15, y: 26}
+        - {x: -15, y: 1}
+        - {x: 19, y: 1}
+        - {x: 19, y: 37}
+        - {x: 11, y: 41}
+    - name: sprinter_red_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 34}
+        - {x: -15, y: 23}
+        - {x: -15, y: 2}
+        - {x: -14, y: 1}
+        - {x: 17, y: 1}
+        - {x: 20, y: 2}
+        - {x: 20, y: 24}
+        - {x: 10, y: 34}
+    - name: sprinter_red_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 38}
+        - {x: -16, y: 0}
+        - {x: 22, y: 0}
+        - {x: 22, y: 35}
+        - {x: 20, y: 38}
     outline: []
   spritePackingTag: 
   userData: 
