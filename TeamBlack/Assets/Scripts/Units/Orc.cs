@@ -9,14 +9,14 @@ public class Orc : DefenseUnits
 	public override void Start () {
         base.Start();
 
-        HP = 25.0f;
-        Att = 25.0f;
+        HP = 15.0f;
+        Att = 15.0f;
         Def = 10.0f;
         MAXHP = HP;
         AttSp = 0.5f;
         mana = 5;
         range = 0.5f;
-        Speed = 100f;
+        Speed = 70f;
         encounterList = new List<Unit>();
     }
 }

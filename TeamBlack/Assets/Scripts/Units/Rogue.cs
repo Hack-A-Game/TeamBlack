@@ -14,7 +14,7 @@ public class Rogue : AttackUnits
         HP = 10.0f;
         MAXHP = HP;
         Def = 2.0f;
-        Speed = 50f;
+        Speed = 100f;
     }
 
     // Update is called once per frame
