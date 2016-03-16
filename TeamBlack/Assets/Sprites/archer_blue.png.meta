@@ -1,9 +1,187 @@
 fileFormatVersion: 2
 guid: 5373d8886dbef1544921d4c133d6cd9b
-timeCreated: 1458111544
+timeCreated: 1458117985
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: archer_blue_0
+    21300002: archer_blue_1
+    21300004: archer_blue_2
+    21300006: archer_blue_3
+    21300008: archer_blue_4
+    21300010: archer_blue_5
+    21300012: archer_blue_6
+    21300014: archer_blue_7
+    21300016: archer_blue_8
+    21300018: archer_blue_9
+    21300020: archer_blue_10
+    21300022: archer_blue_11
+    21300024: archer_blue_12
+    21300026: archer_blue_13
+    21300028: archer_blue_14
+    21300030: archer_blue_15
+    21300032: archer_blue_16
+    21300034: archer_blue_17
+    21300036: archer_blue_18
+    21300038: archer_blue_19
+    21300040: archer_blue_20
+    21300042: archer_blue_21
+    21300044: archer_blue_22
+    21300046: archer_blue_23
+    21300048: archer_blue_24
+    21300050: archer_blue_25
+    21300052: archer_blue_26
+    21300054: archer_blue_27
+    21300056: archer_blue_28
+    21300058: archer_blue_29
+    21300060: archer_blue_30
+    21300062: archer_blue_31
+    21300064: archer_blue_32
+    21300066: archer_blue_33
+    21300068: archer_blue_34
+    21300070: archer_blue_35
+    21300072: archer_blue_36
+    21300074: archer_blue_37
+    21300076: archer_blue_38
+    21300078: archer_blue_39
+    21300080: archer_blue_40
+    21300082: archer_blue_41
+    21300084: archer_blue_42
+    21300086: archer_blue_43
+    21300088: archer_blue_44
+    21300090: archer_blue_45
+    21300092: archer_blue_46
+    21300094: archer_blue_47
+    21300096: archer_blue_48
+    21300098: archer_blue_49
+    21300100: archer_blue_50
+    21300102: archer_blue_51
+    21300104: archer_blue_52
+    21300106: archer_blue_53
+    21300108: archer_blue_54
+    21300110: archer_blue_55
+    21300112: archer_blue_56
+    21300114: archer_blue_57
+    21300116: archer_blue_58
+    21300118: archer_blue_59
+    21300120: archer_blue_60
+    21300122: archer_blue_61
+    21300124: archer_blue_62
+    21300126: archer_blue_63
+    21300128: archer_blue_64
+    21300130: archer_blue_65
+    21300132: archer_blue_66
+    21300134: archer_blue_67
+    21300136: archer_blue_68
+    21300138: archer_blue_69
+    21300140: archer_blue_70
+    21300142: archer_blue_71
+    21300144: archer_blue_72
+    21300146: archer_blue_73
+    21300148: archer_blue_74
+    21300150: archer_blue_75
+    21300152: archer_blue_76
+    21300154: archer_blue_77
+    21300156: archer_blue_78
+    21300158: archer_blue_79
+    21300160: archer_blue_80
+    21300162: archer_blue_81
+    21300164: archer_blue_82
+    21300166: archer_blue_83
+    21300168: archer_blue_84
+    21300170: archer_blue_85
+    21300172: archer_blue_86
+    21300174: archer_blue_87
+    21300176: archer_blue_88
+    21300178: archer_blue_89
+    21300180: archer_blue_90
+    21300182: archer_blue_91
+    21300184: archer_blue_92
+    21300186: archer_blue_93
+    21300188: archer_blue_94
+    21300190: archer_blue_95
+    21300192: archer_blue_96
+    21300194: archer_blue_97
+    21300196: archer_blue_98
+    21300198: archer_blue_99
+    21300200: archer_blue_100
+    21300202: archer_blue_101
+    21300204: archer_blue_102
+    21300206: archer_blue_103
+    21300208: archer_blue_104
+    21300210: archer_blue_105
+    21300212: archer_blue_106
+    21300214: archer_blue_107
+    21300216: archer_blue_108
+    21300218: archer_blue_109
+    21300220: archer_blue_110
+    21300222: archer_blue_111
+    21300224: archer_blue_112
+    21300226: archer_blue_113
+    21300228: archer_blue_114
+    21300230: archer_blue_115
+    21300232: archer_blue_116
+    21300234: archer_blue_117
+    21300236: archer_blue_118
+    21300238: archer_blue_119
+    21300240: archer_blue_120
+    21300242: archer_blue_121
+    21300244: archer_blue_122
+    21300246: archer_blue_123
+    21300248: archer_blue_124
+    21300250: archer_blue_125
+    21300252: archer_blue_126
+    21300254: archer_blue_127
+    21300256: archer_blue_128
+    21300258: archer_blue_129
+    21300260: archer_blue_130
+    21300262: archer_blue_131
+    21300264: archer_blue_132
+    21300266: archer_blue_133
+    21300268: archer_blue_134
+    21300270: archer_blue_135
+    21300272: archer_blue_136
+    21300274: archer_blue_137
+    21300276: archer_blue_138
+    21300278: archer_blue_139
+    21300280: archer_blue_140
+    21300282: archer_blue_141
+    21300284: archer_blue_142
+    21300286: archer_blue_143
+    21300288: archer_blue_144
+    21300290: archer_blue_145
+    21300292: archer_blue_146
+    21300294: archer_blue_147
+    21300296: archer_blue_148
+    21300298: archer_blue_149
+    21300300: archer_blue_150
+    21300302: archer_blue_151
+    21300304: archer_blue_152
+    21300306: archer_blue_153
+    21300308: archer_blue_154
+    21300310: archer_blue_155
+    21300312: archer_blue_156
+    21300314: archer_blue_157
+    21300316: archer_blue_158
+    21300318: archer_blue_159
+    21300320: archer_blue_160
+    21300322: archer_blue_161
+    21300324: archer_blue_162
+    21300326: archer_blue_163
+    21300328: archer_blue_164
+    21300330: archer_blue_165
+    21300332: archer_blue_166
+    21300334: archer_blue_167
+    21300336: archer_blue_168
+    21300338: archer_blue_169
+    21300340: archer_blue_170
+    21300342: archer_blue_171
+    21300344: archer_blue_172
+    21300346: archer_blue_173
+    21300348: archer_blue_174
+    21300350: archer_blue_175
+    21300352: archer_blue_176
+    21300354: archer_blue_177
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +208,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +216,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +227,3068 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: archer_blue_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1282
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 50}
+        - {x: -16, y: 33}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 45}
+        - {x: 9, y: 50}
+    - name: archer_blue_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1282
+        width: 31
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1282
+        width: 31
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 50}
+        - {x: -18, y: 36}
+        - {x: -18, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 41}
+        - {x: 13, y: 50}
+    - name: archer_blue_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 50}
+        - {x: -9, y: 50}
+        - {x: -25, y: 42}
+        - {x: -25, y: 0}
+        - {x: 24, y: 0}
+        - {x: 25, y: 7}
+        - {x: 25, y: 44}
+    - name: archer_blue_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 50}
+        - {x: -24, y: 0}
+        - {x: 24, y: 0}
+        - {x: 24, y: 48}
+        - {x: 22, y: 50}
+    - name: archer_blue_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 50}
+        - {x: -18, y: 36}
+        - {x: -18, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 41}
+        - {x: 13, y: 50}
+    - name: archer_blue_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1218
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 51}
+        - {x: -17.5, y: 47}
+        - {x: -19.5, y: 45}
+        - {x: -19.5, y: 11}
+        - {x: -17.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 19.5, y: 32}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1218
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 51}
+        - {x: -17.5, y: 47}
+        - {x: -19.5, y: 45}
+        - {x: -19.5, y: 10}
+        - {x: -17.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 16.5, y: 23}
+        - {x: 19.5, y: 36}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1218
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 51}
+        - {x: -17.5, y: 47}
+        - {x: -19.5, y: 45}
+        - {x: -19.5, y: 10}
+        - {x: -17.5, y: 0}
+        - {x: 15.5, y: 0}
+        - {x: 19.5, y: 13}
+        - {x: 19.5, y: 50}
+        - {x: 14.5, y: 51}
+    - name: archer_blue_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1218
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 51}
+        - {x: -19.5, y: 8}
+        - {x: -12.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 18.5, y: 18}
+        - {x: 19.5, y: 25}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1218
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 51}
+        - {x: -19.5, y: 8}
+        - {x: -12.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 19.5, y: 16}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1218
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 51}
+        - {x: -19.5, y: 49}
+        - {x: -19.5, y: 11}
+        - {x: -12.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 19.5, y: 20}
+        - {x: 19.5, y: 50}
+        - {x: 12.5, y: 51}
+    - name: archer_blue_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1218
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 51}
+        - {x: -17.5, y: 47}
+        - {x: -19.5, y: 45}
+        - {x: -19.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 18.5, y: 25}
+        - {x: 19.5, y: 30}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1154
+        width: 34
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 47}
+        - {x: 0, y: 54}
+        - {x: -9, y: 56}
+        - {x: -17, y: 56}
+        - {x: -17, y: 0}
+        - {x: 16, y: 0}
+        - {x: 17, y: 4}
+        - {x: 17, y: 35}
+    - name: archer_blue_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1154
+        width: 34
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 56}
+        - {x: -17, y: 56}
+        - {x: -17, y: 2}
+        - {x: -16, y: 0}
+        - {x: 15, y: 0}
+        - {x: 17, y: 2}
+        - {x: 17, y: 44}
+        - {x: 13, y: 54}
+    - name: archer_blue_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1154
+        width: 33
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 1}
+        - {x: 16.5, y: 43}
+        - {x: 9.5, y: 56}
+        - {x: -16.5, y: 56}
+        - {x: -16.5, y: 0}
+        - {x: 14.5, y: 0}
+    - name: archer_blue_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1154
+        width: 37
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 56}
+        - {x: -18.5, y: 52}
+        - {x: -18.5, y: 4}
+        - {x: -16.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 18.5, y: 53}
+        - {x: 12.5, y: 56}
+    - name: archer_blue_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1154
+        width: 50
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 56}
+        - {x: -17, y: 56}
+        - {x: -23, y: 53}
+        - {x: -25, y: 44}
+        - {x: -25, y: 8}
+        - {x: -20, y: 0}
+        - {x: 20, y: 0}
+        - {x: 25, y: 18}
+        - {x: 25, y: 41}
+        - {x: 13, y: 52}
+    - name: archer_blue_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1154
+        width: 48
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 56}
+        - {x: -20, y: 56}
+        - {x: -24, y: 46}
+        - {x: -24, y: 23}
+        - {x: -17, y: 0}
+        - {x: 19, y: 0}
+        - {x: 24, y: 22}
+        - {x: 24, y: 44}
+        - {x: 14, y: 54}
+    - name: archer_blue_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1154
+        width: 36
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 56}
+        - {x: -18, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 47}
+        - {x: 13, y: 56}
+    - name: archer_blue_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1090
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 51}
+        - {x: -19.5, y: 34}
+        - {x: -11.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 19.5, y: 4}
+        - {x: 19.5, y: 49}
+        - {x: 14.5, y: 51}
+    - name: archer_blue_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1090
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 51}
+        - {x: -19.5, y: 51}
+        - {x: -19.5, y: 28}
+        - {x: -13.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 15.5, y: 1}
+        - {x: 19.5, y: 6}
+        - {x: 19.5, y: 49}
+    - name: archer_blue_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1090
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 51}
+        - {x: -19.5, y: 28}
+        - {x: -14.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 50}
+        - {x: 15.5, y: 51}
+    - name: archer_blue_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1090
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 51}
+        - {x: -19.5, y: 51}
+        - {x: -19.5, y: 11}
+        - {x: -9.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 19.5, y: 3}
+        - {x: 19.5, y: 50}
+    - name: archer_blue_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1090
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 51}
+        - {x: -19.5, y: 51}
+        - {x: -19.5, y: 21}
+        - {x: -10.5, y: 1}
+        - {x: -8.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 15.5, y: 1}
+        - {x: 19.5, y: 11}
+        - {x: 19.5, y: 48}
+    - name: archer_blue_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1090
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 45}
+        - {x: 10.5, y: 51}
+        - {x: -19.5, y: 51}
+        - {x: -19.5, y: 15}
+        - {x: -16.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 15.5, y: 1}
+        - {x: 19.5, y: 13}
+        - {x: 19.5, y: 37}
+    - name: archer_blue_27
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1090
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 51}
+        - {x: -19.5, y: 50}
+        - {x: -19.5, y: 42}
+        - {x: -15.5, y: 36}
+        - {x: -19.5, y: 28}
+        - {x: -19.5, y: 8}
+        - {x: -11.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1026
+        width: 31
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1024
+        width: 29
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1024
+        width: 27
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1024
+        width: 27
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_32
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1024
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_33
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1024
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_34
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1024
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_35
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1024
+        width: 27
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 962
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 51}
+        - {x: -19.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 19.5, y: 32}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 962
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 51}
+        - {x: -19.5, y: 47}
+        - {x: -19.5, y: 11}
+        - {x: -17.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 19.5, y: 40}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 962
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 51}
+        - {x: -19.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 19.5, y: 9}
+        - {x: 19.5, y: 50}
+        - {x: 14.5, y: 51}
+    - name: archer_blue_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 962
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 51}
+        - {x: -13.5, y: 51}
+        - {x: -19.5, y: 49}
+        - {x: -19.5, y: 9}
+        - {x: -14.5, y: 1}
+        - {x: -11.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 16.5, y: 23}
+        - {x: 19.5, y: 40}
+        - {x: 19.5, y: 50}
+    - name: archer_blue_40
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 962
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 35}
+        - {x: 19.5, y: 41}
+        - {x: 19.5, y: 51}
+        - {x: -12.5, y: 51}
+        - {x: -19.5, y: 45}
+        - {x: -19.5, y: 13}
+        - {x: -11.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 11.5, y: 4}
+        - {x: 9.5, y: 9}
+    - name: archer_blue_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 40
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 51}
+        - {x: -20, y: 45}
+        - {x: -20, y: 11}
+        - {x: -15, y: 0}
+        - {x: 14, y: 0}
+        - {x: 20, y: 35}
+        - {x: 20, y: 51}
+    - name: archer_blue_42
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 962
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 35}
+        - {x: 19.5, y: 41}
+        - {x: 19.5, y: 51}
+        - {x: -12.5, y: 51}
+        - {x: -19.5, y: 45}
+        - {x: -19.5, y: 13}
+        - {x: -11.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 11.5, y: 4}
+        - {x: 9.5, y: 9}
+    - name: archer_blue_43
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 962
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 51}
+        - {x: -13.5, y: 51}
+        - {x: -19.5, y: 49}
+        - {x: -19.5, y: 4}
+        - {x: -14.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 9.5, y: 1}
+        - {x: 15.5, y: 23}
+        - {x: 19.5, y: 40}
+    - name: archer_blue_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 898
+        width: 34
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 56}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 53}
+        - {x: -3, y: 56}
+    - name: archer_blue_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 899
+        width: 32
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 55}
+        - {x: -16, y: 55}
+        - {x: -16, y: 5}
+        - {x: -14, y: 0}
+        - {x: 13, y: 0}
+        - {x: 16, y: 4}
+        - {x: 16, y: 36}
+        - {x: 11, y: 50}
+    - name: archer_blue_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 899
+        width: 32
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 53}
+        - {x: -5, y: 55}
+        - {x: -16, y: 55}
+        - {x: -16, y: 0}
+        - {x: 11, y: 0}
+        - {x: 16, y: 13}
+        - {x: 16, y: 38}
+        - {x: 15, y: 45}
+    - name: archer_blue_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 32
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 54}
+        - {x: -4, y: 55}
+        - {x: -16, y: 55}
+        - {x: -16, y: 1}
+        - {x: -14, y: 0}
+        - {x: 13, y: 0}
+        - {x: 16, y: 12}
+        - {x: 16, y: 46}
+    - name: archer_blue_48
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 899
+        width: 32
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 54}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 47}
+        - {x: 12, y: 54}
+    - name: archer_blue_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 899
+        width: 32
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 54}
+        - {x: -16, y: 1}
+        - {x: -13, y: 0}
+        - {x: 14, y: 0}
+        - {x: 16, y: 1}
+        - {x: 16, y: 46}
+        - {x: 11, y: 54}
+    - name: archer_blue_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 899
+        width: 32
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 54}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 47}
+        - {x: 12, y: 54}
+    - name: archer_blue_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 32
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 55}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 50}
+        - {x: 3, y: 55}
+    - name: archer_blue_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 834
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 51}
+        - {x: -19.5, y: 50}
+        - {x: -19.5, y: 36}
+        - {x: -7.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_53
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 834
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 51}
+        - {x: -19.5, y: 35}
+        - {x: -13.5, y: 17}
+        - {x: -7.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 19.5, y: 7}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_54
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 834
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 51}
+        - {x: -19.5, y: 9}
+        - {x: -9.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 834
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 51}
+        - {x: -19.5, y: 30}
+        - {x: -14.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 19.5, y: 7}
+        - {x: 19.5, y: 49}
+        - {x: 12.5, y: 51}
+    - name: archer_blue_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 834
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 51}
+        - {x: -19.5, y: 13}
+        - {x: -17.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_57
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 834
+        width: 40
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 51}
+        - {x: -14, y: 51}
+        - {x: -20, y: 50}
+        - {x: -20, y: 33}
+        - {x: -12, y: 0}
+        - {x: 13, y: 0}
+        - {x: 20, y: 11}
+        - {x: 20, y: 45}
+    - name: archer_blue_58
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 834
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 51}
+        - {x: -19.5, y: 13}
+        - {x: -17.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_59
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 834
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 51}
+        - {x: -19.5, y: 31}
+        - {x: -12.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 19.5, y: 8}
+        - {x: 19.5, y: 49}
+        - {x: 12.5, y: 51}
+    - name: archer_blue_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 771
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 50}
+        - {x: -16, y: 33}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 45}
+        - {x: 9, y: 50}
+    - name: archer_blue_61
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 771
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 50}
+        - {x: -8, y: 49}
+        - {x: -15, y: 38}
+        - {x: -16, y: 25}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 49}
+        - {x: 14, y: 50}
+    - name: archer_blue_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 770
+        width: 32
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 51}
+        - {x: -16, y: 46}
+        - {x: -16, y: 3}
+        - {x: -9, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 50}
+        - {x: 15, y: 51}
+    - name: archer_blue_63
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 769
+        width: 31
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 770
+        width: 32
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 51}
+        - {x: -16, y: 46}
+        - {x: -16, y: 3}
+        - {x: -8, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 51}
+    - name: archer_blue_65
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 771
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 50}
+        - {x: -14, y: 50}
+        - {x: -16, y: 36}
+        - {x: -16, y: 0}
+        - {x: 15, y: 0}
+        - {x: 16, y: 1}
+        - {x: 16, y: 42}
+        - {x: 15, y: 45}
+    - name: archer_blue_66
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 770
+        width: 32
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 51}
+        - {x: -16, y: 31}
+        - {x: -16, y: 3}
+        - {x: -12, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 41}
+        - {x: 12, y: 51}
+    - name: archer_blue_67
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 769
+        width: 32
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 29}
+        - {x: -16, y: 0}
+        - {x: 9, y: 0}
+        - {x: 16, y: 3}
+        - {x: 16, y: 46}
+        - {x: 7, y: 51}
+        - {x: -7, y: 51}
+        - {x: -14, y: 44}
+    - name: archer_blue_68
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 770
+        width: 32
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 51}
+        - {x: -16, y: 38}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 47}
+        - {x: 9, y: 51}
+    - name: archer_blue_69
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 706
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 51}
+        - {x: -17.5, y: 47}
+        - {x: -19.5, y: 41}
+        - {x: -19.5, y: 14}
+        - {x: -12.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 19.5, y: 26}
+        - {x: 19.5, y: 50}
+        - {x: 14.5, y: 51}
+    - name: archer_blue_70
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 706
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 50}
+        - {x: -19.5, y: 46}
+        - {x: -19.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 17.5, y: 7}
+        - {x: 19.5, y: 27}
+        - {x: 19.5, y: 50}
+    - name: archer_blue_71
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 707
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 50}
+        - {x: -19.5, y: 49}
+        - {x: -19.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 19.5, y: 40}
+        - {x: 19.5, y: 50}
+    - name: archer_blue_72
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 707
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 50}
+        - {x: -19.5, y: 46}
+        - {x: -19.5, y: 2}
+        - {x: -17.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 19.5, y: 30}
+        - {x: 19.5, y: 50}
+    - name: archer_blue_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 706
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 51}
+        - {x: -19.5, y: 46}
+        - {x: -19.5, y: 13}
+        - {x: -14.5, y: 2}
+        - {x: -12.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 19.5, y: 5}
+        - {x: 19.5, y: 50}
+        - {x: 14.5, y: 51}
+    - name: archer_blue_74
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 706
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 50}
+        - {x: -19.5, y: 45}
+        - {x: -19.5, y: 11}
+        - {x: -14.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 18.5, y: 11}
+        - {x: 19.5, y: 24}
+        - {x: 19.5, y: 50}
+    - name: archer_blue_75
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 706
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 51}
+        - {x: -19.5, y: 47}
+        - {x: -19.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 11.5, y: 1}
+        - {x: 19.5, y: 27}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_76
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 706
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 51}
+        - {x: -19.5, y: 50}
+        - {x: -19.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 19.5, y: 32}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_77
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 706
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 51}
+        - {x: -19.5, y: 46}
+        - {x: -19.5, y: 13}
+        - {x: -13.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 11.5, y: 17}
+        - {x: 19.5, y: 39}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 642
+        width: 34
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 54}
+        - {x: -9, y: 56}
+        - {x: -17, y: 56}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 43}
+        - {x: 15, y: 47}
+    - name: archer_blue_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 34
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 47}
+        - {x: 0, y: 54}
+        - {x: -9, y: 56}
+        - {x: -17, y: 56}
+        - {x: -17, y: 9}
+        - {x: -14, y: 0}
+        - {x: 12, y: 0}
+        - {x: 17, y: 8}
+        - {x: 17, y: 35}
+    - name: archer_blue_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 34
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 54}
+        - {x: -2, y: 57}
+        - {x: -17, y: 57}
+        - {x: -17, y: 7}
+        - {x: -15, y: 0}
+        - {x: 11, y: 0}
+        - {x: 17, y: 10}
+        - {x: 17, y: 36}
+        - {x: 15, y: 47}
+    - name: archer_blue_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 641
+        width: 33
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 56}
+        - {x: -16.5, y: 56}
+        - {x: -16.5, y: 5}
+        - {x: -14.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 16.5, y: 10}
+        - {x: 16.5, y: 29}
+        - {x: 11.5, y: 53}
+    - name: archer_blue_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 34
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 57}
+        - {x: -17, y: 0}
+        - {x: 15, y: 0}
+        - {x: 17, y: 1}
+        - {x: 17, y: 48}
+        - {x: 12, y: 57}
+    - name: archer_blue_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 642
+        width: 34
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 54}
+        - {x: -9, y: 56}
+        - {x: -17, y: 56}
+        - {x: -17, y: 3}
+        - {x: -16, y: 0}
+        - {x: 11, y: 0}
+        - {x: 17, y: 9}
+        - {x: 17, y: 35}
+        - {x: 15, y: 47}
+    - name: archer_blue_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 34
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 57}
+        - {x: -17, y: 3}
+        - {x: -15, y: 0}
+        - {x: 10, y: 0}
+        - {x: 17, y: 3}
+        - {x: 17, y: 45}
+        - {x: 11, y: 57}
+    - name: archer_blue_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 34
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 52}
+        - {x: -8, y: 56}
+        - {x: -17, y: 56}
+        - {x: -17, y: 10}
+        - {x: -15, y: 0}
+        - {x: 10, y: 0}
+        - {x: 17, y: 11}
+        - {x: 17, y: 31}
+        - {x: 16, y: 37}
+    - name: archer_blue_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 34
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 57}
+        - {x: -17, y: 10}
+        - {x: -15, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 56}
+        - {x: 3, y: 57}
+    - name: archer_blue_87
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 578
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 51}
+        - {x: -19.5, y: 34}
+        - {x: -11.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 19.5, y: 4}
+        - {x: 19.5, y: 49}
+        - {x: 14.5, y: 51}
+    - name: archer_blue_88
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 578
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 50}
+        - {x: -19.5, y: 49}
+        - {x: -19.5, y: 31}
+        - {x: -14.5, y: 1}
+        - {x: -12.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 19.5, y: 2}
+        - {x: 19.5, y: 50}
+    - name: archer_blue_89
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 579
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 50}
+        - {x: -19.5, y: 33}
+        - {x: -11.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 19.5, y: 2}
+        - {x: 19.5, y: 48}
+        - {x: 13.5, y: 50}
+    - name: archer_blue_90
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 579
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 50}
+        - {x: -19.5, y: 49}
+        - {x: -19.5, y: 34}
+        - {x: -14.5, y: 10}
+        - {x: -7.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 19.5, y: 13}
+        - {x: 19.5, y: 44}
+        - {x: 9.5, y: 50}
+    - name: archer_blue_91
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 578
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 47}
+        - {x: 17.5, y: 51}
+        - {x: -19.5, y: 51}
+        - {x: -19.5, y: 7}
+        - {x: -8.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 13.5, y: 3}
+        - {x: 13.5, y: 6}
+        - {x: 19.5, y: 15}
+    - name: archer_blue_92
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 578
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 50}
+        - {x: -19.5, y: 28}
+        - {x: -17.5, y: 11}
+        - {x: -5.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 19.5, y: 2}
+        - {x: 19.5, y: 48}
+        - {x: 13.5, y: 50}
+    - name: archer_blue_93
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 578
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 51}
+        - {x: -19.5, y: 51}
+        - {x: -19.5, y: 21}
+        - {x: -18.5, y: 10}
+        - {x: -6.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 19.5, y: 5}
+        - {x: 19.5, y: 46}
+    - name: archer_blue_94
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 578
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 51}
+        - {x: -19.5, y: 50}
+        - {x: -19.5, y: 40}
+        - {x: -14.5, y: 15}
+        - {x: -5.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 19.5, y: 15}
+        - {x: 19.5, y: 45}
+        - {x: 9.5, y: 51}
+    - name: archer_blue_95
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 578
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 51}
+        - {x: -19.5, y: 12}
+        - {x: -6.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 19.5, y: 9}
+        - {x: 19.5, y: 46}
+        - {x: 15.5, y: 51}
+    - name: archer_blue_96
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 514
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 50}
+        - {x: -16, y: 33}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 45}
+        - {x: 9, y: 50}
+    - name: archer_blue_97
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 513
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_98
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 513
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_99
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 513
+        width: 31
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_100
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 513
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 51}
+        - {x: -19, y: 47}
+        - {x: -19, y: 0}
+        - {x: 19, y: 0}
+        - {x: 19, y: 40}
+        - {x: 12, y: 51}
+    - name: archer_blue_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 513
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 40}
+        - {x: 7.5, y: 51}
+        - {x: -16.5, y: 51}
+        - {x: -20.5, y: 46}
+        - {x: -20.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 20.5, y: 19}
+    - name: archer_blue_102
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 450
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 51}
+        - {x: -17.5, y: 47}
+        - {x: -19.5, y: 45}
+        - {x: -19.5, y: 11}
+        - {x: -17.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 19.5, y: 32}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_103
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 450
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 49}
+        - {x: -19.5, y: 44}
+        - {x: -19.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 19.5, y: 19}
+        - {x: 19.5, y: 49}
+    - name: archer_blue_104
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 450
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 51}
+        - {x: -17.5, y: 47}
+        - {x: -19.5, y: 41}
+        - {x: -19.5, y: 5}
+        - {x: -18.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 450
+        width: 40
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -18, y: 48}
+        - {x: -20, y: 37}
+        - {x: -20, y: 8}
+        - {x: -15, y: 0}
+        - {x: 16, y: 0}
+        - {x: 20, y: 8}
+        - {x: 20, y: 51}
+    - name: archer_blue_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 51}
+        - {x: -21, y: 50}
+        - {x: -21, y: 9}
+        - {x: -14, y: 0}
+        - {x: 20, y: 0}
+        - {x: 21, y: 5}
+        - {x: 21, y: 51}
+    - name: archer_blue_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 450
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 51}
+        - {x: -19.5, y: 50}
+        - {x: -19.5, y: 8}
+        - {x: -12.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 19.5, y: 6}
+        - {x: 19.5, y: 51}
+    - name: archer_blue_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 386
+        width: 35
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 40}
+        - {x: 16.5, y: 48}
+        - {x: -2.5, y: 56}
+        - {x: -17.5, y: 56}
+        - {x: -17.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 11.5, y: 4}
+        - {x: 17.5, y: 14}
+    - name: archer_blue_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 386
+        width: 34
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 1}
+        - {x: 17, y: 8}
+        - {x: 17, y: 31}
+        - {x: 13, y: 46}
+        - {x: 0, y: 55}
+        - {x: -5, y: 56}
+        - {x: -17, y: 56}
+        - {x: -17, y: 0}
+        - {x: 11, y: 0}
+    - name: archer_blue_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 386
+        width: 34
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 54}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 51}
+        - {x: 0, y: 54}
+    - name: archer_blue_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 386
+        width: 34
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 55}
+        - {x: -17, y: 55}
+        - {x: -17, y: 0}
+        - {x: 13, y: 0}
+        - {x: 17, y: 4}
+        - {x: 17, y: 37}
+        - {x: 13, y: 45}
+    - name: archer_blue_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 386
+        width: 35
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 31}
+        - {x: 10.5, y: 51}
+        - {x: -4.5, y: 56}
+        - {x: -17.5, y: 56}
+        - {x: -17.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 17.5, y: 13}
+    - name: archer_blue_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 386
+        width: 39
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 56}
+        - {x: -19.5, y: 56}
+        - {x: -19.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 19.5, y: 7}
+        - {x: 19.5, y: 45}
+        - {x: 17.5, y: 51}
+    - name: archer_blue_114
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 322
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 51}
+        - {x: -19.5, y: 34}
+        - {x: -11.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 19.5, y: 4}
+        - {x: 19.5, y: 49}
+        - {x: 14.5, y: 51}
+    - name: archer_blue_115
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 322
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 49}
+        - {x: -19.5, y: 48}
+        - {x: -19.5, y: 27}
+        - {x: -12.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 19.5, y: 1}
+        - {x: 19.5, y: 43}
+        - {x: 9.5, y: 49}
+    - name: archer_blue_116
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 322
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 51}
+        - {x: -19.5, y: 50}
+        - {x: -19.5, y: 30}
+        - {x: -13.5, y: 0}
+        - {x: 15.5, y: 0}
+        - {x: 19.5, y: 6}
+        - {x: 19.5, y: 49}
+        - {x: 12.5, y: 51}
+    - name: archer_blue_117
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 322
+        width: 40
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 51}
+        - {x: -14, y: 51}
+        - {x: -20, y: 50}
+        - {x: -20, y: 21}
+        - {x: -15, y: 0}
+        - {x: 16, y: 0}
+        - {x: 20, y: 3}
+        - {x: 20, y: 45}
+    - name: archer_blue_118
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 322
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 51}
+        - {x: -21, y: 0}
+        - {x: 11, y: 0}
+        - {x: 21, y: 14}
+        - {x: 21, y: 49}
+        - {x: 12, y: 51}
+    - name: archer_blue_119
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 322
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 51}
+        - {x: -19.5, y: 6}
+        - {x: -12.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 19.5, y: 11}
+        - {x: 19.5, y: 47}
+        - {x: 10.5, y: 51}
+    - name: archer_blue_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 43
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 51}
+        - {x: -21.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 21.5, y: 31}
+        - {x: 8.5, y: 51}
+    - name: archer_blue_121
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 50}
+        - {x: -19.5, y: 47}
+        - {x: -19.5, y: 9}
+        - {x: -11.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 50}
+    - name: archer_blue_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 256
+        width: 37
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 51}
+        - {x: -18.5, y: 3}
+        - {x: -9.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 18.5, y: 9}
+        - {x: 18.5, y: 36}
+        - {x: 13.5, y: 51}
+    - name: archer_blue_123
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 256
+        width: 27
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_124
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 256
+        width: 32
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 55}
+        - {x: -9, y: 55}
+        - {x: -16, y: 41}
+        - {x: -16, y: 5}
+        - {x: -13, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 46}
+        - {x: 15, y: 50}
+    - name: archer_blue_125
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 256
+        width: 30
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_126
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 256
+        width: 31
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_127
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 256
+        width: 32
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 60}
+        - {x: -16, y: 52}
+        - {x: -16, y: 5}
+        - {x: -5, y: 0}
+        - {x: 15, y: 0}
+        - {x: 16, y: 2}
+        - {x: 16, y: 52}
+        - {x: 8, y: 60}
+    - name: archer_blue_128
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 256
+        width: 33
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 57}
+        - {x: -16.5, y: 35}
+        - {x: -16.5, y: 3}
+        - {x: -6.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 16.5, y: 16}
+        - {x: 16.5, y: 40}
+        - {x: 11.5, y: 57}
+    - name: archer_blue_129
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 256
+        width: 32
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 60}
+        - {x: -14, y: 60}
+        - {x: -16, y: 53}
+        - {x: -16, y: 5}
+        - {x: -5, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 40}
+        - {x: 11, y: 55}
+    - name: archer_blue_130
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 256
+        width: 27
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_131
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 256
+        width: 27
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_132
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 256
+        width: 27
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 194
+        width: 48
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -24, y: 41}
+        - {x: -24, y: 17}
+        - {x: -16, y: 0}
+        - {x: 11, y: 0}
+        - {x: 24, y: 15}
+        - {x: 24, y: 51}
+    - name: archer_blue_134
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 194
+        width: 43
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 51}
+        - {x: -17.5, y: 49}
+        - {x: -16.5, y: 41}
+        - {x: -15.5, y: 38}
+        - {x: -15.5, y: 39}
+        - {x: -18.5, y: 42}
+        - {x: -21.5, y: 43}
+        - {x: -21.5, y: 11}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 20.5, y: 17}
+        - {x: 21.5, y: 23}
+        - {x: 21.5, y: 51}
+    - name: archer_blue_135
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 194
+        width: 47
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 51}
+        - {x: -23.5, y: 49}
+        - {x: -23.5, y: 7}
+        - {x: -11.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 23.5, y: 12}
+        - {x: 23.5, y: 51}
+    - name: archer_blue_136
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 194
+        width: 46
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 51}
+        - {x: -2, y: 51}
+        - {x: -16, y: 45}
+        - {x: -23, y: 26}
+        - {x: -23, y: 12}
+        - {x: -10, y: 0}
+        - {x: 13, y: 0}
+        - {x: 21, y: 18}
+        - {x: 23, y: 26}
+        - {x: 23, y: 49}
+    - name: archer_blue_137
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 194
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 51}
+        - {x: -21, y: 38}
+        - {x: -25, y: 28}
+        - {x: -25, y: 16}
+        - {x: -14, y: 0}
+        - {x: 21, y: 0}
+        - {x: 25, y: 32}
+        - {x: 25, y: 50}
+        - {x: 21, y: 51}
+    - name: archer_blue_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 194
+        width: 55
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 53}
+        - {x: -10.5, y: 53}
+        - {x: -27.5, y: 42}
+        - {x: -27.5, y: 22}
+        - {x: -13.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 20.5, y: 4}
+        - {x: 27.5, y: 33}
+        - {x: 27.5, y: 52}
+    - name: archer_blue_139
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 194
+        width: 54
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 55}
+        - {x: -27, y: 36}
+        - {x: -27, y: 30}
+        - {x: -25, y: 28}
+        - {x: -8, y: 0}
+        - {x: 20, y: 0}
+        - {x: 27, y: 31}
+        - {x: 27, y: 51}
+        - {x: 12, y: 55}
+    - name: archer_blue_140
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 194
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 53}
+        - {x: -25.5, y: 43}
+        - {x: -25.5, y: 23}
+        - {x: -13.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 25.5, y: 34}
+        - {x: 25.5, y: 52}
+        - {x: 20.5, y: 53}
+    - name: archer_blue_141
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 194
+        width: 48
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 51}
+        - {x: -24, y: 37}
+        - {x: -24, y: 25}
+        - {x: -9, y: 2}
+        - {x: -7, y: 0}
+        - {x: 14, y: 0}
+        - {x: 16, y: 5}
+        - {x: 24, y: 27}
+        - {x: 24, y: 51}
+    - name: archer_blue_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -21, y: 46}
+        - {x: -21, y: 13}
+        - {x: -17, y: 0}
+        - {x: 13, y: 0}
+        - {x: 21, y: 37}
+        - {x: 21, y: 49}
+        - {x: 13, y: 51}
+    - name: archer_blue_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 194
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -21, y: 46}
+        - {x: -21, y: 12}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 21, y: 20}
+        - {x: 21, y: 51}
+    - name: archer_blue_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 194
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 51}
+        - {x: -21, y: 47}
+        - {x: -21, y: 12}
+        - {x: -17, y: 0}
+        - {x: 14, y: 0}
+        - {x: 21, y: 36}
+        - {x: 21, y: 51}
+    - name: archer_blue_145
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 194
+        width: 47
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 51}
+        - {x: -8.5, y: 51}
+        - {x: -10.5, y: 49}
+        - {x: -17.5, y: 44}
+        - {x: -22.5, y: 29}
+        - {x: -23.5, y: 27}
+        - {x: -23.5, y: 15}
+        - {x: -8.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 23.5, y: 18}
+        - {x: 23.5, y: 49}
+    - name: archer_blue_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 130
+        width: 39
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 48}
+        - {x: -2.5, y: 56}
+        - {x: -19.5, y: 56}
+        - {x: -19.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 19.5, y: 7}
+        - {x: 19.5, y: 37}
+    - name: archer_blue_147
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 131
+        width: 37
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 55}
+        - {x: -18.5, y: 55}
+        - {x: -18.5, y: 7}
+        - {x: -12.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 18.5, y: 5}
+        - {x: 18.5, y: 46}
+        - {x: 16.5, y: 54}
+    - name: archer_blue_148
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 131
+        width: 36
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 55}
+        - {x: -18, y: 55}
+        - {x: -18, y: 1}
+        - {x: -14, y: 0}
+        - {x: 11, y: 0}
+        - {x: 18, y: 9}
+        - {x: 18, y: 43}
+        - {x: 5, y: 53}
+    - name: archer_blue_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 30
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_150
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 128
+        width: 30
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_151
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 130
+        width: 30
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_152
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 130
+        width: 30
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 130
+        width: 30
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 130
+        width: 30
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_155
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 128
+        width: 30
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 128
+        width: 30
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_157
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 128
+        width: 30
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 128
+        width: 30
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: archer_blue_159
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 66
+        width: 48
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 51}
+        - {x: -24, y: 50}
+        - {x: -24, y: 11}
+        - {x: -20, y: 0}
+        - {x: 16, y: 0}
+        - {x: 24, y: 17}
+        - {x: 24, y: 45}
+        - {x: 14, y: 51}
+    - name: archer_blue_160
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 66
+        width: 43
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 39}
+        - {x: 15.5, y: 38}
+        - {x: 16.5, y: 41}
+        - {x: 21.5, y: 46}
+        - {x: 21.5, y: 47}
+        - {x: 9.5, y: 51}
+        - {x: -21.5, y: 51}
+        - {x: -21.5, y: 8}
+        - {x: -17.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 21.5, y: 16}
+        - {x: 21.5, y: 44}
+        - {x: 18.5, y: 42}
+    - name: archer_blue_161
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 66
+        width: 47
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 51}
+        - {x: -23.5, y: 32}
+        - {x: -20.5, y: 16}
+        - {x: -11.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 23.5, y: 12}
+        - {x: 23.5, y: 44}
+        - {x: 9.5, y: 51}
+    - name: archer_blue_162
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 66
+        width: 46
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 51}
+        - {x: -15, y: 51}
+        - {x: -23, y: 49}
+        - {x: -23, y: 42}
+        - {x: -19, y: 36}
+        - {x: -19, y: 18}
+        - {x: -13, y: 1}
+        - {x: -13, y: 0}
+        - {x: 11, y: 0}
+        - {x: 23, y: 12}
+        - {x: 23, y: 29}
+        - {x: 18, y: 47}
+    - name: archer_blue_163
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 66
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 51}
+        - {x: -25, y: 51}
+        - {x: -25, y: 15}
+        - {x: -21, y: 0}
+        - {x: 12, y: 0}
+        - {x: 25, y: 19}
+        - {x: 25, y: 35}
+    - name: archer_blue_164
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 66
+        width: 55
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 53}
+        - {x: -27.5, y: 20}
+        - {x: -23.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 27.5, y: 24}
+        - {x: 27.5, y: 39}
+        - {x: 9.5, y: 53}
+    - name: archer_blue_165
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 66
+        width: 54
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 55}
+        - {x: -27, y: 16}
+        - {x: -24, y: 0}
+        - {x: 13, y: 0}
+        - {x: 27, y: 14}
+        - {x: 27, y: 44}
+        - {x: 15, y: 55}
+    - name: archer_blue_166
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 66
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 53}
+        - {x: -25.5, y: 25}
+        - {x: -20.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 25.5, y: 27}
+        - {x: 25.5, y: 40}
+        - {x: 10.5, y: 53}
+    - name: archer_blue_167
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 66
+        width: 48
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 51}
+        - {x: -24, y: 19}
+        - {x: -14, y: 0}
+        - {x: 13, y: 0}
+        - {x: 24, y: 12}
+        - {x: 24, y: 42}
+        - {x: 14, y: 51}
+    - name: archer_blue_168
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 66
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 51}
+        - {x: -21, y: 30}
+        - {x: -12, y: 0}
+        - {x: 12, y: 0}
+        - {x: 21, y: 14}
+        - {x: 21, y: 45}
+        - {x: 15, y: 51}
+    - name: archer_blue_169
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 66
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 51}
+        - {x: -21, y: 19}
+        - {x: -11, y: 0}
+        - {x: 12, y: 0}
+        - {x: 21, y: 7}
+        - {x: 21, y: 46}
+        - {x: 19, y: 51}
+    - name: archer_blue_170
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 66
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 51}
+        - {x: -21, y: 30}
+        - {x: -12, y: 0}
+        - {x: 12, y: 0}
+        - {x: 21, y: 7}
+        - {x: 21, y: 45}
+        - {x: 19, y: 51}
+    - name: archer_blue_171
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 66
+        width: 47
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 51}
+        - {x: -23.5, y: 33}
+        - {x: -16.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 23.5, y: 10}
+        - {x: 23.5, y: 41}
+        - {x: 11.5, y: 51}
+    - name: archer_blue_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 34
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 54}
+        - {x: -9, y: 56}
+        - {x: -17, y: 56}
+        - {x: -17, y: 0}
+        - {x: 14, y: 0}
+        - {x: 17, y: 7}
+        - {x: 17, y: 36}
+        - {x: 15, y: 46}
+    - name: archer_blue_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 35
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 17.5, y: 4}
+        - {x: 17.5, y: 38}
+        - {x: 12.5, y: 51}
+        - {x: -4.5, y: 54}
+        - {x: -17.5, y: 54}
+        - {x: -17.5, y: 1}
+    - name: archer_blue_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 33
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 45}
+        - {x: -16.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 16.5, y: 1}
+        - {x: 16.5, y: 38}
+        - {x: 1.5, y: 45}
+    - name: archer_blue_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 33
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 39}
+        - {x: -5.5, y: 40}
+        - {x: -16.5, y: 40}
+        - {x: -16.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 16.5, y: 5}
+        - {x: 16.5, y: 31}
+    - name: archer_blue_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3
+        width: 37
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 33}
+        - {x: -18.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 18.5, y: 3}
+        - {x: 18.5, y: 22}
+        - {x: 3.5, y: 33}
+    - name: archer_blue_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 36}
+        - {x: -19.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 24}
+        - {x: 14.5, y: 36}
     outline: []
   spritePackingTag: 
   userData: 

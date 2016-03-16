@@ -7,14 +7,12 @@ public class Player : MonoBehaviour {
     public float life;
     public ArrayList attackUnits;
     public ArrayList defendUnits;
-    public bool turnAttack; // True-> turn d'atac | False -> Turn de defensa
 
 	// Use this for initialization
 	void Start () {
         life = 100;
         attackUnits = new ArrayList();
         defendUnits = new ArrayList();
-        //turnAttack = true;
 	}
 	
 	// Update is called once per frame
@@ -40,11 +38,6 @@ public class Player : MonoBehaviour {
     public void removeDefendUnity(MonoBehaviour defendUnit)
     {
         defendUnits.Remove(defendUnits);
-    }
-
-    public void changeTurn()
-    {
-        turnAttack = !turnAttack;
     }
 
     public void getDamage(int damage)
