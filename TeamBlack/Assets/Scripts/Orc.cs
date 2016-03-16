@@ -15,8 +15,11 @@ public class Orc : Unit
 	
 	// Update is called once per frame
 	public override void Update () {
+        if (getHP() <= 0)
+        {
+            Destroy(this);
+        }
 
-        
         if (Attacking != null)
         {
             countdown -= Time.deltaTime;

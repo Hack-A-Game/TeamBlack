@@ -9,6 +9,7 @@ public class Unit : MonoBehaviour {
     public float AttSp;
     public Unit Attacking = null;
     public float countdown = 0.0f;
+    public ArrayList encounterList;
     //Constructor
     public Unit()
     {
@@ -16,6 +17,7 @@ public class Unit : MonoBehaviour {
         Att = 0;
         Def = 0;
         AttSp = 0.0f;
+        encounterList = new ArrayList();
     }
 
     public void getAttacked(float damage)

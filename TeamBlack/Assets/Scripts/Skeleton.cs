@@ -16,7 +16,10 @@ public class Skeleton : Unit
     // Update is called once per frame
     public override void Update()
     {
-
+        if(getHP() <= 0)
+        {
+            Destroy(this);
+        }
 
         if (Attacking != null)
         {
@@ -35,6 +38,7 @@ public class Skeleton : Unit
         if (coll.gameObject.tag == "AttackUnit")
         {
             Attacking = coll.gameObject.GetComponent<Unit>();
+            encounterList.Add(Attacking);
         }
 
 
