@@ -1,9 +1,188 @@
 fileFormatVersion: 2
 guid: 205b81f4f5181ed4fac6842bbb925f6f
-timeCreated: 1458111538
+timeCreated: 1458128685
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: soldier_red_0
+    21300002: soldier_red_1
+    21300004: soldier_red_2
+    21300006: soldier_red_3
+    21300008: soldier_red_4
+    21300010: soldier_red_5
+    21300012: soldier_red_6
+    21300014: soldier_red_7
+    21300016: soldier_red_8
+    21300018: soldier_red_9
+    21300020: soldier_red_10
+    21300022: soldier_red_11
+    21300024: soldier_red_12
+    21300026: soldier_red_13
+    21300028: soldier_red_14
+    21300030: soldier_red_15
+    21300032: soldier_red_16
+    21300034: soldier_red_17
+    21300036: soldier_red_18
+    21300038: soldier_red_19
+    21300040: soldier_red_20
+    21300042: soldier_red_21
+    21300044: soldier_red_22
+    21300046: soldier_red_23
+    21300048: soldier_red_24
+    21300050: soldier_red_25
+    21300052: soldier_red_26
+    21300054: soldier_red_27
+    21300056: soldier_red_28
+    21300058: soldier_red_29
+    21300060: soldier_red_30
+    21300062: soldier_red_31
+    21300064: soldier_red_32
+    21300066: soldier_red_33
+    21300068: soldier_red_34
+    21300070: soldier_red_35
+    21300072: soldier_red_36
+    21300074: soldier_red_37
+    21300076: soldier_red_38
+    21300078: soldier_red_39
+    21300080: soldier_red_40
+    21300082: soldier_red_41
+    21300084: soldier_red_42
+    21300086: soldier_red_43
+    21300088: soldier_red_44
+    21300090: soldier_red_45
+    21300092: soldier_red_46
+    21300094: soldier_red_47
+    21300096: soldier_red_48
+    21300098: soldier_red_49
+    21300100: soldier_red_50
+    21300102: soldier_red_51
+    21300104: soldier_red_52
+    21300106: soldier_red_53
+    21300108: soldier_red_54
+    21300110: soldier_red_55
+    21300112: soldier_red_56
+    21300114: soldier_red_57
+    21300116: soldier_red_58
+    21300118: soldier_red_59
+    21300120: soldier_red_60
+    21300122: soldier_red_61
+    21300124: soldier_red_62
+    21300126: soldier_red_63
+    21300128: soldier_red_64
+    21300130: soldier_red_65
+    21300132: soldier_red_66
+    21300134: soldier_red_67
+    21300136: soldier_red_68
+    21300138: soldier_red_69
+    21300140: soldier_red_70
+    21300142: soldier_red_71
+    21300144: soldier_red_72
+    21300146: soldier_red_73
+    21300148: soldier_red_74
+    21300150: soldier_red_75
+    21300152: soldier_red_76
+    21300154: soldier_red_77
+    21300156: soldier_red_78
+    21300158: soldier_red_79
+    21300160: soldier_red_80
+    21300162: soldier_red_81
+    21300164: soldier_red_82
+    21300166: soldier_red_83
+    21300168: soldier_red_84
+    21300170: soldier_red_85
+    21300172: soldier_red_86
+    21300174: soldier_red_87
+    21300176: soldier_red_88
+    21300178: soldier_red_89
+    21300180: soldier_red_90
+    21300182: soldier_red_91
+    21300184: soldier_red_92
+    21300186: soldier_red_93
+    21300188: soldier_red_94
+    21300190: soldier_red_95
+    21300192: soldier_red_96
+    21300194: soldier_red_97
+    21300196: soldier_red_98
+    21300198: soldier_red_99
+    21300200: soldier_red_100
+    21300202: soldier_red_101
+    21300204: soldier_red_102
+    21300206: soldier_red_103
+    21300208: soldier_red_104
+    21300210: soldier_red_105
+    21300212: soldier_red_106
+    21300214: soldier_red_107
+    21300216: soldier_red_108
+    21300218: soldier_red_109
+    21300220: soldier_red_110
+    21300222: soldier_red_111
+    21300224: soldier_red_112
+    21300226: soldier_red_113
+    21300228: soldier_red_114
+    21300230: soldier_red_115
+    21300232: soldier_red_116
+    21300234: soldier_red_117
+    21300236: soldier_red_118
+    21300238: soldier_red_119
+    21300240: soldier_red_120
+    21300242: soldier_red_121
+    21300244: soldier_red_122
+    21300246: soldier_red_123
+    21300248: soldier_red_124
+    21300250: soldier_red_125
+    21300252: soldier_red_126
+    21300254: soldier_red_127
+    21300256: soldier_red_128
+    21300258: soldier_red_129
+    21300260: soldier_red_130
+    21300262: soldier_red_131
+    21300264: soldier_red_132
+    21300266: soldier_red_133
+    21300268: soldier_red_134
+    21300270: soldier_red_135
+    21300272: soldier_red_136
+    21300274: soldier_red_137
+    21300276: soldier_red_138
+    21300278: soldier_red_139
+    21300280: soldier_red_140
+    21300282: soldier_red_141
+    21300284: soldier_red_142
+    21300286: soldier_red_143
+    21300288: soldier_red_144
+    21300290: soldier_red_145
+    21300292: soldier_red_146
+    21300294: soldier_red_147
+    21300296: soldier_red_148
+    21300298: soldier_red_149
+    21300300: soldier_red_150
+    21300302: soldier_red_151
+    21300304: soldier_red_152
+    21300306: soldier_red_153
+    21300308: soldier_red_154
+    21300310: soldier_red_155
+    21300312: soldier_red_156
+    21300314: soldier_red_157
+    21300316: soldier_red_158
+    21300318: soldier_red_159
+    21300320: soldier_red_160
+    21300322: soldier_red_161
+    21300324: soldier_red_162
+    21300326: soldier_red_163
+    21300328: soldier_red_164
+    21300330: soldier_red_165
+    21300332: soldier_red_166
+    21300334: soldier_red_167
+    21300336: soldier_red_168
+    21300338: soldier_red_169
+    21300340: soldier_red_170
+    21300342: soldier_red_171
+    21300344: soldier_red_172
+    21300346: soldier_red_173
+    21300348: soldier_red_174
+    21300350: soldier_red_175
+    21300352: soldier_red_176
+    21300354: soldier_red_177
+    21300356: soldier_red_178
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +209,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,10 +217,10 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 0
+  alignment: 7
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
@@ -49,7 +228,3488 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: soldier_red_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 20.833374}
+        - {x: -17.5, y: 17.833374}
+        - {x: -17.5, y: -31.166626}
+        - {x: 16.5, y: -31.166626}
+        - {x: 16.5, y: 17.833374}
+        - {x: 11.5, y: 20.833374}
+    - name: soldier_red_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.458332, y: 20.833374}
+        - {x: -16.458332, y: -31.166626}
+        - {x: 15.541668, y: -31.166626}
+        - {x: 15.541668, y: 20.833374}
+    - name: soldier_red_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.583336, y: 17.833374}
+        - {x: 14.583336, y: 20.833374}
+        - {x: -12.416664, y: 20.833374}
+        - {x: -16.416664, y: 3.833374}
+        - {x: -16.416664, y: -23.166626}
+        - {x: -15.416664, y: -28.166626}
+        - {x: -10.416664, y: -31.166626}
+        - {x: 15.583336, y: -31.166626}
+    - name: soldier_red_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.625, y: 20.833374}
+        - {x: -9.375, y: 20.833374}
+        - {x: -20.375, y: 1.833374}
+        - {x: -20.375, y: -12.166626}
+        - {x: -13.375, y: -31.166626}
+        - {x: 14.625, y: -31.166626}
+        - {x: 19.625, y: -26.166626}
+        - {x: 19.625, y: 10.833374}
+        - {x: 15.625, y: 16.833374}
+    - name: soldier_red_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.666672, y: 20.833374}
+        - {x: -10.333328, y: 20.833374}
+        - {x: -27.333328, y: 6.833374}
+        - {x: -27.333328, y: -15.166626}
+        - {x: -26.333328, y: -19.166626}
+        - {x: -15.333328, y: -31.166626}
+        - {x: 15.666672, y: -31.166626}
+        - {x: 17.666672, y: -29.166626}
+        - {x: 26.666672, y: -19.166626}
+        - {x: 26.666672, y: 10.833374}
+    - name: soldier_red_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.708344, y: 11.833374}
+        - {x: 14.7083435, y: 16.833374}
+        - {x: 6.7083435, y: 20.833374}
+        - {x: -7.2916565, y: 20.833374}
+        - {x: -13.2916565, y: 12.833374}
+        - {x: -13.2916565, y: 7.833374}
+        - {x: -17.291656, y: 11.833374}
+        - {x: -22.291656, y: 13.833374}
+        - {x: -26.291656, y: 8.833374}
+        - {x: -26.291656, y: -5.166626}
+        - {x: -13.2916565, y: -31.166626}
+        - {x: 17.708344, y: -31.166626}
+        - {x: 25.708344, y: -17.166626}
+        - {x: 25.708344, y: 11.833374}
+    - name: soldier_red_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.25, y: 20.833374}
+        - {x: -20.25, y: 1.833374}
+        - {x: -20.25, y: -13.166626}
+        - {x: -14.25, y: -31.166626}
+        - {x: 18.75, y: -31.166626}
+        - {x: 19.75, y: -28.166626}
+        - {x: 19.75, y: 0.833374}
+        - {x: 12.75, y: 20.833374}
+    - name: soldier_red_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 20.791748}
+        - {x: -12.5, y: 15.791748}
+        - {x: -12.5, y: -28.208252}
+        - {x: -7.5, y: -31.208252}
+        - {x: 7.5, y: -31.208252}
+        - {x: 12.5, y: -30.208252}
+        - {x: 12.5, y: 17.791748}
+        - {x: 5.5, y: 20.791748}
+    - name: soldier_red_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.458332, y: 20.791748}
+        - {x: -12.458332, y: 15.791748}
+        - {x: -13.458332, y: 11.791748}
+        - {x: -13.458332, y: -30.208252}
+        - {x: -12.458332, y: -31.208252}
+        - {x: 9.541668, y: -31.208252}
+        - {x: 13.541668, y: -27.208252}
+        - {x: 13.541668, y: 12.791748}
+        - {x: 8.541668, y: 20.791748}
+    - name: soldier_red_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.416664, y: 20.791748}
+        - {x: -12.416664, y: -31.208252}
+        - {x: 9.583336, y: -31.208252}
+        - {x: 12.583336, y: -22.208252}
+        - {x: 12.583336, y: 20.791748}
+    - name: soldier_red_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.625, y: 15.791748}
+        - {x: 6.625, y: 20.791748}
+        - {x: -6.375, y: 20.791748}
+        - {x: -12.375, y: 15.791748}
+        - {x: -14.375, y: 5.791748}
+        - {x: -14.375, y: -23.208252}
+        - {x: -11.375, y: -31.208252}
+        - {x: 7.625, y: -31.208252}
+        - {x: 10.625, y: -28.208252}
+        - {x: 15.625, y: -17.208252}
+        - {x: 15.625, y: 9.791748}
+    - name: soldier_red_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.666672, y: 19.791748}
+        - {x: 11.666672, y: 20.791748}
+        - {x: -14.333328, y: 20.791748}
+        - {x: -16.333328, y: 19.791748}
+        - {x: -16.333328, y: -31.208252}
+        - {x: 7.6666718, y: -31.208252}
+        - {x: 10.666672, y: -28.208252}
+        - {x: 20.666672, y: -11.208252}
+        - {x: 20.666672, y: 6.791748}
+    - name: soldier_red_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.708344, y: -2.208252}
+        - {x: 20.708344, y: 7.791748}
+        - {x: 8.7083435, y: 20.791748}
+        - {x: -9.2916565, y: 20.791748}
+        - {x: -16.291656, y: 8.791748}
+        - {x: -16.291656, y: -4.208252}
+        - {x: -12.2916565, y: -28.208252}
+        - {x: -2.2916565, y: -31.208252}
+        - {x: 6.7083435, y: -31.208252}
+        - {x: 8.7083435, y: -30.208252}
+        - {x: 9.7083435, y: -27.208252}
+        - {x: 9.7083435, y: -22.208252}
+    - name: soldier_red_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.75, y: 20.791748}
+        - {x: -11.25, y: 20.791748}
+        - {x: -14.25, y: 18.791748}
+        - {x: -14.25, y: -31.208252}
+        - {x: 14.75, y: -31.208252}
+        - {x: 17.75, y: -13.208252}
+        - {x: 17.75, y: 3.791748}
+        - {x: 14.75, y: 18.791748}
+    - name: soldier_red_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 21.75}
+        - {x: -17.5, y: 14.75}
+        - {x: -17.5, y: -31.25}
+        - {x: 16.5, y: -31.25}
+        - {x: 16.5, y: 20.75}
+        - {x: 13.5, y: 21.75}
+    - name: soldier_red_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.458332, y: 21.75}
+        - {x: -17.458332, y: -1.25}
+        - {x: -17.458332, y: -31.25}
+        - {x: 16.541668, y: -31.25}
+        - {x: 16.541668, y: 11.75}
+        - {x: 12.541668, y: 21.75}
+    - name: soldier_red_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.416664, y: 21.75}
+        - {x: -16.416664, y: 16.75}
+        - {x: -16.416664, y: -30.25}
+        - {x: -15.416664, y: -31.25}
+        - {x: 15.583336, y: -31.25}
+        - {x: 15.583336, y: 21.75}
+    - name: soldier_red_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.375, y: 21.75}
+        - {x: -20.375, y: 8.75}
+        - {x: -20.375, y: -31.25}
+        - {x: 19.625, y: -31.25}
+        - {x: 19.625, y: 19.75}
+        - {x: 13.625, y: 21.75}
+    - name: soldier_red_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.333328, y: 21.75}
+        - {x: -18.333328, y: 19.75}
+        - {x: -27.333328, y: 9.75}
+        - {x: -27.333328, y: -11.25}
+        - {x: -21.333328, y: -31.25}
+        - {x: 17.666672, y: -31.25}
+        - {x: 26.666672, y: -16.25}
+        - {x: 26.666672, y: 6.75}
+        - {x: 16.666672, y: 21.75}
+    - name: soldier_red_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.7083435, y: 21.75}
+        - {x: -26.291656, y: 21.75}
+        - {x: -26.291656, y: -4.25}
+        - {x: -22.291656, y: -31.25}
+        - {x: 10.7083435, y: -31.25}
+        - {x: 16.708344, y: -30.25}
+        - {x: 25.708344, y: -0.25}
+        - {x: 25.708344, y: 10.75}
+    - name: soldier_red_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.25, y: 21.75}
+        - {x: -19.25, y: 18.75}
+        - {x: -19.25, y: -31.25}
+        - {x: 18.75, y: -31.25}
+        - {x: 18.75, y: 3.75}
+        - {x: 10.75, y: 21.75}
+    - name: soldier_red_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20.708374}
+        - {x: -13.5, y: 19.708374}
+        - {x: -13.5, y: -28.291626}
+        - {x: -12.5, y: -31.291626}
+        - {x: 9.5, y: -31.291626}
+        - {x: 11.5, y: -30.291626}
+        - {x: 11.5, y: 18.708374}
+        - {x: 5.5, y: 20.708374}
+    - name: soldier_red_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.458332, y: 20.708374}
+        - {x: -14.458332, y: 15.708374}
+        - {x: -14.458332, y: -15.291626}
+        - {x: -10.458332, y: -27.291626}
+        - {x: -8.458332, y: -31.291626}
+        - {x: 12.541668, y: -31.291626}
+        - {x: 12.541668, y: 16.708374}
+        - {x: 7.541668, y: 20.708374}
+    - name: soldier_red_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.583336, y: 20.708374}
+        - {x: -7.416664, y: 20.708374}
+        - {x: -13.416664, y: 13.708374}
+        - {x: -13.416664, y: -29.291626}
+        - {x: -8.416664, y: -31.291626}
+        - {x: 11.583336, y: -31.291626}
+        - {x: 11.583336, y: 16.708374}
+    - name: soldier_red_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.375, y: 20.708374}
+        - {x: -16.375, y: 11.708374}
+        - {x: -16.375, y: -25.291626}
+        - {x: -10.375, y: -31.291626}
+        - {x: 13.625, y: -31.291626}
+        - {x: 13.625, y: 20.708374}
+    - name: soldier_red_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.3333282, y: 20.708374}
+        - {x: -16.333328, y: 17.708374}
+        - {x: -21.333328, y: 11.708374}
+        - {x: -21.333328, y: -31.291626}
+        - {x: 13.666672, y: -31.291626}
+        - {x: 15.666672, y: -19.291626}
+        - {x: 15.666672, y: 5.708374}
+        - {x: 9.666672, y: 20.708374}
+    - name: soldier_red_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.7083435, y: 20.708374}
+        - {x: -6.2916565, y: 20.708374}
+        - {x: -21.291656, y: 5.708374}
+        - {x: -21.291656, y: -0.29162598}
+        - {x: -16.291656, y: -6.291626}
+        - {x: -10.2916565, y: -28.291626}
+        - {x: -7.2916565, y: -31.291626}
+        - {x: 9.7083435, y: -31.291626}
+        - {x: 12.7083435, y: -22.291626}
+        - {x: 15.7083435, y: -6.291626}
+        - {x: 15.7083435, y: 10.708374}
+    - name: soldier_red_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.25, y: 20.708374}
+        - {x: -18.25, y: -27.291626}
+        - {x: -17.25, y: -31.291626}
+        - {x: 13.75, y: -31.291626}
+        - {x: 13.75, y: 20.708374}
+    - name: soldier_red_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 20.666748}
+        - {x: -17.5, y: 14.666748}
+        - {x: -17.5, y: -24.333252}
+        - {x: -16.5, y: -30.333252}
+        - {x: -13.5, y: -31.333252}
+        - {x: 16.5, y: -31.333252}
+        - {x: 16.5, y: 18.666748}
+        - {x: 13.5, y: 20.666748}
+    - name: soldier_red_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.458332, y: 19.666748}
+        - {x: -14.458332, y: 7.666748}
+        - {x: -14.458332, y: -26.333252}
+        - {x: -13.458332, y: -29.333252}
+        - {x: -11.458332, y: -31.333252}
+        - {x: 15.541668, y: -31.333252}
+        - {x: 15.541668, y: 1.666748}
+        - {x: 10.541668, y: 19.666748}
+    - name: soldier_red_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.583336, y: 20.666748}
+        - {x: -9.416664, y: 20.666748}
+        - {x: -12.416664, y: 14.666748}
+        - {x: -12.416664, y: -26.333252}
+        - {x: -4.416664, y: -31.333252}
+        - {x: 11.583336, y: -31.333252}
+        - {x: 13.583336, y: -28.333252}
+        - {x: 13.583336, y: 14.666748}
+    - name: soldier_red_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.375, y: 20.666748}
+        - {x: -12.375, y: -31.333252}
+        - {x: 13.625, y: -31.333252}
+        - {x: 13.625, y: 18.666748}
+        - {x: 12.625, y: 20.666748}
+    - name: soldier_red_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.3333282, y: 19.666748}
+        - {x: -11.333328, y: 15.666748}
+        - {x: -11.333328, y: -30.333252}
+        - {x: -7.3333282, y: -31.333252}
+        - {x: 12.666672, y: -31.333252}
+        - {x: 14.666672, y: -25.333252}
+        - {x: 14.666672, y: 16.666748}
+        - {x: 11.666672, y: 19.666748}
+    - name: soldier_red_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.7083435, y: 19.666748}
+        - {x: -11.2916565, y: 19.666748}
+        - {x: -11.2916565, y: -31.333252}
+        - {x: 13.7083435, y: -31.333252}
+        - {x: 14.7083435, y: -13.333252}
+        - {x: 14.7083435, y: 14.666748}
+    - name: soldier_red_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.75, y: 19.666748}
+        - {x: -7.25, y: 19.666748}
+        - {x: -11.25, y: 15.666748}
+        - {x: -11.25, y: -28.333252}
+        - {x: -4.25, y: -31.333252}
+        - {x: 14.75, y: -31.333252}
+        - {x: 14.75, y: 16.666748}
+    - name: soldier_red_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.208313, y: 20.666748}
+        - {x: -12.208313, y: -29.333252}
+        - {x: -5.208313, y: -31.333252}
+        - {x: 13.791687, y: -31.333252}
+        - {x: 13.791687, y: 16.666748}
+        - {x: 7.791687, y: 20.666748}
+    - name: soldier_red_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 20.625}
+        - {x: -12.5, y: 15.625}
+        - {x: -12.5, y: -28.375}
+        - {x: -7.5, y: -31.375}
+        - {x: 9.5, y: -31.375}
+        - {x: 12.5, y: -30.375}
+        - {x: 12.5, y: 18.625}
+        - {x: 7.5, y: 20.625}
+    - name: soldier_red_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.458332, y: 20.625}
+        - {x: -15.458332, y: -31.375}
+        - {x: 10.541668, y: -31.375}
+        - {x: 13.541668, y: -26.375}
+        - {x: 13.541668, y: 12.625}
+        - {x: 10.541668, y: 20.625}
+      - - {x: -0.45833206, y: 31.625}
+        - {x: 0.54166794, y: 28.625}
+        - {x: 7.541668, y: 28.625}
+        - {x: 9.541668, y: 30.625}
+        - {x: 9.541668, y: 31.625}
+    - name: soldier_red_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.416664, y: 20.625}
+        - {x: -15.416664, y: -31.375}
+        - {x: 9.583336, y: -31.375}
+        - {x: 15.583336, y: -21.375}
+        - {x: 15.583336, y: 16.625}
+        - {x: 5.583336, y: 20.625}
+      - - {x: -1.4166641, y: 31.625}
+        - {x: -0.41666412, y: 28.625}
+        - {x: 6.583336, y: 28.625}
+        - {x: 8.583336, y: 30.625}
+        - {x: 8.583336, y: 31.625}
+    - name: soldier_red_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.375, y: 20.625}
+        - {x: -12.375, y: 19.625}
+        - {x: -12.375, y: -28.375}
+        - {x: -6.375, y: -31.375}
+        - {x: 9.625, y: -31.375}
+        - {x: 13.625, y: -30.375}
+        - {x: 16.625, y: -22.375}
+        - {x: 16.625, y: 5.625}
+        - {x: 9.625, y: 20.625}
+      - - {x: -1.375, y: 31.625}
+        - {x: -0.375, y: 28.625}
+        - {x: 6.625, y: 28.625}
+        - {x: 8.625, y: 30.625}
+        - {x: 8.625, y: 31.625}
+    - name: soldier_red_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.333328, y: 20.625}
+        - {x: -14.333328, y: 15.625}
+        - {x: -19.333328, y: -7.375}
+        - {x: -19.333328, y: -12.375}
+        - {x: -13.333328, y: -28.375}
+        - {x: -6.3333282, y: -31.375}
+        - {x: 11.666672, y: -31.375}
+        - {x: 11.666672, y: 16.625}
+        - {x: 8.666672, y: 20.625}
+      - - {x: -1.3333282, y: 31.625}
+        - {x: -0.33332825, y: 28.625}
+        - {x: 6.6666718, y: 28.625}
+        - {x: 8.666672, y: 30.625}
+        - {x: 8.666672, y: 31.625}
+    - name: soldier_red_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.2916565, y: 20.625}
+        - {x: -17.291656, y: 17.625}
+        - {x: -22.291656, y: 1.625}
+        - {x: -22.291656, y: -19.375}
+        - {x: -11.2916565, y: -31.375}
+        - {x: 10.7083435, y: -31.375}
+        - {x: 11.7083435, y: -30.375}
+        - {x: 11.7083435, y: 17.625}
+        - {x: 8.7083435, y: 20.625}
+      - - {x: -1.2916565, y: 31.625}
+        - {x: -0.2916565, y: 28.625}
+        - {x: 6.7083435, y: 28.625}
+        - {x: 8.7083435, y: 30.625}
+        - {x: 8.7083435, y: 31.625}
+    - name: soldier_red_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.25, y: 20.625}
+        - {x: -19.25, y: -31.375}
+        - {x: 11.75, y: -31.375}
+        - {x: 11.75, y: 17.625}
+        - {x: 5.75, y: 20.625}
+      - - {x: -1.25, y: 31.625}
+        - {x: -0.25, y: 28.625}
+        - {x: 7.75, y: 28.625}
+        - {x: 9.75, y: 30.625}
+        - {x: 9.75, y: 31.625}
+    - name: soldier_red_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.791687, y: 20.625}
+        - {x: -9.208313, y: 20.625}
+        - {x: -12.208313, y: 15.625}
+        - {x: -12.208313, y: -30.375}
+        - {x: -7.208313, y: -31.375}
+        - {x: 12.791687, y: -31.375}
+        - {x: 16.791687, y: -20.375}
+        - {x: 16.791687, y: 12.625}
+        - {x: 15.791687, y: 17.625}
+      - - {x: -1.208313, y: 31.625}
+        - {x: -0.20831299, y: 28.625}
+        - {x: 7.791687, y: 28.625}
+        - {x: 9.791687, y: 30.625}
+        - {x: 9.791687, y: 31.625}
+    - name: soldier_red_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 21.583374}
+        - {x: -11.5, y: 21.583374}
+        - {x: -17.5, y: 4.583374}
+        - {x: -17.5, y: -31.416626}
+        - {x: 13.5, y: -31.416626}
+        - {x: 16.5, y: -30.416626}
+        - {x: 16.5, y: 7.583374}
+    - name: soldier_red_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.458332, y: -30.416626}
+        - {x: 12.541668, y: -30.416626}
+        - {x: 12.541668, y: 21.583374}
+        - {x: -12.458332, y: 21.583374}
+        - {x: -15.458332, y: 19.583374}
+    - name: soldier_red_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.416664, y: 21.583374}
+        - {x: -13.416664, y: 18.583374}
+        - {x: -13.416664, y: -29.416626}
+        - {x: -9.416664, y: -30.416626}
+        - {x: 11.583336, y: -30.416626}
+        - {x: 12.583336, y: -25.416626}
+        - {x: 12.583336, y: 19.583374}
+        - {x: 9.583336, y: 21.583374}
+    - name: soldier_red_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.375, y: -30.416626}
+        - {x: 8.625, y: -30.416626}
+        - {x: 12.625, y: -29.416626}
+        - {x: 12.625, y: 15.583374}
+        - {x: 7.625, y: 21.583374}
+        - {x: -13.375, y: 21.583374}
+        - {x: -16.375, y: 20.583374}
+    - name: soldier_red_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.6666718, y: 20.583374}
+        - {x: -6.3333282, y: 20.583374}
+        - {x: -13.333328, y: 17.583374}
+        - {x: -13.333328, y: -28.416626}
+        - {x: -8.333328, y: -30.416626}
+        - {x: 12.666672, y: -30.416626}
+        - {x: 12.666672, y: 14.583374}
+    - name: soldier_red_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.2916565, y: 20.583374}
+        - {x: -13.2916565, y: 17.583374}
+        - {x: -13.2916565, y: -15.416626}
+        - {x: -11.2916565, y: -30.416626}
+        - {x: 10.7083435, y: -30.416626}
+        - {x: 12.7083435, y: -28.416626}
+        - {x: 12.7083435, y: 17.583374}
+        - {x: 6.7083435, y: 20.583374}
+    - name: soldier_red_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.25, y: 20.583374}
+        - {x: -13.25, y: 17.583374}
+        - {x: -13.25, y: -27.416626}
+        - {x: -10.25, y: -28.416626}
+        - {x: -0.25, y: -30.416626}
+        - {x: 10.75, y: -30.416626}
+        - {x: 12.75, y: -28.416626}
+        - {x: 12.75, y: 15.583374}
+        - {x: 8.75, y: 20.583374}
+    - name: soldier_red_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.208313, y: -22.416626}
+        - {x: -8.208313, y: -30.416626}
+        - {x: 12.791687, y: -30.416626}
+        - {x: 12.791687, y: 15.583374}
+        - {x: 11.791687, y: 21.583374}
+        - {x: -9.208313, y: 21.583374}
+        - {x: -16.208313, y: 15.583374}
+    - name: soldier_red_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 19.541748}
+        - {x: -13.5, y: 17.541748}
+        - {x: -13.5, y: -25.458252}
+        - {x: -12.5, y: -31.458252}
+        - {x: 9.5, y: -31.458252}
+        - {x: 11.5, y: -30.458252}
+        - {x: 11.5, y: 13.541748}
+        - {x: 6.5, y: 19.541748}
+    - name: soldier_red_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.541668, y: 19.541748}
+        - {x: -8.458332, y: 19.541748}
+        - {x: -14.458332, y: 14.541748}
+        - {x: -14.458332, y: -31.458252}
+        - {x: 11.541668, y: -31.458252}
+        - {x: 14.541668, y: -18.458252}
+        - {x: 14.541668, y: -1.458252}
+        - {x: 12.541668, y: 12.541748}
+    - name: soldier_red_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.416664, y: 19.541748}
+        - {x: -13.416664, y: 14.541748}
+        - {x: -14.416664, y: 4.541748}
+        - {x: -16.416664, y: -1.458252}
+        - {x: -16.416664, y: -17.458252}
+        - {x: -13.416664, y: -30.458252}
+        - {x: -8.416664, y: -31.458252}
+        - {x: 14.583336, y: -31.458252}
+        - {x: 14.583336, y: 19.541748}
+    - name: soldier_red_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.375, y: 19.541748}
+        - {x: -17.375, y: 18.541748}
+        - {x: -17.375, y: -31.458252}
+        - {x: 1.625, y: -31.458252}
+        - {x: 11.625, y: -29.458252}
+        - {x: 11.625, y: 14.541748}
+        - {x: 7.625, y: 19.541748}
+    - name: soldier_red_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.333328, y: 19.541748}
+        - {x: -12.333328, y: -31.458252}
+        - {x: 7.6666718, y: -31.458252}
+        - {x: 14.666672, y: -30.458252}
+        - {x: 18.666672, y: -21.458252}
+        - {x: 18.666672, y: 3.541748}
+        - {x: 11.666672, y: 19.541748}
+    - name: soldier_red_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.2916565, y: 19.541748}
+        - {x: -12.2916565, y: 14.541748}
+        - {x: -12.2916565, y: -31.458252}
+        - {x: 2.7083435, y: -31.458252}
+        - {x: 13.7083435, y: -29.458252}
+        - {x: 21.708344, y: -22.458252}
+        - {x: 21.708344, y: 12.541748}
+        - {x: 19.708344, y: 19.541748}
+    - name: soldier_red_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.25, y: 19.541748}
+        - {x: -12.25, y: -31.458252}
+        - {x: 7.75, y: -31.458252}
+        - {x: 18.75, y: -23.458252}
+        - {x: 18.75, y: 6.541748}
+        - {x: 12.75, y: 19.541748}
+    - name: soldier_red_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.208313, y: 19.541748}
+        - {x: -17.208313, y: -31.458252}
+        - {x: 9.791687, y: -31.458252}
+        - {x: 11.791687, y: -30.458252}
+        - {x: 11.791687, y: 18.541748}
+        - {x: 8.791687, y: 19.541748}
+    - name: soldier_red_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 20.5}
+        - {x: -12.5, y: 17.5}
+        - {x: -17.5, y: -2.5}
+        - {x: -17.5, y: -28.5}
+        - {x: -11.5, y: -30.5}
+        - {x: 10.5, y: -30.5}
+        - {x: 16.5, y: -29.5}
+        - {x: 16.5, y: 11.5}
+        - {x: 11.5, y: 20.5}
+    - name: soldier_red_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.541668, y: 20.5}
+        - {x: -11.458332, y: 20.5}
+        - {x: -14.458332, y: 19.5}
+        - {x: -17.458332, y: 0.5}
+        - {x: -17.458332, y: -23.5}
+        - {x: -14.458332, y: -30.5}
+        - {x: 16.541668, y: -30.5}
+        - {x: 16.541668, y: 16.5}
+    - name: soldier_red_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.416664, y: 20.5}
+        - {x: -17.416664, y: 10.5}
+        - {x: -17.416664, y: -24.5}
+        - {x: -9.416664, y: -31.5}
+        - {x: 16.583336, y: -31.5}
+        - {x: 16.583336, y: 20.5}
+    - name: soldier_red_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.375, y: 19.5}
+        - {x: -17.375, y: -30.5}
+        - {x: -16.375, y: -31.5}
+        - {x: 15.625, y: -31.5}
+        - {x: 15.625, y: 17.5}
+        - {x: 12.625, y: 19.5}
+    - name: soldier_red_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.6666718, y: 20.5}
+        - {x: -8.333328, y: 20.5}
+        - {x: -13.333328, y: 18.5}
+        - {x: -17.333328, y: -1.5}
+        - {x: -17.333328, y: -21.5}
+        - {x: -9.333328, y: -31.5}
+        - {x: 10.666672, y: -31.5}
+        - {x: 16.666672, y: -22.5}
+        - {x: 16.666672, y: 14.5}
+        - {x: 15.666672, y: 18.5}
+    - name: soldier_red_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.2916565, y: 20.5}
+        - {x: -12.2916565, y: 17.5}
+        - {x: -17.291656, y: 3.5}
+        - {x: -17.291656, y: -25.5}
+        - {x: -16.291656, y: -29.5}
+        - {x: -13.2916565, y: -30.5}
+        - {x: 16.708344, y: -30.5}
+        - {x: 16.708344, y: 20.5}
+    - name: soldier_red_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.25, y: 20.5}
+        - {x: -17.25, y: -31.5}
+        - {x: 11.75, y: -31.5}
+        - {x: 16.75, y: -26.5}
+        - {x: 16.75, y: 15.5}
+        - {x: 12.75, y: 20.5}
+    - name: soldier_red_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.791687, y: 16.5}
+        - {x: 8.791687, y: 19.5}
+        - {x: -12.208313, y: 19.5}
+        - {x: -16.208313, y: 17.5}
+        - {x: -16.208313, y: -31.5}
+        - {x: 4.791687, y: -31.5}
+        - {x: 9.791687, y: -29.5}
+        - {x: 16.791687, y: -20.5}
+        - {x: 16.791687, y: 5.5}
+    - name: soldier_red_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.1666565, y: 20.5}
+        - {x: -17.166656, y: 8.5}
+        - {x: -17.166656, y: -26.5}
+        - {x: -12.1666565, y: -31.5}
+        - {x: 10.8333435, y: -31.5}
+        - {x: 16.833344, y: -26.5}
+        - {x: 16.833344, y: 17.5}
+        - {x: 12.8333435, y: 20.5}
+    - name: soldier_red_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 21.458374}
+        - {x: -12.5, y: 15.458374}
+        - {x: -12.5, y: -20.541626}
+        - {x: -10.5, y: -29.541626}
+        - {x: 8.5, y: -29.541626}
+        - {x: 12.5, y: -24.541626}
+        - {x: 12.5, y: 18.458374}
+        - {x: 11.5, y: 21.458374}
+    - name: soldier_red_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.458332, y: 20.458374}
+        - {x: -15.458332, y: 19.458374}
+        - {x: -15.458332, y: -29.541626}
+        - {x: 8.541668, y: -29.541626}
+        - {x: 13.541668, y: -25.541626}
+        - {x: 13.541668, y: 16.458374}
+        - {x: 9.541668, y: 20.458374}
+    - name: soldier_red_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.416664, y: 21.458374}
+        - {x: -13.416664, y: 19.458374}
+        - {x: -13.416664, y: -28.541626}
+        - {x: 8.583336, y: -28.541626}
+        - {x: 12.583336, y: -17.541626}
+        - {x: 12.583336, y: 13.458374}
+        - {x: 7.583336, y: 21.458374}
+    - name: soldier_red_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.625, y: 21.458374}
+        - {x: -11.375, y: 21.458374}
+        - {x: -12.375, y: 18.458374}
+        - {x: -12.375, y: -15.541626}
+        - {x: -7.375, y: -28.541626}
+        - {x: 4.625, y: -28.541626}
+        - {x: 9.625, y: -27.541626}
+        - {x: 14.625, y: -21.541626}
+        - {x: 14.625, y: 4.458374}
+        - {x: 12.625, y: 19.458374}
+    - name: soldier_red_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.666672, y: 21.458374}
+        - {x: -12.333328, y: 21.458374}
+        - {x: -12.333328, y: -28.541626}
+        - {x: -8.333328, y: -29.541626}
+        - {x: 7.6666718, y: -29.541626}
+        - {x: 15.666672, y: -19.541626}
+        - {x: 15.666672, y: 20.458374}
+    - name: soldier_red_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.7083435, y: 20.458374}
+        - {x: -9.2916565, y: 20.458374}
+        - {x: -14.2916565, y: 15.458374}
+        - {x: -14.2916565, y: -24.541626}
+        - {x: -11.2916565, y: -29.541626}
+        - {x: 7.7083435, y: -29.541626}
+        - {x: 17.708344, y: -20.541626}
+        - {x: 17.708344, y: 6.458374}
+        - {x: 16.708344, y: 18.458374}
+    - name: soldier_red_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: 21.458374}
+        - {x: -6.25, y: 21.458374}
+        - {x: -12.25, y: 19.458374}
+        - {x: -12.25, y: -19.541626}
+        - {x: -10.25, y: -26.541626}
+        - {x: -7.25, y: -29.541626}
+        - {x: 7.75, y: -29.541626}
+        - {x: 15.75, y: -20.541626}
+        - {x: 15.75, y: -2.541626}
+        - {x: 12.75, y: 16.458374}
+    - name: soldier_red_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.208313, y: 21.458374}
+        - {x: -12.208313, y: 19.458374}
+        - {x: -12.208313, y: -8.541626}
+        - {x: -8.208313, y: -29.541626}
+        - {x: 9.791687, y: -29.541626}
+        - {x: 14.791687, y: -27.541626}
+        - {x: 14.791687, y: 19.458374}
+        - {x: 12.791687, y: 21.458374}
+    - name: soldier_red_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.1666565, y: 21.458374}
+        - {x: -12.1666565, y: 16.458374}
+        - {x: -12.1666565, y: -5.541626}
+        - {x: -10.1666565, y: -27.541626}
+        - {x: -5.1666565, y: -29.541626}
+        - {x: 13.8333435, y: -29.541626}
+        - {x: 13.8333435, y: 21.458374}
+    - name: soldier_red_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 22.416748}
+        - {x: -7.5, y: 22.416748}
+        - {x: -17.5, y: 13.416748}
+        - {x: -17.5, y: -26.583252}
+        - {x: -14.5, y: -29.583252}
+        - {x: 14.5, y: -29.583252}
+        - {x: 16.5, y: -26.583252}
+        - {x: 16.5, y: 5.416748}
+    - name: soldier_red_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.458332, y: 22.416748}
+        - {x: -17.458332, y: 6.416748}
+        - {x: -17.458332, y: -26.583252}
+        - {x: -15.458332, y: -29.583252}
+        - {x: 16.541668, y: -29.583252}
+        - {x: 16.541668, y: 1.416748}
+        - {x: 10.541668, y: 22.416748}
+    - name: soldier_red_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.416664, y: 22.416748}
+        - {x: -17.416664, y: 13.416748}
+        - {x: -17.416664, y: -21.583252}
+        - {x: -12.416664, y: -30.583252}
+        - {x: 11.583336, y: -30.583252}
+        - {x: 16.583336, y: -16.583252}
+        - {x: 16.583336, y: 7.416748}
+        - {x: 9.583336, y: 22.416748}
+    - name: soldier_red_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.375, y: 21.416748}
+        - {x: -16.375, y: 17.416748}
+        - {x: -16.375, y: -26.583252}
+        - {x: -15.375, y: -30.583252}
+        - {x: 11.625, y: -30.583252}
+        - {x: 16.625, y: -23.583252}
+        - {x: 16.625, y: 9.416748}
+        - {x: 13.625, y: 21.416748}
+    - name: soldier_red_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.333328, y: 22.416748}
+        - {x: -17.333328, y: 5.416748}
+        - {x: -17.333328, y: -19.583252}
+        - {x: -13.333328, y: -30.583252}
+        - {x: 10.666672, y: -30.583252}
+        - {x: 16.666672, y: -24.583252}
+        - {x: 16.666672, y: 8.416748}
+        - {x: 10.666672, y: 22.416748}
+    - name: soldier_red_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.2916565, y: 22.416748}
+        - {x: -13.2916565, y: 18.416748}
+        - {x: -17.291656, y: 9.416748}
+        - {x: -17.291656, y: -29.583252}
+        - {x: 15.7083435, y: -29.583252}
+        - {x: 16.708344, y: -25.583252}
+        - {x: 16.708344, y: 9.416748}
+        - {x: 9.7083435, y: 22.416748}
+    - name: soldier_red_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.75, y: 22.416748}
+        - {x: -17.25, y: 22.416748}
+        - {x: -17.25, y: -30.583252}
+        - {x: 9.75, y: -30.583252}
+        - {x: 16.75, y: -25.583252}
+        - {x: 16.75, y: 9.416748}
+        - {x: 14.75, y: 14.416748}
+    - name: soldier_red_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.791687, y: 21.416748}
+        - {x: -7.208313, y: 21.416748}
+        - {x: -17.208313, y: 15.416748}
+        - {x: -17.208313, y: -18.583252}
+        - {x: -11.208313, y: -30.583252}
+        - {x: 6.791687, y: -30.583252}
+        - {x: 11.791687, y: -29.583252}
+        - {x: 15.791687, y: -23.583252}
+        - {x: 15.791687, y: 6.416748}
+        - {x: 14.791687, y: 18.416748}
+    - name: soldier_red_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.8333435, y: 22.416748}
+        - {x: -14.1666565, y: 22.416748}
+        - {x: -17.166656, y: 21.416748}
+        - {x: -17.166656, y: -27.583252}
+        - {x: -16.166656, y: -30.583252}
+        - {x: 14.8333435, y: -30.583252}
+        - {x: 16.833344, y: -21.583252}
+        - {x: 16.833344, y: 7.416748}
+        - {x: 13.8333435, y: 16.416748}
+    - name: soldier_red_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 21.375}
+        - {x: -13.5, y: 20.375}
+        - {x: -13.5, y: -29.625}
+        - {x: 11.5, y: -29.625}
+        - {x: 11.5, y: 19.375}
+        - {x: 9.5, y: 21.375}
+    - name: soldier_red_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.541668, y: -29.625}
+        - {x: 11.541668, y: -29.625}
+        - {x: 14.541668, y: -25.625}
+        - {x: 14.541668, y: 18.375}
+        - {x: 8.541668, y: 20.375}
+        - {x: -11.458332, y: 20.375}
+        - {x: -14.458332, y: 13.375}
+        - {x: -14.458332, y: -26.625}
+        - {x: -9.458332, y: -29.625}
+        - {x: -2.458332, y: -29.625}
+        - {x: 0.54166794, y: -26.625}
+        - {x: 0.54166794, y: -23.625}
+        - {x: 0.54166794, y: -25.625}
+    - name: soldier_red_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.416664, y: 21.375}
+        - {x: -13.416664, y: 16.375}
+        - {x: -13.416664, y: -26.625}
+        - {x: -9.416664, y: -28.625}
+        - {x: 12.583336, y: -28.625}
+        - {x: 12.583336, y: 14.375}
+        - {x: 6.583336, y: 21.375}
+    - name: soldier_red_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.375, y: 21.375}
+        - {x: -15.375, y: 18.375}
+        - {x: -15.375, y: -22.625}
+        - {x: -8.375, y: -28.625}
+        - {x: 8.625, y: -28.625}
+        - {x: 11.625, y: -2.625}
+        - {x: 11.625, y: 17.375}
+        - {x: 9.625, y: 21.375}
+    - name: soldier_red_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.333328, y: 21.375}
+        - {x: -15.333328, y: 12.375}
+        - {x: -16.333328, y: 0.375}
+        - {x: -16.333328, y: -20.625}
+        - {x: -12.333328, y: -27.625}
+        - {x: -4.3333282, y: -29.625}
+        - {x: 9.666672, y: -29.625}
+        - {x: 11.666672, y: -27.625}
+        - {x: 11.666672, y: 20.375}
+        - {x: 5.6666718, y: 21.375}
+    - name: soldier_red_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.2916565, y: 20.375}
+        - {x: -15.2916565, y: 12.375}
+        - {x: -18.291656, y: -8.625}
+        - {x: -18.291656, y: -18.625}
+        - {x: -7.2916565, y: -29.625}
+        - {x: 11.7083435, y: -29.625}
+        - {x: 13.7083435, y: -26.625}
+        - {x: 13.7083435, y: 5.375}
+        - {x: 9.7083435, y: 20.375}
+    - name: soldier_red_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.25, y: 21.375}
+        - {x: -13.25, y: 15.375}
+        - {x: -16.25, y: 0.375}
+        - {x: -16.25, y: -21.625}
+        - {x: -7.25, y: -29.625}
+        - {x: 11.75, y: -29.625}
+        - {x: 11.75, y: 21.375}
+    - name: soldier_red_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.791687, y: 21.375}
+        - {x: -6.208313, y: 21.375}
+        - {x: -15.208313, y: 19.375}
+        - {x: -15.208313, y: -18.625}
+        - {x: -7.208313, y: -29.625}
+        - {x: 5.791687, y: -29.625}
+        - {x: 11.791687, y: -18.625}
+        - {x: 11.791687, y: 17.375}
+    - name: soldier_red_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.1666565, y: 21.375}
+        - {x: -14.1666565, y: 16.375}
+        - {x: -14.1666565, y: -19.625}
+        - {x: -11.1666565, y: -29.625}
+        - {x: 12.8333435, y: -29.625}
+        - {x: 12.8333435, y: 20.375}
+        - {x: 10.8333435, y: 21.375}
+    - name: soldier_red_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 21.333374}
+        - {x: -17.5, y: 16.333374}
+        - {x: -17.5, y: -28.666626}
+        - {x: -16.5, y: -29.666626}
+        - {x: 16.5, y: -29.666626}
+        - {x: 16.5, y: 20.333374}
+        - {x: 13.5, y: 21.333374}
+    - name: soldier_red_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.458332, y: 20.333374}
+        - {x: -15.458332, y: 13.333374}
+        - {x: -15.458332, y: -30.666626}
+        - {x: 14.541668, y: -30.666626}
+        - {x: 14.541668, y: 16.333374}
+        - {x: 5.541668, y: 20.333374}
+    - name: soldier_red_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.583336, y: 20.333374}
+        - {x: -7.416664, y: 20.333374}
+        - {x: -14.416664, y: 16.333374}
+        - {x: -14.416664, y: -25.666626}
+        - {x: -10.416664, y: -29.666626}
+        - {x: -7.416664, y: -30.666626}
+        - {x: 13.583336, y: -30.666626}
+        - {x: 14.583336, y: -27.666626}
+        - {x: 14.583336, y: -2.666626}
+        - {x: 11.583336, y: 14.333374}
+    - name: soldier_red_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.375, y: -29.666626}
+        - {x: -14.375, y: -30.666626}
+        - {x: 15.625, y: -30.666626}
+        - {x: 15.625, y: 4.333374}
+        - {x: 13.625, y: 15.333374}
+        - {x: 9.625, y: 21.333374}
+        - {x: -7.375, y: 21.333374}
+        - {x: -15.375, y: 17.333374}
+    - name: soldier_red_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.333328, y: 21.333374}
+        - {x: -16.333328, y: -0.666626}
+        - {x: -16.333328, y: -25.666626}
+        - {x: -13.333328, y: -30.666626}
+        - {x: 14.666672, y: -30.666626}
+        - {x: 23.666672, y: -3.666626}
+        - {x: 23.666672, y: 8.333374}
+        - {x: 9.666672, y: 21.333374}
+    - name: soldier_red_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.291656, y: 0.33337402}
+        - {x: -16.291656, y: -25.666626}
+        - {x: -12.2916565, y: -30.666626}
+        - {x: 25.708344, y: -30.666626}
+        - {x: 26.708344, y: -28.666626}
+        - {x: 26.708344, y: 7.333374}
+        - {x: 7.7083435, y: 21.333374}
+        - {x: -1.2916565, y: 21.333374}
+        - {x: -6.2916565, y: 20.333374}
+        - {x: -11.2916565, y: 13.333374}
+    - name: soldier_red_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 21.291748}
+        - {x: -7.5, y: 21.291748}
+        - {x: -12.5, y: 15.291748}
+        - {x: -12.5, y: -23.708252}
+        - {x: -10.5, y: -28.708252}
+        - {x: -1.5, y: -29.708252}
+        - {x: 7.5, y: -29.708252}
+        - {x: 12.5, y: -27.708252}
+        - {x: 12.5, y: 16.291748}
+    - name: soldier_red_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.458332, y: 19.291748}
+        - {x: -17.458332, y: 8.291748}
+        - {x: -17.458332, y: -26.708252}
+        - {x: -15.458332, y: -27.708252}
+        - {x: -5.458332, y: -29.708252}
+        - {x: 10.541668, y: -29.708252}
+        - {x: 11.541668, y: -28.708252}
+        - {x: 11.541668, y: 13.291748}
+        - {x: 9.541668, y: 19.291748}
+    - name: soldier_red_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.416664, y: 21.291748}
+        - {x: -14.416664, y: -29.708252}
+        - {x: 13.583336, y: -29.708252}
+        - {x: 13.583336, y: 9.291748}
+        - {x: 7.583336, y: 21.291748}
+    - name: soldier_red_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.375, y: 21.291748}
+        - {x: -16.375, y: 13.291748}
+        - {x: -15.375, y: 7.291748}
+        - {x: -21.375, y: -2.708252}
+        - {x: -23.375, y: -7.708252}
+        - {x: -23.375, y: -17.708252}
+        - {x: -15.375, y: -29.708252}
+        - {x: 13.625, y: -29.708252}
+        - {x: 14.625, y: -27.708252}
+        - {x: 14.625, y: 4.291748}
+        - {x: 7.625, y: 21.291748}
+    - name: soldier_red_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.6666718, y: 21.291748}
+        - {x: -15.333328, y: 21.291748}
+        - {x: -26.333328, y: 12.291748}
+        - {x: -26.333328, y: -21.708252}
+        - {x: -23.333328, y: -29.708252}
+        - {x: 10.666672, y: -29.708252}
+        - {x: 13.666672, y: -21.708252}
+        - {x: 13.666672, y: 9.291748}
+        - {x: 11.666672, y: 18.291748}
+    - name: soldier_red_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.2916565, y: 21.291748}
+        - {x: -23.291656, y: 10.291748}
+        - {x: -23.291656, y: -11.708252}
+        - {x: -18.291656, y: -29.708252}
+        - {x: 13.7083435, y: -29.708252}
+        - {x: 13.7083435, y: 21.291748}
+    - name: soldier_red_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 22.25}
+        - {x: -14.5, y: 15.25}
+        - {x: -17.5, y: -1.75}
+        - {x: -17.5, y: -29.75}
+        - {x: 16.5, y: -29.75}
+        - {x: 16.5, y: 12.25}
+        - {x: 13.5, y: 22.25}
+    - name: soldier_red_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.458332, y: 22.25}
+        - {x: -14.458332, y: 10.25}
+        - {x: -15.458332, y: 7.25}
+        - {x: -15.458332, y: -29.75}
+        - {x: 14.541668, y: -29.75}
+        - {x: 14.541668, y: 15.25}
+        - {x: 5.541668, y: 22.25}
+    - name: soldier_red_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.416664, y: -29.75}
+        - {x: 14.583336, y: -29.75}
+        - {x: 14.583336, y: 2.25}
+        - {x: 13.583336, y: 12.25}
+        - {x: 7.583336, y: 20.25}
+        - {x: -8.416664, y: 20.25}
+        - {x: -15.416664, y: 16.25}
+    - name: soldier_red_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.375, y: 21.25}
+        - {x: -13.375, y: 14.25}
+        - {x: -14.375, y: -0.75}
+        - {x: -14.375, y: -28.75}
+        - {x: -12.375, y: -29.75}
+        - {x: 10.625, y: -29.75}
+        - {x: 15.625, y: -27.75}
+        - {x: 15.625, y: 16.25}
+        - {x: 13.625, y: 21.25}
+    - name: soldier_red_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.6666718, y: 22.25}
+        - {x: -0.33332825, y: 22.25}
+        - {x: -5.3333282, y: 21.25}
+        - {x: -11.333328, y: 15.25}
+        - {x: -14.333328, y: -4.75}
+        - {x: -14.333328, y: -28.75}
+        - {x: -13.333328, y: -29.75}
+        - {x: 18.666672, y: -29.75}
+        - {x: 24.666672, y: -22.75}
+        - {x: 24.666672, y: -1.75}
+        - {x: 14.666672, y: 16.25}
+    - name: soldier_red_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.708344, y: 22.25}
+        - {x: -4.2916565, y: 22.25}
+        - {x: -14.2916565, y: 16.25}
+        - {x: -15.2916565, y: 11.25}
+        - {x: -15.2916565, y: -24.75}
+        - {x: -13.2916565, y: -29.75}
+        - {x: 18.708344, y: -29.75}
+        - {x: 27.708344, y: -21.75}
+        - {x: 27.708344, y: 5.25}
+        - {x: 20.708344, y: 20.25}
+    - name: soldier_red_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 21.208374}
+        - {x: -13.5, y: 18.208374}
+        - {x: -13.5, y: -15.791626}
+        - {x: -10.5, y: -26.791626}
+        - {x: -8.5, y: -30.791626}
+        - {x: 2.5, y: -30.791626}
+        - {x: 11.5, y: -29.791626}
+        - {x: 11.5, y: 18.208374}
+        - {x: 7.5, y: 21.208374}
+    - name: soldier_red_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.458332, y: 19.208374}
+        - {x: -12.458332, y: -24.791626}
+        - {x: -11.458332, y: -30.791626}
+        - {x: 12.541668, y: -30.791626}
+        - {x: 16.541668, y: -27.791626}
+        - {x: 16.541668, y: 8.208374}
+        - {x: 12.541668, y: 19.208374}
+    - name: soldier_red_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.416664, y: 21.208374}
+        - {x: -14.416664, y: -30.791626}
+        - {x: 6.583336, y: -30.791626}
+        - {x: 13.583336, y: -27.791626}
+        - {x: 13.583336, y: 17.208374}
+        - {x: 10.583336, y: 21.208374}
+    - name: soldier_red_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.625, y: 21.208374}
+        - {x: -4.375, y: 21.208374}
+        - {x: -13.375, y: 18.208374}
+        - {x: -15.375, y: 5.208374}
+        - {x: -15.375, y: -22.791626}
+        - {x: -10.375, y: -30.791626}
+        - {x: 6.625, y: -30.791626}
+        - {x: 15.625, y: -28.791626}
+        - {x: 22.625, y: -13.791626}
+        - {x: 22.625, y: -0.791626}
+        - {x: 14.625, y: 16.208374}
+    - name: soldier_red_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.333328, y: 21.208374}
+        - {x: -14.333328, y: 6.208374}
+        - {x: -14.333328, y: -27.791626}
+        - {x: -11.333328, y: -30.791626}
+        - {x: 14.666672, y: -30.791626}
+        - {x: 25.666672, y: -5.791626}
+        - {x: 25.666672, y: 7.208374}
+        - {x: 11.666672, y: 21.208374}
+    - name: soldier_red_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.2916565, y: 21.208374}
+        - {x: -14.2916565, y: 6.208374}
+        - {x: -14.2916565, y: -27.791626}
+        - {x: -11.2916565, y: -30.791626}
+        - {x: 12.7083435, y: -30.791626}
+        - {x: 22.708344, y: -7.791626}
+        - {x: 22.708344, y: 11.208374}
+        - {x: 9.7083435, y: 21.208374}
+    - name: soldier_red_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 21.166687}
+        - {x: -18.5, y: -30.833313}
+        - {x: 14.5, y: -30.833313}
+        - {x: 15.5, y: -27.833313}
+        - {x: 15.5, y: 9.166687}
+        - {x: 6.5, y: 21.166687}
+    - name: soldier_red_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.458332, y: -15.833313}
+        - {x: -12.458332, y: -30.833313}
+        - {x: 14.541668, y: -30.833313}
+        - {x: 14.541668, y: -3.833313}
+        - {x: 12.541668, y: 15.166687}
+        - {x: 7.541668, y: 20.166687}
+        - {x: -7.458332, y: 20.166687}
+        - {x: -15.458332, y: 16.166687}
+    - name: soldier_red_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.583336, y: -30.833313}
+        - {x: 12.583336, y: 21.166687}
+        - {x: -13.416664, y: 21.166687}
+        - {x: -13.416664, y: -30.833313}
+    - name: soldier_red_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.375, y: 21.166687}
+        - {x: -14.375, y: 16.166687}
+        - {x: -14.375, y: -9.833313}
+        - {x: -7.375, y: -30.833313}
+        - {x: 11.625, y: -30.833313}
+        - {x: 11.625, y: 17.166687}
+        - {x: 9.625, y: 21.166687}
+    - name: soldier_red_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.6666718, y: 21.166687}
+        - {x: -14.333328, y: 21.166687}
+        - {x: -14.333328, y: -13.833313}
+        - {x: -9.333328, y: -30.833313}
+        - {x: 12.666672, y: -30.833313}
+        - {x: 16.666672, y: -22.833313}
+        - {x: 16.666672, y: 10.166687}
+        - {x: 13.666672, y: 16.166687}
+    - name: soldier_red_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.7083435, y: 21.166687}
+        - {x: -11.2916565, y: 21.166687}
+        - {x: -14.2916565, y: 16.166687}
+        - {x: -14.2916565, y: -8.833313}
+        - {x: -8.2916565, y: -30.833313}
+        - {x: 12.7083435, y: -30.833313}
+        - {x: 14.7083435, y: -11.833313}
+        - {x: 14.7083435, y: 1.166687}
+        - {x: 12.7083435, y: 15.166687}
+    - name: soldier_red_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.75, y: 21.166687}
+        - {x: -14.25, y: 21.166687}
+        - {x: -14.25, y: -11.833313}
+        - {x: -8.25, y: -30.833313}
+        - {x: 10.75, y: -30.833313}
+        - {x: 15.75, y: -17.833313}
+        - {x: 15.75, y: 20.166687}
+    - name: soldier_red_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.208313, y: 21.166687}
+        - {x: -14.208313, y: 18.166687}
+        - {x: -14.208313, y: -10.833313}
+        - {x: -7.208313, y: -30.833313}
+        - {x: 16.791687, y: -30.833313}
+        - {x: 16.791687, y: 21.166687}
+    - name: soldier_red_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.8333435, y: 16.166687}
+        - {x: 5.8333435, y: 21.166687}
+        - {x: -9.1666565, y: 21.166687}
+        - {x: -14.1666565, y: 15.166687}
+        - {x: -14.1666565, y: 0.16668701}
+        - {x: -10.1666565, y: -23.833313}
+        - {x: -4.1666565, y: -30.833313}
+        - {x: 9.8333435, y: -30.833313}
+        - {x: 10.8333435, y: -29.833313}
+        - {x: 17.833344, y: -16.833313}
+        - {x: 17.833344, y: 2.166687}
+    - name: soldier_red_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.875, y: 21.166687}
+        - {x: -5.125, y: 21.166687}
+        - {x: -9.125, y: 20.166687}
+        - {x: -14.125, y: 17.166687}
+        - {x: -14.125, y: -19.833313}
+        - {x: -10.125, y: -30.833313}
+        - {x: 13.875, y: -30.833313}
+        - {x: 16.875, y: -24.833313}
+        - {x: 16.875, y: 8.166687}
+        - {x: 12.875, y: 15.166687}
+    - name: soldier_red_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.083313, y: 21.166687}
+        - {x: -14.083313, y: 20.166687}
+        - {x: -14.083313, y: -11.833313}
+        - {x: -9.083313, y: -30.833313}
+        - {x: 12.916687, y: -30.833313}
+        - {x: 12.916687, y: 18.166687}
+        - {x: 5.916687, y: 21.166687}
+    - name: soldier_red_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.041626, y: 21.166687}
+        - {x: -14.041626, y: 20.166687}
+        - {x: -14.041626, y: -10.833313}
+        - {x: -9.041626, y: -30.833313}
+        - {x: 12.958374, y: -30.833313}
+        - {x: 12.958374, y: 17.166687}
+        - {x: 5.958374, y: 21.166687}
+    - name: soldier_red_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21.166687}
+        - {x: -14, y: 20.166687}
+        - {x: -14, y: -11.833313}
+        - {x: -9, y: -30.833313}
+        - {x: 13, y: -30.833313}
+        - {x: 13, y: 18.166687}
+        - {x: 6, y: 21.166687}
+    - name: soldier_red_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 21.125}
+        - {x: -11.5, y: 18.125}
+        - {x: -11.5, y: -28.875}
+        - {x: -2.5, y: -30.875}
+        - {x: 10.5, y: -30.875}
+        - {x: 13.5, y: -28.875}
+        - {x: 13.5, y: 19.125}
+        - {x: 8.5, y: 21.125}
+    - name: soldier_red_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.458332, y: 21.125}
+        - {x: -14.458332, y: -30.875}
+        - {x: 10.541668, y: -30.875}
+        - {x: 14.541668, y: -20.875}
+        - {x: 14.541668, y: 14.125}
+        - {x: 9.541668, y: 21.125}
+      - - {x: -1.4583321, y: 32.125}
+        - {x: -0.45833206, y: 29.125}
+        - {x: 6.541668, y: 29.125}
+        - {x: 8.541668, y: 31.125}
+        - {x: 8.541668, y: 32.125}
+    - name: soldier_red_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.416664, y: 21.125}
+        - {x: -15.416664, y: 5.125}
+        - {x: -19.416664, y: -4.875}
+        - {x: -19.416664, y: -12.875}
+        - {x: -16.416664, y: -17.875}
+        - {x: -9.416664, y: -29.875}
+        - {x: -5.416664, y: -30.875}
+        - {x: 9.583336, y: -30.875}
+        - {x: 16.583336, y: -18.875}
+        - {x: 16.583336, y: 17.125}
+        - {x: 9.583336, y: 21.125}
+      - - {x: -2.4166641, y: 32.125}
+        - {x: -1.4166641, y: 29.125}
+        - {x: 5.583336, y: 29.125}
+        - {x: 7.583336, y: 31.125}
+        - {x: 7.583336, y: 32.125}
+    - name: soldier_red_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.625, y: 21.125}
+        - {x: -8.375, y: 21.125}
+        - {x: -21.375, y: 7.125}
+        - {x: -21.375, y: -27.875}
+        - {x: -19.375, y: -30.875}
+        - {x: 11.625, y: -30.875}
+        - {x: 17.625, y: -16.875}
+        - {x: 17.625, y: 11.125}
+        - {x: 16.625, y: 17.125}
+      - - {x: -4.375, y: 32.125}
+        - {x: -3.375, y: 29.125}
+        - {x: 4.625, y: 29.125}
+        - {x: 6.625, y: 31.125}
+        - {x: 6.625, y: 32.125}
+    - name: soldier_red_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.3333282, y: 21.125}
+        - {x: -13.333328, y: 18.125}
+        - {x: -21.333328, y: 10.125}
+        - {x: -21.333328, y: -20.875}
+        - {x: -17.333328, y: -30.875}
+        - {x: 14.666672, y: -30.875}
+        - {x: 17.666672, y: -24.875}
+        - {x: 17.666672, y: 14.125}
+        - {x: 11.666672, y: 21.125}
+      - - {x: -4.3333282, y: 32.125}
+        - {x: -3.3333282, y: 29.125}
+        - {x: 4.6666718, y: 29.125}
+        - {x: 6.6666718, y: 31.125}
+        - {x: 6.6666718, y: 32.125}
+    - name: soldier_red_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.2916565, y: 21.125}
+        - {x: -22.291656, y: 10.125}
+        - {x: -22.291656, y: -16.875}
+        - {x: -17.291656, y: -30.875}
+        - {x: 13.7083435, y: -30.875}
+        - {x: 13.7083435, y: 15.125}
+        - {x: 8.7083435, y: 21.125}
+      - - {x: -4.2916565, y: 32.125}
+        - {x: -3.2916565, y: 29.125}
+        - {x: 4.7083435, y: 29.125}
+        - {x: 6.7083435, y: 31.125}
+        - {x: 6.7083435, y: 32.125}
+    - name: soldier_red_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.25, y: 21.125}
+        - {x: -22.25, y: 11.125}
+        - {x: -22.25, y: -6.875}
+        - {x: -12.25, y: -27.875}
+        - {x: -4.25, y: -30.875}
+        - {x: 13.75, y: -30.875}
+        - {x: 15.75, y: -25.875}
+        - {x: 15.75, y: 17.125}
+        - {x: 7.75, y: 21.125}
+      - - {x: -4.25, y: 32.125}
+        - {x: -3.25, y: 29.125}
+        - {x: 4.75, y: 29.125}
+        - {x: 6.75, y: 31.125}
+        - {x: 6.75, y: 32.125}
+    - name: soldier_red_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.791687, y: 21.125}
+        - {x: -9.208313, y: 21.125}
+        - {x: -21.208313, y: 11.125}
+        - {x: -21.208313, y: -12.875}
+        - {x: -13.208313, y: -28.875}
+        - {x: -4.208313, y: -30.875}
+        - {x: 11.791687, y: -30.875}
+        - {x: 13.791687, y: -28.875}
+        - {x: 18.791687, y: -11.875}
+        - {x: 18.791687, y: 18.125}
+      - - {x: -4.208313, y: 32.125}
+        - {x: -3.208313, y: 29.125}
+        - {x: 4.791687, y: 29.125}
+        - {x: 6.791687, y: 31.125}
+        - {x: 6.791687, y: 32.125}
+    - name: soldier_red_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.1666565, y: 21.125}
+        - {x: -21.166656, y: 6.125}
+        - {x: -21.166656, y: -9.875}
+        - {x: -13.1666565, y: -28.875}
+        - {x: -7.1666565, y: -30.875}
+        - {x: 15.8333435, y: -30.875}
+        - {x: 20.833344, y: -15.875}
+        - {x: 20.833344, y: 8.125}
+        - {x: 8.8333435, y: 21.125}
+      - - {x: -4.1666565, y: 32.125}
+        - {x: -3.1666565, y: 29.125}
+        - {x: 4.8333435, y: 29.125}
+        - {x: 6.8333435, y: 31.125}
+        - {x: 6.8333435, y: 32.125}
+    - name: soldier_red_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.875, y: 15.125}
+        - {x: 10.875, y: 21.125}
+        - {x: -7.125, y: 21.125}
+        - {x: -14.125, y: 19.125}
+        - {x: -20.125, y: 5.125}
+        - {x: -20.125, y: -11.875}
+        - {x: -10.125, y: -30.875}
+        - {x: 11.875, y: -30.875}
+        - {x: 13.875, y: -27.875}
+        - {x: 17.875, y: -8.875}
+        - {x: 17.875, y: -0.875}
+      - - {x: -4.125, y: 32.125}
+        - {x: -3.125, y: 29.125}
+        - {x: 4.875, y: 29.125}
+        - {x: 6.875, y: 31.125}
+        - {x: 6.875, y: 32.125}
+    - name: soldier_red_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.083313, y: 21.125}
+        - {x: -20.083313, y: 14.125}
+        - {x: -20.083313, y: -30.875}
+        - {x: 14.916687, y: -30.875}
+        - {x: 16.916687, y: -23.875}
+        - {x: 16.916687, y: 18.125}
+        - {x: 7.916687, y: 21.125}
+      - - {x: -4.083313, y: 32.125}
+        - {x: -3.083313, y: 29.125}
+        - {x: 5.916687, y: 29.125}
+        - {x: 7.916687, y: 31.125}
+        - {x: 7.916687, y: 32.125}
+    - name: soldier_red_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.041626, y: 21.125}
+        - {x: -20.041626, y: 9.125}
+        - {x: -20.041626, y: -19.875}
+        - {x: -16.041626, y: -30.875}
+        - {x: 14.958374, y: -30.875}
+        - {x: 14.958374, y: 21.125}
+      - - {x: -4.041626, y: 32.125}
+        - {x: -3.041626, y: 29.125}
+        - {x: 5.958374, y: 29.125}
+        - {x: 7.958374, y: 31.125}
+        - {x: 7.958374, y: 32.125}
+    - name: soldier_red_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21.125}
+        - {x: -20, y: 5.125}
+        - {x: -20, y: -10.875}
+        - {x: -13, y: -29.875}
+        - {x: -6, y: -30.875}
+        - {x: 18, y: -30.875}
+        - {x: 18, y: 19.125}
+        - {x: 11, y: 21.125}
+      - - {x: -4, y: 32.125}
+        - {x: -3, y: 29.125}
+        - {x: 6, y: 29.125}
+        - {x: 8, y: 31.125}
+        - {x: 8, y: 32.125}
+    - name: soldier_red_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 22.083374}
+        - {x: -18.5, y: 15.083374}
+        - {x: -18.5, y: -30.916626}
+        - {x: 15.5, y: -30.916626}
+        - {x: 15.5, y: 21.083374}
+        - {x: 9.5, y: 22.083374}
+    - name: soldier_red_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.541668, y: 22.083374}
+        - {x: -7.458332, y: 22.083374}
+        - {x: -16.458332, y: 18.083374}
+        - {x: -16.458332, y: -27.916626}
+        - {x: -0.45833206, y: -29.916626}
+        - {x: 9.541668, y: -29.916626}
+        - {x: 12.541668, y: -27.916626}
+        - {x: 12.541668, y: 15.083374}
+    - name: soldier_red_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.416664, y: 22.083374}
+        - {x: -16.416664, y: 11.083374}
+        - {x: -16.416664, y: -21.916626}
+        - {x: -11.416664, y: -28.916626}
+        - {x: -6.416664, y: -29.916626}
+        - {x: 9.583336, y: -29.916626}
+        - {x: 11.583336, y: -27.916626}
+        - {x: 11.583336, y: 20.083374}
+        - {x: 10.583336, y: 22.083374}
+    - name: soldier_red_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.375, y: 22.083374}
+        - {x: -16.375, y: 16.083374}
+        - {x: -16.375, y: -29.916626}
+        - {x: -12.375, y: -30.916626}
+        - {x: 5.625, y: -30.916626}
+        - {x: 10.625, y: -29.916626}
+        - {x: 11.625, y: -12.916626}
+        - {x: 11.625, y: 17.083374}
+        - {x: 8.625, y: 22.083374}
+    - name: soldier_red_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.333328, y: 22.083374}
+        - {x: -15.333328, y: -30.916626}
+        - {x: 5.6666718, y: -30.916626}
+        - {x: 9.666672, y: -29.916626}
+        - {x: 11.666672, y: -21.916626}
+        - {x: 11.666672, y: 17.083374}
+        - {x: 9.666672, y: 22.083374}
+    - name: soldier_red_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.2916565, y: 22.083374}
+        - {x: -15.2916565, y: -30.916626}
+        - {x: 5.7083435, y: -30.916626}
+        - {x: 10.7083435, y: -29.916626}
+        - {x: 11.7083435, y: -25.916626}
+        - {x: 11.7083435, y: 15.083374}
+        - {x: 9.7083435, y: 22.083374}
+    - name: soldier_red_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.25, y: 22.083374}
+        - {x: -15.25, y: 17.083374}
+        - {x: -15.25, y: -5.916626}
+        - {x: -13.25, y: -25.916626}
+        - {x: -5.25, y: -30.916626}
+        - {x: 9.75, y: -30.916626}
+        - {x: 11.75, y: -22.916626}
+        - {x: 11.75, y: 17.083374}
+        - {x: 7.75, y: 22.083374}
+    - name: soldier_red_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.791687, y: 17.083374}
+        - {x: 8.791687, y: 21.083374}
+        - {x: 6.791687, y: 22.083374}
+        - {x: -9.208313, y: 22.083374}
+        - {x: -16.208313, y: 18.083374}
+        - {x: -16.208313, y: -17.916626}
+        - {x: -15.208313, y: -27.916626}
+        - {x: -7.208313, y: -30.916626}
+        - {x: 5.791687, y: -30.916626}
+        - {x: 9.791687, y: -28.916626}
+        - {x: 10.791687, y: -14.916626}
+        - {x: 11.791687, y: -3.916626}
+    - name: soldier_red_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.1666565, y: 22.083374}
+        - {x: -16.166656, y: 21.083374}
+        - {x: -16.166656, y: -27.916626}
+        - {x: -8.1666565, y: -30.916626}
+        - {x: 11.8333435, y: -30.916626}
+        - {x: 12.8333435, y: -27.916626}
+        - {x: 12.8333435, y: 16.083374}
+        - {x: 9.8333435, y: 22.083374}
+    - name: soldier_red_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.125, y: 22.083374}
+        - {x: -15.125, y: 16.083374}
+        - {x: -15.125, y: -20.916626}
+        - {x: -9.125, y: -30.916626}
+        - {x: 10.875, y: -30.916626}
+        - {x: 12.875, y: -19.916626}
+        - {x: 12.875, y: 20.083374}
+        - {x: 9.875, y: 22.083374}
+    - name: soldier_red_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.083313, y: 22.083374}
+        - {x: -16.083313, y: 8.083374}
+        - {x: -16.083313, y: -22.916626}
+        - {x: -15.083313, y: -27.916626}
+        - {x: -6.083313, y: -30.916626}
+        - {x: 11.916687, y: -30.916626}
+        - {x: 12.916687, y: -21.916626}
+        - {x: 12.916687, y: 19.083374}
+        - {x: 7.916687, y: 22.083374}
+    - name: soldier_red_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.041626, y: 22.083374}
+        - {x: -9.041626, y: 21.083374}
+        - {x: -14.041626, y: 15.083374}
+        - {x: -14.041626, y: -26.916626}
+        - {x: -6.041626, y: -30.916626}
+        - {x: 9.958374, y: -30.916626}
+        - {x: 12.958374, y: -15.916626}
+        - {x: 12.958374, y: 19.083374}
+        - {x: 7.958374, y: 22.083374}
+    - name: soldier_red_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 22.083374}
+        - {x: -16, y: 8.083374}
+        - {x: -16, y: -22.916626}
+        - {x: -15, y: -27.916626}
+        - {x: -6, y: -30.916626}
+        - {x: 12, y: -30.916626}
+        - {x: 13, y: -21.916626}
+        - {x: 13, y: 19.083374}
+        - {x: 8, y: 22.083374}
+    - name: soldier_red_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 21.041687}
+        - {x: -9.5, y: 21.041687}
+        - {x: -14.5, y: 19.041687}
+        - {x: -14.5, y: -27.958313}
+        - {x: -13.5, y: -30.958313}
+        - {x: 8.5, y: -30.958313}
+        - {x: 10.5, y: -28.958313}
+        - {x: 10.5, y: 16.041687}
+    - name: soldier_red_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.458332, y: 21.041687}
+        - {x: -15.458332, y: 17.041687}
+        - {x: -15.458332, y: -19.958313}
+        - {x: -10.458332, y: -30.958313}
+        - {x: 13.541668, y: -30.958313}
+        - {x: 13.541668, y: 20.041687}
+        - {x: 12.541668, y: 21.041687}
+    - name: soldier_red_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.416664, y: 21.041687}
+        - {x: -17.416664, y: 13.041687}
+        - {x: -17.416664, y: -23.958313}
+        - {x: -12.416664, y: -30.958313}
+        - {x: 13.583336, y: -30.958313}
+        - {x: 18.583336, y: -27.958313}
+        - {x: 18.583336, y: 21.041687}
+    - name: soldier_red_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.375, y: 21.041687}
+        - {x: -18.375, y: 18.041687}
+        - {x: -18.375, y: -30.958313}
+        - {x: 15.625, y: -30.958313}
+        - {x: 20.625, y: -17.958313}
+        - {x: 20.625, y: 3.041687}
+        - {x: 6.625, y: 21.041687}
+    - name: soldier_red_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.6666718, y: 21.041687}
+        - {x: -8.333328, y: 21.041687}
+        - {x: -15.333328, y: 16.041687}
+        - {x: -18.333328, y: -0.958313}
+        - {x: -18.333328, y: -9.958313}
+        - {x: -13.333328, y: -30.958313}
+        - {x: 8.666672, y: -30.958313}
+        - {x: 11.666672, y: -27.958313}
+        - {x: 20.666672, y: -5.958313}
+        - {x: 20.666672, y: 3.041687}
+    - name: soldier_red_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.2916565, y: 21.041687}
+        - {x: -14.2916565, y: 18.041687}
+        - {x: -14.2916565, y: -30.958313}
+        - {x: 3.7083435, y: -30.958313}
+        - {x: 11.7083435, y: -28.958313}
+        - {x: 21.708344, y: -16.958313}
+        - {x: 21.708344, y: 13.041687}
+        - {x: 17.708344, y: 21.041687}
+    - name: soldier_red_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.25, y: 21.041687}
+        - {x: -16.25, y: -27.958313}
+        - {x: -14.25, y: -30.958313}
+        - {x: 10.75, y: -30.958313}
+        - {x: 21.75, y: -5.958313}
+        - {x: 21.75, y: 9.041687}
+        - {x: 4.75, y: 21.041687}
+    - name: soldier_red_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.208313, y: 21.041687}
+        - {x: -19.208313, y: 10.041687}
+        - {x: -19.208313, y: -20.958313}
+        - {x: -15.208313, y: -30.958313}
+        - {x: 10.791687, y: -30.958313}
+        - {x: 20.791687, y: -9.958313}
+        - {x: 20.791687, y: 11.041687}
+        - {x: 6.791687, y: 21.041687}
+    - name: soldier_red_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.1666565, y: 21.041687}
+        - {x: -21.166656, y: 5.041687}
+        - {x: -21.166656, y: -18.958313}
+        - {x: -15.1666565, y: -29.958313}
+        - {x: -12.1666565, y: -30.958313}
+        - {x: 16.833344, y: -30.958313}
+        - {x: 20.833344, y: -23.958313}
+        - {x: 20.833344, y: 5.041687}
+        - {x: 12.8333435, y: 21.041687}
+    - name: soldier_red_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.125, y: 21.041687}
+        - {x: -18.125, y: 18.041687}
+        - {x: -18.125, y: -18.958313}
+        - {x: -14.125, y: -30.958313}
+        - {x: 12.875, y: -30.958313}
+        - {x: 20.875, y: -19.958313}
+        - {x: 20.875, y: 5.041687}
+        - {x: 12.875, y: 21.041687}
+    - name: soldier_red_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.916687, y: 21.041687}
+        - {x: -11.083313, y: 21.041687}
+        - {x: -17.083313, y: 9.041687}
+        - {x: -17.083313, y: -25.958313}
+        - {x: -14.083313, y: -30.958313}
+        - {x: 0.916687, y: -30.958313}
+        - {x: 8.916687, y: -28.958313}
+        - {x: 11.916687, y: -27.958313}
+        - {x: 20.916687, y: -11.958313}
+        - {x: 20.916687, y: 10.041687}
+    - name: soldier_red_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.041626, y: 22.041687}
+        - {x: -14.041626, y: 19.041687}
+        - {x: -14.041626, y: -26.958313}
+        - {x: -12.041626, y: -30.958313}
+        - {x: 12.958374, y: -30.958313}
+        - {x: 20.958374, y: -12.958313}
+        - {x: 20.958374, y: 10.041687}
+        - {x: 11.958374, y: 22.041687}
+    - name: soldier_red_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 10.041687}
+        - {x: 7, y: 21.041687}
+        - {x: -12, y: 21.041687}
+        - {x: -16, y: 7.041687}
+        - {x: -16, y: -23.958313}
+        - {x: -12, y: -30.958313}
+        - {x: -1, y: -30.958313}
+        - {x: 9, y: -28.958313}
+        - {x: 12, y: -27.958313}
+        - {x: 21, y: -11.958313}
+    - name: soldier_red_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 22}
+        - {x: -11.5, y: 22}
+        - {x: -17.5, y: 5}
+        - {x: -17.5, y: -31}
+        - {x: 13.5, y: -31}
+        - {x: 16.5, y: -30}
+        - {x: 16.5, y: 8}
+    - name: soldier_red_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.541668, y: 21}
+        - {x: -5.458332, y: 21}
+        - {x: -15.458332, y: 15}
+        - {x: -16.458332, y: -3}
+        - {x: -16.458332, y: -22}
+        - {x: -11.458332, y: -31}
+        - {x: 16.541668, y: -31}
+        - {x: 18.541668, y: -24}
+        - {x: 18.541668, y: 9}
+        - {x: 14.541668, y: 15}
+    - name: soldier_red_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.416664, y: 14}
+        - {x: -15.416664, y: -9}
+        - {x: -15.416664, y: -31}
+        - {x: 14.583336, y: -31}
+        - {x: 18.583336, y: -24}
+        - {x: 18.583336, y: 6}
+        - {x: 13.583336, y: 14}
+    - name: soldier_red_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.625, y: 10}
+        - {x: -8.375, y: 10}
+        - {x: -15.375, y: 6}
+        - {x: -15.375, y: -30}
+        - {x: 14.625, y: -30}
+        - {x: 18.625, y: -28}
+        - {x: 18.625, y: -8}
+        - {x: 15.625, y: 5}
+    - name: soldier_red_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.3333282, y: 3}
+        - {x: -15.333328, y: -5}
+        - {x: -15.333328, y: -30}
+        - {x: 19.666672, y: -30}
+        - {x: 19.666672, y: -10}
+        - {x: 13.666672, y: 3}
+    - name: soldier_red_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.291656, y: 7}
+        - {x: -16.291656, y: -26}
+        - {x: -14.2916565, y: -31}
+        - {x: 21.708344, y: -31}
+        - {x: 21.708344, y: 2}
+        - {x: 20.708344, y: 7}
+    - name: soldier_red_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.2916565, y: 31.958374}
+        - {x: -0.2916565, y: 28.958374}
+        - {x: 5.7083435, y: 28.958374}
+        - {x: 7.7083435, y: 30.958374}
+        - {x: 7.7083435, y: 31.958374}
     outline: []
   spritePackingTag: 
   userData: 

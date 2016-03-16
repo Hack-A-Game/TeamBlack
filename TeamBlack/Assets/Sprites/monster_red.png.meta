@@ -1,9 +1,188 @@
 fileFormatVersion: 2
 guid: bc9f3735d834c274291a8a92f4cc384a
-timeCreated: 1458111774
+timeCreated: 1458128742
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: monster_red_0
+    21300002: monster_red_1
+    21300004: monster_red_2
+    21300006: monster_red_3
+    21300008: monster_red_4
+    21300010: monster_red_5
+    21300012: monster_red_6
+    21300014: monster_red_7
+    21300016: monster_red_8
+    21300018: monster_red_9
+    21300020: monster_red_10
+    21300022: monster_red_11
+    21300024: monster_red_12
+    21300026: monster_red_13
+    21300028: monster_red_14
+    21300030: monster_red_15
+    21300032: monster_red_16
+    21300034: monster_red_17
+    21300036: monster_red_18
+    21300038: monster_red_19
+    21300040: monster_red_20
+    21300042: monster_red_21
+    21300044: monster_red_22
+    21300046: monster_red_23
+    21300048: monster_red_24
+    21300050: monster_red_25
+    21300052: monster_red_26
+    21300054: monster_red_27
+    21300056: monster_red_28
+    21300058: monster_red_29
+    21300060: monster_red_30
+    21300062: monster_red_31
+    21300064: monster_red_32
+    21300066: monster_red_33
+    21300068: monster_red_34
+    21300070: monster_red_35
+    21300072: monster_red_36
+    21300074: monster_red_37
+    21300076: monster_red_38
+    21300078: monster_red_39
+    21300080: monster_red_40
+    21300082: monster_red_41
+    21300084: monster_red_42
+    21300086: monster_red_43
+    21300088: monster_red_44
+    21300090: monster_red_45
+    21300092: monster_red_46
+    21300094: monster_red_47
+    21300096: monster_red_48
+    21300098: monster_red_49
+    21300100: monster_red_50
+    21300102: monster_red_51
+    21300104: monster_red_52
+    21300106: monster_red_53
+    21300108: monster_red_54
+    21300110: monster_red_55
+    21300112: monster_red_56
+    21300114: monster_red_57
+    21300116: monster_red_58
+    21300118: monster_red_59
+    21300120: monster_red_60
+    21300122: monster_red_61
+    21300124: monster_red_62
+    21300126: monster_red_63
+    21300128: monster_red_64
+    21300130: monster_red_65
+    21300132: monster_red_66
+    21300134: monster_red_67
+    21300136: monster_red_68
+    21300138: monster_red_69
+    21300140: monster_red_70
+    21300142: monster_red_71
+    21300144: monster_red_72
+    21300146: monster_red_73
+    21300148: monster_red_74
+    21300150: monster_red_75
+    21300152: monster_red_76
+    21300154: monster_red_77
+    21300156: monster_red_78
+    21300158: monster_red_79
+    21300160: monster_red_80
+    21300162: monster_red_81
+    21300164: monster_red_82
+    21300166: monster_red_83
+    21300168: monster_red_84
+    21300170: monster_red_85
+    21300172: monster_red_86
+    21300174: monster_red_87
+    21300176: monster_red_88
+    21300178: monster_red_89
+    21300180: monster_red_90
+    21300182: monster_red_91
+    21300184: monster_red_92
+    21300186: monster_red_93
+    21300188: monster_red_94
+    21300190: monster_red_95
+    21300192: monster_red_96
+    21300194: monster_red_97
+    21300196: monster_red_98
+    21300198: monster_red_99
+    21300200: monster_red_100
+    21300202: monster_red_101
+    21300204: monster_red_102
+    21300206: monster_red_103
+    21300208: monster_red_104
+    21300210: monster_red_105
+    21300212: monster_red_106
+    21300214: monster_red_107
+    21300216: monster_red_108
+    21300218: monster_red_109
+    21300220: monster_red_110
+    21300222: monster_red_111
+    21300224: monster_red_112
+    21300226: monster_red_113
+    21300228: monster_red_114
+    21300230: monster_red_115
+    21300232: monster_red_116
+    21300234: monster_red_117
+    21300236: monster_red_118
+    21300238: monster_red_119
+    21300240: monster_red_120
+    21300242: monster_red_121
+    21300244: monster_red_122
+    21300246: monster_red_123
+    21300248: monster_red_124
+    21300250: monster_red_125
+    21300252: monster_red_126
+    21300254: monster_red_127
+    21300256: monster_red_128
+    21300258: monster_red_129
+    21300260: monster_red_130
+    21300262: monster_red_131
+    21300264: monster_red_132
+    21300266: monster_red_133
+    21300268: monster_red_134
+    21300270: monster_red_135
+    21300272: monster_red_136
+    21300274: monster_red_137
+    21300276: monster_red_138
+    21300278: monster_red_139
+    21300280: monster_red_140
+    21300282: monster_red_141
+    21300284: monster_red_142
+    21300286: monster_red_143
+    21300288: monster_red_144
+    21300290: monster_red_145
+    21300292: monster_red_146
+    21300294: monster_red_147
+    21300296: monster_red_148
+    21300298: monster_red_149
+    21300300: monster_red_150
+    21300302: monster_red_151
+    21300304: monster_red_152
+    21300306: monster_red_153
+    21300308: monster_red_154
+    21300310: monster_red_155
+    21300312: monster_red_156
+    21300314: monster_red_157
+    21300316: monster_red_158
+    21300318: monster_red_159
+    21300320: monster_red_160
+    21300322: monster_red_161
+    21300324: monster_red_162
+    21300326: monster_red_163
+    21300328: monster_red_164
+    21300330: monster_red_165
+    21300332: monster_red_166
+    21300334: monster_red_167
+    21300336: monster_red_168
+    21300338: monster_red_169
+    21300340: monster_red_170
+    21300342: monster_red_171
+    21300344: monster_red_172
+    21300346: monster_red_173
+    21300348: monster_red_174
+    21300350: monster_red_175
+    21300352: monster_red_176
+    21300354: monster_red_177
+    21300356: monster_red_178
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -26,11 +205,11 @@ TextureImporter:
   cubemapConvolutionSteps: 7
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
-  textureFormat: -1
+  textureFormat: -3
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +217,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,7 +228,3547 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: monster_red_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 54.854248}
+        - {x: -5.5, y: 54.854248}
+        - {x: -17.5, y: 47.854248}
+        - {x: -17.5, y: -0.14575195}
+        - {x: 16.5, y: -0.14575195}
+        - {x: 16.5, y: 29.854248}
+        - {x: 13.5, y: 43.854248}
+    - name: monster_red_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.458332, y: 54.854248}
+        - {x: -16.458332, y: 33.854248}
+        - {x: -16.458332, y: 0.85424805}
+        - {x: -13.458332, y: -0.14575195}
+        - {x: 15.541668, y: -0.14575195}
+        - {x: 15.541668, y: 54.854248}
+    - name: monster_red_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.416664, y: 54.854248}
+        - {x: -16.416664, y: 39.854248}
+        - {x: -16.416664, y: 1.854248}
+        - {x: -12.416664, y: -0.14575195}
+        - {x: 11.583336, y: -0.14575195}
+        - {x: 15.583336, y: 0.85424805}
+        - {x: 15.583336, y: 47.854248}
+        - {x: 6.583336, y: 54.854248}
+    - name: monster_red_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.625, y: 44.854248}
+        - {x: 2.625, y: 54.854248}
+        - {x: -11.375, y: 54.854248}
+        - {x: -20.375, y: 50.854248}
+        - {x: -20.375, y: -0.14575195}
+        - {x: 13.625, y: -0.14575195}
+        - {x: 16.625, y: 1.854248}
+        - {x: 19.625, y: 16.854248}
+        - {x: 19.625, y: 32.854248}
+    - name: monster_red_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.666672, y: 38.854248}
+        - {x: 1.6666718, y: 54.854248}
+        - {x: -6.3333282, y: 54.854248}
+        - {x: -17.333328, y: 46.854248}
+        - {x: -27.333328, y: 35.854248}
+        - {x: -27.333328, y: 17.854248}
+        - {x: -16.333328, y: 2.854248}
+        - {x: -10.333328, y: -0.14575195}
+        - {x: 10.666672, y: -0.14575195}
+        - {x: 13.666672, y: 3.854248}
+        - {x: 26.666672, y: 26.854248}
+    - name: monster_red_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.708344, y: 43.854248}
+        - {x: 10.7083435, y: 54.854248}
+        - {x: -11.2916565, y: 54.854248}
+        - {x: -25.291656, y: 47.854248}
+        - {x: -26.291656, y: 45.854248}
+        - {x: -26.291656, y: 25.854248}
+        - {x: -15.2916565, y: -0.14575195}
+        - {x: 9.7083435, y: -0.14575195}
+        - {x: 14.7083435, y: 2.854248}
+        - {x: 13.7083435, y: 8.854248}
+        - {x: 25.708344, y: 26.854248}
+    - name: monster_red_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.75, y: 54.854248}
+        - {x: -6.25, y: 54.854248}
+        - {x: -11.25, y: 51.854248}
+        - {x: -20.25, y: 28.854248}
+        - {x: -20.25, y: 9.854248}
+        - {x: -16.25, y: 1.854248}
+        - {x: -11.25, y: -0.14575195}
+        - {x: 13.75, y: -0.14575195}
+        - {x: 16.75, y: 1.854248}
+        - {x: 19.75, y: 11.854248}
+        - {x: 19.75, y: 33.854248}
+    - name: monster_red_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 54.812622}
+        - {x: -4.5, y: 54.812622}
+        - {x: -11.5, y: 49.812622}
+        - {x: -11.5, y: 2.812622}
+        - {x: -10.5, y: 0.8126221}
+        - {x: -6.5, y: -0.18737793}
+        - {x: 8.5, y: -0.18737793}
+        - {x: 12.5, y: 7.812622}
+        - {x: 12.5, y: 40.812622}
+        - {x: 10.5, y: 50.812622}
+    - name: monster_red_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.458332, y: 54.812622}
+        - {x: -13.458332, y: 48.812622}
+        - {x: -13.458332, y: 1.8126221}
+        - {x: -9.458332, y: -0.18737793}
+        - {x: 10.541668, y: -0.18737793}
+        - {x: 13.541668, y: 0.8126221}
+        - {x: 13.541668, y: 48.812622}
+        - {x: 6.541668, y: 54.812622}
+    - name: monster_red_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.583336, y: 54.812622}
+        - {x: -3.4166641, y: 54.812622}
+        - {x: -12.416664, y: 49.812622}
+        - {x: -12.416664, y: 0.8126221}
+        - {x: -4.416664, y: -0.18737793}
+        - {x: 8.583336, y: -0.18737793}
+        - {x: 12.583336, y: 2.812622}
+        - {x: 12.583336, y: 47.812622}
+    - name: monster_red_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.375, y: 54.812622}
+        - {x: -14.375, y: 48.812622}
+        - {x: -14.375, y: 8.812622}
+        - {x: -11.375, y: -0.18737793}
+        - {x: 9.625, y: -0.18737793}
+        - {x: 15.625, y: 11.812622}
+        - {x: 15.625, y: 39.812622}
+        - {x: 7.625, y: 54.812622}
+    - name: monster_red_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.333328, y: 54.812622}
+        - {x: -16.333328, y: -0.18737793}
+        - {x: 7.6666718, y: -0.18737793}
+        - {x: 20.666672, y: 14.812622}
+        - {x: 20.666672, y: 41.812622}
+        - {x: 13.666672, y: 54.812622}
+    - name: monster_red_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.7083435, y: 54.812622}
+        - {x: -7.2916565, y: 54.812622}
+        - {x: -16.291656, y: 41.812622}
+        - {x: -16.291656, y: 17.812622}
+        - {x: -14.2916565, y: 1.8126221}
+        - {x: -8.2916565, y: -0.18737793}
+        - {x: 9.7083435, y: -0.18737793}
+        - {x: 9.7083435, y: 8.812622}
+        - {x: 20.708344, y: 28.812622}
+        - {x: 20.708344, y: 37.812622}
+    - name: monster_red_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.75, y: 54.812622}
+        - {x: -4.25, y: 54.812622}
+        - {x: -13.25, y: 46.812622}
+        - {x: -14.25, y: 41.812622}
+        - {x: -14.25, y: 4.812622}
+        - {x: -13.25, y: 1.8126221}
+        - {x: -7.25, y: -0.18737793}
+        - {x: 11.75, y: -0.18737793}
+        - {x: 17.75, y: 13.812622}
+        - {x: 17.75, y: 30.812622}
+        - {x: 11.75, y: 50.812622}
+    - name: monster_red_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 56.770874}
+        - {x: -3.5, y: 56.770874}
+        - {x: -14.5, y: 48.770874}
+        - {x: -17.5, y: 29.770874}
+        - {x: -17.5, y: 7.770874}
+        - {x: -14.5, y: -0.22912598}
+        - {x: 13.5, y: -0.22912598}
+        - {x: 16.5, y: 5.770874}
+        - {x: 16.5, y: 37.770874}
+        - {x: 15.5, y: 45.770874}
+    - name: monster_red_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.541668, y: 56.770874}
+        - {x: -17.458332, y: 56.770874}
+        - {x: -17.458332, y: -0.22912598}
+        - {x: 10.541668, y: -0.22912598}
+        - {x: 15.541668, y: 1.770874}
+        - {x: 16.541668, y: 4.770874}
+        - {x: 16.541668, y: 42.770874}
+    - name: monster_red_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.416664, y: 56.770874}
+        - {x: -16.416664, y: 43.770874}
+        - {x: -16.416664, y: -0.22912598}
+        - {x: 15.583336, y: -0.22912598}
+        - {x: 15.583336, y: 51.770874}
+        - {x: 6.583336, y: 56.770874}
+    - name: monster_red_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.625, y: 56.770874}
+        - {x: -2.375, y: 56.770874}
+        - {x: -7.375, y: 54.770874}
+        - {x: -20.375, y: 35.770874}
+        - {x: -20.375, y: 9.770874}
+        - {x: -16.375, y: -0.22912598}
+        - {x: 13.625, y: -0.22912598}
+        - {x: 19.625, y: 10.770874}
+        - {x: 19.625, y: 28.770874}
+        - {x: 12.625, y: 43.770874}
+    - name: monster_red_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.333328, y: 56.770874}
+        - {x: -27.333328, y: 44.770874}
+        - {x: -27.333328, y: 20.770874}
+        - {x: -14.333328, y: -0.22912598}
+        - {x: 20.666672, y: -0.22912598}
+        - {x: 26.666672, y: 7.770874}
+        - {x: 26.666672, y: 47.770874}
+        - {x: 19.666672, y: 56.770874}
+    - name: monster_red_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.2916565, y: 56.770874}
+        - {x: -26.291656, y: 43.770874}
+        - {x: -26.291656, y: 33.770874}
+        - {x: -25.291656, y: 30.770874}
+        - {x: -13.2916565, y: -0.22912598}
+        - {x: 17.708344, y: -0.22912598}
+        - {x: 25.708344, y: 23.770874}
+        - {x: 25.708344, y: 43.770874}
+        - {x: 10.7083435, y: 56.770874}
+    - name: monster_red_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.25, y: 56.770874}
+        - {x: -14.25, y: 44.770874}
+        - {x: -19.25, y: 22.770874}
+        - {x: -19.25, y: 12.770874}
+        - {x: -13.25, y: -0.22912598}
+        - {x: 15.75, y: -0.22912598}
+        - {x: 18.75, y: 1.770874}
+        - {x: 18.75, y: 47.770874}
+        - {x: 5.75, y: 56.770874}
+    - name: monster_red_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 54.729248}
+        - {x: -13.5, y: 46.729248}
+        - {x: -13.5, y: 8.729248}
+        - {x: -10.5, y: -0.27075195}
+        - {x: 7.5, y: -0.27075195}
+        - {x: 10.5, y: 0.72924805}
+        - {x: 10.5, y: 48.729248}
+        - {x: 2.5, y: 54.729248}
+    - name: monster_red_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.458332, y: 54.729248}
+        - {x: -14.458332, y: 45.729248}
+        - {x: -14.458332, y: 6.729248}
+        - {x: -9.458332, y: -0.27075195}
+        - {x: 12.541668, y: -0.27075195}
+        - {x: 12.541668, y: 49.729248}
+        - {x: 6.541668, y: 54.729248}
+    - name: monster_red_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.416664, y: 54.729248}
+        - {x: -13.416664, y: 41.729248}
+        - {x: -13.416664, y: 6.729248}
+        - {x: -9.416664, y: -0.27075195}
+        - {x: 11.583336, y: -0.27075195}
+        - {x: 11.583336, y: 48.729248}
+        - {x: 6.583336, y: 54.729248}
+    - name: monster_red_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.375, y: 54.729248}
+        - {x: -16.375, y: 39.729248}
+        - {x: -16.375, y: 6.729248}
+        - {x: -14.375, y: 0.72924805}
+        - {x: -8.375, y: -0.27075195}
+        - {x: 13.625, y: -0.27075195}
+        - {x: 13.625, y: 44.729248}
+        - {x: 7.625, y: 54.729248}
+    - name: monster_red_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.6666718, y: 54.729248}
+        - {x: -7.3333282, y: 54.729248}
+        - {x: -21.333328, y: 42.729248}
+        - {x: -21.333328, y: 16.729248}
+        - {x: -17.333328, y: -0.27075195}
+        - {x: 9.666672, y: -0.27075195}
+        - {x: 15.666672, y: 16.729248}
+        - {x: 15.666672, y: 42.729248}
+        - {x: 14.666672, y: 48.729248}
+    - name: monster_red_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.7083435, y: 54.729248}
+        - {x: -5.2916565, y: 54.729248}
+        - {x: -21.291656, y: 44.729248}
+        - {x: -21.291656, y: 17.729248}
+        - {x: -15.2916565, y: -0.27075195}
+        - {x: 9.7083435, y: -0.27075195}
+        - {x: 15.7083435, y: 16.729248}
+        - {x: 15.7083435, y: 44.729248}
+        - {x: 12.7083435, y: 53.729248}
+    - name: monster_red_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.25, y: 54.729248}
+        - {x: -15.25, y: 45.729248}
+        - {x: -18.25, y: 33.729248}
+        - {x: -18.25, y: 13.729248}
+        - {x: -10.25, y: -0.27075195}
+        - {x: 10.75, y: -0.27075195}
+        - {x: 13.75, y: 9.729248}
+        - {x: 13.75, y: 52.729248}
+        - {x: 4.75, y: 54.729248}
+    - name: monster_red_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 43.687622}
+        - {x: 2.5, y: 54.687622}
+        - {x: -5.5, y: 54.687622}
+        - {x: -14.5, y: 43.687622}
+        - {x: -17.5, y: 37.687622}
+        - {x: -17.5, y: 2.687622}
+        - {x: -13.5, y: -0.31237793}
+        - {x: 14.5, y: -0.31237793}
+        - {x: 15.5, y: 0.6876221}
+        - {x: 16.5, y: 8.687622}
+        - {x: 16.5, y: 34.687622}
+    - name: monster_red_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.541668, y: 53.687622}
+        - {x: -8.458332, y: 53.687622}
+        - {x: -14.458332, y: 50.687622}
+        - {x: -14.458332, y: 3.687622}
+        - {x: -13.458332, y: -0.31237793}
+        - {x: 11.541668, y: -0.31237793}
+        - {x: 15.541668, y: 4.687622}
+        - {x: 15.541668, y: 43.687622}
+    - name: monster_red_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.416664, y: 54.687622}
+        - {x: -12.416664, y: 49.687622}
+        - {x: -12.416664, y: 2.687622}
+        - {x: -5.416664, y: -0.31237793}
+        - {x: 13.583336, y: -0.31237793}
+        - {x: 13.583336, y: 45.687622}
+        - {x: 10.583336, y: 54.687622}
+    - name: monster_red_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.375, y: 54.687622}
+        - {x: -12.375, y: 44.687622}
+        - {x: -12.375, y: 5.687622}
+        - {x: -4.375, y: -0.31237793}
+        - {x: 13.625, y: -0.31237793}
+        - {x: 13.625, y: 45.687622}
+        - {x: 2.625, y: 54.687622}
+    - name: monster_red_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.3333282, y: 53.687622}
+        - {x: -11.333328, y: 43.687622}
+        - {x: -11.333328, y: 22.687622}
+        - {x: -10.333328, y: 6.687622}
+        - {x: -3.3333282, y: -0.31237793}
+        - {x: 13.666672, y: -0.31237793}
+        - {x: 14.666672, y: 10.687622}
+        - {x: 14.666672, y: 45.687622}
+        - {x: 4.6666718, y: 53.687622}
+    - name: monster_red_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.2916565, y: 53.687622}
+        - {x: -11.2916565, y: 43.687622}
+        - {x: -11.2916565, y: 22.687622}
+        - {x: -10.2916565, y: 6.687622}
+        - {x: -3.2916565, y: -0.31237793}
+        - {x: 13.7083435, y: -0.31237793}
+        - {x: 14.7083435, y: 12.687622}
+        - {x: 14.7083435, y: 43.687622}
+        - {x: 3.7083435, y: 53.687622}
+    - name: monster_red_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.25, y: 53.687622}
+        - {x: -11.25, y: 49.687622}
+        - {x: -11.25, y: 7.687622}
+        - {x: -8.25, y: -0.31237793}
+        - {x: 10.75, y: -0.31237793}
+        - {x: 14.75, y: 7.687622}
+        - {x: 14.75, y: 46.687622}
+        - {x: 4.75, y: 53.687622}
+    - name: monster_red_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.208313, y: 54.687622}
+        - {x: -12.208313, y: 47.687622}
+        - {x: -12.208313, y: 1.6876221}
+        - {x: -7.208313, y: -0.31237793}
+        - {x: 12.791687, y: -0.31237793}
+        - {x: 13.791687, y: 14.687622}
+        - {x: 13.791687, y: 48.687622}
+        - {x: 7.791687, y: 54.687622}
+    - name: monster_red_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 54.645874}
+        - {x: -11.5, y: 52.645874}
+        - {x: -11.5, y: -0.35412598}
+        - {x: 12.5, y: -0.35412598}
+        - {x: 12.5, y: 53.645874}
+        - {x: 11.5, y: 54.645874}
+    - name: monster_red_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.541668, y: 54.645874}
+        - {x: -13.458332, y: 54.645874}
+        - {x: -15.458332, y: 47.645874}
+        - {x: -15.458332, y: 2.645874}
+        - {x: -14.458332, y: 0.645874}
+        - {x: -8.458332, y: -0.35412598}
+        - {x: 8.541668, y: -0.35412598}
+        - {x: 13.541668, y: 9.645874}
+        - {x: 13.541668, y: 43.645874}
+        - {x: 11.541668, y: 51.645874}
+      - - {x: -0.45833206, y: 62.645874}
+        - {x: 0.54166794, y: 59.645874}
+        - {x: 7.541668, y: 59.645874}
+        - {x: 9.541668, y: 61.645874}
+        - {x: 9.541668, y: 62.645874}
+    - name: monster_red_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.416664, y: 54.645874}
+        - {x: -14.416664, y: 46.645874}
+        - {x: -15.416664, y: 34.645874}
+        - {x: -15.416664, y: 14.645874}
+        - {x: -10.416664, y: -0.35412598}
+        - {x: 15.583336, y: -0.35412598}
+        - {x: 15.583336, y: 54.645874}
+      - - {x: -1.4166641, y: 62.645874}
+        - {x: -0.41666412, y: 59.645874}
+        - {x: 6.583336, y: 59.645874}
+        - {x: 8.583336, y: 61.645874}
+        - {x: 8.583336, y: 62.645874}
+    - name: monster_red_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.375, y: 54.645874}
+        - {x: -12.375, y: 49.645874}
+        - {x: -12.375, y: 0.645874}
+        - {x: -3.375, y: -0.35412598}
+        - {x: 16.625, y: -0.35412598}
+        - {x: 16.625, y: 50.645874}
+        - {x: 10.625, y: 54.645874}
+      - - {x: -1.375, y: 62.645874}
+        - {x: -0.375, y: 59.645874}
+        - {x: 6.625, y: 59.645874}
+        - {x: 8.625, y: 61.645874}
+        - {x: 8.625, y: 62.645874}
+    - name: monster_red_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.333328, y: 54.645874}
+        - {x: -19.333328, y: 44.645874}
+        - {x: -19.333328, y: 7.645874}
+        - {x: -13.333328, y: 2.645874}
+        - {x: -6.3333282, y: -0.35412598}
+        - {x: 11.666672, y: -0.35412598}
+        - {x: 11.666672, y: 54.645874}
+      - - {x: -1.3333282, y: 62.645874}
+        - {x: -0.33332825, y: 59.645874}
+        - {x: 6.6666718, y: 59.645874}
+        - {x: 8.666672, y: 61.645874}
+        - {x: 8.666672, y: 62.645874}
+    - name: monster_red_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.2916565, y: 54.645874}
+        - {x: -15.2916565, y: 46.645874}
+        - {x: -22.291656, y: 23.645874}
+        - {x: -22.291656, y: 14.645874}
+        - {x: -13.2916565, y: 2.645874}
+        - {x: -4.2916565, y: -0.35412598}
+        - {x: 10.7083435, y: -0.35412598}
+        - {x: 11.7083435, y: 2.645874}
+        - {x: 11.7083435, y: 47.645874}
+        - {x: 5.7083435, y: 54.645874}
+      - - {x: -1.2916565, y: 62.645874}
+        - {x: -0.2916565, y: 59.645874}
+        - {x: 6.7083435, y: 59.645874}
+        - {x: 8.7083435, y: 61.645874}
+        - {x: 8.7083435, y: 62.645874}
+    - name: monster_red_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.25, y: 54.645874}
+        - {x: -19.25, y: 34.645874}
+        - {x: -19.25, y: 8.645874}
+        - {x: -13.25, y: 2.645874}
+        - {x: -5.25, y: -0.35412598}
+        - {x: 11.75, y: -0.35412598}
+        - {x: 11.75, y: 49.645874}
+        - {x: 4.75, y: 54.645874}
+      - - {x: -1.25, y: 62.645874}
+        - {x: -0.25, y: 59.645874}
+        - {x: 7.75, y: 59.645874}
+        - {x: 9.75, y: 61.645874}
+        - {x: 9.75, y: 62.645874}
+    - name: monster_red_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.791687, y: 54.645874}
+        - {x: -9.208313, y: 54.645874}
+        - {x: -12.208313, y: 50.645874}
+        - {x: -12.208313, y: 1.645874}
+        - {x: -5.208313, y: -0.35412598}
+        - {x: 9.791687, y: -0.35412598}
+        - {x: 13.791687, y: 0.645874}
+        - {x: 16.791687, y: 20.645874}
+        - {x: 16.791687, y: 42.645874}
+      - - {x: -1.208313, y: 62.645874}
+        - {x: -0.20831299, y: 59.645874}
+        - {x: 7.791687, y: 59.645874}
+        - {x: 9.791687, y: 61.645874}
+        - {x: 9.791687, y: 62.645874}
+    - name: monster_red_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 55.604248}
+        - {x: -15.5, y: 44.604248}
+        - {x: -17.5, y: 24.604248}
+        - {x: -17.5, y: 0.60424805}
+        - {x: -14.5, y: -0.39575195}
+        - {x: 16.5, y: -0.39575195}
+        - {x: 16.5, y: 51.604248}
+        - {x: 6.5, y: 55.604248}
+    - name: monster_red_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.4583321, y: 55.604248}
+        - {x: -15.458332, y: 45.604248}
+        - {x: -15.458332, y: 13.604248}
+        - {x: -12.458332, y: 4.604248}
+        - {x: -9.458332, y: 1.604248}
+        - {x: -7.458332, y: 0.60424805}
+        - {x: 12.541668, y: 0.60424805}
+        - {x: 12.541668, y: 46.604248}
+        - {x: 5.541668, y: 55.604248}
+    - name: monster_red_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.4166641, y: 55.604248}
+        - {x: -13.416664, y: 50.604248}
+        - {x: -13.416664, y: 2.604248}
+        - {x: -12.416664, y: 0.60424805}
+        - {x: 12.583336, y: 0.60424805}
+        - {x: 12.583336, y: 45.604248}
+        - {x: 6.583336, y: 55.604248}
+    - name: monster_red_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.375, y: 55.604248}
+        - {x: -16.375, y: 41.604248}
+        - {x: -16.375, y: 6.604248}
+        - {x: -15.375, y: 3.604248}
+        - {x: -2.375, y: 0.60424805}
+        - {x: 12.625, y: 0.60424805}
+        - {x: 12.625, y: 51.604248}
+        - {x: 7.625, y: 55.604248}
+    - name: monster_red_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.6666718, y: 54.604248}
+        - {x: -4.3333282, y: 54.604248}
+        - {x: -13.333328, y: 46.604248}
+        - {x: -13.333328, y: 3.604248}
+        - {x: -10.333328, y: 2.604248}
+        - {x: -5.3333282, y: 0.60424805}
+        - {x: 12.666672, y: 0.60424805}
+        - {x: 12.666672, y: 45.604248}
+        - {x: 11.666672, y: 46.604248}
+    - name: monster_red_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.2916565, y: 54.604248}
+        - {x: -13.2916565, y: 48.604248}
+        - {x: -13.2916565, y: 1.604248}
+        - {x: -11.2916565, y: 0.60424805}
+        - {x: 12.7083435, y: 0.60424805}
+        - {x: 12.7083435, y: 46.604248}
+        - {x: 8.7083435, y: 54.604248}
+    - name: monster_red_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.25, y: 54.604248}
+        - {x: -13.25, y: 48.604248}
+        - {x: -13.25, y: 14.604248}
+        - {x: -12.25, y: 0.60424805}
+        - {x: 12.75, y: 0.60424805}
+        - {x: 12.75, y: 44.604248}
+        - {x: 6.75, y: 54.604248}
+    - name: monster_red_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.791687, y: 55.604248}
+        - {x: -6.208313, y: 55.604248}
+        - {x: -16.208313, y: 40.604248}
+        - {x: -16.208313, y: 12.604248}
+        - {x: -11.208313, y: 0.60424805}
+        - {x: 11.791687, y: 0.60424805}
+        - {x: 12.791687, y: 1.604248}
+        - {x: 12.791687, y: 48.604248}
+    - name: monster_red_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 53.562622}
+        - {x: -13.5, y: 49.562622}
+        - {x: -13.5, y: 2.562622}
+        - {x: -12.5, y: -0.43737793}
+        - {x: 10.5, y: -0.43737793}
+        - {x: 10.5, y: 47.562622}
+        - {x: 3.5, y: 53.562622}
+    - name: monster_red_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.458332, y: 53.562622}
+        - {x: -12.458332, y: 51.562622}
+        - {x: -14.458332, y: 42.562622}
+        - {x: -14.458332, y: 13.562622}
+        - {x: -10.458332, y: 3.562622}
+        - {x: -7.458332, y: -0.43737793}
+        - {x: 9.541668, y: -0.43737793}
+        - {x: 14.541668, y: 4.562622}
+        - {x: 14.541668, y: 48.562622}
+        - {x: 3.541668, y: 53.562622}
+    - name: monster_red_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.583336, y: 51.562622}
+        - {x: 9.583336, y: 53.562622}
+        - {x: -7.416664, y: 53.562622}
+        - {x: -14.416664, y: 44.562622}
+        - {x: -16.416664, y: 32.562622}
+        - {x: -16.416664, y: 14.562622}
+        - {x: -13.416664, y: 0.5626221}
+        - {x: -8.416664, y: -0.43737793}
+        - {x: 14.583336, y: -0.43737793}
+    - name: monster_red_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.625, y: 53.562622}
+        - {x: -5.375, y: 53.562622}
+        - {x: -17.375, y: 49.562622}
+        - {x: -17.375, y: -0.43737793}
+        - {x: 1.625, y: -0.43737793}
+        - {x: 11.625, y: 1.5626221}
+        - {x: 11.625, y: 40.562622}
+        - {x: 9.625, y: 52.562622}
+    - name: monster_red_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.6666718, y: 53.562622}
+        - {x: -4.3333282, y: 53.562622}
+        - {x: -12.333328, y: 44.562622}
+        - {x: -12.333328, y: 0.5626221}
+        - {x: -11.333328, y: -0.43737793}
+        - {x: 3.6666718, y: -0.43737793}
+        - {x: 13.666672, y: 0.5626221}
+        - {x: 18.666672, y: 12.562622}
+        - {x: 18.666672, y: 32.562622}
+        - {x: 16.666672, y: 47.562622}
+    - name: monster_red_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.2916565, y: 53.562622}
+        - {x: -7.2916565, y: 48.562622}
+        - {x: -12.2916565, y: 44.562622}
+        - {x: -12.2916565, y: 0.5626221}
+        - {x: -11.2916565, y: -0.43737793}
+        - {x: 2.7083435, y: -0.43737793}
+        - {x: 13.7083435, y: 1.5626221}
+        - {x: 21.708344, y: 9.562622}
+        - {x: 21.708344, y: 27.562622}
+        - {x: 11.7083435, y: 53.562622}
+    - name: monster_red_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.25, y: 53.562622}
+        - {x: -7.25, y: 48.562622}
+        - {x: -12.25, y: 44.562622}
+        - {x: -12.25, y: 0.5626221}
+        - {x: -11.25, y: -0.43737793}
+        - {x: 14.75, y: -0.43737793}
+        - {x: 18.75, y: 12.562622}
+        - {x: 18.75, y: 28.562622}
+        - {x: 10.75, y: 53.562622}
+    - name: monster_red_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.791687, y: 53.562622}
+        - {x: -11.208313, y: 53.562622}
+        - {x: -17.208313, y: 50.562622}
+        - {x: -17.208313, y: -0.43737793}
+        - {x: 5.791687, y: -0.43737793}
+        - {x: 10.791687, y: 0.5626221}
+        - {x: 11.791687, y: 3.562622}
+        - {x: 11.791687, y: 48.562622}
+    - name: monster_red_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 54.520874}
+        - {x: -17.5, y: 42.520874}
+        - {x: -17.5, y: 0.520874}
+        - {x: 16.5, y: 0.520874}
+        - {x: 16.5, y: 48.520874}
+        - {x: 9.5, y: 54.520874}
+    - name: monster_red_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.458332, y: 54.520874}
+        - {x: -17.458332, y: 37.520874}
+        - {x: -17.458332, y: 2.520874}
+        - {x: -16.458332, y: 0.520874}
+        - {x: 16.541668, y: 0.520874}
+        - {x: 16.541668, y: 42.520874}
+        - {x: 11.541668, y: 54.520874}
+    - name: monster_red_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.416664, y: 54.520874}
+        - {x: -17.416664, y: 50.520874}
+        - {x: -17.416664, y: -0.47912598}
+        - {x: 16.583336, y: -0.47912598}
+        - {x: 16.583336, y: 39.520874}
+        - {x: 8.583336, y: 54.520874}
+    - name: monster_red_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.375, y: 53.520874}
+        - {x: -17.375, y: 47.520874}
+        - {x: -17.375, y: 2.520874}
+        - {x: -9.375, y: -0.47912598}
+        - {x: 15.625, y: -0.47912598}
+        - {x: 15.625, y: 49.520874}
+        - {x: 11.625, y: 53.520874}
+    - name: monster_red_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.6666718, y: 54.520874}
+        - {x: -8.333328, y: 54.520874}
+        - {x: -13.333328, y: 51.520874}
+        - {x: -17.333328, y: 32.520874}
+        - {x: -17.333328, y: -0.47912598}
+        - {x: 14.666672, y: -0.47912598}
+        - {x: 16.666672, y: 4.520874}
+        - {x: 16.666672, y: 32.520874}
+        - {x: 13.666672, y: 45.520874}
+    - name: monster_red_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.2916565, y: 54.520874}
+        - {x: -17.291656, y: 50.520874}
+        - {x: -17.291656, y: 0.520874}
+        - {x: 16.708344, y: 0.520874}
+        - {x: 16.708344, y: 48.520874}
+        - {x: 5.7083435, y: 54.520874}
+    - name: monster_red_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.75, y: 54.520874}
+        - {x: -6.25, y: 54.520874}
+        - {x: -14.25, y: 44.520874}
+        - {x: -17.25, y: 38.520874}
+        - {x: -17.25, y: 3.520874}
+        - {x: -13.25, y: -0.47912598}
+        - {x: 7.75, y: -0.47912598}
+        - {x: 16.75, y: 11.520874}
+        - {x: 16.75, y: 30.520874}
+        - {x: 14.75, y: 45.520874}
+    - name: monster_red_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.791687, y: 53.520874}
+        - {x: -7.208313, y: 53.520874}
+        - {x: -16.208313, y: 43.520874}
+        - {x: -16.208313, y: -0.47912598}
+        - {x: 7.791687, y: -0.47912598}
+        - {x: 16.791687, y: 6.520874}
+        - {x: 16.791687, y: 34.520874}
+        - {x: 13.791687, y: 44.520874}
+    - name: monster_red_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.1666565, y: 54.520874}
+        - {x: -16.166656, y: 45.520874}
+        - {x: -17.166656, y: 35.520874}
+        - {x: -17.166656, y: 11.520874}
+        - {x: -10.1666565, y: -0.47912598}
+        - {x: 16.833344, y: -0.47912598}
+        - {x: 16.833344, y: 52.520874}
+        - {x: 12.8333435, y: 54.520874}
+    - name: monster_red_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 55.479248}
+        - {x: -11.5, y: 50.479248}
+        - {x: -11.5, y: 1.479248}
+        - {x: 12.5, y: 1.479248}
+        - {x: 12.5, y: 52.479248}
+        - {x: 5.5, y: 55.479248}
+    - name: monster_red_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.458332, y: 54.479248}
+        - {x: -15.458332, y: 41.479248}
+        - {x: -15.458332, y: 1.479248}
+        - {x: 8.541668, y: 1.479248}
+        - {x: 13.541668, y: 4.479248}
+        - {x: 13.541668, y: 46.479248}
+        - {x: 5.541668, y: 54.479248}
+    - name: monster_red_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.4166641, y: 55.479248}
+        - {x: -13.416664, y: 50.479248}
+        - {x: -13.416664, y: 2.479248}
+        - {x: 7.583336, y: 2.479248}
+        - {x: 12.583336, y: 4.479248}
+        - {x: 12.583336, y: 51.479248}
+        - {x: 8.583336, y: 55.479248}
+    - name: monster_red_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.375, y: 55.479248}
+        - {x: -11.375, y: 48.479248}
+        - {x: -11.375, y: 33.479248}
+        - {x: -8.375, y: 3.479248}
+        - {x: -6.375, y: 2.479248}
+        - {x: 9.625, y: 2.479248}
+        - {x: 14.625, y: 6.479248}
+        - {x: 14.625, y: 37.479248}
+        - {x: 9.625, y: 55.479248}
+    - name: monster_red_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.333328, y: 1.479248}
+        - {x: 8.666672, y: 1.479248}
+        - {x: 15.666672, y: 5.479248}
+        - {x: 15.666672, y: 44.479248}
+        - {x: 12.666672, y: 55.479248}
+        - {x: -11.333328, y: 55.479248}
+        - {x: -12.333328, y: 43.479248}
+    - name: monster_red_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.7083435, y: 54.479248}
+        - {x: -10.2916565, y: 54.479248}
+        - {x: -14.2916565, y: 46.479248}
+        - {x: -14.2916565, y: 4.479248}
+        - {x: -13.2916565, y: 3.479248}
+        - {x: -9.2916565, y: 1.479248}
+        - {x: 7.7083435, y: 1.479248}
+        - {x: 17.708344, y: 10.479248}
+        - {x: 17.708344, y: 29.479248}
+        - {x: 12.7083435, y: 52.479248}
+    - name: monster_red_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.75, y: 55.479248}
+        - {x: -11.25, y: 55.479248}
+        - {x: -11.25, y: 5.479248}
+        - {x: -7.25, y: 1.479248}
+        - {x: 7.75, y: 1.479248}
+        - {x: 15.75, y: 10.479248}
+        - {x: 15.75, y: 28.479248}
+        - {x: 12.75, y: 46.479248}
+    - name: monster_red_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.208313, y: 55.479248}
+        - {x: -11.208313, y: 16.479248}
+        - {x: -7.208313, y: 1.479248}
+        - {x: 14.791687, y: 1.479248}
+        - {x: 14.791687, y: 55.479248}
+    - name: monster_red_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.8333435, y: 55.479248}
+        - {x: -4.1666565, y: 55.479248}
+        - {x: -11.1666565, y: 49.479248}
+        - {x: -11.1666565, y: 26.479248}
+        - {x: -9.1666565, y: 10.479248}
+        - {x: -8.1666565, y: 4.479248}
+        - {x: -7.1666565, y: 1.479248}
+        - {x: 10.8333435, y: 1.479248}
+        - {x: 13.8333435, y: 9.479248}
+        - {x: 13.8333435, y: 38.479248}
+        - {x: 11.8333435, y: 51.479248}
+    - name: monster_red_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 57.437622}
+        - {x: -17.5, y: 51.437622}
+        - {x: -17.5, y: 1.4376221}
+        - {x: 16.5, y: 1.4376221}
+        - {x: 16.5, y: 39.437622}
+        - {x: 8.5, y: 57.437622}
+    - name: monster_red_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.541668, y: 57.437622}
+        - {x: -3.458332, y: 57.437622}
+        - {x: -14.458332, y: 49.437622}
+        - {x: -17.458332, y: 32.437622}
+        - {x: -17.458332, y: 9.437622}
+        - {x: -12.458332, y: 1.4376221}
+        - {x: 16.541668, y: 1.4376221}
+        - {x: 16.541668, y: 40.437622}
+    - name: monster_red_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.583336, y: 47.437622}
+        - {x: 5.583336, y: 57.437622}
+        - {x: -1.4166641, y: 57.437622}
+        - {x: -14.416664, y: 49.437622}
+        - {x: -17.416664, y: 33.437622}
+        - {x: -17.416664, y: 11.437622}
+        - {x: -11.416664, y: 0.43762207}
+        - {x: 10.583336, y: 0.43762207}
+        - {x: 12.583336, y: 4.437622}
+        - {x: 16.583336, y: 17.437622}
+        - {x: 16.583336, y: 26.437622}
+    - name: monster_red_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.375, y: 56.437622}
+        - {x: -15.375, y: 46.437622}
+        - {x: -16.375, y: 39.437622}
+        - {x: -16.375, y: 8.437622}
+        - {x: -11.375, y: 1.4376221}
+        - {x: -6.375, y: 0.43762207}
+        - {x: 11.625, y: 0.43762207}
+        - {x: 16.625, y: 5.437622}
+        - {x: 16.625, y: 40.437622}
+        - {x: 9.625, y: 56.437622}
+    - name: monster_red_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.6666718, y: 57.437622}
+        - {x: -4.3333282, y: 57.437622}
+        - {x: -14.333328, y: 48.437622}
+        - {x: -17.333328, y: 26.437622}
+        - {x: -17.333328, y: 10.437622}
+        - {x: -11.333328, y: 0.43762207}
+        - {x: 11.666672, y: 0.43762207}
+        - {x: 16.666672, y: 11.437622}
+        - {x: 16.666672, y: 34.437622}
+        - {x: 14.666672, y: 46.437622}
+    - name: monster_red_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.7083435, y: 57.437622}
+        - {x: -4.2916565, y: 57.437622}
+        - {x: -13.2916565, y: 48.437622}
+        - {x: -17.291656, y: 29.437622}
+        - {x: -17.291656, y: 8.437622}
+        - {x: -13.2916565, y: 1.4376221}
+        - {x: 11.7083435, y: 1.4376221}
+        - {x: 16.708344, y: 10.437622}
+        - {x: 16.708344, y: 39.437622}
+        - {x: 15.7083435, y: 46.437622}
+    - name: monster_red_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.75, y: 57.437622}
+        - {x: -0.25, y: 57.437622}
+        - {x: -8.25, y: 55.437622}
+        - {x: -17.25, y: 40.437622}
+        - {x: -17.25, y: 11.437622}
+        - {x: -11.25, y: 0.43762207}
+        - {x: 9.75, y: 0.43762207}
+        - {x: 16.75, y: 10.437622}
+        - {x: 16.75, y: 25.437622}
+        - {x: 12.75, y: 48.437622}
+    - name: monster_red_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.208313, y: 56.437622}
+        - {x: -17.208313, y: 38.437622}
+        - {x: -17.208313, y: 4.437622}
+        - {x: -14.208313, y: 0.43762207}
+        - {x: 15.791687, y: 0.43762207}
+        - {x: 15.791687, y: 52.437622}
+        - {x: 8.791687, y: 56.437622}
+    - name: monster_red_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.1666565, y: 57.437622}
+        - {x: -13.1666565, y: 48.437622}
+        - {x: -17.166656, y: 29.437622}
+        - {x: -17.166656, y: 10.437622}
+        - {x: -12.1666565, y: 0.43762207}
+        - {x: 16.833344, y: 0.43762207}
+        - {x: 16.833344, y: 52.437622}
+        - {x: 5.8333435, y: 57.437622}
+    - name: monster_red_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 55.395874}
+        - {x: -13.5, y: 47.395874}
+        - {x: -13.5, y: 10.395874}
+        - {x: -8.5, y: 1.395874}
+        - {x: 10.5, y: 1.395874}
+        - {x: 10.5, y: 51.395874}
+        - {x: 3.5, y: 55.395874}
+    - name: monster_red_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.541668, y: 33.395874}
+        - {x: 7.541668, y: 54.395874}
+        - {x: -5.458332, y: 54.395874}
+        - {x: -14.458332, y: 44.395874}
+        - {x: -14.458332, y: 3.395874}
+        - {x: -9.458332, y: 1.395874}
+        - {x: 8.541668, y: 1.395874}
+        - {x: 14.541668, y: 6.395874}
+    - name: monster_red_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5833359, y: 55.395874}
+        - {x: -5.416664, y: 55.395874}
+        - {x: -13.416664, y: 46.395874}
+        - {x: -13.416664, y: 14.395874}
+        - {x: -9.416664, y: 2.395874}
+        - {x: 10.583336, y: 2.395874}
+        - {x: 12.583336, y: 3.395874}
+        - {x: 12.583336, y: 47.395874}
+    - name: monster_red_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.375, y: 55.395874}
+        - {x: -12.375, y: 44.395874}
+        - {x: -15.375, y: 32.395874}
+        - {x: -15.375, y: 9.395874}
+        - {x: -8.375, y: 2.395874}
+        - {x: 9.625, y: 2.395874}
+        - {x: 10.625, y: 11.395874}
+        - {x: 10.625, y: 51.395874}
+        - {x: 3.625, y: 55.395874}
+    - name: monster_red_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.3333282, y: 55.395874}
+        - {x: -14.333328, y: 45.395874}
+        - {x: -16.333328, y: 32.395874}
+        - {x: -16.333328, y: 10.395874}
+        - {x: -11.333328, y: 1.395874}
+        - {x: 8.666672, y: 1.395874}
+        - {x: 11.666672, y: 2.395874}
+        - {x: 11.666672, y: 39.395874}
+        - {x: 10.666672, y: 46.395874}
+        - {x: 6.6666718, y: 53.395874}
+        - {x: 1.6666718, y: 55.395874}
+    - name: monster_red_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.7083435, y: 54.395874}
+        - {x: -5.2916565, y: 54.395874}
+        - {x: -11.2916565, y: 50.395874}
+        - {x: -18.291656, y: 25.395874}
+        - {x: -18.291656, y: 8.395874}
+        - {x: -14.2916565, y: 2.395874}
+        - {x: -6.2916565, y: 1.395874}
+        - {x: 10.7083435, y: 1.395874}
+        - {x: 13.7083435, y: 11.395874}
+        - {x: 13.7083435, y: 35.395874}
+        - {x: 10.7083435, y: 51.395874}
+    - name: monster_red_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.25, y: 55.395874}
+        - {x: -16.25, y: 39.395874}
+        - {x: -16.25, y: 6.395874}
+        - {x: -9.25, y: 2.395874}
+        - {x: -5.25, y: 1.395874}
+        - {x: 10.75, y: 1.395874}
+        - {x: 10.75, y: 52.395874}
+        - {x: 9.75, y: 55.395874}
+    - name: monster_red_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.791687, y: 55.395874}
+        - {x: -9.208313, y: 55.395874}
+        - {x: -15.208313, y: 51.395874}
+        - {x: -15.208313, y: 1.395874}
+        - {x: 6.791687, y: 1.395874}
+        - {x: 11.791687, y: 12.395874}
+        - {x: 11.791687, y: 49.395874}
+    - name: monster_red_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.1666565, y: 55.395874}
+        - {x: -14.1666565, y: 53.395874}
+        - {x: -14.1666565, y: 9.395874}
+        - {x: -8.1666565, y: 1.395874}
+        - {x: 8.8333435, y: 1.395874}
+        - {x: 11.8333435, y: 19.395874}
+        - {x: 11.8333435, y: 51.395874}
+        - {x: 3.8333435, y: 55.395874}
+    - name: monster_red_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 55.354248}
+        - {x: -17.5, y: 50.354248}
+        - {x: -17.5, y: 1.354248}
+        - {x: 16.5, y: 1.354248}
+        - {x: 16.5, y: 50.354248}
+        - {x: 4.5, y: 55.354248}
+    - name: monster_red_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.458332, y: 54.354248}
+        - {x: -15.458332, y: 46.354248}
+        - {x: -15.458332, y: 3.354248}
+        - {x: -8.458332, y: 0.35424805}
+        - {x: 13.541668, y: 0.35424805}
+        - {x: 14.541668, y: 1.354248}
+        - {x: 14.541668, y: 41.354248}
+        - {x: 6.541668, y: 54.354248}
+    - name: monster_red_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5833359, y: 54.354248}
+        - {x: -5.416664, y: 54.354248}
+        - {x: -14.416664, y: 47.354248}
+        - {x: -14.416664, y: 5.354248}
+        - {x: -13.416664, y: 0.35424805}
+        - {x: 12.583336, y: 0.35424805}
+        - {x: 14.583336, y: 1.354248}
+        - {x: 14.583336, y: 40.354248}
+    - name: monster_red_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.375, y: 55.354248}
+        - {x: -15.375, y: 47.354248}
+        - {x: -15.375, y: 0.35424805}
+        - {x: 15.625, y: 0.35424805}
+        - {x: 15.625, y: 46.354248}
+        - {x: 4.625, y: 55.354248}
+    - name: monster_red_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.333328, y: 55.354248}
+        - {x: -16.333328, y: 52.354248}
+        - {x: -16.333328, y: 0.35424805}
+        - {x: 18.666672, y: 0.35424805}
+        - {x: 23.666672, y: 10.354248}
+        - {x: 23.666672, y: 38.354248}
+        - {x: 9.666672, y: 55.354248}
+    - name: monster_red_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.2916565, y: 55.354248}
+        - {x: -16.291656, y: 38.354248}
+        - {x: -16.291656, y: 0.35424805}
+        - {x: 20.708344, y: 0.35424805}
+        - {x: 26.708344, y: 20.354248}
+        - {x: 26.708344, y: 44.354248}
+        - {x: 5.7083435, y: 55.354248}
+    - name: monster_red_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 55.312622}
+        - {x: -11.5, y: 50.312622}
+        - {x: -11.5, y: 1.3126221}
+        - {x: 12.5, y: 1.3126221}
+        - {x: 12.5, y: 54.312622}
+        - {x: 11.5, y: 55.312622}
+    - name: monster_red_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.458332, y: 53.312622}
+        - {x: -17.458332, y: 46.312622}
+        - {x: -17.458332, y: 6.312622}
+        - {x: -15.458332, y: 3.312622}
+        - {x: -3.458332, y: 1.3126221}
+        - {x: 8.541668, y: 1.3126221}
+        - {x: 11.541668, y: 4.312622}
+        - {x: 11.541668, y: 39.312622}
+        - {x: 7.541668, y: 53.312622}
+    - name: monster_red_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.416664, y: 55.312622}
+        - {x: -14.416664, y: 47.312622}
+        - {x: -14.416664, y: 1.3126221}
+        - {x: 13.583336, y: 1.3126221}
+        - {x: 13.583336, y: 48.312622}
+        - {x: 4.583336, y: 55.312622}
+    - name: monster_red_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.625, y: 55.312622}
+        - {x: -7.375, y: 55.312622}
+        - {x: -17.375, y: 47.312622}
+        - {x: -23.375, y: 29.312622}
+        - {x: -23.375, y: 11.312622}
+        - {x: -16.375, y: 3.312622}
+        - {x: -7.375, y: 1.3126221}
+        - {x: 9.625, y: 1.3126221}
+        - {x: 14.625, y: 9.312622}
+        - {x: 14.625, y: 27.312622}
+        - {x: 9.625, y: 51.312622}
+    - name: monster_red_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.6666718, y: 55.312622}
+        - {x: -11.333328, y: 55.312622}
+        - {x: -26.333328, y: 40.312622}
+        - {x: -26.333328, y: 24.312622}
+        - {x: -14.333328, y: 1.3126221}
+        - {x: 9.666672, y: 1.3126221}
+        - {x: 13.666672, y: 8.312622}
+        - {x: 13.666672, y: 28.312622}
+        - {x: 7.6666718, y: 51.312622}
+    - name: monster_red_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.291656, y: 6.312622}
+        - {x: -21.291656, y: 1.3126221}
+        - {x: 13.7083435, y: 1.3126221}
+        - {x: 13.7083435, y: 31.312622}
+        - {x: 10.7083435, y: 53.312622}
+        - {x: 6.7083435, y: 55.312622}
+        - {x: -9.2916565, y: 55.312622}
+        - {x: -23.291656, y: 43.312622}
+    - name: monster_red_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 57.270874}
+        - {x: -17.5, y: 36.270874}
+        - {x: -17.5, y: 1.270874}
+        - {x: 16.5, y: 1.270874}
+        - {x: 16.5, y: 45.270874}
+        - {x: 9.5, y: 57.270874}
+    - name: monster_red_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.541668, y: 57.270874}
+        - {x: -0.45833206, y: 57.270874}
+        - {x: -15.458332, y: 44.270874}
+        - {x: -15.458332, y: 1.270874}
+        - {x: 14.541668, y: 1.270874}
+        - {x: 14.541668, y: 40.270874}
+        - {x: 11.541668, y: 47.270874}
+    - name: monster_red_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.4166641, y: 55.270874}
+        - {x: -15.416664, y: 48.270874}
+        - {x: -15.416664, y: 1.270874}
+        - {x: 14.583336, y: 1.270874}
+        - {x: 14.583336, y: 43.270874}
+        - {x: 5.583336, y: 55.270874}
+    - name: monster_red_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.375, y: 56.270874}
+        - {x: -11.375, y: 47.270874}
+        - {x: -14.375, y: 29.270874}
+        - {x: -14.375, y: 2.270874}
+        - {x: -13.375, y: 1.270874}
+        - {x: 3.625, y: 1.270874}
+        - {x: 15.625, y: 2.270874}
+        - {x: 15.625, y: 46.270874}
+        - {x: 4.625, y: 56.270874}
+    - name: monster_red_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.666672, y: 29.270874}
+        - {x: 9.666672, y: 57.270874}
+        - {x: 1.6666718, y: 57.270874}
+        - {x: -11.333328, y: 45.270874}
+        - {x: -14.333328, y: 29.270874}
+        - {x: -14.333328, y: 1.270874}
+        - {x: 9.666672, y: 1.270874}
+        - {x: 13.666672, y: 2.270874}
+        - {x: 14.666672, y: 4.270874}
+        - {x: 21.666672, y: 13.270874}
+        - {x: 24.666672, y: 19.270874}
+    - name: monster_red_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.2916565, y: 57.270874}
+        - {x: -6.2916565, y: 56.270874}
+        - {x: -15.2916565, y: 31.270874}
+        - {x: -15.2916565, y: 1.270874}
+        - {x: 15.7083435, y: 1.270874}
+        - {x: 27.708344, y: 11.270874}
+        - {x: 27.708344, y: 32.270874}
+        - {x: 14.7083435, y: 57.270874}
+    - name: monster_red_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 55.229248}
+        - {x: -13.5, y: 52.229248}
+        - {x: -13.5, y: 3.229248}
+        - {x: -12.5, y: 0.22924805}
+        - {x: 10.5, y: 0.22924805}
+        - {x: 10.5, y: 49.229248}
+        - {x: 2.5, y: 55.229248}
+    - name: monster_red_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.458332, y: 53.229248}
+        - {x: -12.458332, y: 47.229248}
+        - {x: -12.458332, y: 1.229248}
+        - {x: -11.458332, y: 0.22924805}
+        - {x: 16.541668, y: 0.22924805}
+        - {x: 16.541668, y: 49.229248}
+        - {x: 7.541668, y: 53.229248}
+    - name: monster_red_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.416664, y: 55.229248}
+        - {x: -14.416664, y: 41.229248}
+        - {x: -14.416664, y: 0.22924805}
+        - {x: 13.583336, y: 0.22924805}
+        - {x: 13.583336, y: 55.229248}
+    - name: monster_red_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.625, y: 48.229248}
+        - {x: 5.625, y: 55.229248}
+        - {x: -4.375, y: 55.229248}
+        - {x: -8.375, y: 51.229248}
+        - {x: -15.375, y: 29.229248}
+        - {x: -15.375, y: 6.229248}
+        - {x: -10.375, y: 0.22924805}
+        - {x: 18.625, y: 0.22924805}
+        - {x: 22.625, y: 7.229248}
+        - {x: 22.625, y: 22.229248}
+    - name: monster_red_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.3333282, y: 55.229248}
+        - {x: -14.333328, y: 29.229248}
+        - {x: -14.333328, y: 5.229248}
+        - {x: -11.333328, y: 0.22924805}
+        - {x: 7.6666718, y: 0.22924805}
+        - {x: 15.666672, y: 2.229248}
+        - {x: 25.666672, y: 16.229248}
+        - {x: 25.666672, y: 38.229248}
+        - {x: 16.666672, y: 55.229248}
+    - name: monster_red_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.2916565, y: 55.229248}
+        - {x: -14.2916565, y: 31.229248}
+        - {x: -14.2916565, y: 5.229248}
+        - {x: -11.2916565, y: 0.22924805}
+        - {x: 6.7083435, y: 0.22924805}
+        - {x: 15.7083435, y: 2.229248}
+        - {x: 22.708344, y: 25.229248}
+        - {x: 22.708344, y: 40.229248}
+        - {x: 8.7083435, y: 55.229248}
+    - name: monster_red_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 55.1875}
+        - {x: -18.5, y: 50.1875}
+        - {x: -18.5, y: 0.1875}
+        - {x: 13.5, y: 0.1875}
+        - {x: 15.5, y: 4.1875}
+        - {x: 15.5, y: 38.1875}
+        - {x: 3.5, y: 55.1875}
+    - name: monster_red_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.458332, y: 54.1875}
+        - {x: -14.458332, y: 53.1875}
+        - {x: -15.458332, y: 46.1875}
+        - {x: -15.458332, y: 6.1875}
+        - {x: -11.458332, y: 0.1875}
+        - {x: 14.541668, y: 0.1875}
+        - {x: 14.541668, y: 46.1875}
+        - {x: 3.541668, y: 54.1875}
+    - name: monster_red_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.416664, y: 55.1875}
+        - {x: -13.416664, y: 45.1875}
+        - {x: -13.416664, y: 5.1875}
+        - {x: -7.416664, y: 0.1875}
+        - {x: 12.583336, y: 0.1875}
+        - {x: 12.583336, y: 47.1875}
+        - {x: 1.5833359, y: 55.1875}
+    - name: monster_red_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.375, y: 55.1875}
+        - {x: -14.375, y: 47.1875}
+        - {x: -14.375, y: 14.1875}
+        - {x: -7.375, y: 0.1875}
+        - {x: 11.625, y: 0.1875}
+        - {x: 11.625, y: 46.1875}
+        - {x: 6.625, y: 55.1875}
+    - name: monster_red_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.33332825, y: 55.1875}
+        - {x: -5.3333282, y: 55.1875}
+        - {x: -14.333328, y: 49.1875}
+        - {x: -14.333328, y: 21.1875}
+        - {x: -10.333328, y: 0.1875}
+        - {x: 9.666672, y: 0.1875}
+        - {x: 16.666672, y: 9.1875}
+        - {x: 16.666672, y: 33.1875}
+        - {x: 12.666672, y: 44.1875}
+    - name: monster_red_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.2916565, y: 55.1875}
+        - {x: -14.2916565, y: 1.1875}
+        - {x: -12.2916565, y: 0.1875}
+        - {x: 12.7083435, y: 0.1875}
+        - {x: 14.7083435, y: 9.1875}
+        - {x: 14.7083435, y: 40.1875}
+        - {x: 4.7083435, y: 55.1875}
+    - name: monster_red_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.75, y: 55.1875}
+        - {x: -4.25, y: 55.1875}
+        - {x: -14.25, y: 48.1875}
+        - {x: -14.25, y: 22.1875}
+        - {x: -12.25, y: 7.1875}
+        - {x: -7.25, y: 0.1875}
+        - {x: 12.75, y: 0.1875}
+        - {x: 15.75, y: 8.1875}
+        - {x: 15.75, y: 42.1875}
+        - {x: 13.75, y: 47.1875}
+    - name: monster_red_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.791687, y: 54.1875}
+        - {x: -6.208313, y: 54.1875}
+        - {x: -14.208313, y: 52.1875}
+        - {x: -14.208313, y: 2.1875}
+        - {x: -6.208313, y: 0.1875}
+        - {x: 12.791687, y: 0.1875}
+        - {x: 16.791687, y: 8.1875}
+        - {x: 16.791687, y: 49.1875}
+    - name: monster_red_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.1666565, y: 55.1875}
+        - {x: -14.1666565, y: 48.1875}
+        - {x: -14.1666565, y: 25.1875}
+        - {x: -7.1666565, y: 0.1875}
+        - {x: 17.833344, y: 0.1875}
+        - {x: 17.833344, y: 55.1875}
+    - name: monster_red_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.125, y: 55.1875}
+        - {x: -14.125, y: 1.1875}
+        - {x: -11.125, y: 0.1875}
+        - {x: 13.875, y: 0.1875}
+        - {x: 16.875, y: 4.1875}
+        - {x: 16.875, y: 38.1875}
+        - {x: 7.875, y: 55.1875}
+    - name: monster_red_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.083313, y: 55.1875}
+        - {x: -14.083313, y: 47.1875}
+        - {x: -14.083313, y: 21.1875}
+        - {x: -12.083313, y: 6.1875}
+        - {x: -5.083313, y: 0.1875}
+        - {x: 11.916687, y: 0.1875}
+        - {x: 12.916687, y: 2.1875}
+        - {x: 12.916687, y: 47.1875}
+        - {x: 3.916687, y: 55.1875}
+    - name: monster_red_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.958374, y: 55.1875}
+        - {x: -10.041626, y: 55.1875}
+        - {x: -14.041626, y: 44.1875}
+        - {x: -14.041626, y: 19.1875}
+        - {x: -10.041626, y: 7.1875}
+        - {x: -5.041626, y: 1.1875}
+        - {x: -4.041626, y: 0.1875}
+        - {x: 10.958374, y: 0.1875}
+        - {x: 11.958374, y: 1.1875}
+        - {x: 12.958374, y: 10.1875}
+        - {x: 12.958374, y: 46.1875}
+    - name: monster_red_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 44.1875}
+        - {x: 4, y: 55.1875}
+        - {x: -5, y: 55.1875}
+        - {x: -14, y: 49.1875}
+        - {x: -14, y: 3.1875}
+        - {x: -6, y: 0.1875}
+        - {x: 12, y: 0.1875}
+        - {x: 13, y: 1.1875}
+    - name: monster_red_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 55.145813}
+        - {x: -3.5, y: 55.145813}
+        - {x: -10.5, y: 49.145813}
+        - {x: -10.5, y: 1.145813}
+        - {x: -5.5, y: 0.14581299}
+        - {x: 9.5, y: 0.14581299}
+        - {x: 13.5, y: 8.145813}
+        - {x: 13.5, y: 43.145813}
+        - {x: 12.5, y: 51.145813}
+    - name: monster_red_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.541668, y: 55.145813}
+        - {x: -12.458332, y: 55.145813}
+        - {x: -14.458332, y: 48.145813}
+        - {x: -14.458332, y: 3.145813}
+        - {x: -13.458332, y: 1.145813}
+        - {x: -8.458332, y: 0.14581299}
+        - {x: 9.541668, y: 0.14581299}
+        - {x: 14.541668, y: 11.145813}
+        - {x: 14.541668, y: 42.145813}
+        - {x: 12.541668, y: 52.145813}
+      - - {x: -1.4583321, y: 63.145813}
+        - {x: -0.45833206, y: 60.145813}
+        - {x: 6.541668, y: 60.145813}
+        - {x: 8.541668, y: 62.145813}
+        - {x: 8.541668, y: 63.145813}
+    - name: monster_red_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.583336, y: 55.145813}
+        - {x: -11.416664, y: 55.145813}
+        - {x: -19.416664, y: 44.145813}
+        - {x: -19.416664, y: 8.145813}
+        - {x: -12.416664, y: 0.14581299}
+        - {x: 10.583336, y: 0.14581299}
+        - {x: 16.583336, y: 12.145813}
+        - {x: 16.583336, y: 37.145813}
+        - {x: 15.583336, y: 45.145813}
+      - - {x: -2.4166641, y: 63.145813}
+        - {x: -1.4166641, y: 60.145813}
+        - {x: 5.583336, y: 60.145813}
+        - {x: 7.583336, y: 62.145813}
+        - {x: 7.583336, y: 63.145813}
+    - name: monster_red_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.375, y: 55.145813}
+        - {x: -14.375, y: 48.145813}
+        - {x: -21.375, y: 26.145813}
+        - {x: -21.375, y: 14.145813}
+        - {x: -14.375, y: 0.14581299}
+        - {x: 17.625, y: 0.14581299}
+        - {x: 17.625, y: 49.145813}
+        - {x: 10.625, y: 55.145813}
+      - - {x: -4.375, y: 63.145813}
+        - {x: -3.375, y: 60.145813}
+        - {x: 4.625, y: 60.145813}
+        - {x: 6.625, y: 62.145813}
+        - {x: 6.625, y: 63.145813}
+    - name: monster_red_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.3333282, y: 55.145813}
+        - {x: -11.333328, y: 47.145813}
+        - {x: -21.333328, y: 36.145813}
+        - {x: -21.333328, y: 23.145813}
+        - {x: -20.333328, y: 21.145813}
+        - {x: -9.333328, y: 1.145813}
+        - {x: -7.3333282, y: 0.14581299}
+        - {x: 13.666672, y: 0.14581299}
+        - {x: 17.666672, y: 10.145813}
+        - {x: 17.666672, y: 41.145813}
+        - {x: 7.6666718, y: 55.145813}
+      - - {x: -4.3333282, y: 63.145813}
+        - {x: -3.3333282, y: 60.145813}
+        - {x: 4.6666718, y: 60.145813}
+        - {x: 6.6666718, y: 62.145813}
+        - {x: 6.6666718, y: 63.145813}
+    - name: monster_red_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.7083435, y: 55.145813}
+        - {x: -3.2916565, y: 55.145813}
+        - {x: -22.291656, y: 41.145813}
+        - {x: -22.291656, y: 13.145813}
+        - {x: -16.291656, y: 0.14581299}
+        - {x: 13.7083435, y: 0.14581299}
+        - {x: 13.7083435, y: 49.145813}
+        - {x: 11.7083435, y: 54.145813}
+      - - {x: -4.2916565, y: 63.145813}
+        - {x: -3.2916565, y: 60.145813}
+        - {x: 4.7083435, y: 60.145813}
+        - {x: 6.7083435, y: 62.145813}
+        - {x: 6.7083435, y: 63.145813}
+    - name: monster_red_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.75, y: 55.145813}
+        - {x: -4.25, y: 55.145813}
+        - {x: -22.25, y: 44.145813}
+        - {x: -22.25, y: 18.145813}
+        - {x: -14.25, y: 2.145813}
+        - {x: -8.25, y: 0.14581299}
+        - {x: 14.75, y: 0.14581299}
+        - {x: 15.75, y: 5.145813}
+        - {x: 15.75, y: 46.145813}
+        - {x: 13.75, y: 52.145813}
+      - - {x: -4.25, y: 63.145813}
+        - {x: -3.25, y: 60.145813}
+        - {x: 4.75, y: 60.145813}
+        - {x: 6.75, y: 62.145813}
+        - {x: 6.75, y: 63.145813}
+    - name: monster_red_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.208313, y: 55.145813}
+        - {x: -21.208313, y: 40.145813}
+        - {x: -21.208313, y: 22.145813}
+        - {x: -12.208313, y: 0.14581299}
+        - {x: 18.791687, y: 0.14581299}
+        - {x: 18.791687, y: 43.145813}
+        - {x: 7.791687, y: 55.145813}
+      - - {x: -4.208313, y: 63.145813}
+        - {x: -3.208313, y: 60.145813}
+        - {x: 4.791687, y: 60.145813}
+        - {x: 6.791687, y: 62.145813}
+        - {x: 6.791687, y: 63.145813}
+    - name: monster_red_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.8333435, y: 55.145813}
+        - {x: -6.1666565, y: 55.145813}
+        - {x: -21.166656, y: 41.145813}
+        - {x: -21.166656, y: 18.145813}
+        - {x: -13.1666565, y: 2.145813}
+        - {x: -5.1666565, y: 0.14581299}
+        - {x: 11.8333435, y: 0.14581299}
+        - {x: 20.833344, y: 16.145813}
+        - {x: 20.833344, y: 41.145813}
+        - {x: 15.8333435, y: 54.145813}
+      - - {x: -4.1666565, y: 63.145813}
+        - {x: -3.1666565, y: 60.145813}
+        - {x: 4.8333435, y: 60.145813}
+        - {x: 6.8333435, y: 62.145813}
+        - {x: 6.8333435, y: 63.145813}
+    - name: monster_red_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.875, y: 55.145813}
+        - {x: -7.125, y: 55.145813}
+        - {x: -19.125, y: 50.145813}
+        - {x: -20.125, y: 44.145813}
+        - {x: -20.125, y: 11.145813}
+        - {x: -12.125, y: 0.14581299}
+        - {x: 16.875, y: 0.14581299}
+        - {x: 17.875, y: 4.145813}
+        - {x: 17.875, y: 44.145813}
+        - {x: 14.875, y: 52.145813}
+      - - {x: -4.125, y: 63.145813}
+        - {x: -3.125, y: 60.145813}
+        - {x: 4.875, y: 60.145813}
+        - {x: 6.875, y: 62.145813}
+        - {x: 6.875, y: 63.145813}
+    - name: monster_red_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.916687, y: 55.145813}
+        - {x: -4.083313, y: 55.145813}
+        - {x: -15.083313, y: 48.145813}
+        - {x: -20.083313, y: 34.145813}
+        - {x: -20.083313, y: 17.145813}
+        - {x: -11.083313, y: 0.14581299}
+        - {x: 15.916687, y: 0.14581299}
+        - {x: 16.916687, y: 3.145813}
+        - {x: 16.916687, y: 40.145813}
+        - {x: 12.916687, y: 51.145813}
+      - - {x: -4.083313, y: 63.145813}
+        - {x: -3.083313, y: 60.145813}
+        - {x: 5.916687, y: 60.145813}
+        - {x: 7.916687, y: 62.145813}
+        - {x: 7.916687, y: 63.145813}
+    - name: monster_red_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.041626, y: 55.145813}
+        - {x: -20.041626, y: 39.145813}
+        - {x: -20.041626, y: 18.145813}
+        - {x: -11.041626, y: 0.14581299}
+        - {x: 13.958374, y: 0.14581299}
+        - {x: 13.958374, y: 52.145813}
+        - {x: 9.958374, y: 55.145813}
+      - - {x: -4.041626, y: 63.145813}
+        - {x: -3.041626, y: 60.145813}
+        - {x: 5.958374, y: 60.145813}
+        - {x: 7.958374, y: 62.145813}
+        - {x: 7.958374, y: 63.145813}
+    - name: monster_red_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 55.145813}
+        - {x: -3, y: 55.145813}
+        - {x: -12, y: 47.145813}
+        - {x: -20, y: 39.145813}
+        - {x: -20, y: 19.145813}
+        - {x: -11, y: 0.14581299}
+        - {x: 16, y: 0.14581299}
+        - {x: 18, y: 5.145813}
+        - {x: 18, y: 39.145813}
+        - {x: 14, y: 52.145813}
+      - - {x: -4, y: 63.145813}
+        - {x: -3, y: 60.145813}
+        - {x: 6, y: 60.145813}
+        - {x: 8, y: 62.145813}
+        - {x: 8, y: 63.145813}
+    - name: monster_red_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 57.104187}
+        - {x: -4.5, y: 57.104187}
+        - {x: -15.5, y: 49.104187}
+        - {x: -18.5, y: 30.104187}
+        - {x: -18.5, y: 8.104187}
+        - {x: -15.5, y: 0.10418701}
+        - {x: 12.5, y: 0.10418701}
+        - {x: 15.5, y: 6.104187}
+        - {x: 15.5, y: 38.104187}
+        - {x: 14.5, y: 46.104187}
+    - name: monster_red_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.458332, y: 36.104187}
+        - {x: -16.458332, y: 16.104187}
+        - {x: -15.458332, y: 4.104187}
+        - {x: -10.458332, y: 2.104187}
+        - {x: -4.458332, y: 1.104187}
+        - {x: 12.541668, y: 1.104187}
+        - {x: 12.541668, y: 46.104187}
+        - {x: 10.541668, y: 57.104187}
+        - {x: -2.458332, y: 57.104187}
+        - {x: -14.458332, y: 45.104187}
+    - name: monster_red_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.416664, y: 57.104187}
+        - {x: -16.416664, y: 53.104187}
+        - {x: -16.416664, y: 1.104187}
+        - {x: 10.583336, y: 1.104187}
+        - {x: 11.583336, y: 4.104187}
+        - {x: 11.583336, y: 52.104187}
+        - {x: 7.583336, y: 57.104187}
+    - name: monster_red_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.375, y: 57.104187}
+        - {x: -16.375, y: 53.104187}
+        - {x: -16.375, y: 1.104187}
+        - {x: -14.375, y: 0.10418701}
+        - {x: 5.625, y: 0.10418701}
+        - {x: 10.625, y: 1.104187}
+        - {x: 11.625, y: 12.104187}
+        - {x: 11.625, y: 44.104187}
+        - {x: 3.625, y: 57.104187}
+    - name: monster_red_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.3333282, y: 57.104187}
+        - {x: -15.333328, y: 47.104187}
+        - {x: -15.333328, y: 2.104187}
+        - {x: -7.3333282, y: 0.10418701}
+        - {x: 8.666672, y: 0.10418701}
+        - {x: 11.666672, y: 9.104187}
+        - {x: 11.666672, y: 49.104187}
+        - {x: 7.6666718, y: 57.104187}
+    - name: monster_red_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.2916565, y: 57.104187}
+        - {x: -15.2916565, y: 53.104187}
+        - {x: -15.2916565, y: 1.104187}
+        - {x: -9.2916565, y: 0.10418701}
+        - {x: 11.7083435, y: 0.10418701}
+        - {x: 11.7083435, y: 50.104187}
+        - {x: 9.7083435, y: 57.104187}
+    - name: monster_red_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.25, y: 57.104187}
+        - {x: -15.25, y: 54.104187}
+        - {x: -15.25, y: 1.104187}
+        - {x: -9.25, y: 0.10418701}
+        - {x: 11.75, y: 0.10418701}
+        - {x: 11.75, y: 49.104187}
+        - {x: 9.75, y: 57.104187}
+    - name: monster_red_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.208313, y: 57.104187}
+        - {x: -16.208313, y: 55.104187}
+        - {x: -16.208313, y: 2.104187}
+        - {x: -12.208313, y: 0.10418701}
+        - {x: 5.791687, y: 0.10418701}
+        - {x: 10.791687, y: 1.104187}
+        - {x: 11.791687, y: 4.104187}
+        - {x: 11.791687, y: 47.104187}
+        - {x: 7.791687, y: 57.104187}
+    - name: monster_red_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.1666565, y: 57.104187}
+        - {x: -16.166656, y: 49.104187}
+        - {x: -16.166656, y: 12.104187}
+        - {x: -10.1666565, y: 0.10418701}
+        - {x: 10.8333435, y: 0.10418701}
+        - {x: 12.8333435, y: 9.104187}
+        - {x: 12.8333435, y: 55.104187}
+        - {x: 9.8333435, y: 57.104187}
+    - name: monster_red_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.125, y: 57.104187}
+        - {x: -15.125, y: 45.104187}
+        - {x: -15.125, y: 11.104187}
+        - {x: -9.125, y: 0.10418701}
+        - {x: 9.875, y: 0.10418701}
+        - {x: 12.875, y: 8.104187}
+        - {x: 12.875, y: 45.104187}
+        - {x: 5.875, y: 57.104187}
+    - name: monster_red_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.083313, y: 57.104187}
+        - {x: -16.083313, y: 50.104187}
+        - {x: -16.083313, y: 4.104187}
+        - {x: -15.083313, y: 0.10418701}
+        - {x: 10.916687, y: 0.10418701}
+        - {x: 12.916687, y: 13.104187}
+        - {x: 12.916687, y: 53.104187}
+        - {x: 9.916687, y: 57.104187}
+    - name: monster_red_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.041626, y: 57.104187}
+        - {x: -14.041626, y: 47.104187}
+        - {x: -14.041626, y: 3.104187}
+        - {x: -7.041626, y: 0.10418701}
+        - {x: 11.958374, y: 0.10418701}
+        - {x: 12.958374, y: 3.104187}
+        - {x: 12.958374, y: 46.104187}
+        - {x: 5.958374, y: 57.104187}
+    - name: monster_red_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 57.104187}
+        - {x: -16, y: 50.104187}
+        - {x: -16, y: 4.104187}
+        - {x: -15, y: 0.10418701}
+        - {x: 11, y: 0.10418701}
+        - {x: 13, y: 13.104187}
+        - {x: 13, y: 53.104187}
+        - {x: 10, y: 57.104187}
+    - name: monster_red_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 55.0625}
+        - {x: -14.5, y: 48.0625}
+        - {x: -14.5, y: 2.0625}
+        - {x: -9.5, y: 0.0625}
+        - {x: 9.5, y: 0.0625}
+        - {x: 9.5, y: 53.0625}
+        - {x: 7.5, y: 55.0625}
+    - name: monster_red_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5416679, y: 55.0625}
+        - {x: -9.458332, y: 55.0625}
+        - {x: -15.458332, y: 50.0625}
+        - {x: -15.458332, y: 0.0625}
+        - {x: 10.541668, y: 0.0625}
+        - {x: 13.541668, y: 12.0625}
+        - {x: 13.541668, y: 37.0625}
+        - {x: 11.541668, y: 48.0625}
+    - name: monster_red_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.416664, y: 55.0625}
+        - {x: -17.416664, y: 50.0625}
+        - {x: -17.416664, y: 6.0625}
+        - {x: -16.416664, y: 0.0625}
+        - {x: 12.583336, y: 0.0625}
+        - {x: 18.583336, y: 5.0625}
+        - {x: 18.583336, y: 35.0625}
+        - {x: 5.583336, y: 55.0625}
+    - name: monster_red_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.375, y: 55.0625}
+        - {x: -17.375, y: 46.0625}
+        - {x: -18.375, y: 38.0625}
+        - {x: -18.375, y: 8.0625}
+        - {x: -16.375, y: 0.0625}
+        - {x: 11.625, y: 0.0625}
+        - {x: 20.625, y: 15.0625}
+        - {x: 20.625, y: 35.0625}
+        - {x: 4.625, y: 55.0625}
+    - name: monster_red_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.6666718, y: 55.0625}
+        - {x: -9.333328, y: 55.0625}
+        - {x: -18.333328, y: 38.0625}
+        - {x: -18.333328, y: 16.0625}
+        - {x: -12.333328, y: 0.0625}
+        - {x: 4.6666718, y: 0.0625}
+        - {x: 8.666672, y: 1.0625}
+        - {x: 10.666672, y: 9.0625}
+        - {x: 20.666672, y: 21.0625}
+        - {x: 20.666672, y: 42.0625}
+    - name: monster_red_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.7083435, y: 55.0625}
+        - {x: -6.2916565, y: 55.0625}
+        - {x: -14.2916565, y: 50.0625}
+        - {x: -14.2916565, y: 0.0625}
+        - {x: 0.7083435, y: 0.0625}
+        - {x: 11.7083435, y: 2.0625}
+        - {x: 21.708344, y: 22.0625}
+        - {x: 21.708344, y: 43.0625}
+        - {x: 13.7083435, y: 54.0625}
+    - name: monster_red_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.75, y: 48.0625}
+        - {x: 1.75, y: 55.0625}
+        - {x: -8.25, y: 55.0625}
+        - {x: -16.25, y: 49.0625}
+        - {x: -16.25, y: 0.0625}
+        - {x: 8.75, y: 0.0625}
+        - {x: 13.75, y: 9.0625}
+        - {x: 21.75, y: 27.0625}
+        - {x: 21.75, y: 39.0625}
+    - name: monster_red_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.208313, y: 55.0625}
+        - {x: -19.208313, y: 1.0625}
+        - {x: -16.208313, y: 0.0625}
+        - {x: -0.20831299, y: 0.0625}
+        - {x: 12.791687, y: 3.0625}
+        - {x: 20.791687, y: 19.0625}
+        - {x: 20.791687, y: 42.0625}
+        - {x: 5.791687, y: 55.0625}
+    - name: monster_red_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.1666565, y: 55.0625}
+        - {x: -21.166656, y: 39.0625}
+        - {x: -21.166656, y: 21.0625}
+        - {x: -14.1666565, y: 0.0625}
+        - {x: 11.8333435, y: 0.0625}
+        - {x: 20.833344, y: 15.0625}
+        - {x: 20.833344, y: 41.0625}
+        - {x: 6.8333435, y: 55.0625}
+    - name: monster_red_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.125, y: 55.0625}
+        - {x: -18.125, y: 38.0625}
+        - {x: -18.125, y: 11.0625}
+        - {x: -12.125, y: 0.0625}
+        - {x: 13.875, y: 0.0625}
+        - {x: 20.875, y: 19.0625}
+        - {x: 20.875, y: 41.0625}
+        - {x: 5.875, y: 55.0625}
+    - name: monster_red_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.083313, y: 55.0625}
+        - {x: -16.083313, y: 54.0625}
+        - {x: -17.083313, y: 44.0625}
+        - {x: -17.083313, y: 8.0625}
+        - {x: -16.083313, y: 1.0625}
+        - {x: -12.083313, y: 0.0625}
+        - {x: 18.916687, y: 0.0625}
+        - {x: 20.916687, y: 12.0625}
+        - {x: 20.916687, y: 44.0625}
+        - {x: 10.916687, y: 55.0625}
+    - name: monster_red_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.041626, y: 55.0625}
+        - {x: -13.041626, y: 54.0625}
+        - {x: -13.041626, y: 1.0625}
+        - {x: -11.041626, y: 0.0625}
+        - {x: 9.958374, y: 0.0625}
+        - {x: 20.958374, y: 19.0625}
+        - {x: 20.958374, y: 32.0625}
+        - {x: 10.958374, y: 55.0625}
+    - name: monster_red_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 55.0625}
+        - {x: -15, y: 52.0625}
+        - {x: -16, y: 38.0625}
+        - {x: -16, y: 4.0625}
+        - {x: -13, y: 0.0625}
+        - {x: 17, y: 0.0625}
+        - {x: 21, y: 16.0625}
+        - {x: 21, y: 45.0625}
+        - {x: 5, y: 55.0625}
+    - name: monster_red_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 57.020813}
+        - {x: -17.5, y: 53.020813}
+        - {x: -17.5, y: 0.020812988}
+        - {x: 16.5, y: 0.020812988}
+        - {x: 16.5, y: 48.020813}
+        - {x: 4.5, y: 57.020813}
+    - name: monster_red_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.458332, y: 56.020813}
+        - {x: -16.458332, y: 39.020813}
+        - {x: -16.458332, y: 3.020813}
+        - {x: -13.458332, y: 0.020812988}
+        - {x: 14.541668, y: 0.020812988}
+        - {x: 18.541668, y: 4.020813}
+        - {x: 18.541668, y: 33.020813}
+        - {x: 9.541668, y: 56.020813}
+    - name: monster_red_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.583336, y: 23.020813}
+        - {x: 13.583336, y: 39.020813}
+        - {x: 7.583336, y: 49.020813}
+        - {x: -0.41666412, y: 49.020813}
+        - {x: -13.416664, y: 41.020813}
+        - {x: -15.416664, y: 23.020813}
+        - {x: -15.416664, y: 0.020812988}
+        - {x: 13.583336, y: 0.020812988}
+        - {x: 18.583336, y: 7.020813}
+        - {x: 18.583336, y: 20.020813}
+    - name: monster_red_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.625, y: 45.020813}
+        - {x: -3.375, y: 45.020813}
+        - {x: -15.375, y: 27.020813}
+        - {x: -15.375, y: 4.020813}
+        - {x: -14.375, y: 1.020813}
+        - {x: 17.625, y: 1.020813}
+        - {x: 18.625, y: 4.020813}
+        - {x: 18.625, y: 25.020813}
+        - {x: 8.625, y: 44.020813}
+    - name: monster_red_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.3333282, y: 39.020813}
+        - {x: -15.333328, y: 29.020813}
+        - {x: -15.333328, y: 1.020813}
+        - {x: 19.666672, y: 1.020813}
+        - {x: 19.666672, y: 29.020813}
+        - {x: 11.666672, y: 39.020813}
+    - name: monster_red_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.2916565, y: 38.020813}
+        - {x: -15.2916565, y: 36.020813}
+        - {x: -16.291656, y: 28.020813}
+        - {x: -16.291656, y: 4.020813}
+        - {x: -10.2916565, y: 0.020812988}
+        - {x: 21.708344, y: 0.020812988}
+        - {x: 21.708344, y: 38.020813}
+    - name: monster_red_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.2916565, y: 62.979187}
+        - {x: -2.2916565, y: 59.979187}
+        - {x: 5.7083435, y: 59.979187}
+        - {x: 7.7083435, y: 61.979187}
+        - {x: 7.7083435, y: 62.979187}
     outline: []
   spritePackingTag: 
   userData: 

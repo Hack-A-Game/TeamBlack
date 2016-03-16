@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 6bb5102663873044b92935a83682381b
+timeCreated: 1458128616
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: monster_blue2_0
+    21300002: monster_blue2_1
+    21300004: monster_blue2_2
+    21300006: monster_blue2_3
+    21300008: monster_blue2_4
+    21300010: monster_blue2_5
+    21300012: monster_blue2_6
+    21300014: monster_blue2_7
+    21300016: monster_blue2_8
+    21300018: monster_blue2_9
+    21300020: monster_blue2_10
+    21300022: monster_blue2_11
+    21300024: monster_blue2_12
+    21300026: monster_blue2_13
+    21300028: monster_blue2_14
+    21300030: monster_blue2_15
+    21300032: monster_blue2_16
+    21300034: monster_blue2_17
+    21300036: monster_blue2_18
+    21300038: monster_blue2_19
+    21300040: monster_blue2_20
+    21300042: monster_blue2_21
+    21300044: monster_blue2_22
+    21300046: monster_blue2_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: monster_blue2_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 641
+        width: 32
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5000012, y: 0.061630536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_blue2_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 640
+        width: 28
+        height: 53
+      alignment: 9
+      pivot: {x: 0.50972205, y: 0.08217405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_blue2_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 640
+        width: 39
+        height: 53
+      alignment: 9
+      pivot: {x: 0.63959134, y: 0.09244638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.199982, y: 47.35608}
+        - {x: -24.199982, y: 36.35608}
+        - {x: -24.199982, y: 2.356079}
+        - {x: -21.199982, y: -4.643921}
+        - {x: 13.800018, y: -4.643921}
+        - {x: 13.800018, y: 42.35608}
+        - {x: 3.8000183, y: 47.35608}
+    - name: monster_blue2_3
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 640
+        width: 29
+        height: 54
+      alignment: 9
+      pivot: {x: 0.52816033, y: 0.08569336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_blue2_4
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 640
+        width: 53
+        height: 54
+      alignment: 9
+      pivot: {x: 0.28429255, y: 0.090734415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.895813, y: 48.34076}
+        - {x: -14.895813, y: 43.34076}
+        - {x: -14.895813, y: -4.6592407}
+        - {x: 20.104187, y: -4.6592407}
+        - {x: 37.104187, y: 23.34076}
+        - {x: 37.104187, y: 48.34076}
+    - name: monster_blue2_5
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 640
+        width: 58
+        height: 54
+      alignment: 9
+      pivot: {x: 0.2606496, y: 0.08569336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.895935, y: 32.604675}
+        - {x: -14.895935, y: 1.6046753}
+        - {x: -13.895935, y: -0.3953247}
+        - {x: -9.895935, y: -4.3953247}
+        - {x: 33.104065, y: -4.3953247}
+        - {x: 42.104065, y: 0.6046753}
+        - {x: 42.104065, y: 36.604675}
+        - {x: 15.104065, y: 48.604675}
+        - {x: -3.895935, y: 48.604675}
+        - {x: -12.895935, y: 43.604675}
+    - name: monster_blue2_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 449
+        width: 39
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6882567, y: 0.059369355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.728683, y: 48.899902}
+        - {x: -25.728683, y: 17.899902}
+        - {x: -25.728683, y: -0.100097656}
+        - {x: -12.728683, y: -2.1000977}
+        - {x: -11.728683, y: 0.89990234}
+        - {x: -9.728683, y: 4.8999023}
+        - {x: -9.728683, y: -0.100097656}
+        - {x: -8.728683, y: -3.1000977}
+        - {x: 9.271317, y: -3.1000977}
+        - {x: 13.271317, y: 0.89990234}
+        - {x: 13.271317, y: 46.899902}
+        - {x: 12.271317, y: 48.899902}
+    - name: monster_blue2_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 449
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.61653984, y: 0.06683948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_blue2_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 449
+        width: 26
+        height: 53
+      alignment: 9
+      pivot: {x: 0.51008606, y: 0.054422054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_blue2_9
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 449
+        width: 36
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6238251, y: 0.054422054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.7894287, y: 49.154083}
+        - {x: -12.210571, y: 49.154083}
+        - {x: -22.210571, y: 45.154083}
+        - {x: -22.210571, y: -0.84591675}
+        - {x: -18.210571, y: -2.8459167}
+        - {x: 9.789429, y: -2.8459167}
+        - {x: 13.789429, y: 2.1540833}
+        - {x: 13.789429, y: 27.154083}
+        - {x: 9.789429, y: 40.154083}
+    - name: monster_blue2_10
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 449
+        width: 59
+        height: 53
+      alignment: 9
+      pivot: {x: 0.7755489, y: 0.054422054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.289795, y: 49.154083}
+        - {x: -21.289795, y: 46.154083}
+        - {x: -44.289795, y: 39.154083}
+        - {x: -44.289795, y: 24.154083}
+        - {x: -43.289795, y: 23.154083}
+        - {x: -16.289795, y: -2.8459167}
+        - {x: 14.710205, y: -2.8459167}
+        - {x: 14.710205, y: 49.154083}
+    - name: monster_blue2_11
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 449
+        width: 47
+        height: 53
+      alignment: 9
+      pivot: {x: 0.7454782, y: 0.059369355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.043518, y: 48.899902}
+        - {x: -13.956482, y: 48.899902}
+        - {x: -33.956482, y: 38.899902}
+        - {x: -33.956482, y: 24.899902}
+        - {x: -31.956482, y: 23.899902}
+        - {x: -14.956482, y: -1.1000977}
+        - {x: -9.956482, y: -3.1000977}
+        - {x: 10.043518, y: -3.1000977}
+        - {x: 13.043518, y: 2.8999023}
+        - {x: 13.043518, y: 32.899902}
+        - {x: 12.043518, y: 41.899902}
+    - name: monster_blue2_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 257
+        width: 32
+        height: 55
+      alignment: 9
+      pivot: {x: 0.49999928, y: 0.0454207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_blue2_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 257
+        width: 31
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5537247, y: 0.070654854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_blue2_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 257
+        width: 43
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6807471, y: 0.057609126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.665588, y: 48.86534}
+        - {x: -10.334412, y: 48.86534}
+        - {x: -28.334412, y: 36.86534}
+        - {x: -28.334412, y: 5.865341}
+        - {x: -13.334412, y: -3.1346588}
+        - {x: 13.665588, y: -3.1346588}
+        - {x: 13.665588, y: 32.86534}
+        - {x: 12.665588, y: 37.86534}
+    - name: monster_blue2_15
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 257
+        width: 32
+        height: 54
+      alignment: 9
+      pivot: {x: 0.56939507, y: 0.06682276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_blue2_16
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 257
+        width: 52
+        height: 55
+      alignment: 9
+      pivot: {x: 0.28648025, y: 0.07570135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.276428, y: -4.241562}
+        - {x: 37.72357, y: -4.241562}
+        - {x: 37.72357, y: 21.758438}
+        - {x: 26.723572, y: 47.75844}
+        - {x: 19.723572, y: 49.75844}
+        - {x: -4.276428, y: 49.75844}
+        - {x: -14.276428, y: 39.75844}
+    - name: monster_blue2_17
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 257
+        width: 62
+        height: 55
+      alignment: 9
+      pivot: {x: 0.24928726, y: 0.0656078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.68451, y: 23.2966}
+        - {x: 15.684509, y: 42.2966}
+        - {x: 5.6845093, y: 50.2966}
+        - {x: -4.3154907, y: 50.2966}
+        - {x: -14.315491, y: 43.2966}
+        - {x: -15.315491, y: 32.2966}
+        - {x: -15.315491, y: -3.7033997}
+        - {x: 16.68451, y: -3.7033997}
+        - {x: 44.68451, y: 5.2966003}
+        - {x: 45.68451, y: 7.2966003}
+        - {x: 45.68451, y: 19.2966}
+    - name: monster_blue2_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 65
+        width: 39
+        height: 53
+      alignment: 9
+      pivot: {x: 0.30117074, y: 0.050450884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.446754, y: -2.8918839}
+        - {x: 15.446754, y: -2.8918839}
+        - {x: 27.446754, y: -0.89188385}
+        - {x: 27.446754, y: 27.108116}
+        - {x: 9.446754, y: 49.108116}
+        - {x: -11.553246, y: 49.108116}
+        - {x: -11.553246, y: -2.8918839}
+        - {x: 10.446754, y: -2.8918839}
+        - {x: 11.446754, y: -0.89188385}
+        - {x: 11.446754, y: 3.1081161}
+        - {x: 12.446754, y: -0.89188385}
+    - name: monster_blue2_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 65
+        width: 27
+        height: 51
+      alignment: 9
+      pivot: {x: 0.41086945, y: 0.05242935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_blue2_20
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 65
+        width: 26
+        height: 53
+      alignment: 9
+      pivot: {x: 0.4691479, y: 0.05549607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: monster_blue2_21
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 65
+        width: 36
+        height: 53
+      alignment: 9
+      pivot: {x: 0.37373182, y: 0.050450884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.727539, y: 49.108116}
+        - {x: -12.727539, y: 32.108116}
+        - {x: -12.727539, y: 3.1081161}
+        - {x: -9.727539, y: -2.8918839}
+        - {x: 17.27246, y: -2.8918839}
+        - {x: 23.27246, y: 4.108116}
+        - {x: 23.27246, y: 25.108116}
+        - {x: 13.272461, y: 49.108116}
+    - name: monster_blue2_22
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 65
+        width: 59
+        height: 53
+      alignment: 9
+      pivot: {x: 0.21448064, y: 0.050450884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.790527, y: 39.108116}
+        - {x: 12.790527, y: 49.108116}
+        - {x: -5.2094727, y: 49.108116}
+        - {x: -9.209473, y: 40.108116}
+        - {x: -12.209473, y: 26.108116}
+        - {x: -12.209473, y: 1.1081161}
+        - {x: -9.209473, y: -2.8918839}
+        - {x: 12.790527, y: -2.8918839}
+        - {x: 16.790527, y: -1.8918839}
+        - {x: 45.790527, y: 22.108116}
+        - {x: 46.790527, y: 24.108116}
+        - {x: 46.790527, y: 36.108116}
+    - name: monster_blue2_23
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 65
+        width: 47
+        height: 53
+      alignment: 9
+      pivot: {x: 0.26105386, y: 0.05549607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.972107, y: 48.848907}
+        - {x: -5.027893, y: 48.848907}
+        - {x: -12.027893, y: 35.848907}
+        - {x: -12.027893, y: -3.1510925}
+        - {x: 20.972107, y: -3.1510925}
+        - {x: 33.972107, y: 24.848907}
+        - {x: 33.972107, y: 36.848907}
+        - {x: 27.972107, y: 40.848907}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

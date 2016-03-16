@@ -25,14 +25,13 @@ public class Player : MonoBehaviour {
         listAttackUnits = new List<AttackUnits>();
         listDefendUnits = new List<DefenseUnits>();
 	}
-	
-	// Update is called once per frame
-	void Update ()
-    {
-	    
-	}
 
-    public bool addAttackUnit(AttackUnits attackUnit)
+    // Update is called once per frame
+    void Update()
+    {
+    }
+
+	public bool addAttackUnit(AttackUnits attackUnit)
     {
 
         if (listAttackUnits.Count < maxAttackUnit && attackUnit.getMana() <= mana)
@@ -74,5 +73,6 @@ public class Player : MonoBehaviour {
     public void addPoint()
     {
         this.points++;
+        Debug.Log(points.ToString());
     }
 }
