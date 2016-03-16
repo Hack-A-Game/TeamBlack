@@ -58,7 +58,7 @@ public class Movement : MonoBehaviour
     {
         if (Controller.controller.getCurrentPhase() != Controller.Phases.InGame)
         {
-            //return;
+            return;
         }
 
         if (!_unit.getIsAttacking() && movementType == MovementType.UNBOUNDED)

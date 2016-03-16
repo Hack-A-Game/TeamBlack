@@ -19,7 +19,7 @@ public class Player : MonoBehaviour {
         points = 0;
         maxAttackUnit = 10;
         maxDefendUnit = 5;
-        mana = 50;
+        mana = 5000;
 	}
 
     // Update is called once per frame
@@ -30,7 +30,7 @@ public class Player : MonoBehaviour {
 	public bool addAttackUnit(AttackUnits attackUnit)
     {
 
-        if (listAttackUnits.Count < maxAttackUnit && attackUnit.getMana() <= mana)
+        //if (listAttackUnits.Count < maxAttackUnit)
         {
             listAttackUnits.Add(attackUnit);
             mana = mana - attackUnit.getMana();
@@ -46,7 +46,7 @@ public class Player : MonoBehaviour {
 
     public bool addDefendUnitUnit(DefenseUnits defendUnit)
     {
-        if (listDefendUnits.Count < maxDefendUnit && defendUnit.getMana() <= mana)
+        //if (listDefendUnits.Count < maxDefendUnit)
         {
             listDefendUnits.Add(defendUnit);
             mana = mana - defendUnit.getMana();
