@@ -51,6 +51,7 @@ public class Controller : MonoBehaviour {
 
         if (Input.GetKeyDown(KeyCode.Escape))
             Application.Quit();
+
     }
 
     public void defineTurn(TurnPlayer1 p1, TurnPlayer2 p2){
