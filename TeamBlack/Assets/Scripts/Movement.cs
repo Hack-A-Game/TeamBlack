@@ -37,21 +37,22 @@ public class Movement : MonoBehaviour
         _initialPosition = transform.position;
     }
 
-    private void checkBounds(Vector2 bounds)
+    private bool checkBounds()
     {
         if (movementType == MovementType.RADIUS_BOUNDED)
         {
             Vector3 pos = Controller.map.GridToWorld(_position.x + 1, _position.y);
-            // TODO: Check in radius
-            //float distanceSqr = (transfor.position - tr.position).sqrMagnitude;
-            //if (distanceSqr < rangeSqr)
+            float distance = (transform.position - pos).sqrMagnitude;
+            return (distance < movementRadius);
         }
+
+        return true;
     }
 
     // Update is called once per frame
     void Update ()
     {
-        // if (!unit.isAttacking())
+        if (!_unit.getIsAttacking())
         {
             _position = Controller.map.ToGridPos(transform.position);
 
@@ -63,17 +64,32 @@ public class Movement : MonoBehaviour
             {
                 _velocity = Vector2.down;
             }
-            
-            if (_velocity != Vector2.zero)
+            else
             {
-                // TODO: Get multiplier
-                _rigidBody.velocity = _velocity /** _unit.getVelocity() */ * Time.deltaTime;
+                _velocity = Vector2.zero;
+            }
+            
+            _rigidBody.velocity = _velocity * _unit.getSpeed() * Time.deltaTime;
+        }
+        else
+        {
+            if (_unit.isInRange(_unit.range))
+            {
+                _rigidBody.velocity = Vector3.zero;
+            }
+            else
+            {
+                Vector2 direction = (_unit.getTarget().transform.position - transform.position).normalized;
+                _rigidBody.velocity = direction * _unit.getSpeed() * Time.deltaTime;
             }
         }
 	}
 
     void LateUpdate()
     {
-
+        if (!checkBounds())
+        {
+            _unit.targetOutOfRange();            
+        }
     }
 }

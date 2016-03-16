@@ -14,7 +14,6 @@ public class AttackUnits : Unit {
     // Use this for initialization
 
 	public override void Start () {
-        Speed = 0.0f;
         _velocity = new Vector2(Time.deltaTime, 0);
         _multiplier = 1.0f;
     }
