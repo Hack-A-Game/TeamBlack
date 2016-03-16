@@ -124,6 +124,8 @@ public class Controller : MonoBehaviour {
     public void startGame()
     {
         defineTurn(Turns.Defense, Turns.Attack);
+        currentPhase = Phases.Attack;
+        loadScene("GamePlay");
     }
 
     public void playerStarts(string choice)
