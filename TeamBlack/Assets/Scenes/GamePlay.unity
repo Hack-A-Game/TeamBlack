@@ -314,6 +314,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 318b0217a50c152458abcc67f77018e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _player1: {fileID: 0}
+  _player2: {fileID: 0}
   myButtonStart: {fileID: 0}
   myButtonPlayer1: {fileID: 0}
   myButtonPlayer2: {fileID: 0}
@@ -600,6 +602,45 @@ SpriteRenderer:
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
+--- !u!1 &800900460
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 800900462}
+  - 114: {fileID: 800900461}
+  m_Layer: 0
+  m_Name: InfoPlayers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &800900461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 800900460}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a53525029c8e4a4cb4412390aa93ec6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &800900462
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 800900460}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 11
 --- !u!1 &880850049
 GameObject:
   m_ObjectHideFlags: 0
@@ -845,6 +886,7 @@ MonoBehaviour:
   encounterList: []
   range: 0
   bar: {fileID: 1633835486}
+  canCapture: 0
   Dir: 0
 --- !u!1 &948043212
 GameObject:
@@ -1116,6 +1158,7 @@ MonoBehaviour:
   encounterList: []
   range: 0
   bar: {fileID: 0}
+  canCapture: 0
   Dir: 0
 --- !u!212 &1071978071
 SpriteRenderer:
@@ -1559,6 +1602,7 @@ MonoBehaviour:
   encounterList: []
   range: 0
   bar: {fileID: 0}
+  canCapture: 0
   Dir: 0
 --- !u!114 &1915234511
 MonoBehaviour:
@@ -1583,6 +1627,7 @@ MonoBehaviour:
   encounterList: []
   range: 0
   bar: {fileID: 0}
+  canCapture: 0
   Dir: 0
 --- !u!212 &1915234512
 SpriteRenderer:
