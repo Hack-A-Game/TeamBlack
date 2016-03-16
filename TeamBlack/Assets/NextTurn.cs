@@ -16,7 +16,6 @@ public class NextTurn : MonoBehaviour {
     public void DefensePhase()
     {
         Controller.controller.changePhase();
-
     }
 
     public void GamePhase()

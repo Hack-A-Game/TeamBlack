@@ -28,7 +28,6 @@ public class Unit : MonoBehaviour {
 
     public void getAttacked(float damage)
     {
-        
         HP -= damage / Def;
     }
 
