@@ -69,18 +69,21 @@ public class Unit : MonoBehaviour {
         if (getHP() <= 0.0f)
         {
             Destroy(gameObject);
+            Controller.controller.getPlayerDefense().points += 1;
+
+            /*GUI.Label(new Rect(100, 0, 120, 100), "Player 1: " + Controller.controller._player1.points);
+            GUI.Label(new Rect(200, 0, 120, 100), "Player 2: " + Controller.controller._player2.points);*/
+
         }
 
         if (encounterList.Count > 0 || target)
         {
-            Debug.Log(gameObject + " attacking " + target);
             isAttacking = true;
             countdown -= Time.deltaTime;
 
             if (target == null)
             {
                 target = encounterList[0];
-                Debug.Log(gameObject + " setTarget " + target);
             }
 
             if (isInRange(range) && target.getHP() > 0 && countdown <= 0.0f)
@@ -90,7 +93,6 @@ public class Unit : MonoBehaviour {
 
                 if (target.getHP() <= 0.0f)
                 {
-                    Debug.Log(target + " Dead");
                     encounterList.RemoveAt(0);
                     target = null;
                 }
@@ -129,10 +131,18 @@ public class Unit : MonoBehaviour {
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
+        if((collision.gameObject.tag == "Castle"))
+        {
+            Destroy(gameObject);
+            Controller.controller.getPlayerAttack().points += 5;
+            
+            /*GUI.Label(new Rect(100, 0, 120, 100), "Player 1: " + Controller.controller._player1.points);
+            GUI.Label(new Rect(200, 0, 120, 100), "Player 2: " + Controller.controller._player2.points);*/
+            
+        }
         if ((gameObject.tag == "AttackUnit" && collision.gameObject.tag == "Monster")
             || (gameObject.tag == "Monster" && collision.gameObject.tag == "AttackUnit"))
         {
-            Debug.Log(gameObject + " found " + collision.gameObject);
             encounterList.Add(collision.gameObject.GetComponent<Unit>());
         }else if (canCapture == true && collision.gameObject.tag=="Flag")
         {
