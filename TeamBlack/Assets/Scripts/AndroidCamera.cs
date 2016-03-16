@@ -47,8 +47,6 @@ public class AndroidCamera : MonoBehaviour
 
             camera.rect = rect;
         }
-
-        moveTo(GameObject.Find("devastated_castle"));
     }
 
     public void moveTo(GameObject obj)
