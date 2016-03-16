@@ -24,7 +24,7 @@ public class Orc : Unit
 
         }
 
-        if (encounterList[0] != null)
+        if (encounterList.Count < 0)
         {
             countdown -= Time.deltaTime;
             if (encounterList[0].getHP() > 0 && countdown <= 0.0f)
