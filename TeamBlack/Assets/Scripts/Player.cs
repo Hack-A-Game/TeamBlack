@@ -12,7 +12,6 @@ public class Player : MonoBehaviour {
     public int mana;
     private List<AttackUnits> listAttackUnits;
     private List<DefenseUnits> listDefendUnits;
-    private Castle castle;
 
 	// Use this for initialization
 	void Start ()
@@ -21,7 +20,7 @@ public class Player : MonoBehaviour {
         maxAttackUnit = 10;
         maxDefendUnit = 5;
         mana = 50;
-        castle = new Castle();
+
         listAttackUnits = new List<AttackUnits>();
         listDefendUnits = new List<DefenseUnits>();
 	}
@@ -68,11 +67,5 @@ public class Player : MonoBehaviour {
         {
             listDefendUnits.Remove(defendUnit);
         }
-    }
-
-    public void addPoint()
-    {
-        this.points++;
-        Debug.Log(points.ToString());
     }
 }

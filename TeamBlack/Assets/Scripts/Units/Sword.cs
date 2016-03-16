@@ -11,10 +11,12 @@ public class Sword : AttackUnits
         mana = 10;
         //Dir = inDir;
         HP = 200.0f;
-        Att = 10.0f;
+        Att = 200.0f;
         Def = 5.0f;
         Speed = 0.5f;
         AttSp = 1.0f;
+        encounterList = new List<Unit>();
+        range = 2;
     }
 
     // Update is called once per frame
@@ -22,25 +24,32 @@ public class Sword : AttackUnits
     {
         if (getHP() <= 0.0f)
         {
-            Destroy(this);
+            Destroy(gameObject);
         }
         if (encounterList.Count > 0)
         {
+            isAttacking = true;
             countdown -= Time.deltaTime;
-            if (encounterList[0].getHP() > 0 && countdown <= 0.0f)
+
+            if (target == null)
             {
-                encounterList[0].getAttacked(Att);
+                target = encounterList[0];
+            }
+
+            if (isInRange(range) && target.getHP() > 0 && countdown <= 0.0f)
+            {
+                target.getAttacked(Att);
                 countdown = AttSp;
-                if (encounterList[0].getHP() <= 0)
+                if (target.getHP() <= 0)
                 {
                     encounterList.RemoveAt(0);
+                    target = null;
                 }
             }
         }
         else
         {
-            //Move
+            isAttacking = false;
         }
     }
 }
-

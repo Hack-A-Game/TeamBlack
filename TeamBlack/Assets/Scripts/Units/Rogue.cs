@@ -19,7 +19,7 @@ public class Rogue : AttackUnits
     {
         if (getHP() <= 0.0f)
         {
-            Destroy(this);
+            Destroy(gameObject);
         }
         transform.position += getSpeed()*Vector3.right*Time.deltaTime; 
     }

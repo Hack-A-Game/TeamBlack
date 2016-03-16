@@ -8,10 +8,12 @@ public class Unit : MonoBehaviour {
     public float Att = 0.0f;
     public float Def = 0.0f;
     public float AttSp = 0.0f;
-    public float Speed;
+    public float Speed = 2.0f;
     public bool isAttacking;
     public float countdown = 0.0f;
     public List<Unit> encounterList = new List<Unit>();
+    protected Unit target;
+    public float range;
 
     public void getAttacked(float damage)
     {
@@ -55,5 +57,25 @@ public class Unit : MonoBehaviour {
     }
     public virtual void Start() { }
     public virtual void Update() { }
+
+    public void targetOutOfRange()
+    {
+        if (target != null)
+        {
+            encounterList.RemoveAt(0);
+        }
+        target = null;
+    }
+
+    public Unit getTarget()
+    {
+        return target;
+    }
+
+    public bool isInRange(float range)
+    {
+        float dist = Vector3.Distance(target.transform.position, transform.position);
+        return dist < range;
+    }
 
 }
