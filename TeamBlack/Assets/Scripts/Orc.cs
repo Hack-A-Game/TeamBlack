@@ -5,7 +5,7 @@ public class Orc : Unit
 {
 
 	// Use this for initialization
-	void Start () {
+	public override void Start () {
         HP = 150.0f;
         Att = 20.0f;
         Def = 5.0f;
@@ -20,7 +20,7 @@ public class Orc : Unit
         if (Attacking != null)
         {
             countdown -= Time.deltaTime;
-            if (Attacking.getHP > 0 && countdown <= 0.0f)
+            if (Attacking.getHP() > 0 && countdown <= 0.0f)
             {
                 Attacking.getAttacked(Att);
                 countdown = AttSp;

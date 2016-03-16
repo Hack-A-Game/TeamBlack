@@ -5,7 +5,7 @@ public class Bow : AttackUnits
 {
     
     // Use this for initialization
-    void Start()
+    public override void Start()
     {
         mana = 10;
         //Dir = inDir;
