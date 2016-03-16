@@ -13,7 +13,8 @@ public class Skeleton : DefenseUnits
         HP = 25.0f;
         Att = 10.0f;
         Def = 2.0f;
-        AttSp = 1.0f;
+        AttSp = 0.5f;
+        MAXHP = HP;
         mana = 1;
         range = 0.5f;
         Speed = 120f;

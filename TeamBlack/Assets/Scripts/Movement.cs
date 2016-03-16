@@ -88,7 +88,7 @@ public class Movement : MonoBehaviour
             else if (_unit.getTarget())
             {
                 Vector2 direction = (_unit.getTarget().transform.position - transform.position).normalized;
-                _rigidBody.velocity = direction * _unit.getSpeed() * Time.deltaTime;
+                _rigidBody.velocity = direction * _unit.getSpeed() * Time.deltaTime + new Vector2(Time.deltaTime * 2, 0);
             }
         }
 	}

@@ -12,6 +12,7 @@ public class Rogue : AttackUnits
         mana = 10;
         //Dir = inDir;
         HP = 10.0f;
+        MAXHP = HP;
         Def = 2.0f;
         Speed = 50f;
     }
@@ -19,5 +20,14 @@ public class Rogue : AttackUnits
     // Update is called once per frame
     public override void Update()
     {
+        if (bar != null)
+        {
+            bar.updateHP(HP, MAXHP, transform.position);
+        }
+
+        if (getHP() <= 0.0f)
+        {
+            Destroy(gameObject);
+        }
     }
 }
