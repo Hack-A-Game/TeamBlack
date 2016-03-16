@@ -4,40 +4,69 @@ using System.Collections;
 public class Player : MonoBehaviour {
 
     //Llistas de unitats amb monoBehavior
-    public float life;
-    public ArrayList attackUnits;
-    public ArrayList defendUnits;
+
+    public double life;
+    public int maxAttackUnit;
+    public int maxDefendUnit;
+    public int mana;
+    public bool turnAttack; // True-> turn d'atac | False -> Turn de defensa
+    private ArrayList listAttackUnits;
+    private ArrayList listDefendUnits;
 
 	// Use this for initialization
-	void Start () {
+	void Start ()
+    {
         life = 100;
-        attackUnits = new ArrayList();
-        defendUnits = new ArrayList();
+        maxAttackUnit = 10;
+        maxDefendUnit = 5;
+        mana = 50;
+        listAttackUnits = new ArrayList();
+        listDefendUnits = new ArrayList();
+        //turnAttack = true;
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update ()
+    {
 	    
 	}
 
-    public void addAttackUnit(MonoBehaviour attackUnit)
+    public bool addAttackUnit(MonoBehaviour attackUnit)
     {
-        attackUnits.Add(attackUnit);
+        if (listAttackUnits.Count < maxAttackUnit && attackUnit.getManaCost() <= mana)
+        {
+            listAttackUnits.Add(attackUnit);
+            mana = mana - attackUnit.getManaCost();
+            return true;
+        }
+        return false;
     }
 
-    public void addDefendUnitUnit(MonoBehaviour defendUnit)
+    public bool addDefendUnitUnit(MonoBehaviour defendUnit)
     {
-        defendUnits.Add(defendUnit);
+        if (listDefendUnits.Count < maxDefendUnit && defendUnit.getManaCost() <= mana)
+        {
+            listDefendUnits.Add(defendUnit);
+            mana = mana - defendUnit.getManaCost();
+            return true;
+        }
+        return false;
     }
 
     public void removeAttackUnity(MonoBehaviour attackUnit)
     {
-        attackUnits.Remove(attackUnits);
+        if (listAttackUnits.Count > 0)
+        {
+            listAttackUnits.Remove(attackUnit);
+        }
     }
 
     public void removeDefendUnity(MonoBehaviour defendUnit)
     {
-        defendUnits.Remove(defendUnits);
+        if (listDefendUnits.Count > 0)
+        {
+            listDefendUnits.Remove(defendUnit);
+        }
     }
 
     public void getDamage(int damage)

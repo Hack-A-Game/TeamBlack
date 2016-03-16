@@ -7,20 +7,33 @@ public class Controller : MonoBehaviour {
     private Player _player1;
     private Player _player2;
     private bool _startplayer1Attack;
-    //private static Mapa _mapa;
+    private Map _mapa;
     private bool _gamePause;
     enum TurnPlayer1 { Attack, Defense };
     enum TurnPlayer2 { Attack, Defense };
     enum MenuScreen { Menu, Game, Options};
     private TurnPlayer1 turnPlayer1;
     private TurnPlayer2 turnPlayer2;
+    private float countdown = 30.0f;
+    private bool endTime;
 
     // Use this for initialization
     void Start () {
         _player1 = new Player();
         _player2 = new Player();
         _gamePause = false;
+        endTime = false;
+
 	}
+
+    void Update()
+    {
+        countdown -= Time.deltaTime;
+        if (countdown <= 0.0f)
+            endTime = true;
+        Debug.Log(countdown);
+                
+    }
 
     public void defineTurn(){
         turnPlayer1 = TurnPlayer1.Defense;
@@ -68,3 +81,6 @@ public class Controller : MonoBehaviour {
         SceneManager.LoadScene(nameScene);
     }
 }
+
+
+//timer
