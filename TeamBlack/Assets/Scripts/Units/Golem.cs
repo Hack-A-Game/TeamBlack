@@ -8,8 +8,8 @@ public class Golem : DefenseUnits {
 	public override void Start () {
         base.Start();
 
-        HP = 25.0f;
-        Att = 25.0f;
+        HP = 30.0f;
+        Att = 10.0f;
         Def = 10.0f;
         AttSp = 0.5f;
         MAXHP = HP;

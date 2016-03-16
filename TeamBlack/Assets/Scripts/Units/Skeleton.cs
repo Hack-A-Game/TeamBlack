@@ -10,14 +10,14 @@ public class Skeleton : DefenseUnits
     {
         base.Start();
 
-        HP = 25.0f;
-        Att = 10.0f;
+        HP = 10.0f;
+        Att = 20.0f;
         Def = 2.0f;
         AttSp = 0.5f;
         MAXHP = HP;
         mana = 1;
         range = 0.5f;
-        Speed = 120f;
+        Speed = 80f;
         encounterList = new List<Unit>();
     }
 }

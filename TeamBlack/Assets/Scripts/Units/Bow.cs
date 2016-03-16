@@ -12,13 +12,13 @@ public class Bow : AttackUnits
 
         mana = 10;
         //Dir = inDir;
-        HP = 15.0f;
-        Att = 20.0f;
+        HP = 10.0f;
+        Att = 15.0f;
         MAXHP = HP;
         Def = 3.0f;
-        Speed = 120f;
+        Speed = 75f;
         AttSp = 0.05f;
         encounterList = new List<Unit>();
-        range = 1.5f;
+        range = 2.5f;
     }
 }
