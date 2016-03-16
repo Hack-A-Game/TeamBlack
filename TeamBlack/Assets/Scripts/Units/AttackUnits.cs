@@ -4,7 +4,6 @@ using System.Collections.Generic;
 
 
 public class AttackUnits : Unit {
-    //public float Speed;
     public int Dir;
     private Rigidbody2D _rigidBody;
     private Collider2D _collider;
@@ -17,12 +16,7 @@ public class AttackUnits : Unit {
         _velocity = new Vector2(Time.deltaTime, 0);
         _multiplier = 1.0f;
     }
-
-    /*public float getSpeed()
-    {
-        return Speed;
-    }*/
-
+    
     public Rigidbody2D getRigidBody()
     {
         return _rigidBody;
